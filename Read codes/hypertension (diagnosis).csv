@@ -1,0 +1,32 @@
+medcode,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
+204,1430330,20932,2195,0,G2...00,Hypertensive disease,Feb-09
+8732,20218,205,0,0,G2...11,BP - hypertensive disease,Feb-09
+799,2609309,15738,35,0,G20..00,Essential hypertension,Feb-09
+351,218361,6492,335,0,G20..11,High blood pressure,Feb-09
+107704,11,0,0,0,G20..12,Primary hypertension,Feb-14
+15377,3070,383,0,0,G200.00,Malignant essential hypertension,Feb-09
+1894,32717,93,0,0,G201.00,Benign essential hypertension,Feb-09
+4372,16068,194,3,0,G202.00,Systolic hypertension,Feb-09
+83473,484,9,0,0,G203.00,Diastolic hypertension,Feb-09
+10818,146905,2569,9,0,G20z.00,Essential hypertension NOS,Feb-09
+3712,79666,653,7,0,G20z.11,Hypertension NOS,Feb-09
+7329,2542,20,0,0,G24..00,Secondary hypertension,Feb-09
+31755,78,5,0,0,G240.00,Secondary malignant hypertension,Feb-09
+73293,7,0,0,0,G240z00,Secondary malignant hypertension NOS,Feb-09
+57288,70,1,0,0,G241.00,Secondary benign hypertension,Feb-09
+51635,46,0,0,0,G241z00,Secondary benign hypertension NOS,Feb-09
+34744,179,0,0,0,G244.00,Hypertension secondary to endocrine disorders,Feb-09
+16059,460,25,0,0,G24z.00,Secondary hypertension NOS,Feb-09
+31387,175,11,0,0,G24z000,Secondary renovascular hypertension NOS,Feb-09
+42229,146,0,0,0,G24zz00,Secondary hypertension NOS,Feb-09
+105371,751,2,0,0,G25..00,Stage 1 hypertension (NICE - Nat Ins for Hth Clin Excl 2011),Dec-12
+105316,1140,6,0,0,G25..11,Stage 1 hypertension,Dec-12
+108136,44,0,0,0,G250.00,,Jun-14
+109797,3,0,0,0,G251.00,,Jun-15
+105989,8,1,0,0,G26..00,Severe hypertension (Nat Inst for Health Clinical Ex 2011),Apr-13
+105487,90,5,0,0,G26..11,Severe hypertension,Dec-12
+105274,928,1,0,0,G28..00,Stage 2 hypertension (NICE - Nat Ins for Hth Clin Excl 2011),Dec-12
+18765,670,8,0,0,G2y..00,Other specified hypertensive disease,Feb-09
+7057,40298,206,0,0,G2z..00,Hypertensive disease NOS,Feb-09
+69753,58,1,0,0,Gyu2.00,[X]Hypertensive diseases,Feb-09
+102458,3,0,0,0,Gyu2000,[X]Other secondary hypertension,Jun-11

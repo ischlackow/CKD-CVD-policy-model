@@ -1,0 +1,16 @@
+medcode,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
+161,1139086,18074,31,0,F26..00,Migraine,Feb-09
+2424,6410,24,0,0,F261.00,Common migraine,Feb-09
+2554,50223,2757,9,0,F262000,Cluster headache,Feb-09
+2861,8472,201,0,0,F262200,Abdominal migraine,Feb-09
+3220,19373,101,0,0,F260.00,Classical migraine,Feb-09
+3658,5887,345,0,0,F26y000,Hemiplegic migraine,Feb-09
+6433,1277,17,0,0,1967,Abdominal migraine - symptom,Feb-09
+9004,1316,35,0,0,F262300,Basilar migraine,Feb-09
+9633,1788,50,0,0,F261000,Atypical migraine,Feb-09
+10583,2039,57,0,0,F262400,Ophthalmic migraine,Feb-09
+17762,603,7,0,0,R090D00,[D]Abdominal migraine,Feb-09
+41497,2136,1,0,0,F261z00,Common migraine NOS,Feb-09
+103451,715,9,0,0,1474000,H/O migraine with aura,Dec-11
+103502,1133,4,0,0,F260.11,Migraine with aura,Jan-12
+103602,199,0,0,0,F261.11,Migraine without aura,Jan-12

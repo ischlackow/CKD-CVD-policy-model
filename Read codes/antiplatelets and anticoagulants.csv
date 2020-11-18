@@ -1,0 +1,480 @@
+prodcode,therapyevents,gemscriptcode,productname,drugsubstancename,substancestrength,formulation,routeofadministration,bnfcode,bnfheader,databasebuild
+55161,2,77882020,Clopidogrel 75mg tablets (Wockhardt UK Ltd),Clopidogrel,75mg,Tablet,Oral,2090000,Antiplatelet Drugs,May-13
+47895,106,99285020,Brilique 90mg tablets (AstraZeneca UK Ltd),Ticagrelor,90mg,Tablet,Oral,2090000,Antiplatelet Drugs,Oct-12
+36543,33,69425020,Aspirin 100mg effervescent tablets,Aspirin,100mg,Tablets,Oral,2090000,Antiplatelet Drugs,Feb-09
+489,5045804,83784020,Clopidogrel 75mg tablets,Clopidogrel,75mg,Tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+771,64524,62694020,Dipyridamole 25mg tablets,Dipyridamole,25mg,Tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+59728,0,2351020,Aspirin 75mg tablets (Alissa Healthcare Research Ltd),Aspirin,75mg,Tablet,Oral,2090000,Antiplatelet Drugs,Apr-14
+52905,0,8031020,Aspirin 300mg tablets (Lloyds Pharmacy Ltd),Aspirin,300mg,Tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Jan-13
+29759,0,81579020,Aspro Tablet (Roche Consumer Health),Aspirin,,Tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+53622,0,63567020,Aspirin 300mg Tablet (M & A Pharmachem Ltd),Aspirin,300mg,Tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Jan-13
+43709,7,69677020,Aspirin 75mg gastro-resistant tablets (Almus Pharmaceuticals Ltd),Aspirin,75mg,Gastro-resistant tablet,Oral,2090000,Antiplatelet Drugs,Oct-10
+34434,169,57295020,Aspirin 75mg dispersible tablets (Thornton & Ross Ltd),Aspirin,75mg,Dispersible tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+393,454,73356020,Disprin 300mg dispersible tablets (Reckitt Benckiser Healthcare (UK) Ltd),Aspirin,300mg,Dispersible tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+53804,0,4190020,Aspirin 300mg gastro-resistant tablets (Alliance Healthcare (Distribution) Ltd),Aspirin,300mg,Gastro-resistant tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-13
+43434,41,59945020,Aspirin 300mg gastro-resistant tablets (A A H Pharmaceuticals Ltd),Aspirin,300mg,Gastro-resistant tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Sep-10
+48165,1,61768020,Aspirin 300mg tablets (Aspar Pharmaceuticals Ltd),Aspirin,300mg,Tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Dec-12
+40913,116,97373020,Grepid 75mg tablets (Beacon Pharmaceuticals Ltd),Clopidogrel,75mg,Tablet,Oral,2090000,Antiplatelet Drugs,Dec-09
+572,307,84320020,Ticlopidine 250mg tablets,Ticlopidine hydrochloride,250mg,Tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+52761,28,2384020,Clopidogrel 75mg tablets (Dr Reddy's Laboratories (UK) Ltd),Clopidogrel,75mg,Tablet,Oral,2090000,Antiplatelet Drugs,Jan-13
+377,674235,54360020,Aspirin 300mg dispersible tablets,Aspirin,300mg,Dispersible tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+54284,2,69594020,Aspirin 75mg dispersible tablets (Almus Pharmaceuticals Ltd),Aspirin,75mg,Dispersible tablet,Oral,2090000,Antiplatelet Drugs,Mar-13
+10310,1483,52556020,Aspirin powder,Aspirin,1mg/1mg,Not applicable,Route of administration not applicable,02090000/04070100/50030000,Antiplatelet Drugs/Non-opioid And Compound Analgesics/Extemporaneous Item,Feb-09
+37541,0,70379020,Aspirin 227mg medicated chewing-gum,Aspirin,227mg,Chewing Gum,Oromucosal,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+254,454938,54359020,Aspirin 300mg tablets,Aspirin,300mg,Tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+31954,414,53701020,Aspirin 75mg dispersible tablets (Teva UK Ltd),Aspirin,75mg,Dispersible tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+45851,19,55399020,Aspirin 300mg Soluble tablet (Ranbaxy (UK) Ltd),Aspirin,300mg,Dispersible tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Aug-11
+42750,12,77086020,Clopidogrel 75mg tablets (Actavis UK Ltd),Clopidogrel,75mg,Tablet,Oral,2090000,Antiplatelet Drugs,Jun-10
+59904,29,16245021,Clopidogrel 75mg/5ml oral solution,Clopidogrel hydrogen sulfate,15mg/1ml,Oral solution,Oral,2090000,Antiplatelet Drugs,May-14
+62707,0,2329020,Dipyridamole 25mg tablets (Alliance Healthcare (Distribution) Ltd),Dipyridamole,25mg,Tablet,Oral,2090000,Antiplatelet Drugs,Apr-15
+56007,0,8040020,Aspirin 300mg dispersible tablets (Sigma Pharmaceuticals Plc),Aspirin,300mg,Dispersible tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Aug-13
+40114,2648,96706020,Prasugrel 5mg tablets,Prasugrel hydrochloride,5mg,Tablet,Oral,2090000,Antiplatelet Drugs,Aug-09
+25232,238,70665020,Vasyrol cold sore 100mg Tablet (Shire Pharmaceuticals Ltd),Dipyridamole,100mg,Tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+25718,900,72645020,Angettes 75 tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Aspirin,75mg,Tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+10305,265,68710020,Aspirin 162.5mg capsules,Aspirin,162.5mg,Capsules,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+49685,0,2346020,Aspirin 75mg dispersible tablets (Sigma Pharmaceuticals Plc),Aspirin,75mg,Dispersible tablet,Oral,2090000,Antiplatelet Drugs,Jan-13
+22232,12,75436020,Disprin Direct 300mg orodispersible tablets (Reckitt Benckiser Healthcare (UK) Ltd),Aspirin,300mg,Orodispersible tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+59253,4,47190020,Aspirin 75mg gastro-resistant tablets (Waymade Healthcare Plc),Aspirin,75mg,Gastro-resistant tablet,Oral,2090000,Antiplatelet Drugs,Mar-14
+35809,0,81624020,Tirofiban hydrochloride 12.5mg/250ml infusion bags,Tirofiban hydrochloride,50microgram/1ml,Infusion,Intravenous,2090000,Antiplatelet Drugs,Feb-09
+41229,97,96712020,Efient 10mg tablets (Eli Lilly and Company Ltd),Prasugrel hydrochloride,10mg,Tablet,Oral,2090000,Antiplatelet Drugs,Feb-10
+32036,22049,48769020,Aspirin 75mg dispersible tablets (Actavis UK Ltd),Aspirin,75mg,Dispersible tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+34386,29,48771020,Aspirin 300mg tablets (Actavis UK Ltd),Aspirin,300mg,Tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+15364,1530,75038020,Aspirin 150mg suppositories,Aspirin,150mg,Suppository,Rectal,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+56503,159,2365020,Asasantin Retard capsules (Mawdsley-Brooks & Company Ltd),Dipyridamole/Aspirin,200mg + 25mg,Modified-release capsule,Oral,2090000,Antiplatelet Drugs,Aug-13
+1902,3934,70337020,Aspirn 600mg gastro-resistant tablets,Aspirin,600mg,Gastro-resistant Tablets,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+21019,2,79640020,ReoPro 10mg/5ml solution for injection vials (Eli Lilly and Company Ltd),Abciximab,2mg/1ml,Solution for injection,Intravenous,2090000,Antiplatelet Drugs,Feb-09
+1049,2644,50796020,Nu-seals aspirin 600mg Tablet (Eli Lilly and Company Ltd),Aspirin,600mg,Tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+33877,8,84545020,Aggrastat 12.5mg/250ml infusion bags (Correvio GmbH),Tirofiban hydrochloride,50microgram/1ml,Infusion,Intravenous,2090000,Antiplatelet Drugs,Feb-09
+52044,2,8034020,Aspirin 300mg caplets (The Boots Company Plc),Aspirin,300mg,Tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Jan-13
+59244,11,44166020,Aspirin 100mg capsules,,,,,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Mar-14
+53791,0,4199020,Aspirin 150mg suppositories (Alliance Healthcare (Distribution) Ltd),Aspirin,150mg,Suppository,Rectal,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-13
+18329,292,84994020,Enprin 75mg gastro-resistant tablets (Galpharm International Ltd),Aspirin,75mg,Gastro-resistant tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+4679,198134,85728020,Asasantin Retard capsules (Boehringer Ingelheim Ltd),Dipyridamole/Aspirin,200mg + 25mg,Modified-release capsule,Oral,2090000,Antiplatelet Drugs,Feb-09
+64837,0,29679021,Ofcram PR 200mg capsules (Focus Pharmaceuticals Ltd),Dipyridamole,200mg,Modified-release capsule,Oral,2090000,Antiplatelet Drugs,Dec-15
+45840,9,56069020,Aspirin 300mg Dispersible tablet (Numark Management Ltd),Aspirin,300mg,Dispersible tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Aug-11
+34385,578,54012020,Aspirin 75mg Soluble tablet (Co-operative),Aspirin,75mg,Dispersible tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+836,91671,83768020,Plavix 75mg tablets (Sanofi),Clopidogrel,75mg,Tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+5882,16224,84976020,Dipyridamole 50mg/5ml oral suspension sugar free,Dipyridamole,10mg/1ml,Oral suspension,Oral,2090000,Antiplatelet Drugs,Feb-09
+34709,5,51223020,Dipyridamole 100mg tablets (A A H Pharmaceuticals Ltd),Dipyridamole,100mg,Tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+60605,0,51224020,Dipyridamole 25mg tablets (A A H Pharmaceuticals Ltd),Dipyridamole,25mg,Tablet,Oral,2090000,Antiplatelet Drugs,Jul-14
+60694,0,30279020,Aspirin 25mg/5ml oral solution,Aspirin,5mg/1ml,Oral solution,Oral,02090000/04070100/04070401/10010100,Antiplatelet Drugs/Non-opioid And Compound Analgesics/Treatment Of Acute Migraine/Non-steroidal Anti-inflammatory Drugs,Aug-14
+32992,97,62496020,Aspirin 75mg gastro-resistant tablets (Mylan Ltd),Aspirin,75mg,Gastro-resistant tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+24025,686,70471020,Caprin 300mg gastro-resistant tablets (Pinewood Healthcare),Aspirin,300mg,Gastro-resistant tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+45905,121,99683020,Clopidogrel 1mg/ml oral suspension,Clopidogrel,1mg/ml,Oral Liquid,Oral,2090000,Antiplatelet Drugs,Aug-11
+41512,4560,59216020,Aspirin 75mg gastro-resistant tablets (Teva UK Ltd),Aspirin,75mg,Gastro-resistant tablet,Oral,2090000,Antiplatelet Drugs,Mar-10
+35108,3130,91810020,Dipyridamole 100mg/5ml oral suspension,Dipyridamole,20mg/1ml,Oral suspension,Oral,2090000,Antiplatelet Drugs,Feb-09
+34,7061681,52995020,Aspirin 75mg gastro-resistant tablets,Aspirin,75mg,Gastro-resistant tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+46976,1,65447020,Dipyridamole 100mg tablets (Kent Pharmaceuticals Ltd),Dipyridamole,100mg,Tablet,Oral,2090000,Antiplatelet Drugs,Mar-12
+53178,44,76832020,Aspirin 75mg gastro-resistant tablets (Wockhardt UK Ltd),Aspirin,75mg,Gastro-resistant tablet,Oral,2090000,Antiplatelet Drugs,Jan-13
+18217,407,78272020,Aspirin 300mg orodispersible tablets sugar free,Aspirin,300mg,Orodispersible tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+40591,32,96710020,Efient 5mg tablets (Eli Lilly and Company Ltd),Prasugrel hydrochloride,5mg,Tablet,Oral,2090000,Antiplatelet Drugs,Oct-09
+9144,6825,80899020,Caprin 75mg gastro-resistant tablets (Wockhardt UK Ltd),Aspirin,75mg,Gastro-resistant tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+55230,0,63295020,Aspirin 300mg dispersible tablets (Kent Pharmaceuticals Ltd),Aspirin,300mg,Dispersible tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,May-13
+21989,1760,63357020,Cerebrovase 100mg Tablet (Ashbourne Pharmaceuticals Ltd),Dipyridamole,100mg,Tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+50555,1,8038020,Aspirin 300mg dispersible tablets (DE Pharmaceuticals),Aspirin,300mg,Dispersible tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Jan-13
+22138,83,70461020,Aspirin 324mg modified-release tablets,Aspirin,324mg,Modified Release Tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+6666,142580,85724020,Dipyridamole 200mg modified-release / Aspirin 25mg capsules,Dipyridamole/Aspirin,200mg + 25mg,Modified-release capsule,Oral,2090000,Antiplatelet Drugs,Feb-09
+41569,1,48776020,Aspirin 300mg tablets (A A H Pharmaceuticals Ltd),Aspirin,300mg,Tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Mar-10
+31858,1,86558020,Caspac xl 162.5mg Capsule (Pharmacia Ltd),Aspirin,162.5mg,Capsule,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+30554,3,79642020,Abciximab 10mg/5ml solution for injection vials,Abciximab,2mg/1ml,Solution for injection,Intravenous,2090000,Antiplatelet Drugs,Feb-09
+8645,402,69426020,Aspirin 300mg effervescent tablets,Aspirin,300mg,Tablets,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+34485,522,58873020,Aspirin 75mg gastro-resistant tablets (IVAX Pharmaceuticals UK Ltd),Aspirin,75mg,Gastro-resistant tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+60127,0,16678021,Aspirin 75mg tablets (DE Pharmaceuticals),Aspirin,75mg,Tablet,Oral,2090000,Antiplatelet Drugs,Jun-14
+48000,0,62226020,Aspirin 300mg tablets (Sigma Pharmaceuticals Plc),Aspirin,300mg,Tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Nov-12
+645,503,75037020,Aspirin 300mg suppositories,Aspirin,300mg,Suppository,Rectal,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+30975,1,74843020,Modaplate 25mg Tablet (Berk Pharmaceuticals Ltd),Dipyridamole,25mg,Tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+52618,3,2347020,Aspirin 75mg dispersible tablets (Bristol Laboratories Ltd),Aspirin,75mg,Dispersible tablet,Oral,2090000,Antiplatelet Drugs,Jan-13
+33293,1,62271020,Aspirin 75mg gastro-resistant tablets (Sterwin Medicines),Aspirin,75mg,Gastro-resistant tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+32210,1356,48770020,Aspirin 300mg dispersible tablets (Actavis UK Ltd),Aspirin,300mg,Dispersible tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+2628,92083,50797020,Nu-seals aspirin ec 75mg Gastro-resistant tablet (Eli Lilly and Company Ltd),Aspirin,75mg,Gastro-resistant tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+34309,62,48775020,Aspirin 300mg dispersible tablets (A A H Pharmaceuticals Ltd),Aspirin,300mg,Dispersible tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+30920,14,63543020,Aspirin 300mg Dispersible tablet (M & A Pharmachem Ltd),Aspirin,300mg,Dispersible tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+63450,1,46327020,Clopidogrel 75mg tablets (Almus Pharmaceuticals Ltd),Clopidogrel,75mg,Tablet,Oral,2090000,Antiplatelet Drugs,Jun-15
+62978,5,23054021,Clopidogrel 75mg tablets (Sandoz Ltd),Clopidogrel,75mg,Tablet,Oral,2090000,Antiplatelet Drugs,Apr-15
+57057,1,2350020,Aspirin 75mg dispersible tablets (Wockhardt UK Ltd),Aspirin,75mg,Dispersible tablet,Oral,2090000,Antiplatelet Drugs,Sep-13
+38349,356,94934020,Clopidogrel 300mg tablets,Clopidogrel hydrogen sulfate,300mg,Tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+33668,26,62403020,Aspirin 300mg Dispersible tablet (Rusco Ltd),Aspirin,300mg,Dispersible tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+54997,0,2344020,Aspirin 75mg dispersible tablets (Dowelhurst Ltd),Aspirin,75mg,Dispersible tablet,Oral,2090000,Antiplatelet Drugs,May-13
+53711,0,66390020,Aspirin 300mg Tablet (Nucare Plc),Aspirin,300mg,Tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-13
+50949,0,2353020,Aspirin 75mg tablets (A A H Pharmaceuticals Ltd),Aspirin,75mg,Tablet,Oral,2090000,Antiplatelet Drugs,Jan-13
+64929,4,19765020,Dipyridamole 200mg/5ml oral suspension,Dipyridamole,40mg/1ml,Oral suspension,Oral,2090000,Antiplatelet Drugs,Dec-15
+57036,1,77043020,Clopidogrel 75mg tablets (Mylan Ltd),Clopidogrel,75mg,Tablet,Oral,2090000,Antiplatelet Drugs,Sep-13
+43679,1,96736020,Flamasacard 162.5mg Modified-release capsule (Abbey Pharmaceuticals Ltd),Aspirin,162.5mg,Modified-release Capsule,Oral,2090000,Antiplatelet Drugs,Oct-10
+33676,31,63290020,Aspirin 75mg dispersible tablets (Kent Pharmaceuticals Ltd),Aspirin,75mg,Dispersible tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+17449,9,56792020,Ticlid 250mg tablets (Sanofi-Synthelabo Ltd),Ticlopidine hydrochloride,250mg,Tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+17704,4111,69134020,Platet 100mg Effervescent tablet (Roche Products Ltd),Aspirin,100mg,Effervescent Tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+9939,4778,68708020,Aspirin 500mg effervescent tablets sugar free,Aspirin,500mg,Effervescent tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+8185,1392,74303020,Disprin CV 300mg modified-release tablets (Reckitt Benckiser Healthcare (UK) Ltd),Aspirin,300mg,Modified-release tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+49799,0,4200020,Aspirin 150mg suppositories (A A H Pharmaceuticals Ltd),Aspirin,150mg,Suppository,Rectal,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Jan-13
+49060,4,2342020,Aspirin 75mg dispersible tablets (Alliance Healthcare (Distribution) Ltd),Aspirin,75mg,Dispersible tablet,Oral,2090000,Antiplatelet Drugs,Jan-13
+1137,151954,50795020,Nu-seals aspirin ec 300mg Gastro-resistant tablet (Eli Lilly and Company Ltd),Aspirin,300mg,Gastro-resistant tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+59021,0,2361020,Aspirin 75mg gastro-resistant tablets (Bristol Laboratories Ltd),Aspirin,75mg,Gastro-resistant tablet,Oral,2090000,Antiplatelet Drugs,Mar-14
+54734,0,74953020,Aspirin 300mg tablets (Wockhardt UK Ltd),Aspirin,300mg,Tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Apr-13
+34942,18,66393020,Aspirin 75mg Dispersible tablet (Nucare Plc),Aspirin,75mg,Dispersible tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+45576,36049,99283020,Ticagrelor 90mg tablets,Ticagrelor,90mg,Tablet,Oral,2090000,Antiplatelet Drugs,Jun-11
+2105,35,58313020,Solprin 300mg Tablet (Reckitt Benckiser Healthcare (UK) Ltd),Aspirin,300mg,Dispersible tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+60777,0,16679021,Aspirin 75mg gastro-resistant tablets (DE Pharmaceuticals),Aspirin,75mg,Gastro-resistant tablet,Oral,2090000,Antiplatelet Drugs,Aug-14
+24960,0,56223020,Aspirin 300mg tablets (Vantage),Aspirin,300mg,Tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+31953,20608,58872020,Aspirin 75mg dispersible tablets (IVAX Pharmaceuticals UK Ltd),Aspirin,75mg,Dispersible tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+30976,25,74842020,Modaplate 100mg Tablet (Berk Pharmaceuticals Ltd),Dipyridamole,100mg,Tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+40144,2,51004020,Aspirin 300mg Dispersible tablet (Thornton & Ross Ltd),Aspirin,300mg,Dispersible tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Aug-09
+43806,4,57869020,Aspirin 300mg gastro-resistant tablets (Sandoz Ltd),Aspirin,300mg,Gastro-resistant tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Oct-10
+1814,351330,62695020,Dipyridamole 100mg tablets,Dipyridamole,100mg,Tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+62855,3,2375020,Clopidogrel 75mg tablets (Alliance Healthcare (Distribution) Ltd),Clopidogrel,75mg,Tablet,Oral,2090000,Antiplatelet Drugs,Apr-15
+34762,15,59131020,Aspirin 300mg Gastro-resistant tablet (Galen Ltd),Aspirin,300mg,Gastro-resistant tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+62430,0,4196020,Aspirin 300mg suppositories (A A H Pharmaceuticals Ltd),Aspirin,300mg,Suppository,Rectal,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-15
+39738,667,96734020,Aspirin 162.5mg modified-release capsules,Aspirin,162.5mg,Modified Release Capsules,Oral,2090000,Antiplatelet Drugs,Jun-09
+28810,15,70466020,Aspirin 300mg with Glycine 133mg soluble tablets,Aspirin,300mg + 133mg,Dissolving Tablets,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+22618,200,59214020,Solprin 75mg Tablet (Reckitt Benckiser Healthcare (UK) Ltd),Aspirin,75mg,Dispersible tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+714,1371639,62696020,Dipyridamole 200mg modified-release capsules,Dipyridamole,200mg,Modified-release capsule,Oral,2090000,Antiplatelet Drugs,Feb-09
+54430,1,2352020,Aspirin 75mg tablets (Alliance Healthcare (Distribution) Ltd),Aspirin,75mg,Tablet,Oral,2090000,Antiplatelet Drugs,Apr-13
+33656,1675,48774020,Aspirin 75mg dispersible tablets (A A H Pharmaceuticals Ltd),Aspirin,75mg,Dispersible tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+44639,1,66396020,Aspirin 300mg Dispersible tablet (Nucare Plc),Aspirin,300mg,Dispersible tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-11
+19189,108,82090020,Micropirin 75mg Gastro-resistant tablet (Ratiopharm UK Ltd),Aspirin,75mg,Gastro-resistant tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+41594,6,53703020,Aspirin 300mg Dispersible tablet (Teva UK Ltd),Aspirin,300mg,Dispersible tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Mar-10
+16,6602209,72648020,Aspirin 75mg tablets,Aspirin,75mg,Tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+34796,5,59128020,Aspirin 75mg Gastro-resistant tablet (Galen Ltd),Aspirin,75mg,Gastro-resistant tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+60278,0,16783021,Aspirin 300mg tablets (DE Pharmaceuticals),Aspirin,300mg,Tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Jun-14
+39932,27861,96708020,Prasugrel 10mg tablets,Prasugrel hydrochloride,10mg,Tablet,Oral,2090000,Antiplatelet Drugs,Aug-09
+51358,0,60705020,Dipyridamole 100mg tablets (Mylan Ltd),Dipyridamole,100mg,Tablet,Oral,2090000,Antiplatelet Drugs,Jan-13
+59791,0,68788020,Aspirin 75mg dispersible tablets (Aspar Pharmaceuticals Ltd),Aspirin,75mg,Dispersible tablet,Oral,2090000,Antiplatelet Drugs,May-14
+31210,56,54011020,Aspirin 300mg Tablet (Co-operative),Aspirin,300mg,Tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+17920,3230,74302020,Disprin cv 100mg Modified-release tablet (Reckitt Benckiser Healthcare (UK) Ltd),Aspirin,100mg,Modified-release Tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+6007,16721,84144020,Nu-Seals 300 gastro-resistant tablets (Alliance Pharmaceuticals Ltd),Aspirin,300mg,Gastro-resistant tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+54565,1,2343020,Aspirin 75mg dispersible tablets (Lloyds Pharmacy Ltd),Aspirin,75mg,Dispersible tablet,Oral,2090000,Antiplatelet Drugs,Apr-13
+2607,4,70474020,Paynocil Tablet (Beecham Research Laboratories),Aspirin,,Tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+58347,0,2370020,Clopidogrel 75mg tablets (DE Pharmaceuticals),Clopidogrel,75mg,Tablet,Oral,2090000,Antiplatelet Drugs,Dec-13
+36521,11,75811020,Aspirin 500mg modified-release tablets,Aspirin,500mg,Modified Release Tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+33320,3,66537020,Aspirin 75mg Dispersible tablet (Sovereign Medical Ltd),Aspirin,75mg,Dispersible tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+34666,42,56222020,Aspirin ec 300mg Gastro-resistant tablet (A A H Pharmaceuticals Ltd),Aspirin,300mg,Gastro-resistant tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+11977,94,81582020,Aspro clear maximum strength tablets,Aspirin,500mg,Effervescent tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+43060,34,48762020,Aspirin 300mg Soluble tablet (Celltech Pharma Europe Ltd),Aspirin,300mg,Dispersible tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Aug-10
+43530,3,56938020,Dipyridamole 100mg tablets (Actavis UK Ltd),Dipyridamole,100mg,Tablet,Oral,2090000,Antiplatelet Drugs,Sep-10
+2106,190277,51078020,Persantin 100mg tablets (Boehringer Ingelheim Ltd),Dipyridamole,100mg,Tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+25335,10309,79131020,PostMI 75 EC tablets (Ashbourne Pharmaceuticals Ltd),Aspirin,75mg,Gastro-resistant tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+64071,0,67291020,Aspirin powder (J M Loveridge Ltd),Aspirin,1mg/1mg,Not applicable,Route of administration not applicable,02090000/04070100/50030000,Antiplatelet Drugs/Non-opioid And Compound Analgesics/Extemporaneous Item,Aug-15
+56996,6,47188020,Aspirin 75mg dispersible tablets (Waymade Healthcare Plc),Aspirin,75mg,Dispersible tablet,Oral,2090000,Antiplatelet Drugs,Sep-13
+49220,0,8029020,Aspirin 300mg tablets (Kent Pharmaceuticals Ltd),Aspirin,300mg,Tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Jan-13
+57585,52,2364020,Asasantin Retard capsules (Dowelhurst Ltd),Dipyridamole/Aspirin,200mg + 25mg,Modified-release capsule,Oral,2090000,Antiplatelet Drugs,Oct-13
+56995,0,2349020,Aspirin 75mg dispersible tablets (Phoenix Healthcare Distribution Ltd),Aspirin,75mg,Dispersible tablet,Oral,2090000,Antiplatelet Drugs,Sep-13
+62334,1,29731021,Aspirin 300mg caplets (Wockhardt UK Ltd),Aspirin,300mg,Tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-15
+9301,5148,52996020,Aspirin 100mg modified-release tablets,Aspirin,100mg,Modified Release Tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+6006,31764,84142020,Nu-Seals 75 gastro-resistant tablets (Alliance Pharmaceuticals Ltd),Aspirin,75mg,Gastro-resistant tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+31938,1153,57868020,Aspirin 75mg gastro-resistant tablets (Sandoz Ltd),Aspirin,75mg,Gastro-resistant tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+33662,3,56283020,Aspirin 300mg Dispersible tablet (A A H Pharmaceuticals Ltd),Aspirin,300mg,Dispersible tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+47992,3,59946020,Aspirin 75mg gastro-resistant tablets (A A H Pharmaceuticals Ltd),Aspirin,75mg,Gastro-resistant tablet,Oral,2090000,Antiplatelet Drugs,Nov-12
+56883,1,47189020,Aspirin 75mg tablets (Waymade Healthcare Plc),Aspirin,75mg,Tablet,Oral,2090000,Antiplatelet Drugs,Aug-13
+29848,4,70467020,Aspirin 300mg with Glycine 150mg chewable tablets,Aspirin,300mg + 150mg,Chewable Tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+10031,3598,85731020,Aspirin 25mg with Dipyridamole 200mg modified-release capsules,Dipyridamole/Aspirin,25mg + 200mg,Modified Release Capsules,Oral,2090000,Antiplatelet Drugs,Feb-09
+52280,0,78796020,Aspirin 300mg Tablet (Wockhardt UK Ltd),Aspirin,300mg,Tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Jan-13
+3832,178536,84256020,Persantin Retard 200mg capsules (Boehringer Ingelheim Ltd),Dipyridamole,200mg,Modified-release capsule,Oral,2090000,Antiplatelet Drugs,Feb-09
+34797,116,59503020,Aspirin 75mg gastro-resistant tablets (Actavis UK Ltd),Aspirin,75mg,Gastro-resistant tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+50926,2,2341020,Aspirin 75mg dispersible tablets (The Boots Company Plc),Aspirin,75mg,Dispersible tablet,Oral,2090000,Antiplatelet Drugs,Jan-13
+40381,46,51008020,Aspirin 75mg Soluble tablet (C P Pharmaceuticals Ltd),Aspirin,75mg,Dispersible tablet,Oral,2090000,Antiplatelet Drugs,Sep-09
+8186,783,70462020,Aspirin 300mg modified-release tablets,Aspirin,300mg,Modified-release tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+53751,0,2380020,Clopidogrel 75mg tablets (Phoenix Healthcare Distribution Ltd),Clopidogrel,75mg,Tablet,Oral,2090000,Antiplatelet Drugs,Feb-13
+54526,0,8030020,Aspirin 300mg tablets (Alliance Healthcare (Distribution) Ltd),Aspirin,300mg,Tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Apr-13
+23932,68,81581020,Aspro Clear 300mg effervescent tablets (Bayer Plc),Aspirin,300mg,Effervescent tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+48974,6,2354020,Aspirin 75mg tablets (Phoenix Healthcare Distribution Ltd),Aspirin,75mg,Tablet,Oral,2090000,Antiplatelet Drugs,Jan-13
+34611,34,51009020,Aspirin 75mg gastro-resistant tablets (C P Pharmaceuticals Ltd),Aspirin,75mg,Gastro-resistant tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+31870,18,54361020,Aspirin 320mg tablets,Aspirin,320mg,Tablets,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+56736,0,47552020,Aspirin 300mg tablets (Waymade Healthcare Plc),Aspirin,300mg,Tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Aug-13
+46891,331,396021,Clopidogrel 75mg/5ml oral suspension,Clopidogrel hydrogen sulfate,15mg/1ml,Oral suspension,Oral,2090000,Antiplatelet Drugs,Mar-12
+6696,3096,77773020,Micropirin 75mg gastro-resistant tablets (Dexcel-Pharma Ltd),Aspirin,75mg,Gastro-resistant tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+38998,9,94936020,Plavix 300mg tablets (Sanofi),Clopidogrel hydrogen sulfate,300mg,Tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+31211,23,56282020,Aspirin 75mg Dispersible tablet (A A H Pharmaceuticals Ltd),Aspirin,75mg,Dispersible tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+59470,20,20734021,Persantin Retard 200mg capsules (Consilient Health Ltd),Dipyridamole,200mg,Modified-release capsule,Oral,2090000,Antiplatelet Drugs,Apr-14
+58331,0,75319020,Aspirin 300mg gastro-resistant tablets (Mylan Ltd),Aspirin,300mg,Gastro-resistant tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Dec-13
+64222,4,19755020,Dipyridamole 50mg/5ml oral solution,Dipyridamole,10mg/1ml,Oral solution,Oral,2090000,Antiplatelet Drugs,Sep-15
+63603,99,50070020,Laboprin Tablet (Laboratories For Applied Biology Ltd),Aspirin,300mg,Tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Jul-15
+41766,9,95905020,Maximum Strength Aspro Clear 500mg effervescent tablets (Bayer Plc),Aspirin,500mg,Effervescent tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Mar-10
+689,41755,51077020,Persantin 25mg tablets (Boehringer Ingelheim Ltd),Dipyridamole,25mg,Tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+657,2682,86989020,Aspirin 500mg granules sachets sugar free,Aspirin,500mg,Granules,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+31192,116,70664020,Vasyrol cold sore 25mg Tablet (Shire Pharmaceuticals Ltd),Dipyridamole,25mg,Tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+3,32381907,52994020,Aspirin 75mg dispersible tablets,Aspirin,75mg,Dispersible tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+23878,697,83262020,Nu-seals cardio ec 75mg Gastro-resistant tablet (Genus Pharmaceuticals Ltd),Aspirin,75mg,Gastro-resistant tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+21921,328,75686020,Postmi ec 300mg Gastro-resistant tablet (Ashbourne Pharmaceuticals Ltd),Aspirin,300mg,Gastro-resistant tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+51474,0,59817020,Aspirin 150mg suppositories (Martindale Pharmaceuticals Ltd),Aspirin,150mg,Suppository,Rectal,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Jan-13
+25284,136,63356020,Cerebrovase 25mg Tablet (Ashbourne Pharmaceuticals Ltd),Dipyridamole,25mg,Tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+48021,0,77564020,Aspirin 75mg Tablet (Hillcross Pharmaceuticals Ltd),Aspirin,75mg,Tablet,Oral,2090000,Antiplatelet Drugs,Nov-12
+434,905432,70336020,Aspirin 300mg gastro-resistant tablets,Aspirin,300mg,Gastro-resistant tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+7516,2183,68709020,Aspirin 300mg effervescent tablets sugar free,Aspirin,300mg,Effervescent tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+31956,38,62304020,Aspirin 75mg gastro-resistant tablets (Kent Pharmaceuticals Ltd),Aspirin,75mg,Gastro-resistant tablet,Oral,2090000,Antiplatelet Drugs,Feb-09
+53816,0,8036020,Aspirin 300mg dispersible tablets (Alliance Healthcare (Distribution) Ltd),Aspirin,300mg,Dispersible tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-13
+58448,1,2381020,Clopidogrel 75mg tablets (Aspire Pharma Ltd),Clopidogrel,75mg,Tablet,Oral,2090000,Antiplatelet Drugs,Dec-13
+51561,0,2360020,Aspirin 75mg gastro-resistant tablets (Zanza Laboratories Ltd),Aspirin,75mg,Gastro-resistant tablet,Oral,2090000,Antiplatelet Drugs,Jan-13
+60693,0,30275020,Aspirin 15mg/5ml oral solution,,,,,02090000/04070100/04070401/10010100,Antiplatelet Drugs/Non-opioid And Compound Analgesics/Treatment Of Acute Migraine/Non-steroidal Anti-inflammatory Drugs,Aug-14
+45643,33,48763020,Aspirin 75mg Soluble tablet (Celltech Pharma Europe Ltd),Aspirin,75mg,Dispersible tablet,Oral,2090000,Antiplatelet Drugs,Jul-11
+54700,0,76842020,Clopidogrel 75mg tablets (A A H Pharmaceuticals Ltd),Clopidogrel,75mg,Tablet,Oral,2090000,Antiplatelet Drugs,Apr-13
+56807,19,76752020,Clopidogrel 75mg tablets (Teva UK Ltd),Clopidogrel,75mg,Tablet,Oral,2090000,Antiplatelet Drugs,Aug-13
+23488,4,48698020,Claradin 300mg Tablet (Nicholas Laboratories Ltd),Aspirin,300mg,Tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+23593,9816,79130020,PostMI 75 dispersible tablets (Ashbourne Pharmaceuticals Ltd),Aspirin,75mg,Dispersible tablet,Oral,02090000/04070100,Antiplatelet Drugs/Non-opioid And Compound Analgesics,Feb-09
+60321,0,2330020,Dipyridamole 25mg tablets (Phoenix Healthcare Distribution Ltd),Dipyridamole,25mg,Tablet,Oral,2090000,Antiplatelet Drugs,Jul-14
+38536,5,94008020,Fondaparinux sodium 1.5mg/0.3ml solution for injection pre-filled syringes,Fondaparinux sodium,5mg/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+42853,15,53910020,"Heparin calcium 25,000iu/ml Injection",Heparin Calcium,"25,000iu/ml",Injection,,2080100,Parenteral Anticoagulants,Jul-10
+16530,6506,88316020,"Fragmin 12,500units/0.5ml solution for injection pre-filled syringes (Pfizer Ltd)",Dalteparin sodium,25000unit/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+36142,24,91650020,"Heparin sodium 25,000units/1ml solution for injection ampoules",Heparin sodium,25000unit/1ml,Solution for injection,Subcutaneous/Intravenous,2080100,Parenteral Anticoagulants,Feb-09
+60188,1,16334021,"Heparin sodium 5,000units/1litre infusion bags",,,,,2080100,Parenteral Anticoagulants,Jun-14
+27035,2,63165020,Pump-hep 1000unit/ml Infusion (LEO Pharma),Heparin Sodium,1000unit/ml,Infusion,Intravenous Infusion,2080100,Parenteral Anticoagulants,Feb-09
+56398,2,9750020,"Fragmin 5,000units/0.2ml solution for injection pre-filled syringes (Mawdsley-Brooks & Company Ltd)",Dalteparin sodium,25000unit/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Aug-13
+36196,62,91636020,"Heparin sodium 1,000units/1ml solution for injection ampoules",Heparin sodium,1000unit/1ml,Solution for injection,Intravenous,2080100,Parenteral Anticoagulants,Feb-09
+19486,2108,88302020,"Dalteparin sodium 7,500units/0.3ml solution for injection pre-filled syringes",Dalteparin sodium,25000unit/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+33558,1,71426020,"Monoparin calcium 5,000units/0.2ml solution for injection ampoules (Wockhardt UK Ltd)",Heparin calcium,25000unit/1ml,Solution for injection,Intravenous/Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+42106,3,54957020,"Unihep leo 25,000iu/ml Injection (LEO Pharma)",Heparin Sodium,"25,000iu/ml",Injection,,2080100,Parenteral Anticoagulants,Apr-10
+17592,331,87578020,"Innohep 4,500units/0.45ml solution for injection pre-filled syringes (LEO Pharma)",Tinzaparin sodium,10000unit/1ml,Solution for injection,Subcutaneous/Intravenous,2080100,Parenteral Anticoagulants,Feb-09
+36911,256,93934020,"Fragmin 10,000units/1ml solution for injection ampoules (Pfizer Ltd)",Dalteparin sodium,10000unit/1ml,Solution for injection,Subcutaneous/Intravenous,2080100,Parenteral Anticoagulants,Feb-09
+44491,0,91634020,"Heparin sodium 125,000units/5ml solution for injection vials",Heparin sodium,25000unit/1ml,Solution for injection,Subcutaneous/Intravenous,2080100,Parenteral Anticoagulants,Feb-11
+9140,560,54874020,"Dalteparin sodium 10,000units/4ml solution for injection ampoules",Dalteparin sodium,2500unit/1ml,Solution for injection,Subcutaneous/Intravenous,2080100,Parenteral Anticoagulants,Feb-09
+63440,1,60817020,Epoprostenol 500microgram powder and solvent for solution for infusion vials,Epoprostenol sodium,500microgram,Powder and solvent for solution for infusion,Intravenous,2080100,Parenteral Anticoagulants,Jun-15
+23573,35,89132020,Fondaparinux sodium 5mg/0.4ml solution for injection pre-filled syringes,Fondaparinux sodium,12.5mg/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+63169,5,44859021,"Innohep 12,000units/0.6ml solution for injection pre-filled syringes (LEO Pharma)",,,,,2080100,Parenteral Anticoagulants,May-15
+14851,3297,87568020,"Tinzaparin sodium 4,500units/0.45ml solution for injection pre-filled syringes",Tinzaparin sodium,10000unit/1ml,Solution for injection,Subcutaneous/Intravenous,2080100,Parenteral Anticoagulants,Feb-09
+21316,60,87590020,"Innohep 40,000units/2ml solution for injection vials (LEO Pharma)",Tinzaparin sodium,20000unit/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+20411,1,81208020,Alphaparin 3000iu/0.5ml Injection (Grifols UK Ltd),Certoparin Sodium,3000iu/0.5ml,Injection,Subcutaneous Injection,2080100,Parenteral Anticoagulants,Feb-09
+30108,43,91616020,Heparin calcium 5000iu/0.2ml Injection,Heparin Calcium,5000iu/0.2ml,Injection,Subcutaneous Injection,2080100,Parenteral Anticoagulants,Feb-09
+10194,5956,88306020,"Dalteparin sodium 12,500units/0.5ml solution for injection pre-filled syringes",Dalteparin sodium,25000unit/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+3895,311,73282020,Heparin sodium 1000iu/ml Injection,Heparin Sodium,1000iu/ml,Injection,,2080100,Parenteral Anticoagulants,Feb-09
+25195,2,87654020,"Heparin sodium 25,000iu/ml pre-filled Injection",Heparin Sodium,"25,000iu/ml",Injection,,2080100,Parenteral Anticoagulants,Feb-09
+10533,785,58274020,"Calciparine 25,000iu/ml Injection (Sanofi-Synthelabo Ltd)",Heparin Calcium,"25,000iu/ml",Injection,Subcutaneous Injection,2080100,Parenteral Anticoagulants,Feb-09
+17049,622,87596020,"Innohep 18,000units/0.9ml solution for injection pre-filled syringes (LEO Pharma)",Tinzaparin sodium,20000unit/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+2677,7975,74023020,Clexane 100mg/ml Injection (Aventis Pharma),Enoxaparin Sodium,100mg/ml,Injection,Subcutaneous Deep Injection,2080100,Parenteral Anticoagulants,Feb-09
+10072,3200,88314020,"Fragmin 10,000units/0.4ml solution for injection pre-filled syringes (Pfizer Ltd)",Dalteparin sodium,25000unit/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+35941,30,91638020,"Heparin sodium 5,000units/5ml solution for injection ampoules",Heparin sodium,1000unit/1ml,Solution for injection,Intravenous,2080100,Parenteral Anticoagulants,Feb-09
+7307,29062,87676020,Clexane 40mg/0.4ml solution for injection pre-filled syringes (Sanofi),Enoxaparin sodium,100mg/1ml,Solution for injection,Intraarterial/Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+14341,7498,91199020,Clexane Forte 150mg/1ml solution for injection pre-filled syringes (Sanofi),Enoxaparin sodium,150mg/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+20010,28,67842020,"Uniparin calcium 25,000iu/ml Subcutaneous injection (C P Pharmaceuticals Ltd)",Heparin Calcium,"25,000iu/ml",Subcutaneous Injection,,2080100,Parenteral Anticoagulants,Feb-09
+20154,11122,91193020,Enoxaparin sodium 100mg/1ml solution for injection pre-filled syringes,Enoxaparin sodium,100mg/1ml,Solution for injection,Intraarterial/Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+49578,765,2272020,"Dalteparin sodium 10,000units/1ml solution for injection pre-filled syringes",Dalteparin sodium,10000unit/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Jan-13
+22428,62,75575020,"Dalteparin sodium 100,000units/4ml solution for injection vials",Dalteparin sodium,25000unit/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+11372,1760,73292020,Heparin 100iu/ml Flush solution,Heparin Sodium,100iu/ml,Flush Solution,,2080100,Parenteral Anticoagulants,Feb-09
+4995,3922,74027020,Enoxaparin 100mg/ml injection,Enoxaparin Sodium,100mg/ml,Injection,,2080100,Parenteral Anticoagulants,Feb-09
+44238,1,75975020,Heparin 50 iu/5ml Flush solution (Wockhardt UK Ltd),Heparin Sodium,50 Iu/5ml,Flush Solution,,2080100,Parenteral Anticoagulants,Jan-11
+33307,75,91644020,"Heparin sodium 5,000units/1ml solution for injection ampoules",Heparin sodium,5000unit/1ml,Solution for injection,Subcutaneous/Intravenous,2080100,Parenteral Anticoagulants,Feb-09
+14099,755,70688020,Clexane forte 150mg/ml Injection (Aventis Pharma),Enoxaparin Sodium,150mg/ml,Injection,Subcutaneous Deep Injection,2080100,Parenteral Anticoagulants,Feb-09
+16476,9493,88320020,"Fragmin 18,000units/0.72ml solution for injection pre-filled syringes (Pfizer Ltd)",Dalteparin sodium,25000unit/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+25287,14,54952020,Unihep leo 1000unit/ml Injection (LEO Pharma),Heparin Sodium,1000unit/ml,Injection,,2080100,Parenteral Anticoagulants,Feb-09
+4888,162,71593020,Heplok 10 iu/ml Oral solution (LEO Pharma),Heparin Sodium,10 Iu/ml,Oral Solution,,2080100,Parenteral Anticoagulants,Feb-09
+45911,1,94010020,Arixtra 1.5mg/0.3ml solution for injection pre-filled syringes (Aspen Pharma Trading Ltd),Fondaparinux sodium,5mg/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Aug-11
+59761,0,73368020,"Heparin sodium 1,000units/1ml solution for injection ampoules (Wockhardt UK Ltd)",Heparin sodium,1000unit/1ml,Solution for injection,Intravenous,2080100,Parenteral Anticoagulants,May-14
+13210,6218,87670020,Enoxaparin sodium 80mg/0.8ml solution for injection pre-filled syringes,Enoxaparin sodium,100mg/1ml,Solution for injection,Intraarterial/Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+38327,110,89140020,Arixtra 7.5mg/0.6ml solution for injection pre-filled syringes (Aspen Pharma Trading Ltd),Fondaparinux sodium,12.5mg/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+52841,6,2267020,"Heparin calcium 5,000units/0.2ml solution for injection ampoules",Heparin calcium,25000unit/1ml,Solution for injection,Intravenous/Subcutaneous,2080100,Parenteral Anticoagulants,Jan-13
+14308,6662,87588020,"Tinzaparin sodium 18,000units/0.9ml solution for injection pre-filled syringes",Tinzaparin sodium,20000unit/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+55604,1,74751020,Orgaran 750units/0.6ml solution for injection ampoules (Aspen Pharma Trading Ltd),Danaparoid sodium,1250unit/1ml,Solution for injection,Subcutaneous/Intravenous,2080100,Parenteral Anticoagulants,Jun-13
+51642,3,39295020,Clexane 100mg/1ml solution for injection pre-filled syringes (Lexon (UK) Ltd),Enoxaparin sodium,100mg/1ml,Solution for injection,Intraarterial/Subcutaneous,2080100,Parenteral Anticoagulants,Jan-13
+14138,3478,87668020,Enoxaparin sodium 60mg/0.6ml solution for injection pre-filled syringes,Enoxaparin sodium,100mg/1ml,Solution for injection,Intraarterial/Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+55096,25,9749020,"Fragmin 5,000units/0.2ml solution for injection pre-filled syringes (Waymade Healthcare Plc)",Dalteparin sodium,25000unit/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,May-13
+36617,0,88688020,Angiox 250mg powder for solution for injection vials (The Medicines Company UK Ltd),Bivalirudin,250mg,Powder for solution for injection,Intravenous,2080100,Parenteral Anticoagulants,Feb-09
+52004,5,2263020,"Fragmin 12,500units/0.5ml solution for injection pre-filled syringes (Waymade Healthcare Plc)",Dalteparin sodium,25000unit/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Jan-13
+54234,3,37216020,"Heparin sodium 1,000units/500ml infusion Viaflex bags (Baxter Healthcare Ltd)",Heparin sodium,2unit/1ml,Infusion,Intravenous,2080100,Parenteral Anticoagulants,Mar-13
+26146,1,73245020,"Heparin low molecular weight 10,000 iu/ml Sterile solution",Dalteparin Sodium,"10,000 Iu/ml",Sterile Solution,,2080100,Parenteral Anticoagulants,Feb-09
+13270,10206,87672020,Enoxaparin sodium 120mg/0.8ml solution for injection pre-filled syringes,Enoxaparin sodium,150mg/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+7199,17365,87666020,Enoxaparin sodium 40mg/0.4ml solution for injection pre-filled syringes,Enoxaparin sodium,100mg/1ml,Solution for injection,Intraarterial/Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+36172,138,93583020,Clexane 300mg/3ml solution for injection multidose vials (Sanofi),Enoxaparin sodium,100mg/1ml,Solution for injection,Intravenous/Intraarterial/Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+17004,865,87564020,"Tinzaparin sodium 20,000units/2ml solution for injection vials",Tinzaparin sodium,10000unit/1ml,Solution for injection,Subcutaneous/Intravenous,2080100,Parenteral Anticoagulants,Feb-09
+37616,43,73289020,Heparin sodium 10 unit/ml Solution,Heparin Sodium,10 Unit/ml,Solution,,2080100,Parenteral Anticoagulants,Feb-09
+62856,141,44858021,"Tinzaparin sodium 12,000units/0.6ml solution for injection pre-filled syringes",,,,,2080100,Parenteral Anticoagulants,Apr-15
+56166,3,37981020,Heparin sodium 100units/1ml solution for injection ampoules,,,,,2080100,Parenteral Anticoagulants,Aug-13
+21365,53,57897020,Uniparin 5000iu/0.2ml Injection (C P Pharmaceuticals Ltd),Heparin Sodium,5000iu/0.2ml,Injection,,2080100,Parenteral Anticoagulants,Feb-09
+29207,3,57360020,Innohep 5000iu/0.5ml Sterile solution (LEO Pharma),Tinzaparin Sodium,5000iu/0.5ml,Sterile Solution,,2080100,Parenteral Anticoagulants,Feb-09
+55565,1,2293020,Clexane 100mg/1ml solution for injection pre-filled syringes (DE Pharmaceuticals),Enoxaparin sodium,100mg/1ml,Solution for injection,Intraarterial/Subcutaneous,2080100,Parenteral Anticoagulants,Jun-13
+14110,5680,87584020,"Tinzaparin sodium 10,000units/0.5ml solution for injection pre-filled syringes",Tinzaparin sodium,20000unit/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+6860,7918,88318020,"Fragmin 15,000units/0.6ml solution for injection pre-filled syringes (Pfizer Ltd)",Dalteparin sodium,25000unit/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+61949,9,89136020,Fondaparinux sodium 10mg/0.8ml solution for injection pre-filled syringes,Fondaparinux sodium,12.5mg/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Jan-15
+10170,7072,88308020,"Dalteparin sodium 15,000units/0.6ml solution for injection pre-filled syringes",Dalteparin sodium,25000unit/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+7154,12526,87682020,Clexane Forte 120mg/0.8ml solution for injection pre-filled syringes (Sanofi),Enoxaparin sodium,150mg/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+50994,0,37213020,Heparin sodium 500units/500ml infusion bags,,,,,2080100,Parenteral Anticoagulants,Jan-13
+9593,579,75576020,Dalteparin 25000iu/ml injection solution,Dalteparin Sodium,25000 Iu/ml,Injection Solution,,2080100,Parenteral Anticoagulants,Feb-09
+40715,1,63677020,Heparin 100iu/ml Oral solution (LEO Pharma),Heparin Sodium,100iu/ml,Oral Solution,,2080100,Parenteral Anticoagulants,Nov-09
+30396,17,54953020,Unihep leo 5000iu/ml Injection (LEO Pharma),Heparin Sodium,5000iu/ml,Injection,,2080100,Parenteral Anticoagulants,Feb-09
+28593,3,87650020,Heparin sodium 1000iu/ml pre-filled Injection,Heparin Sodium,1000iu/ml,Injection,,2080100,Parenteral Anticoagulants,Feb-09
+38839,1,89138020,Arixtra 5mg/0.4ml solution for injection pre-filled syringes (Aspen Pharma Trading Ltd),Fondaparinux sodium,12.5mg/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+28506,1,57494020,Heparin low molecular weight 3500 iu/0.3ml Sterile solution,Tinzaparin Sodium,3500 Iu/0.3ml,Sterile Solution,,2080100,Parenteral Anticoagulants,Feb-09
+37678,54,91648020,"Heparin sodium 5,000units/0.2ml solution for injection ampoules",Heparin sodium,25000unit/1ml,Solution for injection,Subcutaneous/Intravenous,2080100,Parenteral Anticoagulants,Feb-09
+5998,768,73237020,"Fragmin 10,000 iu/ml Solution for injection (Pfizer Ltd)",Dalteparin Sodium,"10,000 Iu/ml",Solution For Injection,Subcutaneous Injection,2080100,Parenteral Anticoagulants,Feb-09
+13058,577,74028020,Enoxaparin 150mg/ml injection,Enoxaparin Sodium,150mg/ml,Injection,,2080100,Parenteral Anticoagulants,Feb-09
+37131,16,91632020,"Heparin sodium 25,000units/5ml solution for injection vials",Heparin sodium,5000unit/1ml,Solution for injection,Subcutaneous/Intravenous,2080100,Parenteral Anticoagulants,Feb-09
+19989,449,87582020,"Tinzaparin sodium 40,000units/2ml solution for injection vials",Tinzaparin sodium,20000unit/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+6695,2709,54876020,"Dalteparin sodium 2,500units/0.2ml solution for injection pre-filled syringes",Dalteparin sodium,12500unit/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+13663,861,75893020,Innohep 20000 iu/ml Injection (LEO Pharma),Tinzaparin Sodium,20000 Iu/ml,Injection,Subcutaneous Injection,2080100,Parenteral Anticoagulants,Feb-09
+31148,268,53551020,Flolan 500microgram powder and solvent for solution for infusion vials (GlaxoSmithKline UK Ltd),Epoprostenol sodium,500microgram,Powder and solvent for solution for infusion,Intravenous,2080100,Parenteral Anticoagulants,Feb-09
+9605,10147,75574020,"Dalteparin sodium 5,000units/0.2ml solution for injection pre-filled syringes",Dalteparin sodium,25000unit/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+63571,2,44861021,"Innohep 16,000units/0.8ml solution for injection pre-filled syringes (LEO Pharma)",,,,,2080100,Parenteral Anticoagulants,Jul-15
+10044,2552,88304020,"Dalteparin sodium 10,000units/0.4ml solution for injection pre-filled syringes",Dalteparin sodium,25000unit/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+36989,753,93936020,"Fragmin 10,000units/1ml solution for injection pre-filled syringes (Pfizer Ltd)",Dalteparin sodium,10000unit/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+21233,183,87572020,"Innohep 20,000units/2ml solution for injection vials (LEO Pharma)",Tinzaparin sodium,10000unit/1ml,Solution for injection,Subcutaneous/Intravenous,2080100,Parenteral Anticoagulants,Feb-09
+53350,2,37215020,"Heparin sodium 1,000units/500ml infusion bags",,,,,2080100,Parenteral Anticoagulants,Jan-13
+60041,0,74748020,Danaparoid sodium 750units/0.6ml solution for injection ampoules,Danaparoid sodium,1250unit/1ml,Solution for injection,Subcutaneous/Intravenous,2080100,Parenteral Anticoagulants,May-14
+13568,124,73288020,"Heparin sodium 25,000iu/ml Subcutaneous injection",Heparin Sodium,"25,000iu/ml",Subcutaneous Injection,,2080100,Parenteral Anticoagulants,Feb-09
+24896,2,73246020,Heparin low molecular weight 2500 iu/0.2ml Sterile solution,Dalteparin Sodium,2500iu/0.2ml,Sterile Solution,,2080100,Parenteral Anticoagulants,Feb-09
+37613,18,91640020,"Heparin sodium 10,000units/10ml solution for injection ampoules",Heparin sodium,1000unit/1ml,Solution for injection,Intravenous,2080100,Parenteral Anticoagulants,Feb-09
+5747,874,71650020,"Fragmin 25,000iu/ml Solution for injection (Pfizer Ltd)",Dalteparin Sodium,"25,000iu/ml",Solution For Injection,Subcutaneous Injection,2080100,Parenteral Anticoagulants,Feb-09
+50391,8,2264020,"Fragmin 18,000units/0.72ml solution for injection pre-filled syringes (Waymade Healthcare Plc)",Dalteparin sodium,25000unit/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Jan-13
+8664,476,73283020,Heparin sodium 5000iu/ml Injection,Heparin Sodium,5000iu/ml,Injection,,2080100,Parenteral Anticoagulants,Feb-09
+48673,85,2266020,"Dalteparin sodium 10,000units/1ml solution for injection ampoules",Dalteparin sodium,10000unit/1ml,Solution for injection,Subcutaneous/Intravenous,2080100,Parenteral Anticoagulants,Jan-13
+27325,21,87580020,"Innohep 2,500units/0.25ml solution for injection pre-filled syringes (LEO Pharma)",Tinzaparin sodium,10000unit/1ml,Solution for injection,Intravenous/Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+19337,61,57889020,"Multiparin 125,000units/5ml solution for injection vials (Wockhardt UK Ltd)",Heparin sodium,25000unit/1ml,Solution for injection,Subcutaneous/Intravenous,2080100,Parenteral Anticoagulants,Feb-09
+35033,118,91630020,"Heparin sodium 5,000units/5ml solution for injection vials",Heparin sodium,1000unit/1ml,Solution for injection,Subcutaneous/Intravenous,2080100,Parenteral Anticoagulants,Feb-09
+64998,2,60818020,Epoprostenol 1.5mg powder and solvent for solution for infusion vials,Epoprostenol sodium,1.5mg,Powder and solvent for solution for infusion,Intravenous,2080100,Parenteral Anticoagulants,Dec-15
+15293,9,87652020,Heparin sodium 5000iu/ml pre-filled Injection,Heparin Sodium,5000iu/ml,Injection,,2080100,Parenteral Anticoagulants,Feb-09
+20153,6214,91195020,Enoxaparin sodium 150mg/1ml solution for injection pre-filled syringes,Enoxaparin sodium,150mg/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+20028,71,57887020,"Multiparin 5,000units/5ml solution for injection vials (Wockhardt UK Ltd)",Heparin sodium,1000unit/1ml,Solution for injection,Subcutaneous/Intravenous,2080100,Parenteral Anticoagulants,Feb-09
+64581,1,44863021,"Innohep 8,000units/0.4ml solution for injection pre-filled syringes (LEO Pharma)",Tinzaparin sodium,20000unit/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Oct-15
+37704,7,50417020,"Minihep 25,000iu/ml Subcutaneous preparation (LEO Pharma)",Heparin Sodium,"25,000iu/ml",Subcutaneous Preparation,,2080100,Parenteral Anticoagulants,Feb-09
+5526,2836,73238020,"Fragmin 2,500units/0.2ml solution for injection pre-filled syringes (Pfizer Ltd)",Dalteparin sodium,12500unit/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+37086,81,93581020,Enoxaparin sodium 300mg/3ml solution for injection vials,Enoxaparin Sodium,300mg/3ml,Injection,Subcutaneous Deep Injection,2080100,Parenteral Anticoagulants,Feb-09
+14794,76,57892020,Monoparin 1000iu/ml Injection (C P Pharmaceuticals Ltd),Heparin Sodium,1000iu/ml,Injection,Intravenous Injection,2080100,Parenteral Anticoagulants,Feb-09
+20024,82,68229020,"Uniparin forte 10,000 iu/0.4ml Subcutaneous injection (C P Pharmaceuticals Ltd)",Heparin Sodium,"10,000 Iu/0.4ml",Subcutaneous Injection,,2080100,Parenteral Anticoagulants,Feb-09
+54927,4,37217020,"Heparin sodium 2,000units/1,000ml infusion bags",,,,,2080100,Parenteral Anticoagulants,May-13
+29318,5,73244020,Heparin low molecular weight 2500 iu/ml Sterile solution,Dalteparin Sodium,2500 Iu/ml,Sterile Solution,,2080100,Parenteral Anticoagulants,Feb-09
+62959,0,2268020,"Heparin calcium 5,000units/0.2ml solution for injection ampoules (A A H Pharmaceuticals Ltd)",Heparin calcium,25000unit/1ml,Solution for injection,Intravenous/Subcutaneous,2080100,Parenteral Anticoagulants,Apr-15
+23570,228,89134020,Fondaparinux sodium 7.5mg/0.6ml solution for injection pre-filled syringes,Fondaparinux sodium,12.5mg/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+2675,1103,73236020,"Fragmin 10,000units/4ml solution for injection ampoules (Pfizer Ltd)",Dalteparin sodium,2500unit/1ml,Solution for injection,Subcutaneous/Intravenous,2080100,Parenteral Anticoagulants,Feb-09
+9640,1312,52033020,Tinzaparin 10000 IU/ml Injection,Tinzaparin Sodium,10000 Iu/ml,Injection,,2080100,Parenteral Anticoagulants,Feb-09
+29043,30,84673020,Arixtra 2.5mg/0.5ml solution for injection pre-filled syringes (Aspen Pharma Trading Ltd),Fondaparinux sodium,5mg/1ml,Solution for injection,Intravenous/Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+14788,610,87592020,"Innohep 10,000units/0.5ml solution for injection pre-filled syringes (LEO Pharma)",Tinzaparin sodium,20000unit/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+13097,7807,87674020,Clexane 20mg/0.2ml solution for injection pre-filled syringes (Sanofi),Enoxaparin sodium,100mg/1ml,Solution for injection,Intraarterial/Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+17484,244,57361020,"Innohep 10,000 IU/ml Injection (LEO Pharma)",Tinzaparin Sodium,"10,000 Iu/ml",Injection,Subcutaneous Injection,2080100,Parenteral Anticoagulants,Feb-09
+51006,1,2291020,Clexane 80mg/0.8ml solution for injection pre-filled syringes (DE Pharmaceuticals),Enoxaparin sodium,100mg/1ml,Solution for injection,Intraarterial/Subcutaneous,2080100,Parenteral Anticoagulants,Jan-13
+10240,12343,87586020,"Tinzaparin sodium 14,000units/0.7ml solution for injection pre-filled syringes",Tinzaparin sodium,20000unit/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+18209,2066,88312020,"Fragmin 7,500units/0.3ml solution for injection pre-filled syringes (Pfizer Ltd)",Dalteparin sodium,25000unit/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+10004,9846,87680020,Clexane 80mg/0.8ml solution for injection pre-filled syringes (Sanofi),Enoxaparin sodium,100mg/1ml,Solution for injection,Intraarterial/Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+17791,91,81245020,Innohep 5000iu/5ml Sterile solution (LEO Pharma),Tinzaparin Sodium,5000iu/5ml,Sterile Solution,,2080100,Parenteral Anticoagulants,Feb-09
+17007,356,87570020,"Tinzaparin sodium 2,500units/0.25ml solution for injection pre-filled syringes",Tinzaparin sodium,10000unit/1ml,Solution for injection,Intravenous/Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+2676,12114,71648020,"Fragmin 5,000units/0.2ml solution for injection pre-filled syringes (Pfizer Ltd)",Dalteparin sodium,25000unit/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+17664,5330,87678020,Clexane 60mg/0.6ml solution for injection pre-filled syringes (Sanofi),Enoxaparin sodium,100mg/1ml,Solution for injection,Intraarterial/Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+10532,408,52793020,Minihep calcium 5000iu/0.2ml Injection (LEO Pharma),Heparin Calcium,5000iu/0.2ml,Injection,,2080100,Parenteral Anticoagulants,Feb-09
+10002,778,54875020,Dalteparin 10000iu/1ml injection solution,Dalteparin Sodium,10000 Iu/1ml,Injection Solution,Subcutaneous Injection,2080100,Parenteral Anticoagulants,Feb-09
+63297,0,67623020,"Heparin sodium 5,000units/5ml solution for injection vials (LEO Pharma)",Heparin sodium,1000unit/1ml,Solution for injection,Subcutaneous/Intravenous,2080100,Parenteral Anticoagulants,Jun-15
+45597,20,86690020,Lepirudin 50mg powder for solution for injection vials,Lepirudin,50mg,Powder for solution for injection,Intravenous,2080100,Parenteral Anticoagulants,Jun-11
+20029,104,57888020,"Multiparin 25,000units/5ml solution for injection vials (Wockhardt UK Ltd)",Heparin sodium,5000unit/1ml,Solution for injection,Subcutaneous/Intravenous,2080100,Parenteral Anticoagulants,Feb-09
+15709,25,57467020,Tinzaparin 3500 IU/0.3ml Sterile solution,Tinzaparin Sodium,3500 Iu/0.3ml,Sterile Solution,,2080100,Parenteral Anticoagulants,Feb-09
+12974,248,74024020,Clexane 150mg/ml Injection (Aventis Pharma),Enoxaparin Sodium,150mg/ml,Injection,Subcutaneous Injection,2080100,Parenteral Anticoagulants,Feb-09
+29317,15,57468020,Tinzaparin 5000 i.u./0.5ml Sterile solution,Tinzaparin Sodium,5000 I.u./0.5ml,Sterile Solution,,2080100,Parenteral Anticoagulants,Feb-09
+14891,7903,88310020,"Dalteparin sodium 18,000units/0.72ml solution for injection pre-filled syringes",Dalteparin sodium,25000unit/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+21490,49,57893020,Monoparin 5000iu/ml Injection (C P Pharmaceuticals Ltd),Heparin Sodium,5000iu/ml,Injection,Subcutaneous Injection,2080100,Parenteral Anticoagulants,Feb-09
+19280,1063,87594020,"Innohep 14,000units/0.7ml solution for injection pre-filled syringes (LEO Pharma)",Tinzaparin sodium,20000unit/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+23579,126,77866020,Fondaparinux sodium 2.5mg/0.5ml solution for injection pre-filled syringes,Fondaparinux sodium,5mg/1ml,Solution for injection,Intravenous/Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+47397,2,91646020,"Heparin sodium 25,000units/5ml solution for injection ampoules",Heparin sodium,5000unit/1ml,Solution for injection,Subcutaneous/Intravenous,2080100,Parenteral Anticoagulants,Jun-12
+16061,232,87576020,"Innohep 3,500units/0.35ml solution for injection pre-filled syringes (LEO Pharma)",Tinzaparin sodium,10000unit/1ml,Solution for injection,Intravenous/Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+63101,17,44862021,"Tinzaparin sodium 8,000units/0.4ml solution for injection pre-filled syringes",,,,,2080100,Parenteral Anticoagulants,May-15
+25155,214,71649020,"Fragmin 100,000units/4ml solution for injection vials (Pfizer Ltd)",Dalteparin sodium,25000unit/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+63146,1,91642020,"Heparin sodium 20,000units/20ml solution for injection ampoules",Heparin sodium,1000unit/1ml,Solution for injection,Intravenous,2080100,Parenteral Anticoagulants,May-15
+13716,49,73287020,"Heparin sodium 25,000iu/ml Injection",Heparin Sodium,"25,000iu/ml",Injection,,2080100,Parenteral Anticoagulants,Feb-09
+11117,724,54960020,Hep-flush 100iu/ml Oral solution (LEO Pharma),Heparin Sodium,100iu/ml,Oral Solution,,2080100,Parenteral Anticoagulants,Feb-09
+12681,177,81560020,"Heparin calcium 25,000iu/ml Injection",Heparin Calcium,"25,000iu/ml",Injection,,2080100,Parenteral Anticoagulants,Feb-09
+64559,0,2234020,"Heparin sodium 1,000units/1ml solution for injection ampoules (A A H Pharmaceuticals Ltd)",Heparin sodium,1000unit/1ml,Solution for injection,Intravenous,2080100,Parenteral Anticoagulants,Oct-15
+64969,0,2279020,Clexane 20mg/0.2ml solution for injection pre-filled syringes (Sigma Pharmaceuticals Plc),Enoxaparin sodium,100mg/1ml,Solution for injection,Intraarterial/Subcutaneous,2080100,Parenteral Anticoagulants,Dec-15
+55490,3,73284020,"Heparin sodium 10,000 iu/ml Injection",Heparin Sodium,"10,000 Iu/ml",Injection,,2080100,Parenteral Anticoagulants,Jun-13
+32645,1,53913020,"Heparin sodium 25,000iu/ml Injection",Heparin Sodium,"25,000iu/ml",Injection,,2080100,Parenteral Anticoagulants,Feb-09
+6478,4275,87662020,Enoxaparin sodium 20mg/0.2ml solution for injection pre-filled syringes,Enoxaparin sodium,100mg/1ml,Solution for injection,Intraarterial/Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+32511,1,81243020,Tinzaparin 5000 i.u./5ml Sterile solution,Tinzaparin Sodium,5000 I.u./5ml,Sterile Solution,,2080100,Parenteral Anticoagulants,Feb-09
+9610,1973,79398020,Tinzaparin 20000 iu/ml Injection,Tinzaparin Sodium,20000 Iu/ml,Injection,,2080100,Parenteral Anticoagulants,Feb-09
+7371,17483,91197020,Clexane 100mg/1ml solution for injection pre-filled syringes (Sanofi),Enoxaparin sodium,100mg/1ml,Solution for injection,Intraarterial/Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+3744,4025,73293020,Heparin 10 iu/ml Flush solution,Heparin Sodium,10 Iu/ml,Flush Solution,,2080100,Parenteral Anticoagulants,Feb-09
+51350,8,2265020,"Fragmin 15,000units/0.6ml solution for injection pre-filled syringes (Waymade Healthcare Plc)",Dalteparin sodium,25000unit/1ml,Solution for injection,Subcutaneous,2080100,Parenteral Anticoagulants,Jan-13
+21518,36,57894020,"Monoparin 25,000iu/ml Injection (C P Pharmaceuticals Ltd)",Heparin Sodium,"25,000iu/ml",Injection,Subcutaneous Injection,2080100,Parenteral Anticoagulants,Feb-09
+64133,0,2271020,"Heparin sodium 5,000units/0.2ml solution for injection ampoules (A A H Pharmaceuticals Ltd)",Heparin sodium,25000unit/1ml,Solution for injection,Subcutaneous/Intravenous,2080100,Parenteral Anticoagulants,Aug-15
+62902,89,44860021,"Tinzaparin sodium 16,000units/0.8ml solution for injection pre-filled syringes",,,,,2080100,Parenteral Anticoagulants,Apr-15
+18732,76,57359020,Innohep 3500 iu/0.3ml Sterile solution (LEO Pharma),Tinzaparin Sodium,3500 Iu/0.3ml,Sterile Solution,,2080100,Parenteral Anticoagulants,Feb-09
+14212,3308,87566020,"Tinzaparin sodium 3,500units/0.35ml solution for injection pre-filled syringes",Tinzaparin sodium,10000unit/1ml,Solution for injection,Intravenous/Subcutaneous,2080100,Parenteral Anticoagulants,Feb-09
+62310,1,41332020,Warfarin 500microgram tablets (AMCo),Warfarin sodium,500microgram,Tablet,Oral,2080200,Oral Anticoagulants,Feb-15
+31937,2671,55826020,Warfarin 5mg tablets (Teva UK Ltd),Warfarin sodium,5mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+55316,1,20945020,Warfarin 3mg/5ml oral suspension,Warfarin sodium,600microgram/1ml,Oral suspension,Oral,2080200,Oral Anticoagulants,May-13
+44866,276,99253020,Warfarin sodium 1mg/ml oral supension SF,Warfarin Sodium,1mg/ml,Oral Suspension Sugar-free,Oral,2080200,Oral Anticoagulants,Mar-11
+58594,130,46753020,Eliquis 5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Apixaban,5mg,Tablet,Oral,2080200,Oral Anticoagulants,Jan-14
+34417,565,55825020,Warfarin 3mg tablets (Teva UK Ltd),Warfarin sodium,3mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+56640,200,39230020,Xarelto 15mg tablets (Bayer Plc),,,,,2080200,Oral Anticoagulants,Aug-13
+34418,62,62805020,Warfarin 5mg tablets (Mylan Ltd),Warfarin sodium,5mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+1781,1849606,65439020,Warfarin 5mg tablets,Warfarin sodium,5mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+43655,1,91752020,Warfarin sodium oral solution,Warfarin Sodium,,Oral Liquid,Oral,2080200,Oral Anticoagulants,Oct-10
+34864,1552,55897020,Warfarin 5mg tablets (IVAX Pharmaceuticals UK Ltd),Warfarin sodium,5mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+8466,46685,54866020,Marevan 1mg tablets (AMCo),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+56289,1029,39232020,Xarelto 20mg tablets (Bayer Plc),,,,,2080200,Oral Anticoagulants,Aug-13
+36099,316,93666020,Warfarin 1mg/5ml oral suspension,Warfarin sodium,200microgram/1ml,Oral suspension,Oral,2080200,Oral Anticoagulants,Feb-09
+4446,25198,60995020,Acenocoumarol 1mg tablets,Acenocoumarol,1mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+13348,20804,54868020,Marevan 5mg tablets (AMCo),Warfarin sodium,5mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+30202,2465,52500020,Warfarin wbp 1mg Tablet (Boehringer Ingelheim Ltd),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+13644,1506,54848020,Dindevan 25mg Tablet (Goldshield Pharmaceuticals Ltd),Phenindione,25mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+58519,0,17195021,Warfarin 1mg tablets (DE Pharmaceuticals),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,Jan-14
+48070,0,96752020,Warfarin sodium tablets,Warfarin Sodium,,Tablets,Oral,2080200,Oral Anticoagulants,Nov-12
+59400,1,2311020,Warfarin 500microgram tablets (Sigma Pharmaceuticals Plc),Warfarin sodium,500microgram,Tablet,Oral,2080200,Oral Anticoagulants,Apr-14
+54946,0,57162020,Warfarin 3mg tablets (Actavis UK Ltd),Warfarin sodium,3mg,Tablet,Oral,2080200,Oral Anticoagulants,May-13
+42474,207,94835020,Pradaxa 75mg capsules (Boehringer Ingelheim Ltd),Dabigatran etexilate mesilate,75mg,Capsule,Oral,2080200,Oral Anticoagulants,Jun-10
+34299,1514,55824020,Warfarin 1mg tablets (Teva UK Ltd),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+38044,66,94825020,Warfarin 5mg/5ml oral solution,Warfarin sodium,1mg/1ml,Oral solution,Oral,2080200,Oral Anticoagulants,Feb-09
+56314,1,63429020,Warfarin 3mg tablets (Kent Pharmaceuticals Ltd),Warfarin sodium,3mg,Tablet,Oral,2080200,Oral Anticoagulants,Aug-13
+47944,11,57161020,Warfarin 1mg tablets (Actavis UK Ltd),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,Oct-12
+50000,0,41649020,Warfarin 1mg/ml oral suspension sugar free (A A H Pharmaceuticals Ltd),Warfarin sodium,1mg/1ml,Oral suspension,Oral,2080200,Oral Anticoagulants,Jan-13
+45,5855383,65437020,Warfarin 1mg tablets,Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+13505,10698,65648020,Phenindione 10mg tablets,Phenindione,10mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+34019,2498,55895020,Warfarin 1mg tablets (IVAX Pharmaceuticals UK Ltd),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+48869,861,37790020,Warfarin 1mg/ml oral suspension sugar free,,,,,2080200,Oral Anticoagulants,Jan-13
+23078,16516,51984020,Warfarin 1mg Tablet (WB Pharmaceuticals Ltd),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+46924,1,62256020,Phenindione 10mg tablets (AMCo),Phenindione,10mg,Tablet,Oral,2080200,Oral Anticoagulants,Mar-12
+8467,38944,54867020,Marevan 3mg tablets (AMCo),Warfarin sodium,3mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+64678,5,53104021,Edoxaban 60mg tablets,,,,,2080200,Oral Anticoagulants,Nov-15
+34576,31,59540020,Warfarin 1mg Tablet (Lagap),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+54451,112640,39231020,Rivaroxaban 20mg tablets,,,,,2080200,Oral Anticoagulants,Apr-13
+15376,184,60996020,Acenocoumarol 4mg tablets,Acenocoumarol,4mg,Tablets,Oral,2080200,Oral Anticoagulants,Feb-09
+54892,0,37791020,Warfarin 1mg/ml oral suspension sugar free (Alliance Healthcare (Distribution) Ltd),,,,,2080200,Oral Anticoagulants,May-13
+13501,1816,54849020,Dindevan 50mg Tablet (Goldshield Pharmaceuticals Ltd),Phenindione,50mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+55577,0,2314020,Sinthrome 1mg tablets (Lexon (UK) Ltd),Acenocoumarol,1mg,Tablet,Oral,2080200,Oral Anticoagulants,Jun-13
+48966,33239,39229020,Rivaroxaban 15mg tablets,,,,,2080200,Oral Anticoagulants,Jan-13
+61,4483428,65438020,Warfarin 3mg tablets,Warfarin sodium,3mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+65285,0,47991021,Warfarin 1mg tablets (Crescent Pharma Ltd),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,Jan-16
+47566,19444,345021,Apixaban 2.5mg tablets,Apixaban,2.5mg,Tablet,Oral,2080200,Oral Anticoagulants,Aug-12
+6262,571611,84736020,Warfarin 500microgram tablets,Warfarin sodium,500microgram,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+65247,2,53102021,Edoxaban 30mg tablets,Edoxaban tosilate,30mg,Tablet,Oral,2080200,Oral Anticoagulants,Jan-16
+60949,3,20948020,Warfarin 5mg/5ml oral suspension,Warfarin sodium,1mg/1ml,Oral suspension,Oral,2080200,Oral Anticoagulants,Aug-14
+63071,1,9950020,Warfarin 4mg tablets,Warfarin sodium,4mg,Tablet,Oral,2080200,Oral Anticoagulants,May-15
+51484,2,2298020,Warfarin 1mg tablets (Bristol Laboratories Ltd),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,Jan-13
+13502,2715,54847020,Dindevan 10mg Tablet (Goldshield Pharmaceuticals Ltd),Phenindione,10mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+53740,129,347021,Eliquis 2.5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Apixaban,2.5mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-13
+31511,15727,51985020,Warfarin 3mg Tablet (WB Pharmaceuticals Ltd),Warfarin sodium,3mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+34517,56,62803020,Warfarin 1mg tablets (Mylan Ltd),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+46678,924,253021,Pradaxa 150mg capsules (Boehringer Ingelheim Ltd),Dabigatran etexilate mesilate,150mg,Capsule,Oral,2080200,Oral Anticoagulants,Jan-12
+43409,280,56202020,Warfarin 5mg tablets (A A H Pharmaceuticals Ltd),Warfarin sodium,5mg,Tablet,Oral,2080200,Oral Anticoagulants,Sep-10
+51509,1,38963020,Warfarin 1mg tablets (APC Pharmaceuticals & Chemicals (Europe) Ltd),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,Jan-13
+34416,47,63426020,Warfarin 1mg tablets (Kent Pharmaceuticals Ltd),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+39444,32552,94831020,Dabigatran etexilate 110mg capsules,Dabigatran Etexilate Mesilate,110mg,Capsules,Oral,2080200,Oral Anticoagulants,Apr-09
+33711,5173,51986020,Warfarin 5mg Tablet (WB Pharmaceuticals Ltd),Warfarin sodium,5mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+39639,55,95937020,Xarelto 10mg tablets (Bayer Plc),Rivaroxaban,10mg,Tablet,Oral,2080200,Oral Anticoagulants,May-09
+34086,328,50811020,Warfarin 3mg Tablet (Celltech Pharma Europe Ltd),Warfarin sodium,3mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+60589,20,72795020,Warfarin 500microgram tablets (Actavis UK Ltd),Warfarin sodium,500microgram,Tablet,Oral,2080200,Oral Anticoagulants,Jul-14
+40143,414,65390020,Warfarin 500microgram tablets (A A H Pharmaceuticals Ltd),Warfarin sodium,500microgram,Tablet,Oral,2080200,Oral Anticoagulants,Aug-09
+58962,0,17196021,Warfarin 3mg tablets (DE Pharmaceuticals),Warfarin sodium,3mg,Tablet,Oral,2080200,Oral Anticoagulants,Mar-14
+13504,6315,65649020,Phenindione 25mg tablets,Phenindione,25mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+39755,1503,94837020,Pradaxa 110mg capsules (Boehringer Ingelheim Ltd),Dabigatran Etexilate Mesilate,110mg,Capsules,Oral,2080200,Oral Anticoagulants,Jun-09
+34088,191,50812020,Warfarin 5mg Tablet (Celltech Pharma Europe Ltd),Warfarin sodium,5mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+46632,21219,251021,Dabigatran etexilate 150mg capsules,Dabigatran Etexilate Mesilate,150mg,Capsules,Oral,2080200,Oral Anticoagulants,Jan-12
+17965,8740,77096020,Marevan 500microgram tablets (AMCo),Warfarin sodium,500microgram,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+43408,747,56200020,Warfarin 1mg tablets (A A H Pharmaceuticals Ltd),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,Sep-10
+833,349,89966020,Warfarin 3mg/5ml oral solution,Warfarin sodium,600microgram/1ml,Oral solution,Oral,2080200,Oral Anticoagulants,Feb-09
+34087,718,50810020,Warfarin 1mg Tablet (Celltech Pharma Europe Ltd),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+59578,2,2303020,Warfarin 3mg tablets (Phoenix Healthcare Distribution Ltd),Warfarin sodium,3mg,Tablet,Oral,2080200,Oral Anticoagulants,Apr-14
+39119,6061,95923020,Rivaroxaban 10mg tablets,Rivaroxaban,10mg,Tablet,Oral,2080200,Oral Anticoagulants,Apr-09
+51496,1,2299020,Warfarin 1mg tablets (Phoenix Healthcare Distribution Ltd),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,Jan-13
+62309,0,2309020,Warfarin 500microgram tablets (Kent Pharmaceuticals Ltd),Warfarin sodium,500microgram,Tablet,Oral,2080200,Oral Anticoagulants,Feb-15
+5305,36299,51558020,Sinthrome 1mg tablets (Merus Labs Luxco S.a R.L.),Acenocoumarol,1mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+38041,86,94827020,Warfarin sodium 5mg/ml oral suspension,Warfarin Sodium,5mg/5ml,Oral Suspension,Oral,2080200,Oral Anticoagulants,Feb-09
+57032,1,77754020,Warfarin 1mg/ml oral suspension sugar free (Rosemont Pharmaceuticals Ltd),,,,,2080200,Oral Anticoagulants,Sep-13
+64500,5,40546021,Xarelto 2.5mg tablets (Bayer Plc),Rivaroxaban,2.5mg,Tablet,Oral,2080200,Oral Anticoagulants,Oct-15
+34691,12,62856020,Warfarin 5mg Tablet (Regent Laboratories Ltd),Warfarin sodium,5mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+53752,0,2297020,Warfarin 1mg tablets (Alliance Healthcare (Distribution) Ltd),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-13
+34095,1201,52502020,Warfarin wbp 5mg Tablet (Boehringer Ingelheim Ltd),Warfarin sodium,5mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+58787,1,2305020,Warfarin 5mg tablets (Alliance Healthcare (Distribution) Ltd),Warfarin sodium,5mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-14
+62150,166,40545021,Rivaroxaban 2.5mg tablets,Rivaroxaban,2.5mg,Tablet,Oral,2080200,Oral Anticoagulants,Jan-15
+34526,70,62804020,Warfarin 3mg tablets (Mylan Ltd),Warfarin sodium,3mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+15006,676,51559020,Sinthrome 4mg Tablet (Alliance Pharmaceuticals Ltd),Acenocoumarol,4mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+39866,46,68098020,Warfarin 1mg tablets (Almus Pharmaceuticals Ltd),Warfarin sodium,1mg,Tablet,Oral,2080200,Oral Anticoagulants,Aug-09
+34758,2373,55896020,Warfarin 3mg tablets (IVAX Pharmaceuticals UK Ltd),Warfarin sodium,3mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+34918,22,57163020,Warfarin 5mg tablets (Actavis UK Ltd),Warfarin sodium,5mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+30203,2580,52501020,Warfarin wbp 3mg Tablet (Boehringer Ingelheim Ltd),Warfarin sodium,3mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+43407,451,56201020,Warfarin 3mg tablets (A A H Pharmaceuticals Ltd),Warfarin sodium,3mg,Tablet,Oral,2080200,Oral Anticoagulants,Sep-10
+54066,26655,46752020,Apixaban 5mg tablets,Apixaban,5mg,Tablet,Oral,2080200,Oral Anticoagulants,Mar-13
+39503,1525,94833020,Dabigatran etexilate 75mg capsules,Dabigatran etexilate mesilate,75mg,Capsule,Oral,2080200,Oral Anticoagulants,Apr-09
+53745,0,2302020,Warfarin 3mg tablets (Bristol Laboratories Ltd),Warfarin sodium,3mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-13
+13503,6154,65650020,Phenindione 50mg tablets,Phenindione,50mg,Tablet,Oral,2080200,Oral Anticoagulants,Feb-09
+56315,0,28117020,Anticoagulant Citrate Dextrose Solution formula A infusion 500ml bags,,,,,2080000,Anticoagulants And Protamine,Aug-13
+64315,0,28118020,Anticoagulant solution ACD-A 500ml bags (Haemonetics Ltd),Sodium citrate/Glucose monohydrate/Citric acid monohydrate,22gram/1litre + 24.5gram/1litre + 8gram/1litre,Liquid,Route of administration not applicable,2080000,Anticoagulants And Protamine,Sep-15

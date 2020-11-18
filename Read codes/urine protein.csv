@@ -1,0 +1,20 @@
+medcode,readcode,clinicalevents,immunisationevents,referralevents,testevents,readterm,databasebuild
+43,467..00,13535,0,263,6101743,Urine protein test,Feb-09
+8482,467A.00,223,0,39,37578,24 hour urine protein output,Feb-09
+9430,4679,915,0,21,852302,Urine dipstick for protein,Feb-09
+13590,4674,14926,0,6377,81326,Urine protein test = +,Feb-09
+13600,4677,486,0,229,5286,Urine protein test = ++++,Feb-09
+13611,4675,3193,0,1749,33717,Urine protein test = ++,Feb-09
+13612,4673,7093,0,4216,91891,Urine protein test = trace,Feb-09
+13613,46N2.00,111,0,200,916,Urine protein abnormal,Feb-09
+13621,4676,1389,0,659,14444,Urine protein test = +++,Feb-09
+14091,4672,185416,0,19755,1431946,Urine protein test negative,Feb-09
+14092,4671,18291,0,1,118653,Urine protein test not done,Feb-09
+14094,467E.00,711,0,39,44922,Urine protein level,Feb-09
+14382,46N1.00,458,0,434,17819,Urine protein normal,Feb-09
+14395,46N..00,437,0,194,384125,Urine protein,Feb-09
+14429,46N3.00,1,0,2,158684,Urine total protein,Feb-09
+27059,467Z.00,434,0,0,2481,Urine protein test NOS,Feb-09
+27214,46NZ.00,2,0,7,41747,Urine protein NOS,Feb-09
+43262,467H.00,34,0,0,5493,Random urine protein level,Feb-09
+49741,68K2.00,4606,0,1,4,Urine screen for protein,Feb-09

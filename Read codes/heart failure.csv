@@ -1,0 +1,33 @@
+medcode,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
+398,191757,14356,78,0,G580.00,Congestive heart failure,Feb-09
+884,161298,11730,21,0,G581.00,Left ventricular failure,Feb-09
+1223,8302,373,12,0,G58..11,Cardiac failure,Feb-09
+2062,90070,6974,16,0,G58..00,Heart failure,Feb-09
+2906,72507,3117,50,0,G580.11,Congestive cardiac failure,Feb-09
+4024,15562,1314,14,0,G58z.00,Heart failure NOS,Feb-09
+5255,1525,149,0,0,G581000,Acute left ventricular failure,Feb-09
+5942,4726,15,0,0,G581.13,Impaired left ventricular function,Feb-09
+9524,970,19,0,0,G580.14,Biventricular failure,Feb-09
+10079,1014,38,0,0,G580.12,Right heart failure,Feb-09
+10154,492,18,0,0,G580.13,Right ventricular failure,Feb-09
+11424,168,1,0,0,G580300,Compensated cardiac failure,Feb-09
+12590,95,11,0,0,G58z.11,Weak heart,Feb-09
+13189,4224,0,0,0,662g.00,New York Heart Association classification - class II,Feb-09
+17278,687,22,1,0,G58z.12,Cardiac failure NOS,Feb-09
+18853,2600,1,0,0,662f.00,New York Heart Association classification - class I,Feb-09
+19066,2385,3,0,0,662h.00,New York Heart Association classification - class III,Feb-09
+20822,123,3,0,0,Q48y100,Congenital cardiac failure,Feb-09
+22262,140,10,0,0,G1yz100,Rheumatic left ventricular failure,Feb-09
+23481,424,52,0,0,G581.11,Asthma - cardiac,Feb-09
+23707,550,21,0,0,G580000,Acute congestive heart failure,Feb-09
+27884,534,23,0,0,G580200,Decompensated cardiac failure,Feb-09
+27964,485,37,0,0,G582.00,Acute heart failure,Feb-09
+32671,1078,10,0,0,G580100,Chronic congestive heart failure,Feb-09
+43618,198,3,0,0,G581.12,Pulmonary oedema - acute,Feb-09
+51214,280,0,0,0,662i.00,New York Heart Association classification - class IV,Feb-09
+104275,69,0,0,0,G584.00,Right ventricular failure,Jun-12
+11284,5224,,,,585f.00,Echocardiogram shows left ventricular systolic dysfunction,Feb-09
+57987,8,,,,G234.00,Hyperten heart&renal dis+both(congestv)heart and renal fail,Feb-09
+94870,62,,,,G580400,Congestive heart failure due to valvular disease,Feb-09
+101138,136,,,,G583.00,Heart failure with normal ejection fraction,Dec-10
+101137,46,,,,G583.11,HFNEF - heart failure with normal ejection fraction,Dec-10

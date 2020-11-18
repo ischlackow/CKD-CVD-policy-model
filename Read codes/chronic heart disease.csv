@@ -1,0 +1,168 @@
+medcode,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
+240,575085,10577,1653,0,G3...00,Ischaemic heart disease,Feb-09
+24783,684,1,0,0,G3...11,Arteriosclerotic heart disease,Feb-09
+20416,2202,9,0,0,G3...12,Atherosclerotic heart disease,Feb-09
+1792,129431,2902,9,0,G3...13,IHD - Ischaemic heart disease,Feb-09
+241,208861,9926,65,0,G30..00,Acute myocardial infarction,Feb-09
+13566,413,6,0,0,G30..11,Attack - heart,Feb-09
+2491,3364,153,1,0,G30..12,Coronary thrombosis,Feb-09
+30421,146,5,0,0,G30..13,Cardiac rupture following myocardial infarction (MI),Feb-09
+1204,4571,256,1,0,G30..14,Heart attack,Feb-09
+1677,81001,945,14,0,G30..15,MI - acute myocardial infarction,Feb-09
+13571,407,0,0,0,G30..16,Thrombosis - coronary,Feb-09
+17689,408,8,0,0,G30..17,Silent myocardial infarction,Feb-09
+12139,1578,18,0,0,G300.00,Acute anterolateral infarction,Feb-09
+17872,1034,8,0,0,G301100,Acute anteroseptal infarction,Feb-09
+40429,93,0,0,0,G301000,Acute anteroapical infarction,Feb-09
+14897,2838,10,0,0,G301z00,Anterior myocardial infarction NOS,Feb-09
+5387,1951,58,0,0,G301.00,Other specified anterior myocardial infarction,Feb-09
+8935,1414,18,0,0,G302.00,Acute inferolateral infarction,Feb-09
+29643,447,7,0,0,G303.00,Acute inferoposterior infarction,Feb-09
+23892,650,4,0,0,G304.00,Posterior myocardial infarction NOS,Feb-09
+14898,502,8,0,0,G305.00,Lateral myocardial infarction NOS,Feb-09
+63467,46,0,0,0,G306.00,True posterior myocardial infarction,Feb-09
+3704,3162,159,0,0,G307.00,Acute subendocardial infarction,Feb-09
+9507,845,11,0,0,G307000,Acute non-Q wave infarction,Feb-09
+10562,46915,127,1,0,G307100,Acute non-ST segment elevation myocardial infarction,Feb-09
+1678,11530,194,0,0,G308.00,Inferior myocardial infarction NOS,Feb-09
+30330,89,0,0,0,G309.00,Acute Q-wave infarct,Feb-09
+17133,512,10,0,0,G30A.00,Mural thrombosis,Feb-09
+32854,57,0,0,0,G30B.00,Acute posterolateral myocardial infarction,Feb-09
+29758,153,5,0,0,G30X.00,Acute transmural myocardial infarction of unspecif site,Feb-09
+12229,16069,37,0,0,G30X000,Acute ST segment elevation myocardial infarction,Feb-09
+34803,218,0,0,0,G30y.00,Other acute myocardial infarction,Feb-09
+41221,154,5,0,0,G30y200,Acute septal infarction,Feb-09
+46017,306,0,0,0,G30yz00,Other acute myocardial infarction NOS,Feb-09
+62626,3,0,0,0,G30y100,Acute papillary muscle infarction,Feb-09
+28736,80,1,0,0,G30y000,Acute atrial infarction,Feb-09
+14658,78288,6151,4,0,G30z.00,Acute myocardial infarction NOS,Feb-09
+27951,157,5,0,0,G31..00,Other acute and subacute ischaemic heart disease,Feb-09
+23579,91,4,0,0,G310.00,Postmyocardial infarction syndrome,Feb-09
+15661,506,16,0,0,G310.11,Dressler's syndrome,Feb-09
+19655,615,62,0,0,G311.14,Angina at rest,Feb-09
+39655,4,0,0,0,G311.12,Impending infarction,Feb-09
+1431,34028,5913,3,0,G311.13,Unstable angina,Feb-09
+4656,4989,1433,0,0,G311.11,Crescendo angina,Feb-09
+36523,2865,567,0,0,G311.00,Preinfarction syndrome,Feb-09
+55137,44,0,0,0,G311011,MI - myocardial infarction aborted,Feb-09
+61072,52,6,0,0,G311000,Myocardial infarction aborted,Feb-09
+7347,23355,1211,0,0,G311100,Unstable angina,Feb-09
+17307,1492,128,0,0,G311200,Angina at rest,Feb-09
+34328,147,15,0,0,G311300,Refractory angina,Feb-09
+18118,2819,411,0,0,G311400,Worsening angina,Feb-09
+11983,25212,179,0,0,G311500,Acute coronary syndrome,Feb-09
+54251,57,2,0,0,G311z00,Preinfarction syndrome NOS,Feb-09
+39449,74,0,0,0,G312.00,Coronary thrombosis not resulting in myocardial infarction,Feb-09
+39693,84,3,0,0,G31y200,Subendocardial ischaemia,Feb-09
+21844,281,3,0,0,G31y300,Transient myocardial ischaemia,Feb-09
+27977,75,1,0,0,G31yz00,Other acute and subacute ischaemic heart disease NOS,Feb-09
+9413,92,3,0,0,G31y.00,Other acute and subacute ischaemic heart disease,Feb-09
+9276,2426,21,0,0,G31y000,Acute coronary insufficiency,Feb-09
+68357,16,0,0,0,G31y100,Microinfarction of heart,Feb-09
+4017,9678,243,13,0,G32..00,Old myocardial infarction,Feb-09
+16408,339,25,0,0,G32..11,Healed myocardial infarction,Feb-09
+17464,1260,27,3,0,G32..12,Personal history of myocardial infarction,Feb-09
+1430,783731,38247,215,0,G33..00,Angina pectoris,Feb-09
+18125,242,15,0,0,G330000,Nocturnal angina,Feb-09
+20095,2397,199,0,0,G330.00,Angina decubitus,Feb-09
+29902,40,1,0,0,G330z00,Angina decubitus NOS,Feb-09
+12986,756,17,0,0,G331.00,Prinzmetal's angina,Feb-09
+11048,142,21,0,0,G331.11,Variant angina pectoris,Feb-09
+36854,1128,9,0,0,G332.00,Coronary artery spasm,Feb-09
+28554,11702,135,1,0,G33zz00,Angina pectoris NOS,Feb-09
+66388,17,0,0,0,G33z000,Status anginosus,Feb-09
+54535,8,0,0,0,G33z100,Stenocardia,Feb-09
+7696,49,0,0,0,G33z200,Syncope anginosa,Feb-09
+1414,6976,614,2,0,G33z300,Angina on effort,Feb-09
+32450,1091,130,0,0,G33z400,Ischaemic chest pain,Feb-09
+9555,211,2,0,0,G33z500,Post infarct angina,Feb-09
+26863,410,5,0,0,G33z600,New onset angina,Feb-09
+12804,5739,46,0,0,G33z700,Stable angina,Feb-09
+28138,643,4,0,0,G34..00,Other chronic ischaemic heart disease,Feb-09
+3999,5011,26,0,0,G340000,Single coronary vessel disease,Feb-09
+5254,3366,15,0,0,G340100,Double coronary vessel disease,Feb-09
+1655,8751,82,0,0,G340.11,Triple vessel disease of the heart,Feb-09
+1344,36664,603,10,0,G340.12,Coronary artery disease,Feb-09
+5413,7638,96,2,0,G340.00,Coronary atherosclerosis,Feb-09
+36609,252,1,0,0,G342.00,Atherosclerotic cardiovascular disease,Feb-09
+7320,1855,37,0,0,G343.00,Ischaemic cardiomyopathy,Feb-09
+29421,556,23,0,0,G344.00,Silent myocardial ischaemia,Feb-09
+35713,46,3,0,0,G34yz00,Other specified chronic ischaemic heart disease NOS,Feb-09
+34633,61,2,0,0,G34y.00,Other specified chronic ischaemic heart disease,Feb-09
+23078,1170,14,0,0,G34y100,Chronic myocardial ischaemia,Feb-09
+24540,121,2,0,0,G34y000,Chronic coronary insufficiency,Feb-09
+18889,998,7,0,0,G34z000,Asymptomatic coronary heart disease,Feb-09
+15754,353,12,0,0,G34z.00,Other chronic ischaemic heart disease NOS,Feb-09
+18842,275,8,0,0,G35..00,Subsequent myocardial infarction,Feb-09
+45809,53,0,0,0,G350.00,Subsequent myocardial infarction of anterior wall,Feb-09
+72562,6,0,0,0,G353.00,Subsequent myocardial infarction of other sites,Feb-09
+46166,10,0,0,0,G35X.00,Subsequent myocardial infarction of unspecified site,Feb-09
+38609,45,1,0,0,G351.00,Subsequent myocardial infarction of inferior wall,Feb-09
+37657,51,3,0,0,G362.00,Ventric septal defect/curr comp fol acut myocardal infarctn,Feb-09
+23708,30,2,0,0,G361.00,Atrial septal defect/curr comp folow acut myocardal infarct,Feb-09
+29553,49,3,0,0,G366.00,"Thrombosis atrium,auric append&vent/curr comp foll acute MI",Feb-09
+69474,5,0,0,0,G365.00,Rupture papillary muscle/curr comp fol acute myocard infarct,Feb-09
+24126,153,1,0,0,G360.00,Haemopericardium/current comp folow acut myocard infarct,Feb-09
+59940,2,0,0,0,G364.00,Ruptur chordae tendinae/curr comp fol acute myocard infarct,Feb-09
+36423,30,1,0,0,G36..00,Certain current complication follow acute myocardial infarct,Feb-09
+59189,6,0,0,0,G363.00,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI,Feb-09
+41835,30,1,0,0,G384.00,Postoperative subendocardial myocardial infarction,Feb-09
+46276,17,0,0,0,G381.00,Postoperative transmural myocardial infarction inferior wall,Feb-09
+106812,1,0,0,0,G383.00,Postoperative transmural myocardial infarction unspec site,Aug-13
+32272,200,6,0,0,G38..00,Postoperative myocardial infarction,Feb-09
+46112,5,0,0,0,G380.00,Postoperative transmural myocardial infarction anterior wall,Feb-09
+68748,11,0,0,0,G38z.00,"Postoperative myocardial infarction, unspecified",Feb-09
+22383,688,1,0,0,G3y..00,Other specified ischaemic heart disease,Feb-09
+1676,32470,292,1,0,G3z..00,Ischaemic heart disease NOS,Feb-09
+96838,1,0,0,0,Gyu3400,[X]Acute transmural myocardial infarction of unspecif site,May-09
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

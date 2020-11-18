@@ -1,0 +1,11 @@
+medcode,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
+37391,28,3,0,0,7A6G000,Revascularisation for impotence,Feb-09
+41382,44,2,0,0,7A6G500,Ligation of penile veins for impotence,Feb-09
+12867,2434,27,0,0,7C25E00,Treatment of erectile dysfunction NEC,Feb-09
+81439,182,34,0,0,7C25F00,Operations on penis for erectile dysfunction NEC,Feb-09
+710,170829,13406,33,0,E227300,Impotence,Feb-09
+3838,378026,13379,262,0,E227311,Erectile dysfunction,Feb-09
+12066,5010,240,0,0,Eu52212,[X]Male erectile disorder,Feb-09
+17639,1075,18,0,0,Eu52213,[X]Psychogenic impotence,Feb-09
+17894,1897,30,0,0,K27y100,Impotence of organic origin,Feb-09
+106360,227,0,0,0,K27y700,Erectile dysfunction due to diabetes mellitus,Jun-13

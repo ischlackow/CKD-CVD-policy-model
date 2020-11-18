@@ -1,0 +1,108 @@
+medcode,readcode,clinicalevents,immunisationevents,referralevents,testevents,readterm,databasebuild
+14092,4671,18291,0,1,118653,Urine protein test not done,Feb-09
+14091,4672,185416,0,19755,1431946,Urine protein test negative,Feb-09
+13612,4673,7093,0,4216,91891,Urine protein test = trace,Feb-09
+13590,4674,14926,0,6377,81326,Urine protein test = +,Feb-09
+13611,4675,3193,0,1749,33717,Urine protein test = ++,Feb-09
+13621,4676,1389,0,659,14444,Urine protein test = +++,Feb-09
+13600,4677,486,0,229,5286,Urine protein test = ++++,Feb-09
+1802,4678,27689,0,5886,26725,Proteinuria,Feb-09
+9430,4679,915,0,21,852302,Urine dipstick for protein,Feb-09
+94789,1Z17.00,127,0,2,0,Chronic kidney disease stage 1 with proteinuria,Feb-09
+97980,1Z17.11,4,0,0,0,CKD stage 1 with proteinuria,Nov-09
+95572,1Z18.00,222,0,1,0,Chronic kidney disease stage 1 without proteinuria,Feb-09
+111022,1Z18.11,1,0,0,0,CKD stage 1 without proteinuria,Jul-16
+95146,1Z19.00,488,0,1,0,Chronic kidney disease stage 2 with proteinuria,Feb-09
+97979,1Z19.11,19,0,0,0,CKD stage 2 with proteinuria,Nov-09
+95121,1Z1A.00,2335,0,2,0,Chronic kidney disease stage 2 without proteinuria,Feb-09
+109980,1Z1a.00,18,0,0,0,CKD with GFR category G4 & albuminuria category A1,Aug-15
+97978,1Z1A.11,32,0,0,0,CKD stage 2 without proteinuria,Nov-09
+94793,1Z1B.00,2673,0,21,0,Chronic kidney disease stage 3 with proteinuria,Feb-09
+109904,1Z1b.00,21,0,0,0,CKD with GFR category G4 & albuminuria category A2,Jul-15
+95145,1Z1B.11,55,0,0,0,CKD stage 3 with proteinuria,Feb-09
+95123,1Z1C.00,10305,0,6,0,Chronic kidney disease stage 3 without proteinuria,Feb-09
+110626,1Z1c.00,8,0,0,0,CKD with GFR category G4 & albuminuria category A3,Mar-16
+95188,1Z1C.11,139,0,0,0,CKD stage 3 without proteinuria,Feb-09
+95408,1Z1D.00,1591,0,13,0,Chronic kidney disease stage 3A with proteinuria,Feb-09
+110133,1Z1d.00,2,0,0,0,CKD with GFR category G5 & albuminuria category A1,Sep-15
+95571,1Z1D.11,23,0,0,0,CKD stage 3A with proteinuria,Feb-09
+95175,1Z1E.00,11663,0,15,0,Chronic kidney disease stage 3A without proteinuria,Feb-09
+109981,1Z1e.00,2,0,0,0,CKD with GFR category G5 & albuminuria category A2,Aug-15
+95176,1Z1E.11,89,0,0,0,CKD stage 3A without proteinuria,Feb-09
+95178,1Z1F.00,1226,0,19,0,Chronic kidney disease stage 3B with proteinuria,Feb-09
+110467,1Z1f.00,7,0,0,0,CKD with GFR category G5 & albuminuria category A3,Jan-16
+95180,1Z1F.11,24,0,0,0,CKD stage 3B with proteinuria,Feb-09
+95177,1Z1G.00,4357,0,21,0,Chronic kidney disease stage 3B without proteinuria,Feb-09
+100633,1Z1G.11,27,0,0,0,CKD stage 3B without proteinuria,Sep-10
+95122,1Z1H.00,1198,0,46,0,Chronic kidney disease stage 4 with proteinuria,Feb-09
+99312,1Z1H.11,76,0,0,0,CKD stage 4 with proteinuria,May-10
+95406,1Z1J.00,1509,0,43,0,Chronic kidney disease stage 4 without proteinuria,Feb-09
+97587,1Z1J.11,29,0,2,0,CKD stage 4 without proteinuria,Sep-09
+95508,1Z1K.00,345,0,4,0,Chronic kidney disease stage 5 with proteinuria,Feb-09
+99160,1Z1K.11,16,0,0,0,CKD stage 5 with proteinuria,Apr-10
+95405,1Z1L.00,137,0,1,0,Chronic kidney disease stage 5 without proteinuria,Feb-09
+97683,1Z1L.11,11,0,0,0,CKD stage 5 without proteinuria,Sep-09
+110033,1Z1M.00,5,0,0,0,CKD with GFR category G1 & albuminuria category A1,Aug-15
+110003,1Z1N.00,4,0,0,0,CKD with GFR category G1 & albuminuria category A2,Aug-15
+110484,1Z1P.00,2,0,0,0,CKD with GFR category G1 & albuminuria category A3,Jan-16
+110269,1Z1Q.00,85,0,0,0,CKD with GFR category G2 & albuminuria category A1,Nov-15
+110108,1Z1R.00,35,0,0,0,CKD with GFR category G2 & albuminuria category A2,Sep-15
+110251,1Z1S.00,5,0,0,0,CKD with GFR category G2 & albuminuria category A3,Nov-15
+109804,1Z1T.00,272,0,0,0,CKD with GFR category G3a & albuminuria category A1,Jun-15
+109805,1Z1V.00,80,0,1,0,CKD with GFR category G3a & albuminuria category A2,Jun-15
+109905,1Z1W.00,16,0,0,0,CKD with GFR category G3a & albuminuria category A3,Jul-15
+109963,1Z1X.00,90,0,0,0,CKD with GFR category G3b & albuminuria category A1,Jul-15
+109657,1Z1Y.00,56,0,0,0,CKD with GFR category G3b & albuminuria category A2,May-15
+109990,1Z1Z.00,19,0,0,0,CKD with GFR category G3b & albuminuria category A3,Aug-15
+104677,2126A00,51,0,5,0,Proteinuria resolved,Aug-12
+23281,44J6.00,37,0,4,27347,Albumin excretion rate,Feb-09
+14113,44J7.00,5532,0,2030,131449,Albumin / creatinine ratio,Feb-09
+43524,44JG.00,11,0,0,355,Overnight albumin excretion rate,Feb-09
+27266,44lD.00,468,0,98,326340,Urine protein/creatinine ratio,Feb-09
+108916,44lzX00,5,0,3,6996,Random urine protein:creatinine ratio,Dec-14
+43,467..00,13535,0,263,6101743,Urine protein test,Feb-09
+8482,467A.00,223,0,39,37578,24 hour urine protein output,Feb-09
+14094,467E.00,711,0,39,44922,Urine protein level,Feb-09
+43262,467H.00,34,0,0,5493,Random urine protein level,Feb-09
+27059,467Z.00,434,0,0,2481,Urine protein test NOS,Feb-09
+14411,46M7.00,263,0,87,2494106,Urine creatinine,Feb-09
+14434,46MD.00,5,0,14,32990,24 hour urine creatinine output,Feb-09
+14395,46N..00,437,0,194,384125,Urine protein,Feb-09
+14382,46N1.00,458,0,434,17819,Urine protein normal,Feb-09
+13613,46N2.00,111,0,200,916,Urine protein abnormal,Feb-09
+14429,46N3.00,1,0,2,158684,Urine total protein,Feb-09
+14410,46N4.00,888,0,3431,1278653,Urine albumin,Feb-09
+14389,46N5.00,31,0,16,9131,24 hour urine protein excretion test,Feb-09
+14405,46N6.00,16,0,1,29035,24 hour urine albumin output,Feb-09
+44179,46N7.00,18,0,5,17950,Urine protein/creatinine index,Feb-09
+39248,46N8.00,177,0,2,87787,Urine microalbumin profile,Feb-09
+27214,46NZ.00,2,0,7,41747,Urine protein NOS,Feb-09
+2607,46TC.00,15115,0,570,2505067,Urine albumin:creatinine ratio,Feb-09
+14391,46TD.00,3876,0,2352,101945,Urine microalbumin:creatinine ratio,Feb-09
+14563,46W..00,19774,0,1525,1972633,Urine microalbumin,Feb-09
+28180,46W0.00,1554,0,2,20354,Urine microalbumin positive,Feb-09
+17106,46W1.00,2264,0,6,82840,Urine microalbumin negative,Feb-09
+14564,46W2.00,6,0,0,51127,Microalbumin excretion rate,Feb-09
+66475,66Ak.00,434,0,0,0,Diabetic monitoring - lower risk albumin excretion,Feb-09
+61470,66Al.00,205,0,7,0,Diabetic monitoring - higher risk albumin excretion,Feb-09
+49741,68K2.00,4606,0,1,4,Urine screen for protein,Feb-09
+30323,C10EK00,511,0,5,0,Type 1 diabetes mellitus with persistent proteinuria,Feb-09
+30294,C10EL00,451,0,5,0,Type 1 diabetes mellitus with persistent microalbuminuria,Feb-09
+102620,C10EL11,1,0,0,0,Type I diabetes mellitus with persistent microalbuminuria,Jul-11
+26054,C10FL00,4465,0,48,3,Type 2 diabetes mellitus with persistent proteinuria,Feb-09
+60796,C10FL11,59,0,0,0,Type II diabetes mellitus with persistent proteinuria,Feb-09
+18390,C10FM00,8179,0,43,0,Type 2 diabetes mellitus with persistent microalbuminuria,Feb-09
+85991,C10FM11,4,0,0,0,Type II diabetes mellitus with persistent microalbuminuria,Feb-09
+2482,D011100,68,0,5,0,Vit B12 defic anaemia due to malabsorption with proteinuria,Feb-09
+43611,K0A4.00,9,0,5,1,Isolated proteinuria with specified morphological lesion,Feb-09
+59992,K0A4W00,1,0,0,0,"Isolated proteinuria, with unspecified morpholog changes",Feb-09
+101572,K0A4X00,1,0,0,0,"Isolated proteinuria, with oth specif morpholog changes",Jan-11
+14901,K136.00,303,0,14,1,Benign postural proteinuria,Feb-09
+36243,K136.11,258,0,1,0,Orthostatic proteinuria,Feb-09
+16465,K190X00,1836,0,211,1,"Persistent proteinuria, unspecified",Feb-09
+64030,Kyu5G00,175,0,20,0,"[X]Persistent proteinuria, unspecified",Feb-09
+11248,R110.00,31590,0,380,1908,[D]Proteinuria,Feb-09
+5451,R110000,10703,0,2136,1853,[D]Albuminuria,Feb-09
+34680,R110200,30,0,2,2,[D]Exercise proteinuria,Feb-09
+10924,R110300,49585,0,195,1110,[D]Microalbuminuria,Feb-09
+38284,R110z00,858,0,15,50,[D]Proteinuria NOS,Feb-09

@@ -1,0 +1,10 @@
+ICD10_code,Description
+G45,transient ischaemic attack and related syndromes
+I20,angina pectoris
+I21,acute myocardial infarction
+I22,subsequent myocardial infarction
+I23,complications after myocardial infarction
+I24,other acute ischaemic heart disease
+I25,chronic ischaemic heart disease
+I63,cerebral infarction
+I64,stroke not specified as haemorrhage or infarction

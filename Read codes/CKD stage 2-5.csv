@@ -1,0 +1,35 @@
+medcode,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
+12586,85714,76,0,0,1Z11.00,Chronic kidney disease stage 2,Feb-09
+12566,415323,1850,0,0,1Z12.00,Chronic kidney disease stage 3,Feb-09
+12479,45754,2086,0,0,1Z13.00,Chronic kidney disease stage 4,Feb-09
+12585,8995,160,0,0,1Z14.00,Chronic kidney disease stage 5,Feb-09
+94965,15071,24,1,0,1Z15.00,Chronic kidney disease stage 3A,Feb-09
+95179,6188,35,0,0,1Z16.00,Chronic kidney disease stage 3B,Feb-09
+95146,423,1,0,0,1Z19.00,Chronic kidney disease stage 2 with proteinuria,Feb-09
+95121,2187,2,0,0,1Z1A.00,Chronic kidney disease stage 2 without proteinuria,Feb-09
+94793,2585,21,0,0,1Z1B.00,Chronic kidney disease stage 3 with proteinuria,Feb-09
+95123,10017,6,0,0,1Z1C.00,Chronic kidney disease stage 3 without proteinuria,Feb-09
+95408,1437,12,0,0,1Z1D.00,Chronic kidney disease stage 3A with proteinuria,Feb-09
+95175,11171,15,0,0,1Z1E.00,Chronic kidney disease stage 3A without proteinuria,Feb-09
+95178,1144,19,0,0,1Z1F.00,Chronic kidney disease stage 3B with proteinuria,Feb-09
+95177,4201,20,0,0,1Z1G.00,Chronic kidney disease stage 3B without proteinuria,Feb-09
+95122,1151,44,0,0,1Z1H.00,Chronic kidney disease stage 4 with proteinuria,Feb-09
+95406,1449,41,0,0,1Z1J.00,Chronic kidney disease stage 4 without proteinuria,Feb-09
+95508,324,3,0,0,1Z1K.00,Chronic kidney disease stage 5 with proteinuria,Feb-09
+95405,124,1,0,0,1Z1L.00,Chronic kidney disease stage 5 without proteinuria,Feb-09
+105383,395,0,0,0,K052.00,Chronic kidney disease stage 2,Dec-12
+104619,12065,24,0,0,K053.00,Chronic kidney disease stage 3,Jul-12
+104963,1068,13,0,0,K054.00,Chronic kidney disease stage 4,Sep-12
+105151,270,0,0,0,K055.00,Chronic kidney disease stage 5,Nov-12
+97979,19,0,0,0,1Z19.11,CKD stage 2 with proteinuria,Nov-09
+97978,24,0,0,0,1Z1A.11,CKD stage 2 without proteinuria,Nov-09
+95145,47,0,0,0,1Z1B.11,CKD stage 3 with proteinuria,Feb-09
+95188,115,0,0,0,1Z1C.11,CKD stage 3 without proteinuria,Feb-09
+95571,22,0,0,0,1Z1D.11,CKD stage 3A with proteinuria,Feb-09
+95176,58,0,0,0,1Z1E.11,CKD stage 3A without proteinuria,Feb-09
+100633,14,0,0,0,1Z1G.11,CKD stage 3B without proteinuria,Sep-10
+95180,18,0,0,0,1Z1F.11,CKD stage 3B with proteinuria,Feb-09
+99312,66,0,0,0,1Z1H.11,CKD stage 4 with proteinuria,May-10
+97587,20,0,0,0,1Z1J.11,CKD stage 4 without proteinuria,Sep-09
+99160,14,0,0,0,1Z1K.11,CKD stage 5 with proteinuria,Apr-10
+97683,10,0,0,0,1Z1L.11,CKD stage 5 without proteinuria,Sep-09

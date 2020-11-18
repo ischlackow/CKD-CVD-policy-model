@@ -1,0 +1,157 @@
+medcode,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild,category
+33,14805355,458,0,0,1371,Never smoked tobacco,Feb-09,1
+11788,763436,11,13,0,1371.11,Non-smoker,Feb-09,1
+12958,86016,8,0,0,1372,Trivial smoker - < 1 cig/day,Feb-09,1
+12941,121756,5,0,0,1372.11,Occasional smoker,Feb-09,1
+12944,395438,42,2,0,1373,Light smoker - 1-9 cigs/day,Feb-09,3
+1878,590548,108,6,0,1374,Moderate smoker - 10-19 cigs/d,Feb-09,4
+3568,314020,179,6,0,1375,Heavy smoker - 20-39 cigs/day,Feb-09,5
+1822,31570,32,1,0,1376,Very heavy smoker - 40+cigs/d,Feb-09,5
+12961,42886,1,0,0,1377,Ex-trivial smoker (<1/day),Feb-09,2
+12957,150034,9,0,0,1378,Ex-light smoker (1-9/day),Feb-09,2
+12955,224365,11,0,0,1379,Ex-moderate smoker (10-19/day),Feb-09,2
+103955,3570,0,0,0,1782,Asthma trigger - tobacco smoke,Apr-12,6
+2111,2766739,1921,40,0,6791,Health ed. - smoking,Feb-09,6
+54,2889919,68,22,0,137..00,Tobacco consumption,Feb-09,6
+12942,49950,33,0,0,137..11,Smoker - amount smoked,Feb-09,6
+12956,123814,7,0,0,137A.00,Ex-heavy smoker (20-39/day),Feb-09,2
+12967,7757,0,2,0,137a.00,Pipe tobacco consumption,Feb-09,6
+12959,27086,4,0,0,137B.00,Ex-very heavy smoker (40+/day),Feb-09,2
+31114,13534,22,0,0,137b.00,Ready to stop smoking,Feb-09,6
+30423,14928,5,0,0,137c.00,Thinking about stopping smoking,Feb-09,6
+12964,11350,8,0,0,137C.00,Keeps trying to stop smoking,Feb-09,6
+30762,23833,0,0,0,137d.00,Not interested in stopping smoking,Feb-09,6
+46654,251,0,0,0,137D.00,Admitted tobacco cons untrue ?,Feb-09,6
+41979,1067,0,0,0,137e.00,Smoking restarted,Feb-09,6
+12946,276780,15,2,0,137F.00,Ex-smoker - amount unknown,Feb-09,2
+46321,177,0,0,0,137f.00,Reason for restarting smoking,Feb-09,6
+12240,188716,1274,1,0,137G.00,Trying to give up smoking,Feb-09,6
+12947,60755,4,0,0,137H.00,Pipe smoker,Feb-09,6
+62686,6868,0,0,0,137h.00,Minutes from waking to first tobacco consumption,Feb-09,6
+97210,3832,0,1,0,137j.00,Ex-cigarette smoker,Aug-09,2
+12943,62719,11,0,0,137J.00,Cigar smoker,Feb-09,6
+776,335967,112,1,0,137K.00,Stopped smoking,Feb-09,2
+97029,1868,1,0,0,137k.00,Refusal to give smoking status,Jul-09,7
+99838,1761,0,0,0,137K000,Recently stopped smoking,Jun-10,2
+60,2764549,259,12,0,137L.00,Current non-smoker,Feb-09,1
+100495,332,0,0,0,137l.00,Ex roll-up cigarette smoker,Aug-10,2
+12945,88680,6,1,0,137M.00,Rolls own cigarettes,Feb-09,6
+101338,1590,0,0,0,137m.00,Failed attempt to stop smoking,Jan-11,6
+26470,7569,0,0,0,137N.00,Ex pipe smoker,Feb-09,2
+19488,4841,1,0,0,137O.00,Ex cigar smoker,Feb-09,2
+105501,18,0,0,0,137o.00,Waterpipe tobacco consumption,Dec-12,6
+93,6067736,1061,179,0,137P.00,Cigarette smoker,Feb-09,6
+1823,338936,626,3,0,137P.11,Smoker,Feb-09,6
+12952,8946,8,0,0,137Q.00,Smoking started,Feb-09,6
+12951,7812,2,0,0,137Q.11,Smoking restarted,Feb-09,6
+10558,890509,391,32,0,137R.00,Current smoker,Feb-09,6
+90,7271583,150,15,0,137S.00,Ex smoker,Feb-09,2
+12878,54249,17,0,0,137T.00,Date ceased smoking,Feb-09,2
+12966,4821,1,0,0,137V.00,Smoking reduced,Feb-09,6
+12965,10915,0,0,0,137X.00,Cigarette consumption,Feb-09,6
+12963,5602,0,0,0,137Y.00,Cigar consumption,Feb-09,6
+12960,18224,0,0,0,137Z.00,Tobacco consumption NOS,Feb-09,6
+10211,130085,121,0,0,13p..00,Smoking cessation milestones,Feb-09,2
+34126,70397,42,0,0,13p0.00,Negotiated date for cessation of smoking,Feb-09,6
+34127,33016,25,0,0,13p1.00,Smoking status at 4 weeks,Feb-09,6
+34374,5465,5,0,0,13p2.00,Smoking status between 4 and 52 weeks,Feb-09,6
+41405,643,0,0,0,13p3.00,Smoking status at 52 weeks,Feb-09,6
+10898,10940,0,23,0,13p4.00,Smoking free weeks,Feb-09,2
+38112,28516,4,0,0,13p5.00,Smoking cessation programme start date,Feb-09,6
+101764,1629,0,0,0,13p5000,Practice based smoking cessation programme start date,Feb-11,6
+103208,15,0,0,0,13p7.00,Smoking status at 12 weeks,Oct-11,6
+102951,111,0,0,0,13p8.00,Lost to smoking cessation follow-up,Sep-11,6
+97643,254,0,0,0,38DH.00,Fagerstrom test for nicotine dependence,Sep-09,6
+10184,2759,15,0,0,67A3.00,Pregnancy smoking advice,Feb-09,6
+18926,39495,8,0,0,67H1.00,Lifestyle advice regarding smoking,Feb-09,6
+98137,13287,3,0,0,67H6.00,Brief intervention for smoking cessation,Dec-09,6
+74907,67348,138,0,0,745H.00,Smoking cessation therapy,Feb-09,6
+81440,10168,0,0,0,745H000,Nicotine replacement therapy using nicotine patches,Feb-09,6
+85975,1165,2,0,0,745H100,Nicotine replacement therapy using nicotine gum,Feb-09,6
+85247,2590,0,0,0,745H200,Nicotine replacement therapy using nicotine inhalator,Feb-09,6
+89464,910,0,0,0,745H300,Nicotine replacement therapy using nicotine lozenges,Feb-09,6
+94958,7752,0,0,0,745H400,Smoking cessation drug therapy,Feb-09,6
+91708,1932,0,0,0,745Hy00,Other specified smoking cessation therapy,Feb-09,6
+90522,4412,1,0,0,745Hz00,Smoking cessation therapy NOS,Feb-09,6
+9833,66064,15,0,0,8B2B.00,Nicotine replacement therapy,Feb-09,6
+25106,10460,0,0,0,8B3f.00,Nicotine replacement therapy provided free,Feb-09,6
+32572,2607,0,0,0,8B3Y.00,Over the counter nicotine replacement therapy,Feb-09,6
+67178,280,0,0,0,8BP3.00,Nicotine replacement therapy provided by community pharmacis,Feb-09,6
+41042,1357,18,0,0,8CAg.00,Smoking cessation advice provided by community pharmacist,Feb-09,6
+7622,5867597,7494,7,0,8CAL.00,Smoking cessation advice,Feb-09,6
+103507,2723,9,0,0,8CdB.00,Stop smoking service opportunity signposted,Jan-12,6
+18573,132368,13120,15,0,8H7i.00,Referral to smoking cessation advisor,Feb-09,6
+98245,778,7,0,0,8HBM.00,Stop smoking face to face follow-up,Dec-09,6
+105710,36,0,0,0,8HBP.00,Smoking cessation 12 week follow-up,Jan-13,6
+98154,15145,2208,0,0,8HkQ.00,Referral to NHS stop smoking service,Dec-09,6
+10742,60864,19114,0,0,8HTK.00,Referral to stop-smoking clinic,Feb-09,6
+66409,45,0,0,0,8I2I.00,Nicotine replacement therapy contraindicated,Feb-09,6
+24529,515,2,0,0,8I39.00,Nicotine replacement therapy refused,Feb-09,6
+100099,33662,2278,0,0,8IAj.00,Smoking cessation advice declined,Jul-10,6
+104230,13472,0,0,0,8IEK.00,Smoking cessation programme declined,Jun-12,6
+104185,29168,1,0,0,8IEM.00,Smoking cessation drug therapy declined,Jun-12,6
+106391,2281,5,0,0,8IEo.00,Referral to smoking cessation service declined,Jun-13,6
+106359,909,34,0,0,8T08.00,Referral to smoking cessation service,Jun-13,6
+12619,44322,0,0,0,9hG1.00,Excepted from smoking quality indicators: Informed dissent,Feb-09,6
+96992,1423,3,0,0,9kc..00,Smoking cessation - enhanced services administration,Jun-09,6
+98493,161,0,0,0,9kc0.00,Smoking cessatn monitor template complet - enhanc serv admin,Feb-10,6
+108966,1,0,0,0,9kc0.11,Smoking cessation ESA monitoring template completed,Dec-14,6
+98284,72,0,0,0,9kf1.00,Refer COPD structured smoking assessment - enhanc serv admin,Dec-09,6
+103400,3,0,0,0,9kf1.11,Referred for COPD structured smoking assessment,Dec-11,6
+98283,46,0,0,0,9kf2.00,COPD structured smoking assessment declined - enh serv admin,Dec-09,6
+103760,5,0,0,0,9kf2.11,COPD structured smoking assessment declined,Feb-12,6
+98447,63,0,0,0,9km..00,Ex-smoker annual review - enhanced services administration,Feb-10,6
+100963,729,0,0,0,9km..11,Ex-smoker annual review,Nov-10,6
+98177,5421,0,0,0,9kn..00,Non-smoker annual review - enhanced services administration,Dec-09,6
+101878,9,0,0,0,9kn..11,Non-smoker annual review,Mar-11,6
+98347,169,0,0,0,9ko..00,Current smoker annual review - enhanced services admin,Jan-10,6
+104310,2017,0,0,0,9ko..11,Current smoker annual review,Jun-12,6
+11356,246843,15,0,0,9N2k.00,Seen by smoking cessation advisor,Feb-09,6
+11527,29415,1,0,0,9N4M.00,DNA - Did not attend smoking cessation clinic,Feb-09,6
+101385,383,0,0,0,9Ndf.00,Consent given for follow-up by smoking cessation team,Jan-11,6
+101851,2013,0,0,0,9Ndg.00,Declined consent for follow-up by smoking cessation team,Mar-11,6
+101634,9,0,0,0,9NdV.00,Consent given follow-up after smoking cessation intervention,Feb-11,6
+101210,225,0,0,0,9NdW.00,Consent given for smoking cessation data sharing,Dec-10,6
+101325,7,0,0,0,9NdY.00,Declin cons follow-up evaluation after smoking cess interven,Jan-11,6
+102361,4423,19,0,0,9NS0200,Referral for smoking cessation service offered,Jun-11,6
+28834,26110,55,0,0,9OO..00,Anti-smoking monitoring admin.,Feb-09,6
+32083,8360,20,0,0,9OO..11,Stop smoking clinic admin.,Feb-09,6
+7130,44696,67,5,0,9OO..12,Stop smoking monitoring admin.,Feb-09,6
+12953,69996,78,2,0,9OO1.00,Attends stop smoking monitor.,Feb-09,6
+40418,7818,1,0,0,9OO2.00,Refuses stop smoking monitor,Feb-09,6
+40417,2187,0,0,0,9OO3.00,Stop smoking monitor default,Feb-09,6
+42722,33797,82,0,0,9OO4.00,Stop smoking monitor 1st lettr,Feb-09,6
+60720,3767,0,0,0,9OO5.00,Stop smoking monitor 2nd lettr,Feb-09,6
+66387,1044,0,0,0,9OO6.00,Stop smoking monitor 3rd lettr,Feb-09,6
+53101,1701,164,0,0,9OO7.00,Stop smoking monitor verb.inv.,Feb-09,6
+58597,6669,1,0,0,9OO8.00,Stop smoking monitor phone inv,Feb-09,6
+19485,12875,2,0,0,9OOA.00,Stop smoking monitor.chck done,Feb-09,6
+105572,1232,0,0,0,9OOB.00,Stop smoking invitation short message service text message,Jan-13,6
+104086,695,0,0,0,9OOB000,Stop smoking invitation first SMS text message,May-12,6
+106384,5,0,0,0,9OOB100,Stop smoking invitation second SMS text message,Jun-13,6
+106385,2,0,0,0,9OOB200,Stop smoking invitation third SMS text message,Jun-13,6
+21637,14046,6,0,0,9OOZ.00,Stop smoking monitor admin.NOS,Feb-09,6
+6359,2482,3,0,0,E023.00,Nicotine withdrawal,Feb-09,2
+32687,4392,0,0,0,E251.00,Tobacco dependence,Feb-09,6
+95610,6,0,0,0,E251000,"Tobacco dependence, unspecified",Feb-09,6
+70746,44,0,0,0,E251100,"Tobacco dependence, continuous",Feb-09,6
+108835,4,0,0,0,E251200,"Tobacco dependence, episodic",Nov-14,3
+72706,126,0,0,0,E251300,Tobacco dependence in remission,Feb-09,2
+68658,345,0,0,0,E251z00,Tobacco dependence NOS,Feb-09,6
+61905,7,0,0,0,Eu17.00,[X]Mental and behavioural disorder due to use of tobacco,Feb-09,6
+56144,3,0,0,0,Eu17100,[X]Mental and behav dis due to use of tobacco: harmful use,Feb-09,6
+107792,4,0,0,0,Eu17200,[X]Mental and behav dis due to use tobacco: dependence syndr,Mar-14,6
+101519,1,0,0,0,Eu17300,[X]Mental and behav dis due to use tobacco: withdrawal state,Jan-11,2
+16717,2298,62,0,0,H310100,Smokers' cough,Feb-09,6
+35475,33,0,0,0,J087300,Leukokeratosis nicotina palati,Feb-09,6
+9045,7744,37,0,0,ZG23300,Advice on smoking,Feb-09,6
+47273,7,0,0,0,ZRaM.00,Motives for smoking scale,Feb-09,6
+107504,1,0,0,0,ZRaM.11,MFS - Motives for smoking scale,Dec-13,6
+91513,3,0,0,0,ZRao.00,Occasions for smoking scale,Feb-09,6
+63666,2800,0,0,0,ZRBm200,Fagerstrom test for nicotine dependence,Feb-09,6
+63299,11,0,0,0,ZRBm211,FTND - Fagerstrom test for nicotine dependence,Feb-09,6
+59866,7,0,0,0,ZRh4.00,Reasons for smoking scale,Feb-09,6
+49418,4,0,0,0,ZRh4.11,RFS - Reasons for smoking scale,Feb-09,6
+72700,6,0,0,0,ZV11600,[V]Personal history of tobacco abuse,Feb-09,6
+12954,116,1,0,0,ZV4K000,[V]Tobacco use,Feb-09,6
+35055,46,0,0,0,ZV6D800,[V]Tobacco abuse counselling,Feb-09,6

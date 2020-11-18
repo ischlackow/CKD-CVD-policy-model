@@ -1,0 +1,59 @@
+medcode,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
+26862,207,11,0,0,7B06300,Exploration of renal transplant,Feb-09
+17253,454,16,0,0,8L50.00,Renal transplant planned,Feb-09
+2999,14643,830,5,0,K01..00,Nephrotic syndrome,Feb-09
+9840,19,0,0,0,K010.00,Nephrotic syndrome with proliferative glomerulonephritis,Feb-09
+1803,486,9,0,0,K011.00,Nephrotic syndrome with membranous glomerulonephritis,Feb-09
+99644,4,0,0,0,K012.00,Nephrotic syndrome+membranoproliferative glomerulonephritis,Jun-10
+29634,173,4,0,0,K013.00,Nephrotic syndrome with minimal change glomerulonephritis,Feb-09
+40349,5,0,0,0,K013.11,Lipoid nephrosis,Feb-09
+57926,68,0,0,0,K013.12,Steroid sensitive nephrotic syndrome,Feb-09
+23913,65,1,0,0,K014.00,"Nephrotic syndrome, minor glomerular abnormality",Feb-09
+22852,193,20,0,0,K015.00,"Nephrotic syndrome, focal and segmental glomerular lesions",Feb-09
+19316,148,5,0,0,K016.00,"Nephrotic syndrome, diffuse membranous glomerulonephritis",Feb-09
+21947,126,1,0,0,K017.00,Nephrotic syn difus mesangial prolifertiv glomerulonephritis,Feb-09
+50472,4,0,0,0,K018.00,"Nephrotic syn,difus endocapilary proliftv glomerulonephritis",Feb-09
+21989,70,1,0,0,K019.00,"Nephrotic syn,diffuse mesangiocapillary glomerulonephritis",Feb-09
+56987,12,0,0,0,K01A.00,"Nephrotic syndrome, dense deposit disease",Feb-09
+17365,48,0,0,0,K01B.00,"Nephrotic syndrome, diffuse crescentic glomerulonephritis",Feb-09
+63786,24,0,0,0,K01w.00,Congenital nephrotic syndrome,Feb-09
+72303,1,0,0,0,K01w000,Finnish nephrosis syndrome,Feb-09
+47922,78,2,0,0,K01x000,Nephrotic syndrome in amyloidosis,Feb-09
+2471,273,7,0,0,K01x100,Nephrotic syndrome in diabetes mellitus,Feb-09
+45499,8,0,0,0,K01x111,Kimmelstiel - Wilson disease,Feb-09
+99201,1,0,0,0,K01x200,Nephrotic syndrome in malaria,Apr-10
+58750,7,0,0,0,K01x300,Nephrotic syndrome in polyarteritis nodosa,Feb-09
+47672,52,3,0,0,K01x400,Nephrotic syndrome in systemic lupus erythematosus,Feb-09
+22205,654,8,0,0,K01x411,Lupus nephritis,Feb-09
+94373,4,0,0,0,K01y.00,Nephrotic syndrome with other pathological kidney lesions,Feb-09
+27427,288,9,0,0,K01z.00,Nephrotic syndrome NOS,Feb-09
+7804,1824,74,0,0,K02..00,Chronic glomerulonephritis,Feb-09
+10647,378,10,0,0,K02..11,Nephritis - chronic,Feb-09
+11875,800,40,0,0,K02..12,Nephropathy - chronic,Feb-09
+34998,73,0,0,0,K020.00,Chronic proliferative glomerulonephritis,Feb-09
+10809,295,8,0,0,K021.00,Chronic membranous glomerulonephritis,Feb-09
+61494,26,0,0,0,K022.00,Chronic membranoproliferative glomerulonephritis,Feb-09
+65064,4,0,0,0,K023.00,Chronic rapidly progressive glomerulonephritis,Feb-09
+60960,12,0,0,0,K02y.00,Other chronic glomerulonephritis,Feb-09
+97758,2,0,0,0,K02y000,Chronic glomerulonephritis + diseases EC,Oct-09
+4669,193,7,0,0,K02y200,Chronic focal glomerulonephritis,Feb-09
+65400,4,0,0,0,K02y300,Chronic diffuse glomerulonephritis,Feb-09
+63615,9,0,0,0,K02yz00,Other chronic glomerulonephritis NOS,Feb-09
+15097,174,7,0,0,K02z.00,Chronic glomerulonephritis NOS,Feb-09
+512,60003,3979,14,0,K05..00,Chronic renal failure,Feb-09
+10081,197,29,0,0,K05..11,Chronic uraemia,Feb-09
+53852,130,1,0,0,K05..12,End stage renal failure,Feb-09
+4654,4057,114,0,0,K100.00,Chronic pyelonephritis,Feb-09
+99631,1,0,0,0,K100000,Chronic pyelonephritis without medullary necrosis,Jun-10
+57568,3,1,0,0,K100100,Chronic pyelonephritis with medullary necrosis,Feb-09
+21158,197,4,0,0,K100200,Chronic pyelitis,Feb-09
+25055,52,1,0,0,K100300,Chronic pyonephrosis,Feb-09
+35360,64,0,0,0,K100400,Nonobstructive reflux-associated chronic pyelonephritis,Feb-09
+48855,11,0,0,0,K100500,Chronic obstructive pyelonephritis,Feb-09
+2939,279,8,0,0,K100600,Calculous pyelonephritis,Feb-09
+48111,145,1,0,0,K100z00,Chronic pyelonephritis NOS,Feb-09
+11553,329,8,0,0,SP08300,Kidney transplant failure and rejection,Feb-09
+54990,48,2,0,0,TB00100,"Kidney transplant with complication, without blame",Feb-09
+18774,180,6,0,0,TB00111,"Renal transplant with complication, without blame",Feb-09
+5911,1780,27,0,0,ZV42000,[V]Kidney transplanted,Feb-09
+6712,3693,64,1,0,K050.00,End stage renal failure,Feb-09

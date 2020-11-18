@@ -1,0 +1,29 @@
+medcode,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
+2973,1149,24,0,0,ZV17312,[V] Family history of myocardial infarction,
+3198,417810,418,2,0,12C2.00,FH: Ischaemic heart dis. <60,Feb-09
+5970,1948,6,0,0,ZV17311,[V]Family history of ischaemic heart disease (IHD),
+6324,172421,157,4,0,12C5.00,FH: Myocardial infarct,
+9490,566217,906,11,0,12C5.12,FH: Ischaemic heart disease,
+10934,15396,169,11,0,12C5.11,FH: Coronary thrombosis,Feb-09
+11135,7832,11,0,0,ZV17300,[V]Family history of ischaemic heart disease,
+12709,16500,125,0,0,12C2.13,FH: Angina < 60yrs,Feb-09
+12806,26759,35,0,0,12C2.12,FH: MI- Myocardial infarct <60,Feb-09
+13222,27763,43,2,0,12C..14,FH: Angina,Feb-09
+13269,4470,2,0,0,12CA.00,FH myocardial infarction male first degree age known,Feb-09
+13270,22600,36,0,0,12C2.11,FH: Myocardial infarction < 60,Feb-09
+18661,7041,2,0,0,12CP.00,FH: Myocardial infarct in 1st degree male relative <55 years,Feb-09
+19127,3934,0,0,0,12CN.00,FH: Myocardial infarct in 1st degree female relative <65 yrs,Feb-09
+19128,1395,0,0,0,12CG.00,FH angina female first degree age known,Feb-09
+26636,1240,1,0,0,12CE.00,FH angina male first degree age known,Feb-09
+26637,1333,1,0,0,12CC.00,FH myocardial infarction female first degree age known,Feb-09
+26653,3427,0,0,0,12CM.00,FH: Angina in 1st degree male relative <55 years,Feb-09
+28347,8805,4,0,0,12CI.00,FH: premature coronary heart disease,Feb-09
+30256,679,7,0,0,ZV17400,[V]Family history of other cardiovascular disease,
+30789,3549,0,0,0,12CL.00,FH: Angina in 1st degree female relative <65 years,Feb-09
+39572,1602,0,0,0,12CB.00,FH myocardial infarction male first degree age unknown,Feb-09
+40865,1096,0,0,0,12CF.00,FH angina male first degree age unknown,Feb-09
+42996,1213,0,0,0,12CH.00,FH angina female first degree age unknown,Feb-09
+43954,444,0,0,0,12CD.00,FH myocardial infarction female first degree age unknown,Feb-09
+52870,83,1,0,0,ZVu6600,[X]Family hist/ischaemic hrt disease+oth dis/circultr system,
+96212,8686,0,0,0,12CV.00,FH: Cardiovascular disease 1st degree male relative < 55 yrs,Apr-09
+96596,7905,0,0,0,12CW.00,FH: Cardiovascular disease 1st degree female reltve < 65 yrs,Apr-09

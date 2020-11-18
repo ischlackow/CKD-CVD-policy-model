@@ -1,0 +1,6 @@
+medcode,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
+29013,21409,75,0,0,1Z10.00,Chronic kidney disease stage 1,Feb-09
+94789,121,2,0,0,1Z17.00,Chronic kidney disease stage 1 with proteinuria,Feb-09
+95572,218,1,0,0,1Z18.00,Chronic kidney disease stage 1 without proteinuria,Feb-09
+105392,21,0,0,0,K051.00,Chronic kidney disease stage 1,Dec-12
+97980,4,0,0,0,1Z17.11,CKD stage 1 with proteinuria,Nov-09

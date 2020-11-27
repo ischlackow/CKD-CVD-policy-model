@@ -1,660 +1,660 @@
-prodcode,productname,drugsubstancename,substancestrength,formulation,routeofadministration,bnfcode,bnfheader,databasebuild
-2681,AMILORIDE 10 MG TAB,,,,,0,Unknown,Feb-09
-3285,AMILORIDE S/F 5 MG/5ML SOL,,,,,0,Unknown,Feb-09
-3902,FRUSEMIDE 20MG/SPIRONOLACTONE 50MG MG CAP,,,,,0,Unknown,Feb-09
-7625,FRUSEMIDE 20MG/POTASSIUM 10MMOL S/R MG TAB,,,,,0,Unknown,Feb-09
-7888,FRUSEMIDE 40MG/8MMOL POTASSIUM S/R MG TAB,,,,,0,Unknown,Feb-09
-13472,ESIDREX-K TAB,,,,,0,Unknown,Feb-09
-15053,SPIRONOLACTONE 10 MG/5ML LIQ,,,,,0,Unknown,Feb-09
-15577,HYDROCHLOROTHIAZIDE 12.5MG/K 8.1MMOL S/R 12.5 MG TAB,,,,,0,Unknown,Feb-09
-15602,NATRILIX 5 MG TAB,,,,,0,Unknown,Feb-09
-19003,SPIRONOLACTONE/PROPRANOLOL 50 MG TAB,,,,,0,Unknown,Feb-09
-19611,AMILORIDE 5MG/HYDROCHLORTHIAZIDE 50MG,,,,,0,Unknown,Feb-09
-19683,BURINEX K,,,,,0,Unknown,Feb-09
-19687,MODUCREN,,,,,0,Unknown,Feb-09
-19695,AMILORIDE HYDROCHLORIDE,,,,,0,Unknown,Feb-09
-19721,AMILORIDE 5MG/HYDROCHLORTHIAZIDE 50MG,,,,,0,Unknown,Feb-09
-20513,LASIX 10 MG INJ,,,,,0,Unknown,Feb-09
-21848,AMILOSPARE 5 MG TAB,,,,,0,Unknown,Feb-09
-22242,NAVIDREX,,,,,0,Unknown,Feb-09
-22525,CHLOROTHIAZIDE 250 MG SYR,,,,,0,Unknown,Feb-09
-22539,LASIX (2ML),,,,,0,Unknown,Feb-09
-23256,LASIX PAED,,,,,0,Unknown,Feb-09
-23271,FRUSEMIDE (2ML),,,,,0,Unknown,Feb-09
-23483,HYDROCHLOROTHIAZIDE 12.5MG/K 8.1MMOL S/R,,,,,0,Unknown,Feb-09
-23486,FRUSEMIDE 40mg/10MMOL POTASSIUM S/R,,,,,0,Unknown,Feb-09
-23492,CYCLOPENTHIAZIDE 250MCG/K 8.1MMOL,,,,,0,Unknown,Feb-09
-24520,HYDROCHLOROTHIAZIDE /METOPROLOL TARTRATE 25 MG TAB,,,,,0,Unknown,Feb-09
-24702,FRUSEMIDE,,,,,0,Unknown,Feb-09
-24741,FRUSEMIDE,,,,,0,Unknown,Feb-09
-25051,CAPOZIDE,,,,,0,Unknown,Feb-09
-25075,FRUSEMIDE 40MG/AMILORIDE HYD 5MG,,,,,0,Unknown,Feb-09
-25086,SPIRONOLACTONE,,,,,0,Unknown,Feb-09
-25625,FRUSEMIDE 40mg/8MMOL POTASSIUM S/R,,,,,0,Unknown,Feb-09
-25630,BRINALDIX K EFFERVESCENT,,,,,0,Unknown,Feb-09
-25764,PINDOLOL 10MG/CLOPAMIDE 5MG,,,,,0,Unknown,Feb-09
-25787,TOTARETIC 100 TAB,,,,,0,Unknown,Feb-09
-26120,CHLOROTHIAZIDE 50 MG SUS,,,,,0,Unknown,Feb-09
-26328,LASIX (25ML),,,,,0,Unknown,Feb-09
-26675,XIPAMIDE,,,,,0,Unknown,Feb-09
-26731,TOTARETIC 50 TAB,,,,,0,Unknown,Feb-09
-27489,CHLOROTHIAZIDE 25 MG LIQ,,,,,0,Unknown,Feb-09
-27546,NATRILIX,,,,,0,Unknown,Feb-09
-27555,BURINEX,,,,,0,Unknown,Feb-09
-27664,FRUSEMIDE PAED,,,,,0,Unknown,Feb-09
-29583,MIN-I-JET 100MG FRUSEMIDE INJ INJ,,,,,0,Unknown,Feb-09
-30034,CHLOROTHIAZIDE / SPIRONOLACTONE 100 MG POW,,,,,0,Unknown,Feb-09
-30035,CHLOROTHIAZIDE 40MG /SPIRONOLACTONE 4MG POW,,,,,0,Unknown,Feb-09
-30365,CHLOROTHIAZIDE/SPIRONOLACTONE/LACTOSE MG POW,,,,,0,Unknown,Feb-09
-30367,CHLOROTHIAZIDE 60MG / SPIRONOLACTONE 6MG POW,,,,,0,Unknown,Feb-09
-30368,CHLOROTHIAZIDE/SPIRONOLACTONE SACHETS 100 MG,,,,,0,Unknown,Feb-09
-30592,CHLOROTHIAZIDE / SPIRONOLACTONE / GLUCOS 60 MG POW,,,,,0,Unknown,Feb-09
-31235,CHLOROTHIAZIDE SACHETS 60 MG,,,,,0,Unknown,Feb-09
-37400,MIN-I-JET 80MG FRUSEMIDE INJ MG INJ,,,,,0,Unknown,Feb-09
-41897,CO-BETALOC,,,,,0,Unknown,Apr-10
-55050,CHLOROTHIAZIDE/SPIRONOLACTONE/LACT SACH 50 MG,,,,,0,Unknown,May-13
-60007,Generic Sevikar HCT 40mg/10mg/12.5mg tablets,,,,,2050502,Angiotensin-ii Receptor Antagonists,May-14
-60780,Generic Sevikar HCT 20mg/5mg/12.5mg tablets,,,,,2050502,Angiotensin-ii Receptor Antagonists,Aug-14
-8189,Secadrex 200mg/12.5mg tablets (Sanofi),Acebutolol hydrochloride/Hydrochlorothiazide,200mg + 12.5mg,Tablet,Oral,0,Unknown,Feb-09
-14126,Acebutolol 200mg / Hydrochlorothiazide 12.5mg tablets,Acebutolol hydrochloride/Hydrochlorothiazide,200mg + 12.5mg,Tablet,Oral,0,Unknown,Feb-09
-1060,Amiloride 5mg tablets,Amiloride hydrochloride,5mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-2002,Amiloride 5mg / hydrochlorothiazide 50mg tablets,Amiloride Hydrochloride,5mg + 50mg,Tablets,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-3293,Moduretic Oral solution (Bristol-Myers Squibb Pharmaceuticals Ltd),Amiloride Hydrochloride,,Oral Solution,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-3701,Amiloride 2.5mg / hydrochlorothiazide 25mg tablets,Amiloride Hydrochloride,2.5mg+25mg,Tablets,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-4034,Amiloride 5mg / hydrochlorothiazide 50mg/5ml solution,Amiloride Hydrochloride,5mg + 50mg/5ml,Solution,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-9935,Amiloride 5mg/5ml oral solution sugar free,Amiloride hydrochloride,1mg/1ml,Oral solution,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-13352,Midamor 5mg Tablet (MSD Thomas Morson Pharmaceuticals),Amiloride hydrochloride,5mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-18733,Co-amilozide 5mg with 50mg/ml oral solution,Amiloride Hydrochloride,5mg + 50mg/5ml,Oral Solution,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-19890,Hydrochlorothiazide with amiloride 25mgwith2.5mg Tablet,Amiloride Hydrochloride,25mg+2.5mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-22923,Hydrochlorothiazide with amiloride 50mg with 5mg Tablet,Amiloride Hydrochloride,50mg + 5mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-24893,Amilospare Tablet (Ashbourne Pharmaceuticals Ltd),Amiloride hydrochloride,5mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-26217,Berkamil 5mg Tablet (Berk Pharmaceuticals Ltd),Amiloride hydrochloride,5mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-31375,Amilamont 5mg/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd),Amiloride hydrochloride,1mg/1ml,Oral solution,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-33837,Amiloride 5mg tablets (A A H Pharmaceuticals Ltd),Amiloride hydrochloride,5mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-34324,Amiloride 5mg tablets (Teva UK Ltd),Amiloride hydrochloride,5mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-34750,Amiloride 5mg tablets (Actavis UK Ltd),Amiloride hydrochloride,5mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-41630,Amiloride 5mg Tablet (IVAX Pharmaceuticals UK Ltd),Amiloride hydrochloride,5mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Mar-10
-43523,Amiloride 5mg tablets (Generics (UK) Ltd),Amiloride hydrochloride,5mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Sep-10
-44254,Amiloride 5.67mg tablets,Amiloride Hydrochloride,5.67mg,Tablets,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Jan-11
-46930,Amiloride 5mg tablets (Wockhardt UK Ltd),Amiloride hydrochloride,5mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Mar-12
-60149,Amiloride 5mg/5ml oral suspension,Amiloride hydrochloride,1mg/1ml,Oral suspension,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Jun-14
-2255,Navispare 2.5mg/250microgram tablets (AMCo),Amiloride hydrochloride/Cyclopenthiazide,2.5mg + 250microgram,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-5727,Amiloride 2.5mg / Cyclopenthiazide 250microgram tablets,Amiloride hydrochloride/Cyclopenthiazide,2.5mg + 250microgram,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-56,Co-amilofruse 5mg/40mg tablets,Amiloride hydrochloride/Furosemide,5mg + 40mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-193,Co-amilofruse 2.5mg/20mg tablets,Amiloride hydrochloride/Furosemide,2.5mg + 20mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-211,Frumil 40mg+5mg Tablet (Helios Healthcare Ltd),Amiloride hydrochloride/Furosemide,5mg + 40mg,Tablet,Oral,02020200/02020400,Loop Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-1301,Frumil ls 20mg+2.5mg Tablet (Helios Healthcare Ltd),Amiloride hydrochloride/Furosemide,2.5mg + 20mg,Tablet,Oral,02020200/02020400,Loop Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-2772,Lasoride 5mg/40mg tablets (Sanofi),Amiloride hydrochloride/Furosemide,5mg + 40mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-3793,Co-amilofruse 10mg/80mg tablets,Amiloride hydrochloride/Furosemide,10mg + 80mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-4873,Fru-Co 5mg/40mg tablets (Teva UK Ltd),Amiloride hydrochloride/Furosemide,5mg + 40mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-9431,Frusemek 40mg+5mg Tablet (Approved Prescription Services Ltd),Amiloride hydrochloride/Furosemide,5mg + 40mg,Tablet,Oral,02020200/02020400,Loop Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-13435,Frumil Forte 10mg/80mg tablets (Sanofi),Amiloride hydrochloride/Furosemide,10mg + 80mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-18332,Aridil 20mg+2.5mg Tablet (C P Pharmaceuticals Ltd),Amiloride hydrochloride/Furosemide,2.5mg + 20mg,Tablet,Oral,02020200/02020400,Loop Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-21938,Froop Co 5mg/40mg tablets (Ashbourne Pharmaceuticals Ltd),Amiloride hydrochloride/Furosemide,5mg + 40mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-25965,Co-amilofruse 2.5mg/20mg tablets (Wockhardt UK Ltd),Amiloride hydrochloride/Furosemide,2.5mg + 20mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-28129,Co-amilofruse 5mg/40mg tablets (Teva UK Ltd),Amiloride hydrochloride/Furosemide,5mg + 40mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-30773,Co-amilofruse 5mg+40mg Tablet (Berk Pharmaceuticals Ltd),Amiloride hydrochloride/Furosemide,5mg + 40mg,Tablet,Oral,02020200/02020400,Loop Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-31773,Co-amilofruse 5mg/40mg tablets (Wockhardt UK Ltd),Amiloride hydrochloride/Furosemide,5mg + 40mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-33527,Co-amilofruse 5mg/40mg tablets (Generics (UK) Ltd),Amiloride hydrochloride/Furosemide,5mg + 40mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-33658,Co-amilofruse 5mg/40mg tablets (A A H Pharmaceuticals Ltd),Amiloride hydrochloride/Furosemide,5mg + 40mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-34280,Co-amilofruse 2.5mg/20mg tablets (Sandoz Ltd),Amiloride hydrochloride/Furosemide,2.5mg + 20mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-34622,Co-amilofruse 10mg/80mg tablets (Wockhardt UK Ltd),Amiloride hydrochloride/Furosemide,10mg + 80mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-38901,Frumil LS 20mg/2.5mg tablets (Sanofi),Amiloride hydrochloride/Furosemide,2.5mg + 20mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-39807,Frumil 40mg/5mg tablets (Sanofi),Amiloride hydrochloride/Furosemide,5mg + 40mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Jul-09
-41533,Co-amilofruse 2.5mg/20mg tablets (Teva UK Ltd),Amiloride hydrochloride/Furosemide,2.5mg + 20mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Mar-10
-41719,Co-amilofruse 5mg/40mg tablets (Actavis UK Ltd),Amiloride hydrochloride/Furosemide,5mg + 40mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Mar-10
-43508,Co-amilofruse 5mg/40mg tablets (Sandoz Ltd),Amiloride hydrochloride/Furosemide,5mg + 40mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Sep-10
-57908,Co-amilofruse 5mg/40mg tablets (Kent Pharmaceuticals Ltd),Amiloride hydrochloride/Furosemide,5mg + 40mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Dec-13
-59412,Co-amilofruse 5mg/40mg tablets (Waymade Healthcare Plc),Amiloride hydrochloride/Furosemide,5mg + 40mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Apr-14
-60258,Co-amilofruse 2.5mg/20mg tablets (Aurobindo Pharma Ltd),Amiloride hydrochloride/Furosemide,2.5mg + 20mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Jun-14
-348,Moduretic Tablet (Bristol-Myers Squibb Pharmaceuticals Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-923,Co-amilozide 5mg/50mg tablets,Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-924,Co-amilozide 2.5mg/25mg tablets,Amiloride hydrochloride/Hydrochlorothiazide,2.5mg + 25mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-1251,Moduret 25 tablets (Merck Sharp & Dohme Ltd),Amiloride hydrochloride/Hydrochlorothiazide,2.5mg + 25mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-8058,Normetic Tablet (Abbott Laboratories Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-18361,Amilmaxco 5mg/50mg tablets (Ashbourne Pharmaceuticals Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-20066,Amil-Co 5mg/50mg tablets (IVAX Pharmaceuticals UK Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-24008,Vasetic Tablet (Shire Pharmaceuticals Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-25500,Hypertane 50 Tablet (Schwarz Pharma Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-26219,Zida-co 5mg+50mg Tablet (Opus Pharmaceuticals Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-26220,Delvas Tablet (Berk Pharmaceuticals Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-31150,Co-amilozide 5mg/50mg tablets (IVAX Pharmaceuticals UK Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-34367,Co-amilozide 2.5mg/25mg tablets (Wockhardt UK Ltd),Amiloride hydrochloride/Hydrochlorothiazide,2.5mg + 25mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-41556,Co-amilozide 5mg/50mg tablets (Teva UK Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Mar-10
-42142,Moduretic 5mg/50mg tablets (Merck Sharp & Dohme Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Apr-10
-46916,Co-amilozide 5mg/50mg tablets (A A H Pharmaceuticals Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Mar-12
-60354,Co-amilozide 2.5mg/25mg tablets (Kent Pharmaceuticals Ltd),Amiloride hydrochloride/Hydrochlorothiazide,2.5mg + 25mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Jul-14
-62249,Co-amilozide 5mg/50mg tablets (Alliance Healthcare (Distribution) Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Jan-15
-46687,Olmesartan medoxomil with amlodipine and hydrochlorothiazide 20mg + 5mg + 12.5mg Tablet,Amlodipine,20mg + 5mg + 12.5mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,Jan-12
-46715,Olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 10mg + 12.5mg Tablet,Amlodipine,40mg + 10mg + 12.5mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,Jan-12
-46792,Olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 5mg + 12.5mg Tablet,Amlodipine,40mg + 5mg + 12.5mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,Feb-12
-47467,Olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 5mg + 25mg Tablet,Amlodipine,40mg + 5mg + 25mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,Jul-12
-55358,Olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 10mg + 25mg Tablet,Amlodipine,40mg + 10mg + 25mg,Tablet,,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,May-13
-3526,Amiloride with atenolol with hydrochlorothiazide capsules,Atenolol,,Capsules,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-4983,Atenolol with amiloride and hydrochlorothiazide capsules,Atenolol,,Capsules,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-28177,Hydrochlorothiazide with atenolol and amiloride Capsule,Atenolol,,Capsule,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-7543,Kalten capsules (M & A Pharmachem Ltd),Atenolol/Amiloride hydrochloride/Hydrochlorothiazide,50mg + 2.5mg + 25mg,Capsule,Oral,2040100,Beta-adrenoceptor Blocking Drugs With Diuretic,Feb-09
-9178,Atenolol 25mg / Bendroflumethiazide 1.25mg capsules,Atenolol/Bendroflumethiazide,25mg + 1.25mg,Capsule,Oral,0,Unknown,Feb-09
-18743,Tenben 25mg/1.25mg capsules (Galen Ltd),Atenolol/Bendroflumethiazide,25mg + 1.25mg,Capsule,Oral,0,Unknown,Feb-09
-1124,Tenoretic 100mg/25mg tablets (AstraZeneca UK Ltd),Atenolol/Chlortalidone,100mg + 25mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-1288,Tenoret 50mg/12.5mg tablets (AstraZeneca UK Ltd),Atenolol/Chlortalidone,50mg + 12.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-5721,Co-tenidone 100mg/25mg tablets,Atenolol/Chlortalidone,100mg + 25mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-9783,Co-tenidone 50mg/12.5mg tablets,Atenolol/Chlortalidone,50mg + 12.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-13526,Atenix Co 100 tablets (Ashbourne Pharmaceuticals Ltd),Atenolol/Chlortalidone,100mg + 25mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-21873,Atenix Co 50 tablets (Ashbourne Pharmaceuticals Ltd),Atenolol/Chlortalidone,50mg + 12.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-24280,Totaretic 100mg+25mg Tablet (C P Pharmaceuticals Ltd),Atenolol/Chlortalidone,100mg + 25mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-26248,Tenchlor 100mg/25mg tablets (Teva UK Ltd),Atenolol/Chlortalidone,100mg + 25mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-26741,Totaretic 50mg+12.5mg Tablet (C P Pharmaceuticals Ltd),Atenolol/Chlortalidone,50mg + 12.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-31470,Tenchlor 50mg/12.5mg tablets (Teva UK Ltd),Atenolol/Chlortalidone,50mg + 12.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-31708,Co-tenidone 50mg/12.5mg tablets (Actavis UK Ltd),Atenolol/Chlortalidone,50mg + 12.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-32094,Co-tenidone 50mg/12.5mg tablets (A A H Pharmaceuticals Ltd),Atenolol/Chlortalidone,50mg + 12.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-34012,Co-tenidone 100mg/25mg tablets (IVAX Pharmaceuticals UK Ltd),Atenolol/Chlortalidone,100mg + 25mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-34034,Co-tenidone 50mg/12.5mg tablets (IVAX Pharmaceuticals UK Ltd),Atenolol/Chlortalidone,50mg + 12.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-34449,Co-tenidone 50mg/12.5mg tablets (Generics (UK) Ltd),Atenolol/Chlortalidone,50mg + 12.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-34825,Co-tenidone 50mg/12.5mg tablets (Teva UK Ltd),Atenolol/Chlortalidone,50mg + 12.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-34899,Co-tenidone 100mg/25mg tablets (A A H Pharmaceuticals Ltd),Atenolol/Chlortalidone,100mg + 25mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-37725,Co-tenidone 100mg/25mg tablets (Generics (UK) Ltd),Atenolol/Chlortalidone,100mg + 25mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-41572,Co-tenidone 100mg/25mg tablets (Teva UK Ltd),Atenolol/Chlortalidone,100mg + 25mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Mar-10
-46952,Co-tenidone 100mg/25mg tablets (Actavis UK Ltd),Atenolol/Chlortalidone,100mg + 25mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Mar-12
-2,Bendroflumethiazide 2.5mg tablets,Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria,Feb-09
-58,Bendroflumethiazide 5mg tablets,Bendroflumethiazide,5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-1209,Neo-Naclex 5mg tablets (Mercury Pharma Group Ltd),Bendroflumethiazide,5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-7351,Bendroflumethiazide 2.5mg/5ml oral suspension,Bendroflumethiazide,500microgram/1ml,Oral suspension,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria,Feb-09
-7698,Aprinox 5mg tablets (Amdipharm Plc),Bendroflumethiazide,5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-8526,Aprinox 2.5mg tablets (AMCo),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria,Feb-09
-18973,Centyl 2.5mg Tablet (Edwin Burgess Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-21803,Berkozide 2.5mg Tablet (Berk Pharmaceuticals Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-21867,Berkozide 5mg Tablet (Berk Pharmaceuticals Ltd),Bendroflumethiazide,5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-23427,Bendroflumethiazide 5mg tablets (A A H Pharmaceuticals Ltd),Bendroflumethiazide,5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-24189,Neo-bendromax 2.5mg Tablet (Ashbourne Pharmaceuticals Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-24190,Neo-bendromax 5mg Tablet (Ashbourne Pharmaceuticals Ltd),Bendroflumethiazide,5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-27256,Bendroflumethiazide 2.5mg tablets (Wockhardt UK Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria,Feb-09
-27689,Bendroflumethiazide 2.5mg tablets (IVAX Pharmaceuticals UK Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-29991,Centyl 5mg Tablet (Edwin Burgess Ltd),Bendroflumethiazide,5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-31670,Bendroflumethiazide 2.5mg tablets (Teva UK Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria,Feb-09
-31820,Bendroflumethiazide 5mg tablets (Wockhardt UK Ltd),Bendroflumethiazide,5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-33415,Bendroflumethiazide 2.5mg tablets (Generics (UK) Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria,Feb-09
-33651,Bendroflumethiazide 2.5mg tablets (A A H Pharmaceuticals Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria,Feb-09
-34059,Bendroflumethiazide 2.5mg tablets (Actavis UK Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria,Feb-09
-34124,Bendroflumethiazide 5mg tablets (Actavis UK Ltd),Bendroflumethiazide,5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-34602,Bendroflumethiazide 2.5mg tablets (Sovereign Medical Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria,Feb-09
-34803,Bendroflumethiazide 2.5mg Tablet (Regent Laboratories Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-40149,Bendroflumethiazide 5mg tablets (IVAX Pharmaceuticals UK Ltd),Bendroflumethiazide,5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Aug-09
-40886,Bendroflumethiazide 2.5mg tablets (Almus Pharmaceuticals Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria,Dec-09
-41517,Bendroflumethiazide 5mg tablets (Teva UK Ltd),Bendroflumethiazide,5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Mar-10
-46302,Neo-Naclex 2.5mg tablets (AMCo),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria,Oct-11
-47844,Bendroflumethiazide 2.5mg tablets (Kent Pharmaceuticals Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria,Sep-12
-53812,Bendroflumethiazide oral solution,Bendroflumethiazide,,,,2020100,Thiazides And Related Diuretics,Feb-13
-1211,Bendroflumethiazide 2.5mg / Potassium chloride 630mg (potassium 8.4mmol) modified-release tablets,Bendroflumethiazide/Potassium chloride,2.5mg + 630mg,Modified-release tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-1213,Neo-Naclex-K modified-release tablets (Mercury Pharma Group Ltd),Bendroflumethiazide/Potassium chloride,2.5mg + 630mg,Modified-release tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-2979,Centyl k Tablet (Edwin Burgess Ltd),Bendroflumethiazide/Potassium chloride,2.5mg + 630mg,Modified-release tablet,Oral,2020800,Diuretics With Potassium,Feb-09
-30272,Benthiazide with Triamterene capsules,Benzthiazide,,Capsules,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-4406,Decaserpyl plus Tablet (Roussel Laboratories Ltd),Benzthiazide/methoserpidine,,Tablet,Oral,2050200,Centrally Acting Antihypertensive Drugs,Feb-09
-29696,Methoserpidine with benzthiazide Tablet,Benzthiazide/methoserpidine,,Tablet,Oral,2050200,Centrally Acting Antihypertensive Drugs,Feb-09
-17149,Monozide 10 tablets (Wyeth Pharmaceuticals),Bisoprolol fumarate/Hydrochlorothiazide,10mg + 6.25mg,Tablet,Oral,0,Unknown,Feb-09
-17462,Bisoprolol 10mg / Hydrochlorothiazide 6.25mg tablets,Bisoprolol fumarate/Hydrochlorothiazide,10mg + 6.25mg,Tablet,Oral,0,Unknown,Feb-09
-814,Bumetanide 1mg tablets,Bumetanide,1mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-2495,Bumetanide with Amiloride tablets,Bumetanide,,Tablets,Oral,02020200/02020400,Loop Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-2788,Burinex 1mg tablets (LEO Pharma),Bumetanide,1mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-5218,Bumetanide 1mg/5ml oral solution sugar free,Bumetanide,200microgram/1ml,Oral solution,Oral,2020200,Loop Diuretics,Feb-09
-7806,Bumetanide 5mg tablets,Bumetanide,5mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-12226,Burinex 1mg/5ml Oral solution (LEO Pharma),Bumetanide,200microgram/1ml,Oral solution,Oral,2020200,Loop Diuretics,Feb-09
-12294,Burinex 5mg tablets (LEO Pharma),Bumetanide,5mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-15341,Burinex 0.5mg/ml Injection (LEO Pharma),Bumetanide,500microgram/1ml,Solution for injection,Intravenous/Intramuscular,2020200,Loop Diuretics,Feb-09
-19300,Bumetanide 2mg/4ml solution for injection ampoules,Bumetanide,500microgram/1ml,Solution for injection,Intravenous/Intramuscular,2020200,Loop Diuretics,Feb-09
-30913,Betinex 1mg Tablet (Berk Pharmaceuticals Ltd),Bumetanide,1mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-31932,Bumetanide 1mg tablets (C P Pharmaceuticals Ltd),Bumetanide,1mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-32091,Bumetanide 1mg tablets (A A H Pharmaceuticals Ltd),Bumetanide,1mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-34613,Bumetanide 5mg tablets (Teva UK Ltd),Bumetanide,5mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-34934,Bumetanide 1mg tablets (Generics (UK) Ltd),Bumetanide,1mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-36767,Bumetanide 1mg tablets (IVAX Pharmaceuticals UK Ltd),Bumetanide,1mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-39602,Bumetanide 1mg tablets (Actavis UK Ltd),Bumetanide,1mg,Tablet,Oral,2020200,Loop Diuretics,May-09
-45305,Bumetanide 1mg tablets (Teva UK Ltd),Bumetanide,1mg,Tablet,Oral,2020200,Loop Diuretics,May-11
-55548,Bumetanide 1mg tablets (Alliance Healthcare (Distribution) Ltd),Bumetanide,1mg,Tablet,Oral,2020200,Loop Diuretics,Jun-13
-62024,Bumetanide 5mg tablets (A A H Pharmaceuticals Ltd),Bumetanide,5mg,Tablet,Oral,2020200,Loop Diuretics,Jan-15
-2493,Burinex A 5mg/1mg tablets (LEO Pharma),Bumetanide/Amiloride hydrochloride,1mg + 5mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-14587,Amiloride 5mg / Bumetanide 1mg tablets,Bumetanide/Amiloride hydrochloride,1mg + 5mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-1776,Burinex K modified-release tablets (LEO Pharma),Bumetanide/Potassium chloride,500microgram + 573mg,Modified-release tablet,Oral,0,Unknown,Feb-09
-6160,Bumetanide 500microgram / Potassium chloride 573mg (potassium 7.7mmol) modified-release tablets,Bumetanide/Potassium chloride,500microgram + 573mg,Modified-release tablet,Oral,0,Unknown,Feb-09
-10902,Captopril 50mg with Hydrochlorothiazide 25mg tablets,Captopril,50mg + 25mg,Tablets,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,Feb-09
-11133,Hydrochlorothiazide with captopril 25mg with 50mg Tablet,Captopril,25mg + 50mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,Feb-09
-11641,Captopril 25mg with Hydrochlorothiazide 12.5mg tablets,Captopril,25mg + 12.5mg,Tablets,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,Feb-09
-15135,Hydrochlorothiazide with captopril 12.5mg with 25mg Tablet,Captopril,12.5mg + 25mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,Feb-09
-6816,Chlorothiazide 250mg/5ml oral suspension,Chlorothiazide,50mg/1ml,Oral suspension,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-8836,Chlorothiazide 500mg tablets,Chlorothiazide,500mg,Tablets,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-13246,Chlorothiazide 150mg/5ml oral suspension,Chlorothiazide,30mg/1ml,Oral suspension,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-17720,Saluric 500mg Tablet (Merck Sharp & Dohme Ltd),Chlorothiazide,500mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-33724,Diuril 250mg/5ml oral suspension (Imported (United States)),Chlorothiazide,50mg/1ml,Oral suspension,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-54679,Chlorothiazide 250mg tablets,Chlorothiazide,250mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Apr-13
-55889,Chlorothiazide oral solution,Chlorothiazide,,,,2020100,Thiazides And Related Diuretics,Aug-13
-56804,Chlorothiazide 25mg/5ml oral suspension,Chlorothiazide,5mg/1ml,Oral suspension,Oral,2020100,Thiazides And Related Diuretics,Aug-13
-60603,Chlorothiazide 50mg/5ml oral suspension,Chlorothiazide,10mg/1ml,Oral suspension,Oral,2020100,Thiazides And Related Diuretics,Jul-14
-581,Atenolol 50mg with Chlortalidone 12.5mg tablets,Chlortalidone,50mg+12.5mg,Tablets,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-605,Chlortalidone 50mg tablets,Chlortalidone,50mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-1788,Atenolol 100mg with Chlortalidone 25mg tablets,Chlortalidone,100mg+25mg,Tablets,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-3054,Hygroton 100mg Tablet (Alliance Pharmaceuticals Ltd),Chlortalidone,100mg,Tablet,Oral,02020100/06050200,Thiazides And Related Diuretics/Posterior Pituitary Hormones And Antagonists,Feb-09
-3548,Chlortalidone 100mg tablets,Chlortalidone,100mg,Tablets,Oral,02020100/06050200,Thiazides And Related Diuretics/Posterior Pituitary Hormones And Antagonists,Feb-09
-3997,Hygroton 50mg tablets (Alliance Pharmaceuticals Ltd),Chlortalidone,50mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-16786,Chlortalidone 25mg with Atenolol 100mg tablets,Chlortalidone,25mg+100mg,Tablets,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-19055,Chlortalidone 12.5mg with Atenolol 50mg tablets,Chlortalidone,12.5mg+50mg,Tablets,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-12546,Kalspare Tablet (Dominion Pharma),Chlortalidone/Triamterene,50mg + 50mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-12547,Triamterene 50mg / Chlortalidone 50mg tablets,Chlortalidone/Triamterene,50mg + 50mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-16498,Kalspare tablets (DHP Healthcare Ltd),Chlortalidone/Triamterene,50mg + 50mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-1170,Cyclopenthiazide 500microgram tablets,Cyclopenthiazide,500microgram,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-2046,Navidrex 500microgram tablets (AMCo),Cyclopenthiazide,500microgram,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-18606,Diltiazem and hydrochlorothiazide 150mg+12.5mg modified-release capsules,Diltiazem Hydrochloride,150mg + 12.5mg,Modified Release Capsules,Oral,02020100/02060200,Thiazides And Related Diuretics/Calcium-channel Blockers,Feb-09
-23505,Adizem xl plus 150mg+12.5mg Modified-release capsule (Napp Pharmaceuticals Ltd),Diltiazem Hydrochloride,150mg+12.5mg,Modified-release Capsule,Oral,02020100/02060200,Thiazides And Related Diuretics/Calcium-channel Blockers,Feb-09
-1021,Innozide 20mg/12.5mg tablets (Merck Sharp & Dohme Ltd),Enalapril maleate/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,Feb-09
-5189,Enalapril 20mg / Hydrochlorothiazide 12.5mg tablets,Enalapril maleate/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,Feb-09
-10251,Eplerenone 25mg tablets,Eplerenone,25mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-14144,Inspra 25mg tablets (Pfizer Ltd),Eplerenone,25mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-16531,Eplerenone 50mg tablets,Eplerenone,50mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-29694,Inspra 50mg tablets (Pfizer Ltd),Eplerenone,50mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-12354,Etacrynic 50mg tablets,Etacrynic Acid,50mg,Tablets,Oral,2020200,Loop Diuretics,Feb-09
-18650,Edecrin 50mg Tablet (Merck Sharp & Dohme Ltd),Etacrynic Acid,50mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-32002,Etacrynic 50mg/vial injection,Etacrynic Acid,50mg/vial,Injection,,2020200,Loop Diuretics,Feb-09
-6,Furosemide 40mg tablets,Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-55,Furosemide 20mg tablets,Furosemide,20mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-562,Furosemide 10mg/ml Injection,Furosemide,10mg/ml,Injection,,2020200,Loop Diuretics,Feb-09
-1369,Furosemide with amiloride 40mg+5mg Tablet,Furosemide,40mg+5mg,Tablet,Oral,02020200/02020400,Loop Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-3248,Furosemide 500mg tablets,Furosemide,500mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-3287,Furosemide 1mg/ml Oral solution,Furosemide,1mg/ml,Oral Solution,Oral,2020200,Loop Diuretics,Feb-09
-4182,Lasix 5mg/5ml oral solution (Borg Medicare),Furosemide,1mg/1ml,Oral solution,Oral,2020200,Loop Diuretics,Feb-09
-4211,Furosemide with amiloride 20mg+2.5mg Tablet,Furosemide,20mg+2.5mg,Tablet,Oral,02020200/02020400,Loop Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-4258,Lasix 20mg/2ml solution for injection ampoules (Sanofi),Furosemide,10mg/1ml,Solution for injection,Intravenous/Intramuscular,2020200,Loop Diuretics,Feb-09
-4705,Furosemide 20mg/2ml Injection,Furosemide,20mg/2ml,Injection,Intravenous Injection,2020200,Loop Diuretics,Feb-09
-5220,Furosemide with amiloride 80mg+10mg Tablet,Furosemide,80mg+10mg,Tablet,Oral,02020200/02020400,Loop Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-5249,Furosemide 50mg/5ml oral solution sugar free,Furosemide,10mg/1ml,Oral solution,Oral,2020200,Loop Diuretics,Feb-09
-5728,Furosemide 40mg/5ml oral solution sugar free,Furosemide,8mg/1ml,Oral solution,Oral,2020200,Loop Diuretics,Feb-09
-5868,Frusol 20mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),Furosemide,4mg/1ml,Oral solution,Oral,2020200,Loop Diuretics,Feb-09
-6118,Furosemide 20mg/5ml oral solution sugar free,Furosemide,4mg/1ml,Oral solution,Oral,2020200,Loop Diuretics,Feb-09
-7606,Lasix 40mg tablets (Sanofi),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-7799,Lasix 20mg tablets (Borg Medicare),Furosemide,20mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-9456,Amiloride 5mg / furosemide 40mg tablets,Furosemide,5mg + 40mg,Tablets,Oral,02020200/02020400,Loop Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-9680,Frusol 40mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),Furosemide,8mg/1ml,Oral solution,Oral,2020200,Loop Diuretics,Feb-09
-10392,Lasix 500mg tablets (Sanofi),Furosemide,500mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-10422,Lasix 50mg/5ml Injection (Hoechst UK Ltd),Furosemide,10mg/1ml,Solution for injection,Intravenous/Intramuscular,2020200,Loop Diuretics,Feb-09
-12318,Lasix 250mg/25ml Injection (Hoechst Marion Roussel),Furosemide,10mg/1ml,Solution for injection,Intravenous/Intramuscular,2020200,Loop Diuretics,Feb-09
-14761,Frusid 40mg tablets (Dr Reddy's Laboratories (UK) Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-14837,Frusol 50mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),Furosemide,10mg/1ml,Oral solution,Oral,2020200,Loop Diuretics,Feb-09
-15874,Amiloride 2.5mg / furosemide 20mg tablets,Furosemide,2.5mg + 20mg,Tablets,Oral,02020200/02020400,Loop Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-16206,Froop 40mg tablets (Ashbourne Pharmaceuticals Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-18497,Amiloride 10mg / furosemide 80mg tablets,Furosemide,10mg + 80mg,Tablets,Oral,02020200/02020400,Loop Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-18716,Dryptal 10mg/ml Injection (Berk Pharmaceuticals Ltd),Furosemide,10mg/ml,Injection,,2020200,Loop Diuretics,Feb-09
-19056,Furosemide 50mg/5ml sugar free Oral solution (Rosemont Pharmaceuticals Ltd),Furosemide,10mg/1ml,Oral solution,Oral,2020200,Loop Diuretics,Feb-09
-19192,Furosemide 40mg Tablet (M & A Pharmachem Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-19194,Furosemide 20mg tablets (Teva UK Ltd),Furosemide,20mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-19258,Furosemide 50mg/5ml solution for injection ampoules,Furosemide,10mg/1ml,Solution for injection,Intravenous/Intramuscular,2020200,Loop Diuretics,Feb-09
-20538,Frumax 40mg Tablet (Ashbourne Pharmaceuticals Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-21849,Dryptal 40mg Tablet (Berk Pharmaceuticals Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-24835,Min-i-jet furosemide 10mg/ml Injection (Celltech Pharma Europe Ltd),Furosemide,10mg/ml,Injection,Intravenous Injection,2020200,Loop Diuretics,Feb-09
-25334,Furosemide 500mg tablets (A A H Pharmaceuticals Ltd),Furosemide,500mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-25717,Furosemide 40mg tablets (Generics (UK) Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-26292,Diuresal 40mg Tablet (Lagap),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-27447,Furosemide 40mg tablets (Wockhardt UK Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-27690,Furosemide 40mg tablets (A A H Pharmaceuticals Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-27696,Furosemide 40mg tablets (Kent Pharmaceuticals Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-27926,Furosemide 20mg tablets (Generics (UK) Ltd),Furosemide,20mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-29780,Furosemide 20mg Tablet (C P Pharmaceuticals Ltd),Furosemide,20mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-30625,Furosemide 20mg tablets (A A H Pharmaceuticals Ltd),Furosemide,20mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-30875,Furosemide 250mg/25ml solution for injection ampoules,Furosemide,10mg/1ml,Solution for injection,Intravenous/Intramuscular,2020200,Loop Diuretics,Feb-09
-31548,Furosemide 20mg tablets (Actavis UK Ltd),Furosemide,20mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-32277,Furosemide 80mg/8ml solution for injection pre-filled syringes,Furosemide,10mg/1ml,Solution for injection,Intravenous/Intramuscular,2020200,Loop Diuretics,Feb-09
-32896,Furosemide 40mg tablets (Ranbaxy (UK) Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-32918,Furosemide 20mg tablets (Sandoz Ltd),Furosemide,20mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-34006,Furosemide 40mg tablets (Actavis UK Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-34374,Furosemide 40mg tablets (Teva UK Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-34557,Furosemide 40mg tablets (IVAX Pharmaceuticals UK Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-35162,Furosemide 20mg/2ml solution for injection ampoules,Furosemide,10mg/1ml,Solution for injection,Intravenous/Intramuscular,2020200,Loop Diuretics,Feb-09
-36190,Furosemide 5mg/5ml oral solution sugar free,Furosemide,1mg/1ml,Oral solution,Oral,2020200,Loop Diuretics,Feb-09
-40247,Furosemide 10mg/ml Injection (Martindale Pharmaceuticals Ltd),Furosemide,10mg/ml,Injection,Intravenous Injection,2020200,Loop Diuretics,Aug-09
-41292,Furosemide 20mg tablets (Wockhardt UK Ltd),Furosemide,20mg,Tablet,Oral,2020200,Loop Diuretics,Feb-10
-41405,Furosemide 500mg tablets (Teva UK Ltd),Furosemide,500mg,Tablet,Oral,2020200,Loop Diuretics,Mar-10
-41828,Furosemide 500mg tablets (Actavis UK Ltd),Furosemide,500mg,Tablet,Oral,2020200,Loop Diuretics,Apr-10
-42388,Furosemide 40mg/5ml oral solution sugar free (Focus Pharmaceuticals Ltd),Furosemide,8mg/1ml,Oral solution,Oral,2020200,Loop Diuretics,May-10
-42488,Furosemide 40mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd),Furosemide,8mg/1ml,Oral solution,Oral,2020200,Loop Diuretics,Jun-10
-46116,Furosemide 10mg/ml Injection (Antigen Pharmaceuticals),Furosemide,10mg/ml,Injection,Intravenous Injection,2020200,Loop Diuretics,Sep-11
-46699,Furosemide 40mg tablets (Almus Pharmaceuticals Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics,Jan-12
-46948,Furosemide 40mg tablets (Arrow Generics Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics,Mar-12
-47647,Co-amilofruse oral liquid,Furosemide,,Oral Liquid,Oral,02020200/02020300,Loop Diuretics/Potassium-sparing Diuretics And Aldosterone Antagonists,Aug-12
-47815,Furosemide 20mg Tablet (Celltech Pharma Europe Ltd),Furosemide,20mg,Tablet,Oral,2020200,Loop Diuretics,Sep-12
-52887,Furosemide 20mg/2ml solution for injection ampoules (A A H Pharmaceuticals Ltd),Furosemide,10mg/1ml,Solution for injection,Intravenous/Intramuscular,2020200,Loop Diuretics,Jan-13
-52900,Furosemide 80mg/8ml solution for injection Minijet pre-filled syringes (UCB Pharma Ltd),Furosemide,10mg/1ml,Solution for injection,Intravenous/Intramuscular,2020200,Loop Diuretics,Jan-13
-53967,Furosemide 20mg tablets (Bristol Laboratories Ltd),Furosemide,20mg,Tablet,Oral,2020200,Loop Diuretics,Mar-13
-54825,Furosemide 20mg tablets (Sigma Pharmaceuticals Plc),Furosemide,20mg,Tablet,Oral,2020200,Loop Diuretics,Apr-13
-55738,Furosemide 50mg/5ml solution for injection ampoules (Hameln Pharmaceuticals Ltd),Furosemide,10mg/1ml,Solution for injection,Intravenous/Intramuscular,2020200,Loop Diuretics,Jun-13
-56051,Furosemide 20mg tablets (Kent Pharmaceuticals Ltd),Furosemide,20mg,Tablet,Oral,2020200,Loop Diuretics,Aug-13
-56375,Furosemide 40mg tablets (Accord Healthcare Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics,Aug-13
-57600,Furosemide 20mg/2ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),Furosemide,10mg/1ml,Solution for injection,Intravenous/Intramuscular,2020200,Loop Diuretics,Oct-13
-57610,Furosemide 20mg/5ml oral solution sugar free (Focus Pharmaceuticals Ltd),Furosemide,4mg/1ml,Oral solution,Oral,2020200,Loop Diuretics,Oct-13
-58078,Furosemide 8mg/5ml oral solution,Furosemide,1.6mg/1ml,Oral solution,Oral,2020200,Loop Diuretics,Dec-13
-58224,Furosemide 10mg/5ml oral solution,Furosemide,2mg/1ml,Oral solution,Oral,2020200,Loop Diuretics,Dec-13
-59030,Furosemide 20mg/5ml oral solution,Furosemide,4mg/1ml,Oral solution,Oral,2020200,Loop Diuretics,Mar-14
-59290,Furosemide 20mg tablets (Alliance Healthcare (Distribution) Ltd),Furosemide,20mg,Tablet,Oral,2020200,Loop Diuretics,Apr-14
-59884,Furosemide 20mg tablets (Phoenix Healthcare Distribution Ltd),Furosemide,20mg,Tablet,Oral,2020200,Loop Diuretics,May-14
-59911,Furosemide 40mg tablets (Alliance Healthcare (Distribution) Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics,May-14
-60291,Furosemide 40mg tablets (AMCo),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics,Jul-14
-60465,Furosemide 5mg/5ml oral solution,Furosemide,1mg/1ml,Oral solution,Oral,2020200,Loop Diuretics,Jul-14
-61365,Furosemide 40mg/5ml oral suspension,Furosemide,8mg/1ml,Oral suspension,Oral,2020200,Loop Diuretics,Oct-14
-61475,Furosemide 20mg tablets (DE Pharmaceuticals),Furosemide,20mg,Tablet,Oral,2020200,Loop Diuretics,Oct-14
-542,Hydrochlorothiazide 25mg tablets,Hydrochlorothiazide,25mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-3517,Hydrochlorothiazide 50mg tablets,Hydrochlorothiazide,50mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-13363,Esidrex 50mg Tablet (Novartis Pharmaceuticals UK Ltd),Hydrochlorothiazide,50mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-17252,Esidrex 25mg Tablet (Novartis Pharmaceuticals UK Ltd),Hydrochlorothiazide,25mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-35380,Hydrochlorothiazide with olmesartan medoxomil 12.5mg with 20mg tablet,Hydrochlorothiazide,12.5mg + 20mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,Feb-09
-39021,Hydrochlorothiazide with olmesartan medoxomil 25mg with 20mg tablet,Hydrochlorothiazide,25mg + 20mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,Feb-09
-48132,Hydrochlorothiazide Capsule,Hydrochlorothiazide,,Capsule,Oral,2020100,Thiazides And Related Diuretics,Dec-12
-57488,Hydrochlorothiazide Oral solution,Hydrochlorothiazide,,Oral Solution,,2020100,Thiazides And Related Diuretics,Oct-13
-12440,Hydrosaluric 25mg tablets (Merck Sharp & Dohme Ltd),Hydrochlorothiazide,25mg,Tablet,Oral,0,Unknown,Feb-09
-16632,Hydrosaluric 50mg tablets (Merck Sharp & Dohme Ltd),Hydrochlorothiazide,50mg,Tablet,Oral,0,Unknown,Feb-09
-47573,Sevikar HCT 40mg/5mg/12.5mg tablets (Daiichi Sankyo UK Ltd),Hydrochlorothiazide/Amlodipine besilate/Olmesartan medoxomil,12.5mg + 5mg + 40mg,Tablet,Oral,2050502,Angiotensin-ii Receptor Antagonists,Aug-12
-53220,Sevikar HCT 40mg/10mg/25mg tablets (Daiichi Sankyo UK Ltd),Hydrochlorothiazide/Amlodipine besilate/Olmesartan medoxomil,25mg + 10mg + 40mg,Tablet,Oral,2050502,Angiotensin-ii Receptor Antagonists,Jan-13
-47616,Sevikar HCT 40mg/10mg/12.5mg tablets (Daiichi Sankyo UK Ltd),Hydrochlorothiazide/amlodipine/olmesartan Medoxomil,40mg + 10mg + 12.5mg,Tablets,Oral,2050502,Angiotensin-ii Receptor Antagonists,Aug-12
-47727,Sevikar HCT 40mg/5mg/25mg tablets (Daiichi Sankyo UK Ltd),Hydrochlorothiazide/amlodipine/olmesartan Medoxomil,40mg + 5mg + 25mg,Tablets,Oral,2050502,Angiotensin-ii Receptor Antagonists,Aug-12
-3203,Capozide LS Tablet (E R Squibb and Sons Ltd),Hydrochlorothiazide/Captopril,12.5mg + 25mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,Feb-09
-32166,Capto-co 25mg+50mg Tablet (IVAX Pharmaceuticals UK Ltd),Hydrochlorothiazide/Captopril,25mg + 50mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,Feb-09
-1520,Capozide 25mg/50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Hydrochlorothiazide/Captopril,25mg + 50mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-11351,Co-zidocapt 25mg/50mg tablets,Hydrochlorothiazide/Captopril,25mg + 50mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-11561,Co-zidocapt 12.5mg/25mg tablets,Hydrochlorothiazide/Captopril,12.5mg + 25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-18263,Acezide 25mg/50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Hydrochlorothiazide/Captopril,25mg + 50mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-39227,Capozide LS 12.5mg/25mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Hydrochlorothiazide/Captopril,12.5mg + 25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Apr-09
-10316,CoAprovel 150mg/12.5mg tablets (Sanofi),Hydrochlorothiazide/Irbesartan,12.5mg + 150mg,Tablet,Oral,02020100/02050504,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists With Diuretic,Feb-09
-11448,Irbesartan 150mg / Hydrochlorothiazide 12.5mg tablets,Hydrochlorothiazide/Irbesartan,12.5mg + 150mg,Tablet,Oral,02020100/02050504,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists With Diuretic,Feb-09
-37650,Losartan 100mg / Hydrochlorothiazide 12.5mg tablets,Hydrochlorothiazide/losartan Potassium,100mg + 12.5mg,Tablets,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic,Feb-09
-7066,Metoprolol 100mg / Hydrochlorothiazide 12.5mg tablets,Hydrochlorothiazide/Metoprolol tartrate,12.5mg + 100mg,Tablet,Oral,0,Unknown,Feb-09
-10627,Co-Betaloc tablets (Pfizer Ltd),Hydrochlorothiazide/Metoprolol tartrate,12.5mg + 100mg,Tablet,Oral,0,Unknown,Feb-09
-18903,Olmesartan medoxomil 20mg / Hydrochlorothiazide 25mg tablets,Hydrochlorothiazide/olmesartan Medoxomil,20mg + 25mg,Tablets,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,Feb-09
-43322,Olmesartan medoxomil 40mg / Hydrochlorothiazide 12.5mg tablets,Hydrochlorothiazide/Olmesartan medoxomil,12.5mg + 40mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,Sep-10
-43915,Olmetec Plus 40mg/12.5mg tablets (Daiichi Sankyo UK Ltd),Hydrochlorothiazide/Olmesartan medoxomil,12.5mg + 40mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,Nov-10
-15031,Accuretic 12.5mg/10mg tablets (Pfizer Ltd),Hydrochlorothiazide/Quinapril hydrochloride,12.5mg + 10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-15108,Quinapril 10mg / Hydrochlorothiazide 12.5mg tablets,Hydrochlorothiazide/Quinapril hydrochloride,12.5mg + 10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-38459,Telmisartan 80mg / Hydrochlorothiazide 25mg tablets,Hydrochlorothiazide/telmisartan,80mg + 25mg,Tablets,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic,Feb-09
-38889,MicardisPlus 80mg/25mg tablets (Boehringer Ingelheim Ltd),Hydrochlorothiazide/telmisartan,80mg + 25mg,Tablets,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic,Feb-09
-764,Co-Diovan 80mg/12.5mg tablets (Novartis Pharmaceuticals UK Ltd),Hydrochlorothiazide/Valsartan,12.5mg + 80mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic,Feb-09
-16060,Valsartan 80mg / Hydrochlorothiazide 12.5mg tablets,Hydrochlorothiazide/Valsartan,12.5mg + 80mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic,Feb-09
-52858,Co-Diovan 80mg/12.5mg tablets (Sigma Pharmaceuticals Plc),Hydrochlorothiazide/Valsartan,12.5mg + 80mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic,Jan-13
-12110,Hydroflumethiazide 50mg Tablet,Hydroflumethiazide,50mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-13525,Hydrenox 50mg Tablet (Knoll Ltd),Hydroflumethiazide,50mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-3056,Natrilix SR 1.5mg tablets (Servier Laboratories Ltd),Indapamide,1.5mg,Modified-release tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-5112,Indapamide 1.5mg modified-release tablets,Indapamide,1.5mg,Modified-release tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-39447,Varbim XL 1.5mg tablets (Teva UK Ltd),Indapamide,1.5mg,Modified-release tablet,Oral,2020100,Thiazides And Related Diuretics,Apr-09
-41861,Tensaid XL 1.5mg tablets (Generics (UK) Ltd),Indapamide,1.5mg,Modified-release tablet,Oral,2020100,Thiazides And Related Diuretics,Apr-10
-41885,Ethibide XL 1.5mg tablets (Genus Pharmaceuticals Ltd),Indapamide,1.5mg,Modified-release tablet,Oral,2020100,Thiazides And Related Diuretics,Apr-10
-43184,Mapemid XL 1.5mg tablets (Teva UK Ltd),Indapamide,1.5mg,Modified-release tablet,Oral,2020100,Thiazides And Related Diuretics,Aug-10
-44168,Indipam XL 1.5mg tablets (Actavis UK Ltd),Indapamide,1.5mg,Modified-release tablet,Oral,2020100,Thiazides And Related Diuretics,Dec-10
-46675,Indapamide 1.5mg modified-release tablets (A A H Pharmaceuticals Ltd),Indapamide,1.5mg,Modified-release tablet,Oral,2020100,Thiazides And Related Diuretics,Jan-12
-59616,Rawel XL 1.5mg tablets (Consilient Health Ltd),Indapamide,1.5mg,Modified-release tablet,Oral,2020100,Thiazides And Related Diuretics,Apr-14
-60020,Indapamide 1.5mg modified-release tablets (Waymade Healthcare Plc),Indapamide,1.5mg,Modified-release tablet,Oral,2020100,Thiazides And Related Diuretics,May-14
-62066,Cardide SR 1.5mg tablets (Teva UK Ltd),Indapamide,1.5mg,Modified-release tablet,Oral,2020100,Thiazides And Related Diuretics,Jan-15
-2612,Indapamide 2.5mg tablets,Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-7641,Natrilix 2.5mg tablets (Servier Laboratories Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-26256,Opumide 2.5mg Tablet (Opus Pharmaceuticals Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-26275,Nindaxa 2.5 tablets (Ashbourne Pharmaceuticals Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-27957,Natramid 2.5mg Tablet (Trinity Pharmaceuticals Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-33083,Indapamide 2.5mg tablets (Teva UK Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-34551,Indapamide 2.5mg tablets (Generics (UK) Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-40907,Indapamide 2.5mg tablets (Genus Pharmaceuticals Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Dec-09
-42906,Indapamide 2.5mg tablets (Niche Generics Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Jul-10
-43516,Indapamide 2.5mg tablets (Actavis UK Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Sep-10
-48079,Indapamide 2.5mg tablets (Zentiva),Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Dec-12
-48099,Indapamide 2.5mg tablets (A A H Pharmaceuticals Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Dec-12
-49529,Indapamide 2.5mg tablets (Phoenix Healthcare Distribution Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Jan-13
-54316,Indapamide 2.5mg tablets (Alliance Healthcare (Distribution) Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Mar-13
-55259,Indapamide 2.5mg tablets (Kent Pharmaceuticals Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,May-13
-56296,Indapamide 2.5mg tablets (Boston Healthcare Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Aug-13
-56760,Indapamide 2.5mg tablets (Co-Pharma Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Aug-13
-37978,Perindopril arginine 5mg / Indapamide 1.25mg tablets,Indapamide/perindopril Arginine,5mg + 1.25mg,Tablets,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,Feb-09
-6794,Perindopril erbumine 4mg / Indapamide 1.25mg tablets,Indapamide/Perindopril erbumine,1.25mg + 4mg,Tablet,Oral,02020100/02050500/02050501,Thiazides And Related Diuretics/Drugs Affecting The Renin-angiotensin System/Angiotensin-converting Enzyme Inhibitors,Feb-09
-14228,Coversyl Plus tablets (Servier Laboratories Ltd),Indapamide/Perindopril erbumine,1.25mg + 4mg,Tablet,Oral,0,Unknown,Feb-09
-11469,Irbesartan 300mg / Hydrochlorothiazide 12.5mg tablets,Irbesartan/Hydrochlorothiazide,300mg + 12.5mg,Tablet,Oral,02020100/02050504,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists With Diuretic,Feb-09
-11526,CoAprovel 300mg/12.5mg tablets (Sanofi),Irbesartan/Hydrochlorothiazide,300mg + 12.5mg,Tablet,Oral,02020100/02050504,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists With Diuretic,Feb-09
-35196,CoAprovel 300mg/25mg tablets (Sanofi),Irbesartan/Hydrochlorothiazide,300mg + 25mg,Tablet,Oral,02020100/02050504,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists With Diuretic,Feb-09
-35481,Irbesartan 300mg / Hydrochlorothiazide 25mg tablets,Irbesartan/hydrochlorothiazide,300mg + 25mg,Tablets,Oral,02020100/02050504,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists With Diuretic,Feb-09
-2982,Zestoretic 20- 20mg+12.5mg Tablet (AstraZeneca UK Ltd),Lisinopril/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,Feb-09
-6359,Zestoretic 10- 10mg+12.5mg Tablet (AstraZeneca UK Ltd),Lisinopril/Hydrochlorothiazide,10mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,Feb-09
-6468,Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets,Lisinopril/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,Feb-09
-6786,Lisinopril 10mg / Hydrochlorothiazide 12.5mg tablets,Lisinopril/Hydrochlorothiazide,10mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,Feb-09
-9764,Carace 20 Tablet (Bristol-Myers Squibb Pharmaceuticals Ltd),Lisinopril/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,Feb-09
-17655,Carace 10 Tablet (Bristol-Myers Squibb Pharmaceuticals Ltd),Lisinopril/Hydrochlorothiazide,10mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,Feb-09
-33353,Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets (Teva UK Ltd),Lisinopril/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,Feb-09
-37710,Lisinopril 10mg / Hydrochlorothiazide 12.5mg tablets (Teva UK Ltd),Lisinopril/Hydrochlorothiazide,10mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,Feb-09
-38995,Zestoretic 20 tablets (AstraZeneca UK Ltd),Lisinopril/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,Feb-09
-39137,Zestoretic 10 tablets (AstraZeneca UK Ltd),Lisinopril/Hydrochlorothiazide,10mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,Apr-09
-39147,Carace 20 Plus tablets (Merck Sharp & Dohme Ltd),Lisinopril/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,Apr-09
-54201,Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets (Almus Pharmaceuticals Ltd),Lisinopril/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,Mar-13
-55399,Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets (A A H Pharmaceuticals Ltd),Lisinopril/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,May-13
-56244,Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets (Tillomed Laboratories Ltd),Lisinopril/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,Aug-13
-57539,Zestoretic 10 tablets (Sigma Pharmaceuticals Plc),Lisinopril/Hydrochlorothiazide,10mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,Oct-13
-21231,Caralpha 20mg/12.5mg tablets (Actavis UK Ltd),Lisinopril/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-39242,Carace 10 Plus tablets (Merck Sharp & Dohme Ltd),Lisinopril/Hydrochlorothiazide,10mg + 12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Apr-09
-14738,Hydrochlorothiazide with losartan 12.5mg with 50mg Tablet,Losartan Potassium,12.5mg + 50mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,Feb-09
-24632,Hydrochlorothiazide with losartan 25mg with 100mg Tablet,Losartan Potassium,25mg + 100mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,Feb-09
-38367,Hydrochlorothiazide with losartan 12.5mg with 100mg Tablet,Losartan Potassium,12.5mg + 100mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,Feb-09
-4540,Cozaar-Comp 50mg/12.5mg tablets (Merck Sharp & Dohme Ltd),Losartan potassium/Hydrochlorothiazide,50mg + 12.5mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic,Feb-09
-6437,Losartan 50mg / Hydrochlorothiazide 12.5mg tablets,Losartan potassium/Hydrochlorothiazide,50mg + 12.5mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic,Feb-09
-10323,Losartan 100mg / Hydrochlorothiazide 25mg tablets,Losartan potassium/Hydrochlorothiazide,100mg + 25mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic,Feb-09
-21423,Cozaar-Comp 100mg/25mg tablets (Merck Sharp & Dohme Ltd),Losartan potassium/Hydrochlorothiazide,100mg + 25mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic,Feb-09
-37747,Cozaar-Comp 100mg/12.5mg tablets (Merck Sharp & Dohme Ltd),Losartan potassium/Hydrochlorothiazide,100mg + 12.5mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic,Feb-09
-48039,Losartan 100mg / Hydrochlorothiazide 12.5mg tablets (Teva UK Ltd),Losartan potassium/Hydrochlorothiazide,100mg + 12.5mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic,Nov-12
-52189,Losartan 100mg / Hydrochlorothiazide 25mg tablets (A A H Pharmaceuticals Ltd),Losartan potassium/Hydrochlorothiazide,100mg + 25mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic,Jan-13
-55160,Cozaar-Comp 50mg/12.5mg tablets (Sigma Pharmaceuticals Plc),Losartan potassium/Hydrochlorothiazide,50mg + 12.5mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic,May-13
-56204,Losartan 50mg / Hydrochlorothiazide 12.5mg tablets (Actavis UK Ltd),Losartan potassium/Hydrochlorothiazide,50mg + 12.5mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic,Aug-13
-56975,Losartan 50mg / Hydrochlorothiazide 12.5mg tablets (A A H Pharmaceuticals Ltd),Losartan potassium/Hydrochlorothiazide,50mg + 12.5mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic,Sep-13
-57796,Cozaar-Comp 50mg/12.5mg tablets (DE Pharmaceuticals),Losartan potassium/Hydrochlorothiazide,50mg + 12.5mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic,Dec-13
-20652,Mannitol 10% Infusion,Mannitol,10%,Infusion,Intravenous Infusion,2020500,Osmotic Diuretics,Feb-09
-30965,Mannitol 20% Infusion,Mannitol,20%,Infusion,Intravenous Infusion,2020500,Osmotic Diuretics,Feb-09
-52937,Mannitol 50g/500ml infusion polyethylene bottles,Mannitol,100mg/1ml,Infusion,Intravenous,2020500,Osmotic Diuretics,Jan-13
-61000,Mannitol 50g/500ml infusion bags,Mannitol,100mg/1ml,Infusion,Intravenous,2020500,Osmotic Diuretics,Aug-14
-15457,Baycaron 25mg Tablet (Bayer Plc),Mefruside,25mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-17143,Mefruside 25mg Tablet,Mefruside,25mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-8303,Tenavoid Tablet (Edwin Burgess Ltd),Meprobamate,,Tablet,Oral,02020100/04010200,Thiazides And Related Diuretics/Anxiolytics,Feb-09
-8464,Meprobamate with bendroflumethiazide Tablet,Meprobamate,,Tablet,Oral,02020100/04010200,Thiazides And Related Diuretics/Anxiolytics,Feb-09
-31013,Mersalyl 50mg/ml Injection,Mersalyl,50mg/ml,Injection,,2020600,Mercurial Diuretics,Feb-09
-18267,Enduron 5mg Tablet (Abbott Laboratories Ltd),Methyclothiazide,5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-20057,Methyclothiazide 5mg Tablet,Methyclothiazide,5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-28738,Methyldopa with hydrochlorothiazide Tablet,Methyldopa Anhydrous,,Tablet,Oral,2050200,Centrally Acting Antihypertensive Drugs,Feb-09
-4332,Metolazone 5mg tablets,Metolazone,5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-4334,Metolazone 500microgram low dose Tablet,Metolazone,500microgram,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-8602,Metenix 5mg tablets (Sanofi),Metolazone,5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-19352,Xuret 0.5mg Tablet (Galen Ltd),Metolazone,0.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-53674,Metolazone 2.5mg tablets,Metolazone,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-13
-54329,Metolazone 5mg/5ml oral suspension,Metolazone,1mg/1ml,Oral suspension,Oral,2020100,Thiazides And Related Diuretics,Mar-13
-54643,Metolazone Oral solution,Metolazone,,Oral Solution,,2020100,Thiazides And Related Diuretics,Apr-13
-61846,Zaroxolyn 2.5mg tablets (IDIS),Metolazone,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Dec-14
-8147,Lopresoretic Tablet (Novartis Pharmaceuticals UK Ltd),Metoprolol Tartrate,,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-15488,Metoprolol tartrate with chlortalidone Tablet,Metoprolol Tartrate,,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-29427,Hydrochlorothiazide with metoprolol tartrate 12.5mg with 100mg tablet,Metoprolol Tartrate,12.5mg + 100mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-33659,Hydrochlorothiazide with metoprolol tartrate 25mg with 200mg Modified-release tablet,Metoprolol Tartrate,25mg + 200mg,Modified-release Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-18287,Co-Betaloc SA tablets (Pfizer Ltd),Metoprolol tartrate/Hydrochlorothiazide,200mg + 25mg,Modified-release tablet,Oral,0,Unknown,Feb-09
-20093,Metoprolol 200mg modified-release / Hydrochlorothiazide 25mg tablets,Metoprolol tartrate/Hydrochlorothiazide,200mg + 25mg,Modified-release tablet,Oral,0,Unknown,Feb-09
-11338,Bendroflumethiazide 5mg with Nadolol 40mg tablets,Nadolol,5mg + 40mg,Tablets,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-5330,Corgaretic 40mg tablets (Sanofi-Synthelabo Ltd),Nadolol/Bendroflumethiazide,40mg + 5mg,Tablet,Oral,0,Unknown,Feb-09
-14438,Corgaretic 80mg tablets (Sanofi-Synthelabo Ltd),Nadolol/Bendroflumethiazide,80mg + 5mg,Tablet,Oral,0,Unknown,Feb-09
-23134,Nadolol 40mg / Bendroflumethiazide 5mg tablets,Nadolol/Bendroflumethiazide,40mg + 5mg,Tablet,Oral,0,Unknown,Feb-09
-27946,Nadolol 80mg / Bendroflumethiazide 5mg tablets,Nadolol/Bendroflumethiazide,80mg + 5mg,Tablet,Oral,0,Unknown,Feb-09
-46355,Sevikar HCT 20mg/5mg/12.5mg tablets (Daiichi Sankyo UK Ltd),Olmesartan medoxomil/Amlodipine besilate/Hydrochlorothiazide,20mg + 5mg + 12.5mg,Tablet,Oral,2050502,Angiotensin-ii Receptor Antagonists,Oct-11
-18200,Olmesartan medoxomil 20mg / Hydrochlorothiazide 12.5mg tablets,Olmesartan medoxomil/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,Feb-09
-27520,Olmetec Plus 20mg/25mg tablets (Daiichi Sankyo UK Ltd),Olmesartan medoxomil/Hydrochlorothiazide,20mg + 25mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,Feb-09
-29634,Olmetec Plus 20mg/12.5mg tablets (Daiichi Sankyo UK Ltd),Olmesartan medoxomil/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,Feb-09
-8673,Oxprenolol with cyclopenthiazide 160mg+0.25mg Modified-release tablet,Oxprenolol Hydrochloride,160mg+0.25mg,Modified-release Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-52145,Cyclopenthiazide 0.25mg with oxprenolol 160mg modified-release tablets,Oxprenolol Hydrochloride,,,,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Jan-13
-4429,Trasidrex modified-release tablets (Mercury Pharma Group Ltd),Oxprenolol hydrochloride/Cyclopenthiazide,160mg + 250microgram,Modified-release tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-13871,Co-prenozide 160mg/0.25mg modified-release tablets,Oxprenolol hydrochloride/Cyclopenthiazide,160mg + 250microgram,Modified-release tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-24832,Lasipressin Tablet (Hoechst UK Ltd),Penbutolol,,Tablet,Oral,02020200/02040000,Loop Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-26529,Furosemide with penbutolol Tablet,Penbutolol,,Tablet,Oral,02020200/02040000,Loop Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-37908,Coversyl Arginine Plus 5mg/1.25mg tablets (Servier Laboratories Ltd),Perindopril arginine/Indapamide,5mg + 1.25mg,Tablet,Oral,02020100/02050500/02050501,Thiazides And Related Diuretics/Drugs Affecting The Renin-angiotensin System/Angiotensin-converting Enzyme Inhibitors,Feb-09
-51258,Coversyl Arginine Plus 5mg/1.25mg tablets (DE Pharmaceuticals),Perindopril arginine/Indapamide,5mg + 1.25mg,Tablet,Oral,02020100/02050500/02050501,Thiazides And Related Diuretics/Drugs Affecting The Renin-angiotensin System/Angiotensin-converting Enzyme Inhibitors,Jan-13
-48098,Perindopril arginine 4mg with Indapamide 1.25mg tablet,Perindopril Erbumine,4mg + 1.25mg,Tablets,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,Dec-12
-50607,Perindopril arginine 2mg with Indapamide 625 micrograms tablet,Perindopril Erbumine,,,,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,Jan-13
-25462,Clopamide 5mg with Pindolol 10mg tablets,Pindolol,5mg + 10mg,Tablets,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-9143,Viskaldix tablets (AMCo),Pindolol/Clopamide,10mg + 5mg,Tablet,Oral,2040100,Beta-adrenoceptor Blocking Drugs With Diuretic,Feb-09
-14057,Pindolol 10mg / Clopamide 5mg tablets,Pindolol/Clopamide,10mg + 5mg,Tablet,Oral,2040100,Beta-adrenoceptor Blocking Drugs With Diuretic,Feb-09
-7709,Arelix 6mg Capsule (Hoechst Marion Roussel),Piretanide,6mg,Capsule,Oral,2020200,Loop Diuretics,Feb-09
-12367,Piretanide 6mg capsule,Piretanide,6mg,Capsules,Oral,2020200,Loop Diuretics,Feb-09
-12360,Nephril 1mg Tablet (Pfizer Ltd),Polythiazide,1mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-12926,Polythiazide 1mg tablets,Polythiazide,1mg,Tablet,Oral,0,Unknown,Feb-09
-1125,Navidrex -k Tablet (Novartis Pharmaceuticals UK Ltd),Potassium Chloride,,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-2833,CYCLOPENTHIAZIDE -K tablets,Potassium Chloride,,Tablets,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-8891,Hygroton -k Tablet (Novartis Pharmaceuticals UK Ltd),Potassium Chloride,,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-18983,Brinaldix k Effervescent tablet (Berk Pharmaceuticals Ltd),Potassium Chloride,,Effervescent Tablet,Oral,2020800,Diuretics With Potassium,Feb-09
-22839,Clopamide with Potassium effervescent tablets,Potassium Chloride,,Effervescent Tablet,Oral,2020800,Diuretics With Potassium,Feb-09
-36519,Esidrex -k Tablet (Novartis Pharmaceuticals UK Ltd),Potassium Chloride,,Tablet,Oral,2020800,Diuretics With Potassium,Feb-09
-20426,Centyl k 2.5mg+7.7mmol Tablet (Edwin Burgess Ltd),Potassium chloride/Bendroflumethiazide,573mg + 2.5mg,Modified-release tablet,Oral,2020800,Diuretics With Potassium,Feb-09
-17561,Bendroflumethiazide 2.5mg / Potassium chloride 573mg (potassium 7.7mmol) modified-release tablets,Potassium chloride/Bendroflumethiazide,573mg + 2.5mg,Modified-release tablet,Oral,0,Unknown,Feb-09
-20431,Centyl K modified-release tablets (LEO Pharma),Potassium chloride/Bendroflumethiazide,573mg + 2.5mg,Modified-release tablet,Oral,0,Unknown,Feb-09
-7734,Diumide-K Continus tablets (Teofarma),Potassium chloride/Furosemide,600mg + 40mg,Modified-release tablet,Oral,2020800,Diuretics With Potassium,Feb-09
-8102,Furosemide 40mg / Potassium chloride 600mg (potassium 8mmol) modified-release tablets,Potassium chloride/Furosemide,600mg + 40mg,Modified-release tablet,Oral,2020800,Diuretics With Potassium,Feb-09
-10781,Lasix with k Tablet (Hoechst Marion Roussel),Potassium chloride/Furosemide,600mg + 40mg,Modified-release tablet,Oral,2020800,Diuretics With Potassium,Feb-09
-7582,Lasikal modified-release tablets (Borg Medicare),Potassium chloride/Furosemide,750mg + 20mg,Modified-release tablet,Oral,0,Unknown,Feb-09
-17960,Furosemide 20mg / Potassium chloride 750mg (potassium 10mmol) modified-release tablets,Potassium chloride/Furosemide,750mg + 20mg,Modified-release tablet,Oral,0,Unknown,Feb-09
-22912,Bendroflumethiazide 2.5mg with Propanolol 80mg capsules,Propranolol Hydrochloride,2.5mg + 80mg,Capsules,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-23131,Bendroflumethiazide 5mg with Propanolol 160mg modified-release capsules,Propranolol Hydrochloride,5mg + 160mg,Modified Release Capsules,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-4796,Inderetic 80mg/2.5mg capsules (AstraZeneca UK Ltd),Propranolol hydrochloride/Bendroflumethiazide,80mg + 2.5mg,Capsule,Oral,0,Unknown,Feb-09
-8369,Inderex 160mg/5mg modified-release capsules (AstraZeneca UK Ltd),Propranolol hydrochloride/Bendroflumethiazide,160mg + 5mg,Modified-release capsule,Oral,0,Unknown,Feb-09
-8987,Propranolol 160mg modified-release / Bendroflumethiazide 5mg capsules,Propranolol hydrochloride/Bendroflumethiazide,160mg + 5mg,Modified-release capsule,Oral,0,Unknown,Feb-09
-12054,Propranolol 80mg / Bendroflumethiazide 2.5mg capsules,Propranolol hydrochloride/Bendroflumethiazide,80mg + 2.5mg,Capsule,Oral,0,Unknown,Feb-09
-15493,Reserpine with hydrochlorothiazide tablet,Reserpine,,Tablets,Oral,2050200,Centrally Acting Antihypertensive Drugs,Feb-09
-19892,Serpasil -esidrex Tablet (Novartis Pharmaceuticals UK Ltd),Reserpine,,Tablet,Oral,2050200,Centrally Acting Antihypertensive Drugs,Feb-09
-3691,Sotalol 160mg with hydrochlorothiazide 25mg tablet,Sotalol Hydrochloride,160mg + 25mg,Tablets,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-8061,Sotalol 80mg with hydrochlorothiazide 12.5mg tablet,Sotalol Hydrochloride,80mg + 12.5mg,Tablets,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-692,Spironolactone 25mg tablets,Spironolactone,25mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-708,Spironolactone 50mg tablets,Spironolactone,50mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-787,Spironolactone 100mg capsule,Spironolactone,100mg,Capsules,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-2142,Spironolactone 100mg tablets,Spironolactone,100mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-2389,Aldactone 25mg tablets (Pfizer Ltd),Spironolactone,25mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-4161,Spiroctan 25mg Tablet (Roche Products Ltd),Spironolactone,25mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-4960,Aldactone 50mg tablets (Pfizer Ltd),Spironolactone,50mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-6815,Spironolactone 50mg/5ml oral suspension sugar free,Spironolactone,50mg/5ml,Suspension Sugar-free,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-7952,Aldactone 100mg tablets (Pfizer Ltd),Spironolactone,100mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-7961,Spironolactone 50mg with hydroflumethiazide 50mg tablet,Spironolactone,50mg+50mg,Tablets,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-7991,Spiroctan 100mg Capsule (Roche Products Ltd),Spironolactone,100mg,Capsule,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-8521,Spironolactone 25mg with hydroflumethiazide 25mg tablet,Spironolactone,25mg+25mg,Tablets,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-10214,Spironolactone 5mg/5ml oral suspension sugar free,Spironolactone,5mg/5ml,Suspension Sugar-free,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-11156,Spirolone 25mg Tablet (Berk Pharmaceuticals Ltd),Spironolactone,25mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-11519,Spironolactone 25mg/5ml oral suspension sugar free,Spironolactone,25mg/5ml,Suspension Sugar-free,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-12946,Spironolactone 10mg/5ml oral suspension sugar free,Spironolactone,10mg/5ml,Suspension Sugar-free,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-13264,Spironolactone 15mg/5ml oral suspension,Spironolactone,3mg/1ml,Oral suspension,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-14109,Spironolactone 100mg/5ml oral solution sugar free,Spironolactone,100mg/5ml,Suspension Sugar-free,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-15052,Spiroctan 50mg Tablet (Roche Products Ltd),Spironolactone,50mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-17902,Spirolone 100mg Tablet (Berk Pharmaceuticals Ltd),Spironolactone,100mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-17950,Spirolone 50mg Tablet (Berk Pharmaceuticals Ltd),Spironolactone,50mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-19195,Spironolactone 50mg Tablet (Wyeth Pharmaceuticals),Spironolactone,50mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-21911,Spirospare 25mg Tablet (Ashbourne Pharmaceuticals Ltd),Spironolactone,25mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-23091,Spirospare 100 tablets (Ashbourne Pharmaceuticals Ltd),Spironolactone,100mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-25494,Diatensec 50mg Tablet (Pharmacia Ltd),Spironolactone,50mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-29397,Spiretic 100mg Tablet (DDSA Pharmaceuticals Ltd),Spironolactone,100mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-29529,Hydroflumethiazide with spironolactone 25mg+25mg Tablet,Spironolactone,25mg+25mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-31219,Spironolactone 100mg tablets (A A H Pharmaceuticals Ltd),Spironolactone,100mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-31529,Spironolactone 25mg tablets (Teva UK Ltd),Spironolactone,25mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-32837,Spironolactone 50mg tablets (Teva UK Ltd),Spironolactone,50mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-34296,Spironolactone 25mg tablets (A A H Pharmaceuticals Ltd),Spironolactone,25mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-34347,Spironolactone 25mg tablets (Actavis UK Ltd),Spironolactone,25mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-34908,Spironolactone 25mg tablets (IVAX Pharmaceuticals UK Ltd),Spironolactone,25mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-35789,Spironolactone 25mg Tablet (Celltech Pharma Europe Ltd),Spironolactone,25mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-41074,Spironolactone 25mg tablets (Almus Pharmaceuticals Ltd),Spironolactone,25mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Jan-10
-41592,Spironolactone 100mg tablets (Actavis UK Ltd),Spironolactone,100mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Mar-10
-41660,Spironolactone 100mg tablets (Teva UK Ltd),Spironolactone,100mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Mar-10
-41706,Spironolactone 50mg tablets (IVAX Pharmaceuticals UK Ltd),Spironolactone,50mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Mar-10
-43514,Spironolactone 50mg tablets (A A H Pharmaceuticals Ltd),Spironolactone,50mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Sep-10
-45078,Spironolactone 25mg/5ml Oral solution sugar free (Rosemont Pharmaceuticals Ltd),Spironolactone,25mg/5ml,Oral Solution,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Apr-11
-45916,Hydroflumethiazide with spironolactone 50mg+50mg Tablet,Spironolactone,50mg+50mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,Aug-11
-46674,Spironolactone 50mg/5ml Oral suspension sugar free (Rosemont Pharmaceuticals Ltd),Spironolactone,50mg/5ml,Oral Suspension,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Jan-12
-46990,Spironolactone 50mg/5ml oral suspension,Spironolactone,10mg/1ml,Oral suspension,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Mar-12
-47018,Spironolactone 25mg/5ml oral suspension,Spironolactone,5mg/1ml,Oral suspension,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Mar-12
-47687,Spiretic 25mg Tablet (DDSA Pharmaceuticals Ltd),Spironolactone,25mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Aug-12
-49388,Spironolactone 100mg/5ml oral suspension,Spironolactone,20mg/1ml,Oral suspension,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Jan-13
-50079,Spironolactone 10mg/5ml oral suspension,Spironolactone,2mg/1ml,Oral suspension,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Jan-13
-50370,Spironolactone 5mg/5ml oral suspension,Spironolactone,1mg/1ml,Oral suspension,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Jan-13
-51652,Spironolactone 25mg tablets (DE Pharmaceuticals),Spironolactone,25mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Jan-13
-51720,Spironolactone 25mg/5ml oral solution,Spironolactone,5mg/1ml,Oral solution,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Jan-13
-52970,Spironolactone 10mg/5ml oral solution,Spironolactone,2mg/1ml,Oral solution,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Jan-13
-53253,Spironolactone 50mg/5ml oral suspension (Drug Tariff Special Order),Spironolactone,10mg/1ml,Oral suspension,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Jan-13
-54120,Spironolactone 4mg/5ml oral suspension,Spironolactone,800microgram/1ml,Oral suspension,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Mar-13
-57104,Spironolactone 200mg/5ml oral suspension,Spironolactone,40mg/1ml,Oral suspension,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Sep-13
-57556,Spironolactone 12mg/5ml oral solution,Spironolactone,2.4mg/1ml,Oral solution,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Oct-13
-58225,Spironolactone 2.5mg/5ml oral suspension,Spironolactone,500microgram/1ml,Oral suspension,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Dec-13
-58757,Spironolactone 20mg/5ml oral suspension,Spironolactone,4mg/1ml,Oral suspension,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-14
-60343,Spironolactone 25mg tablets (Kent Pharmaceuticals Ltd),Spironolactone,25mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Jul-14
-60660,Spironolactone 3mg/5ml oral suspension,Spironolactone,600microgram/1ml,Oral suspension,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Jul-14
-53508,Spironolactone 5mg/5ml / Chlorothiazide 50mg/5ml oral suspension,Spironolactone/Chlorothiazide,1mg/1ml + 10mg/1ml,Oral suspension,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Jan-13
-4661,Spironolactone 50mg / Furosemide 20mg capsules,Spironolactone/Furosemide,50mg + 20mg,Capsule,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-7441,Lasilactone 20mg/50mg capsules (Sanofi),Spironolactone/Furosemide,50mg + 20mg,Capsule,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-1297,Aldactide 50 tablets (Pfizer Ltd),Spironolactone/Hydroflumethiazide,50mg + 50mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-2001,Aldactide 25 tablets (Pfizer Ltd),Spironolactone/Hydroflumethiazide,25mg + 25mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-11384,Co-flumactone 50mg/50mg tablets,Spironolactone/Hydroflumethiazide,50mg + 50mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-15811,Co-flumactone 25mg/25mg tablets,Spironolactone/Hydroflumethiazide,25mg + 25mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-25505,Spiro-co 50mg+50mg Tablet (IVAX Pharmaceuticals UK Ltd),Spironolactone/Hydroflumethiazide,50mg + 50mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-31131,Spiro-co 25mg+25mg Tablet (IVAX Pharmaceuticals UK Ltd),Spironolactone/Hydroflumethiazide,25mg + 25mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-14870,Telmisartan 40mg / Hydrochlorothiazide 12.5mg tablets,Telmisartan/Hydrochlorothiazide,40mg + 12.5mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic,Feb-09
-16161,Telmisartan 80mg / Hydrochlorothiazide 12.5mg tablets,Telmisartan/Hydrochlorothiazide,80mg + 12.5mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic,Feb-09
-17689,MicardisPlus 80mg/12.5mg tablets (Boehringer Ingelheim Ltd),Telmisartan/Hydrochlorothiazide,80mg + 12.5mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic,Feb-09
-18202,MicardisPlus 40mg/12.5mg tablets (Boehringer Ingelheim Ltd),Telmisartan/Hydrochlorothiazide,40mg + 12.5mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic,Feb-09
-12517,Timolol maleate with bendroflumethiazide 20mg + 5mg Tablet,Timolol Maleate,20mg + 5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-19142,Bendroflumethiazide 2.5mg with Timolol maleate 10mg tablets,Timolol Maleate,2.5mg + 10mg,Tablets,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-21025,Prestim forte Tablet (LEO Pharma),Timolol Maleate,,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-21182,Hydrochlorothiazide with timolol and amiloride 25mg with 10mg with 2.5mg Tablet,Timolol Maleate,25mg + 10mg + 2.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-25730,Timolol maleate with amiloride and hydrochlorothiazide Tablet,Timolol Maleate,,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-30519,Amiloride with timolol with hydrochlorothiazide tablets,Timolol Maleate,,Tablets,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-8623,Prestim Tablet (ICN Pharmaceuticals France S.A.),Timolol maleate/Bendroflumethiazide,10mg + 2.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs,Feb-09
-12651,Timolol 10mg / Bendroflumethiazide 2.5mg tablets,Timolol maleate/Bendroflumethiazide,10mg + 2.5mg,Tablet,Oral,2040100,Beta-adrenoceptor Blocking Drugs With Diuretic,Feb-09
-25363,Prestim tablets (Meda Pharmaceuticals Ltd),Timolol maleate/Bendroflumethiazide,10mg + 2.5mg,Tablet,Oral,2040100,Beta-adrenoceptor Blocking Drugs With Diuretic,Feb-09
-4605,Moducren tablets (Merck Sharp & Dohme Ltd),Timolol maleate/Hydrochlorothiazide/Amiloride hydrochloride,10mg + 25mg + 2.5mg,Tablet,Oral,0,Unknown,Feb-09
-8052,Torasemide 5mg tablets,Torasemide,5mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-10066,Torem 5mg tablets (Meda Pharmaceuticals Ltd),Torasemide,5mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-11268,Torem 2.5mg tablets (Meda Pharmaceuticals Ltd),Torasemide,2.5mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-11487,Torasemide 2.5mg tablets,Torasemide,2.5mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-18096,Torasemide 10mg tablets,Torasemide,10mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-22658,Torem 10mg tablets (Meda Pharmaceuticals Ltd),Torasemide,10mg,Tablet,Oral,2020200,Loop Diuretics,Feb-09
-40190,Torasemide iv 20mg/4ml Intravenous injection,Torasemide,20mg/4ml,Intravenous Injection,,2020200,Loop Diuretics,Aug-09
-40738,Torem iv 10mg/2ml Intravenous injection (Boehringer Mannheim UK Ltd),Torasemide,10mg/2ml,Intravenous Injection,,2020200,Loop Diuretics,Nov-09
-40898,Torasemide 5mg tablets (A A H Pharmaceuticals Ltd),Torasemide,5mg,Tablet,Oral,2020200,Loop Diuretics,Dec-09
-46525,Torasemide 5mg tablets (Teva UK Ltd),Torasemide,5mg,Tablet,Oral,2020200,Loop Diuretics,Dec-11
-2179,Triamterene 50mg capsules,Triamterene,50mg,Capsule,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-3050,Furosemide with triamterene 40mgwith50mg Tablet,Triamterene,40mg + 50mg,Tablet,Oral,02020200/02020400,Loop Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-4068,Dytac 50mg capsules (AMCo),Triamterene,50mg,Capsule,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Feb-09
-9223,Triamterene with hydrochlorothiazide 50mg + 25mg Tablet,Triamterene,50mg + 25mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-15127,Hydrochlorothiazide with triamterene 25mgwith50mg Tablet,Triamterene,25mg+50mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-28157,Kalspare ls Tablet (Dominion Pharma),Triamterene,,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-37294,Triamterene with chlortalidone 50mg + 25mg Tablet,Triamterene,50mg + 25mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics,Feb-09
-7740,Triamterene 50mg / Benzthiazide 25mg capsules,Triamterene/Benzthiazide,50mg + 25mg,Capsule,Oral,0,Unknown,Feb-09
-7136,Dytide capsules (Mercury Pharma Group Ltd),Triamterene/Benzthiazide,50mg + 25mg,Capsule,Oral,0,Unknown,Feb-09
-2961,Frusene 50mg/40mg tablets (Orion Pharma (UK) Ltd),Triamterene/Furosemide,50mg + 40mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-11265,Triamterene 50mg / Furosemide 40mg tablets,Triamterene/Furosemide,50mg + 40mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-1721,Dyazide 50mg/25mg tablets (AMCo),Triamterene/Hydrochlorothiazide,50mg + 25mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-5416,Co-triamterzide 50mg/25mg tablets,Triamterene/Hydrochlorothiazide,50mg + 25mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-8897,Triam-Co 50mg/25mg tablets (IVAX Pharmaceuticals UK Ltd),Triamterene/Hydrochlorothiazide,50mg + 25mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-18726,Triamaxco 50mg/25mg tablets (Ashbourne Pharmaceuticals Ltd),Triamterene/Hydrochlorothiazide,50mg + 25mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Feb-09
-47804,Co-triamterzide 50mg/25mg tablets (A A H Pharmaceuticals Ltd),Triamterene/Hydrochlorothiazide,50mg + 25mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics,Sep-12
-23456,Hydrochlorothiazide with valsartan 25mg with 160mg Tablet,Valsartan,25mg + 160mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,Feb-09
-24268,Hydrochlorothiazide with valsartan 12.5mg with 80mg Tablet,Valsartan,12.5mg + 80mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,Feb-09
-24484,Hydrochlorothiazide with valsartan 12.5mg with 160mg Tablet,Valsartan,12.5mg + 160mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists,Feb-09
-6877,Co-Diovan 160mg/12.5mg tablets (Novartis Pharmaceuticals UK Ltd),Valsartan/Hydrochlorothiazide,160mg + 12.5mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic,Feb-09
-11864,Valsartan 160mg / Hydrochlorothiazide 12.5mg tablets,Valsartan/Hydrochlorothiazide,160mg + 12.5mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic,Feb-09
-14283,Valsartan 160mg / Hydrochlorothiazide 25mg tablets,Valsartan/Hydrochlorothiazide,160mg + 25mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic,Feb-09
-25382,Co-Diovan 160mg/25mg tablets (Novartis Pharmaceuticals UK Ltd),Valsartan/Hydrochlorothiazide,160mg + 25mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic,Feb-09
-4044,Diurexan 20mg tablets (Meda Pharmaceuticals Ltd),Xipamide,20mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-7618,Xipamide 20mg tablets,Xipamide,20mg,Tablet,Oral,2020100,Thiazides And Related Diuretics,Feb-09
-3962,TRIAMTERENE 50MG HYDROCHLOROTHIAZIDE25MG TAB,,,,,0,Unknown,Feb-09
-17721,ALDACTIDE 100MG TAB,,,,,0,Unknown,Feb-09
-20779,MODURETIC,,,,,0,Unknown,Feb-09
-20785,FRUMIL,,,,,0,Unknown,Feb-09
-27556,DYAZIDE,,,,,0,Unknown,Feb-09
-41889,TRIAMTERENE 50MG HYDROCHLOROTHIAZIDE25MG,,,,,0,Unknown,Apr-10
-48745,Timolol 10mg / Amiloride 2.5mg / Hydrochlorothiazide 25mg tablets,,,,,2040100,Beta-adrenoceptor Blocking Drugs With Diuretic,Jan-13
-49268,Furosemide 50mg/5ml oral suspension,,,,,2020200,Loop Diuretics,Jan-13
-49752,Metolazone 2.5mg/5ml oral solution,,,,,2020100,Thiazides And Related Diuretics,Jan-13
-51933,Spironolactone 50mg/5ml oral solution,,,,,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Jan-13
-51983,Furosemide 5mg/5ml oral suspension,,,,,2020200,Loop Diuretics,Jan-13
-52045,Furosemide 250mg/5ml solution for injection vials,,,,,2020200,Loop Diuretics,Jan-13
-52366,Spironolactone 5mg/5ml oral solution,,,,,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Jan-13
-54341,Chlorothiazide 5mg/5ml oral suspension,,,,,2020100,Thiazides And Related Diuretics,Mar-13
-55777,Metolazone 5mg/5ml oral solution,,,,,2020100,Thiazides And Related Diuretics,Jun-13
-56067,Spironolactone 4mg/5ml oral solution,,,,,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Aug-13
-56157,Perindopril tosilate 5mg / Indapamide 1.25mg tablets,,,,,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors,Aug-13
-56274,Spironolactone 4.5mg/5ml oral suspension,,,,,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Aug-13
-56536,Spironolactone 100mg/5ml oral solution,,,,,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Aug-13
-57933,Spironolactone 40mg/5ml oral suspension,,,,,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Dec-13
-58077,Spironolactone 8mg/5ml oral suspension,,,,,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Dec-13
-59834,Chlorothiazide 250mg/5ml oral solution,,,,,2020100,Thiazides And Related Diuretics,May-14
-59939,Furosemide 20mg/5ml oral suspension,,,,,2020200,Loop Diuretics,May-14
-61025,Spironolactone 20mg/5ml oral solution,,,,,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists,Sep-14
+prodcode,productname,drugsubstancename,substancestrength,formulation,routeofadministration,bnfcode,bnfheader
+2681,AMILORIDE 10 MG TAB,,,,,0,Unknown
+3285,AMILORIDE S/F 5 MG/5ML SOL,,,,,0,Unknown
+3902,FRUSEMIDE 20MG/SPIRONOLACTONE 50MG MG CAP,,,,,0,Unknown
+7625,FRUSEMIDE 20MG/POTASSIUM 10MMOL S/R MG TAB,,,,,0,Unknown
+7888,FRUSEMIDE 40MG/8MMOL POTASSIUM S/R MG TAB,,,,,0,Unknown
+13472,ESIDREX-K TAB,,,,,0,Unknown
+15053,SPIRONOLACTONE 10 MG/5ML LIQ,,,,,0,Unknown
+15577,HYDROCHLOROTHIAZIDE 12.5MG/K 8.1MMOL S/R 12.5 MG TAB,,,,,0,Unknown
+15602,NATRILIX 5 MG TAB,,,,,0,Unknown
+19003,SPIRONOLACTONE/PROPRANOLOL 50 MG TAB,,,,,0,Unknown
+19611,AMILORIDE 5MG/HYDROCHLORTHIAZIDE 50MG,,,,,0,Unknown
+19683,BURINEX K,,,,,0,Unknown
+19687,MODUCREN,,,,,0,Unknown
+19695,AMILORIDE HYDROCHLORIDE,,,,,0,Unknown
+19721,AMILORIDE 5MG/HYDROCHLORTHIAZIDE 50MG,,,,,0,Unknown
+20513,LASIX 10 MG INJ,,,,,0,Unknown
+21848,AMILOSPARE 5 MG TAB,,,,,0,Unknown
+22242,NAVIDREX,,,,,0,Unknown
+22525,CHLOROTHIAZIDE 250 MG SYR,,,,,0,Unknown
+22539,LASIX (2ML),,,,,0,Unknown
+23256,LASIX PAED,,,,,0,Unknown
+23271,FRUSEMIDE (2ML),,,,,0,Unknown
+23483,HYDROCHLOROTHIAZIDE 12.5MG/K 8.1MMOL S/R,,,,,0,Unknown
+23486,FRUSEMIDE 40mg/10MMOL POTASSIUM S/R,,,,,0,Unknown
+23492,CYCLOPENTHIAZIDE 250MCG/K 8.1MMOL,,,,,0,Unknown
+24520,HYDROCHLOROTHIAZIDE /METOPROLOL TARTRATE 25 MG TAB,,,,,0,Unknown
+24702,FRUSEMIDE,,,,,0,Unknown
+24741,FRUSEMIDE,,,,,0,Unknown
+25051,CAPOZIDE,,,,,0,Unknown
+25075,FRUSEMIDE 40MG/AMILORIDE HYD 5MG,,,,,0,Unknown
+25086,SPIRONOLACTONE,,,,,0,Unknown
+25625,FRUSEMIDE 40mg/8MMOL POTASSIUM S/R,,,,,0,Unknown
+25630,BRINALDIX K EFFERVESCENT,,,,,0,Unknown
+25764,PINDOLOL 10MG/CLOPAMIDE 5MG,,,,,0,Unknown
+25787,TOTARETIC 100 TAB,,,,,0,Unknown
+26120,CHLOROTHIAZIDE 50 MG SUS,,,,,0,Unknown
+26328,LASIX (25ML),,,,,0,Unknown
+26675,XIPAMIDE,,,,,0,Unknown
+26731,TOTARETIC 50 TAB,,,,,0,Unknown
+27489,CHLOROTHIAZIDE 25 MG LIQ,,,,,0,Unknown
+27546,NATRILIX,,,,,0,Unknown
+27555,BURINEX,,,,,0,Unknown
+27664,FRUSEMIDE PAED,,,,,0,Unknown
+29583,MIN-I-JET 100MG FRUSEMIDE INJ INJ,,,,,0,Unknown
+30034,CHLOROTHIAZIDE / SPIRONOLACTONE 100 MG POW,,,,,0,Unknown
+30035,CHLOROTHIAZIDE 40MG /SPIRONOLACTONE 4MG POW,,,,,0,Unknown
+30365,CHLOROTHIAZIDE/SPIRONOLACTONE/LACTOSE MG POW,,,,,0,Unknown
+30367,CHLOROTHIAZIDE 60MG / SPIRONOLACTONE 6MG POW,,,,,0,Unknown
+30368,CHLOROTHIAZIDE/SPIRONOLACTONE SACHETS 100 MG,,,,,0,Unknown
+30592,CHLOROTHIAZIDE / SPIRONOLACTONE / GLUCOS 60 MG POW,,,,,0,Unknown
+31235,CHLOROTHIAZIDE SACHETS 60 MG,,,,,0,Unknown
+37400,MIN-I-JET 80MG FRUSEMIDE INJ MG INJ,,,,,0,Unknown
+41897,CO-BETALOC,,,,,0,Unknown
+55050,CHLOROTHIAZIDE/SPIRONOLACTONE/LACT SACH 50 MG,,,,,0,Unknown
+60007,Generic Sevikar HCT 40mg/10mg/12.5mg tablets,,,,,2050502,Angiotensin-ii Receptor Antagonists
+60780,Generic Sevikar HCT 20mg/5mg/12.5mg tablets,,,,,2050502,Angiotensin-ii Receptor Antagonists
+8189,Secadrex 200mg/12.5mg tablets (Sanofi),Acebutolol hydrochloride/Hydrochlorothiazide,200mg + 12.5mg,Tablet,Oral,0,Unknown
+14126,Acebutolol 200mg / Hydrochlorothiazide 12.5mg tablets,Acebutolol hydrochloride/Hydrochlorothiazide,200mg + 12.5mg,Tablet,Oral,0,Unknown
+1060,Amiloride 5mg tablets,Amiloride hydrochloride,5mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+2002,Amiloride 5mg / hydrochlorothiazide 50mg tablets,Amiloride Hydrochloride,5mg + 50mg,Tablets,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics
+3293,Moduretic Oral solution (Bristol-Myers Squibb Pharmaceuticals Ltd),Amiloride Hydrochloride,,Oral Solution,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics
+3701,Amiloride 2.5mg / hydrochlorothiazide 25mg tablets,Amiloride Hydrochloride,2.5mg+25mg,Tablets,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics
+4034,Amiloride 5mg / hydrochlorothiazide 50mg/5ml solution,Amiloride Hydrochloride,5mg + 50mg/5ml,Solution,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics
+9935,Amiloride 5mg/5ml oral solution sugar free,Amiloride hydrochloride,1mg/1ml,Oral solution,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+13352,Midamor 5mg Tablet (MSD Thomas Morson Pharmaceuticals),Amiloride hydrochloride,5mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+18733,Co-amilozide 5mg with 50mg/ml oral solution,Amiloride Hydrochloride,5mg + 50mg/5ml,Oral Solution,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics
+19890,Hydrochlorothiazide with amiloride 25mgwith2.5mg Tablet,Amiloride Hydrochloride,25mg+2.5mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics
+22923,Hydrochlorothiazide with amiloride 50mg with 5mg Tablet,Amiloride Hydrochloride,50mg + 5mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics
+24893,Amilospare Tablet (Ashbourne Pharmaceuticals Ltd),Amiloride hydrochloride,5mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+26217,Berkamil 5mg Tablet (Berk Pharmaceuticals Ltd),Amiloride hydrochloride,5mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+31375,Amilamont 5mg/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd),Amiloride hydrochloride,1mg/1ml,Oral solution,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+33837,Amiloride 5mg tablets (A A H Pharmaceuticals Ltd),Amiloride hydrochloride,5mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+34324,Amiloride 5mg tablets (Teva UK Ltd),Amiloride hydrochloride,5mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+34750,Amiloride 5mg tablets (Actavis UK Ltd),Amiloride hydrochloride,5mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+41630,Amiloride 5mg Tablet (IVAX Pharmaceuticals UK Ltd),Amiloride hydrochloride,5mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+43523,Amiloride 5mg tablets (Generics (UK) Ltd),Amiloride hydrochloride,5mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+44254,Amiloride 5.67mg tablets,Amiloride Hydrochloride,5.67mg,Tablets,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+46930,Amiloride 5mg tablets (Wockhardt UK Ltd),Amiloride hydrochloride,5mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+60149,Amiloride 5mg/5ml oral suspension,Amiloride hydrochloride,1mg/1ml,Oral suspension,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+2255,Navispare 2.5mg/250microgram tablets (AMCo),Amiloride hydrochloride/Cyclopenthiazide,2.5mg + 250microgram,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+5727,Amiloride 2.5mg / Cyclopenthiazide 250microgram tablets,Amiloride hydrochloride/Cyclopenthiazide,2.5mg + 250microgram,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+56,Co-amilofruse 5mg/40mg tablets,Amiloride hydrochloride/Furosemide,5mg + 40mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+193,Co-amilofruse 2.5mg/20mg tablets,Amiloride hydrochloride/Furosemide,2.5mg + 20mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+211,Frumil 40mg+5mg Tablet (Helios Healthcare Ltd),Amiloride hydrochloride/Furosemide,5mg + 40mg,Tablet,Oral,02020200/02020400,Loop Diuretics/Potassium-sparing Diuretics With Other Diuretics
+1301,Frumil ls 20mg+2.5mg Tablet (Helios Healthcare Ltd),Amiloride hydrochloride/Furosemide,2.5mg + 20mg,Tablet,Oral,02020200/02020400,Loop Diuretics/Potassium-sparing Diuretics With Other Diuretics
+2772,Lasoride 5mg/40mg tablets (Sanofi),Amiloride hydrochloride/Furosemide,5mg + 40mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+3793,Co-amilofruse 10mg/80mg tablets,Amiloride hydrochloride/Furosemide,10mg + 80mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+4873,Fru-Co 5mg/40mg tablets (Teva UK Ltd),Amiloride hydrochloride/Furosemide,5mg + 40mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+9431,Frusemek 40mg+5mg Tablet (Approved Prescription Services Ltd),Amiloride hydrochloride/Furosemide,5mg + 40mg,Tablet,Oral,02020200/02020400,Loop Diuretics/Potassium-sparing Diuretics With Other Diuretics
+13435,Frumil Forte 10mg/80mg tablets (Sanofi),Amiloride hydrochloride/Furosemide,10mg + 80mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+18332,Aridil 20mg+2.5mg Tablet (C P Pharmaceuticals Ltd),Amiloride hydrochloride/Furosemide,2.5mg + 20mg,Tablet,Oral,02020200/02020400,Loop Diuretics/Potassium-sparing Diuretics With Other Diuretics
+21938,Froop Co 5mg/40mg tablets (Ashbourne Pharmaceuticals Ltd),Amiloride hydrochloride/Furosemide,5mg + 40mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+25965,Co-amilofruse 2.5mg/20mg tablets (Wockhardt UK Ltd),Amiloride hydrochloride/Furosemide,2.5mg + 20mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+28129,Co-amilofruse 5mg/40mg tablets (Teva UK Ltd),Amiloride hydrochloride/Furosemide,5mg + 40mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+30773,Co-amilofruse 5mg+40mg Tablet (Berk Pharmaceuticals Ltd),Amiloride hydrochloride/Furosemide,5mg + 40mg,Tablet,Oral,02020200/02020400,Loop Diuretics/Potassium-sparing Diuretics With Other Diuretics
+31773,Co-amilofruse 5mg/40mg tablets (Wockhardt UK Ltd),Amiloride hydrochloride/Furosemide,5mg + 40mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+33527,Co-amilofruse 5mg/40mg tablets (Generics (UK) Ltd),Amiloride hydrochloride/Furosemide,5mg + 40mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+33658,Co-amilofruse 5mg/40mg tablets (A A H Pharmaceuticals Ltd),Amiloride hydrochloride/Furosemide,5mg + 40mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+34280,Co-amilofruse 2.5mg/20mg tablets (Sandoz Ltd),Amiloride hydrochloride/Furosemide,2.5mg + 20mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+34622,Co-amilofruse 10mg/80mg tablets (Wockhardt UK Ltd),Amiloride hydrochloride/Furosemide,10mg + 80mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+38901,Frumil LS 20mg/2.5mg tablets (Sanofi),Amiloride hydrochloride/Furosemide,2.5mg + 20mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+39807,Frumil 40mg/5mg tablets (Sanofi),Amiloride hydrochloride/Furosemide,5mg + 40mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+41533,Co-amilofruse 2.5mg/20mg tablets (Teva UK Ltd),Amiloride hydrochloride/Furosemide,2.5mg + 20mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+41719,Co-amilofruse 5mg/40mg tablets (Actavis UK Ltd),Amiloride hydrochloride/Furosemide,5mg + 40mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+43508,Co-amilofruse 5mg/40mg tablets (Sandoz Ltd),Amiloride hydrochloride/Furosemide,5mg + 40mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+57908,Co-amilofruse 5mg/40mg tablets (Kent Pharmaceuticals Ltd),Amiloride hydrochloride/Furosemide,5mg + 40mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+59412,Co-amilofruse 5mg/40mg tablets (Waymade Healthcare Plc),Amiloride hydrochloride/Furosemide,5mg + 40mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+60258,Co-amilofruse 2.5mg/20mg tablets (Aurobindo Pharma Ltd),Amiloride hydrochloride/Furosemide,2.5mg + 20mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+348,Moduretic Tablet (Bristol-Myers Squibb Pharmaceuticals Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics
+923,Co-amilozide 5mg/50mg tablets,Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+924,Co-amilozide 2.5mg/25mg tablets,Amiloride hydrochloride/Hydrochlorothiazide,2.5mg + 25mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+1251,Moduret 25 tablets (Merck Sharp & Dohme Ltd),Amiloride hydrochloride/Hydrochlorothiazide,2.5mg + 25mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+8058,Normetic Tablet (Abbott Laboratories Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics
+18361,Amilmaxco 5mg/50mg tablets (Ashbourne Pharmaceuticals Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+20066,Amil-Co 5mg/50mg tablets (IVAX Pharmaceuticals UK Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+24008,Vasetic Tablet (Shire Pharmaceuticals Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics
+25500,Hypertane 50 Tablet (Schwarz Pharma Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics
+26219,Zida-co 5mg+50mg Tablet (Opus Pharmaceuticals Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics
+26220,Delvas Tablet (Berk Pharmaceuticals Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics
+31150,Co-amilozide 5mg/50mg tablets (IVAX Pharmaceuticals UK Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+34367,Co-amilozide 2.5mg/25mg tablets (Wockhardt UK Ltd),Amiloride hydrochloride/Hydrochlorothiazide,2.5mg + 25mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+41556,Co-amilozide 5mg/50mg tablets (Teva UK Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+42142,Moduretic 5mg/50mg tablets (Merck Sharp & Dohme Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+46916,Co-amilozide 5mg/50mg tablets (A A H Pharmaceuticals Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+60354,Co-amilozide 2.5mg/25mg tablets (Kent Pharmaceuticals Ltd),Amiloride hydrochloride/Hydrochlorothiazide,2.5mg + 25mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+62249,Co-amilozide 5mg/50mg tablets (Alliance Healthcare (Distribution) Ltd),Amiloride hydrochloride/Hydrochlorothiazide,5mg + 50mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+46687,Olmesartan medoxomil with amlodipine and hydrochlorothiazide 20mg + 5mg + 12.5mg Tablet,Amlodipine,20mg + 5mg + 12.5mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists
+46715,Olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 10mg + 12.5mg Tablet,Amlodipine,40mg + 10mg + 12.5mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists
+46792,Olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 5mg + 12.5mg Tablet,Amlodipine,40mg + 5mg + 12.5mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists
+47467,Olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 5mg + 25mg Tablet,Amlodipine,40mg + 5mg + 25mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists
+55358,Olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 10mg + 25mg Tablet,Amlodipine,40mg + 10mg + 25mg,Tablet,,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists
+3526,Amiloride with atenolol with hydrochlorothiazide capsules,Atenolol,,Capsules,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+4983,Atenolol with amiloride and hydrochlorothiazide capsules,Atenolol,,Capsules,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+28177,Hydrochlorothiazide with atenolol and amiloride Capsule,Atenolol,,Capsule,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+7543,Kalten capsules (M & A Pharmachem Ltd),Atenolol/Amiloride hydrochloride/Hydrochlorothiazide,50mg + 2.5mg + 25mg,Capsule,Oral,2040100,Beta-adrenoceptor Blocking Drugs With Diuretic
+9178,Atenolol 25mg / Bendroflumethiazide 1.25mg capsules,Atenolol/Bendroflumethiazide,25mg + 1.25mg,Capsule,Oral,0,Unknown
+18743,Tenben 25mg/1.25mg capsules (Galen Ltd),Atenolol/Bendroflumethiazide,25mg + 1.25mg,Capsule,Oral,0,Unknown
+1124,Tenoretic 100mg/25mg tablets (AstraZeneca UK Ltd),Atenolol/Chlortalidone,100mg + 25mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+1288,Tenoret 50mg/12.5mg tablets (AstraZeneca UK Ltd),Atenolol/Chlortalidone,50mg + 12.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+5721,Co-tenidone 100mg/25mg tablets,Atenolol/Chlortalidone,100mg + 25mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+9783,Co-tenidone 50mg/12.5mg tablets,Atenolol/Chlortalidone,50mg + 12.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+13526,Atenix Co 100 tablets (Ashbourne Pharmaceuticals Ltd),Atenolol/Chlortalidone,100mg + 25mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+21873,Atenix Co 50 tablets (Ashbourne Pharmaceuticals Ltd),Atenolol/Chlortalidone,50mg + 12.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+24280,Totaretic 100mg+25mg Tablet (C P Pharmaceuticals Ltd),Atenolol/Chlortalidone,100mg + 25mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+26248,Tenchlor 100mg/25mg tablets (Teva UK Ltd),Atenolol/Chlortalidone,100mg + 25mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+26741,Totaretic 50mg+12.5mg Tablet (C P Pharmaceuticals Ltd),Atenolol/Chlortalidone,50mg + 12.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+31470,Tenchlor 50mg/12.5mg tablets (Teva UK Ltd),Atenolol/Chlortalidone,50mg + 12.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+31708,Co-tenidone 50mg/12.5mg tablets (Actavis UK Ltd),Atenolol/Chlortalidone,50mg + 12.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+32094,Co-tenidone 50mg/12.5mg tablets (A A H Pharmaceuticals Ltd),Atenolol/Chlortalidone,50mg + 12.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+34012,Co-tenidone 100mg/25mg tablets (IVAX Pharmaceuticals UK Ltd),Atenolol/Chlortalidone,100mg + 25mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+34034,Co-tenidone 50mg/12.5mg tablets (IVAX Pharmaceuticals UK Ltd),Atenolol/Chlortalidone,50mg + 12.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+34449,Co-tenidone 50mg/12.5mg tablets (Generics (UK) Ltd),Atenolol/Chlortalidone,50mg + 12.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+34825,Co-tenidone 50mg/12.5mg tablets (Teva UK Ltd),Atenolol/Chlortalidone,50mg + 12.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+34899,Co-tenidone 100mg/25mg tablets (A A H Pharmaceuticals Ltd),Atenolol/Chlortalidone,100mg + 25mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+37725,Co-tenidone 100mg/25mg tablets (Generics (UK) Ltd),Atenolol/Chlortalidone,100mg + 25mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+41572,Co-tenidone 100mg/25mg tablets (Teva UK Ltd),Atenolol/Chlortalidone,100mg + 25mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+46952,Co-tenidone 100mg/25mg tablets (Actavis UK Ltd),Atenolol/Chlortalidone,100mg + 25mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+2,Bendroflumethiazide 2.5mg tablets,Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria
+58,Bendroflumethiazide 5mg tablets,Bendroflumethiazide,5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+1209,Neo-Naclex 5mg tablets (Mercury Pharma Group Ltd),Bendroflumethiazide,5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+7351,Bendroflumethiazide 2.5mg/5ml oral suspension,Bendroflumethiazide,500microgram/1ml,Oral suspension,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria
+7698,Aprinox 5mg tablets (Amdipharm Plc),Bendroflumethiazide,5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+8526,Aprinox 2.5mg tablets (AMCo),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria
+18973,Centyl 2.5mg Tablet (Edwin Burgess Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+21803,Berkozide 2.5mg Tablet (Berk Pharmaceuticals Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+21867,Berkozide 5mg Tablet (Berk Pharmaceuticals Ltd),Bendroflumethiazide,5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+23427,Bendroflumethiazide 5mg tablets (A A H Pharmaceuticals Ltd),Bendroflumethiazide,5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+24189,Neo-bendromax 2.5mg Tablet (Ashbourne Pharmaceuticals Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+24190,Neo-bendromax 5mg Tablet (Ashbourne Pharmaceuticals Ltd),Bendroflumethiazide,5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+27256,Bendroflumethiazide 2.5mg tablets (Wockhardt UK Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria
+27689,Bendroflumethiazide 2.5mg tablets (IVAX Pharmaceuticals UK Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+29991,Centyl 5mg Tablet (Edwin Burgess Ltd),Bendroflumethiazide,5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+31670,Bendroflumethiazide 2.5mg tablets (Teva UK Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria
+31820,Bendroflumethiazide 5mg tablets (Wockhardt UK Ltd),Bendroflumethiazide,5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+33415,Bendroflumethiazide 2.5mg tablets (Generics (UK) Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria
+33651,Bendroflumethiazide 2.5mg tablets (A A H Pharmaceuticals Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria
+34059,Bendroflumethiazide 2.5mg tablets (Actavis UK Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria
+34124,Bendroflumethiazide 5mg tablets (Actavis UK Ltd),Bendroflumethiazide,5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+34602,Bendroflumethiazide 2.5mg tablets (Sovereign Medical Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria
+34803,Bendroflumethiazide 2.5mg Tablet (Regent Laboratories Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+40149,Bendroflumethiazide 5mg tablets (IVAX Pharmaceuticals UK Ltd),Bendroflumethiazide,5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+40886,Bendroflumethiazide 2.5mg tablets (Almus Pharmaceuticals Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria
+41517,Bendroflumethiazide 5mg tablets (Teva UK Ltd),Bendroflumethiazide,5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+46302,Neo-Naclex 2.5mg tablets (AMCo),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria
+47844,Bendroflumethiazide 2.5mg tablets (Kent Pharmaceuticals Ltd),Bendroflumethiazide,2.5mg,Tablet,Oral,02020100/09050102,Thiazides And Related Diuretics/Hypercalcaemia And Hypercalciuria
+53812,Bendroflumethiazide oral solution,Bendroflumethiazide,,,,2020100,Thiazides And Related Diuretics
+1211,Bendroflumethiazide 2.5mg / Potassium chloride 630mg (potassium 8.4mmol) modified-release tablets,Bendroflumethiazide/Potassium chloride,2.5mg + 630mg,Modified-release tablet,Oral,2020100,Thiazides And Related Diuretics
+1213,Neo-Naclex-K modified-release tablets (Mercury Pharma Group Ltd),Bendroflumethiazide/Potassium chloride,2.5mg + 630mg,Modified-release tablet,Oral,2020100,Thiazides And Related Diuretics
+2979,Centyl k Tablet (Edwin Burgess Ltd),Bendroflumethiazide/Potassium chloride,2.5mg + 630mg,Modified-release tablet,Oral,2020800,Diuretics With Potassium
+30272,Benthiazide with Triamterene capsules,Benzthiazide,,Capsules,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics
+4406,Decaserpyl plus Tablet (Roussel Laboratories Ltd),Benzthiazide/methoserpidine,,Tablet,Oral,2050200,Centrally Acting Antihypertensive Drugs
+29696,Methoserpidine with benzthiazide Tablet,Benzthiazide/methoserpidine,,Tablet,Oral,2050200,Centrally Acting Antihypertensive Drugs
+17149,Monozide 10 tablets (Wyeth Pharmaceuticals),Bisoprolol fumarate/Hydrochlorothiazide,10mg + 6.25mg,Tablet,Oral,0,Unknown
+17462,Bisoprolol 10mg / Hydrochlorothiazide 6.25mg tablets,Bisoprolol fumarate/Hydrochlorothiazide,10mg + 6.25mg,Tablet,Oral,0,Unknown
+814,Bumetanide 1mg tablets,Bumetanide,1mg,Tablet,Oral,2020200,Loop Diuretics
+2495,Bumetanide with Amiloride tablets,Bumetanide,,Tablets,Oral,02020200/02020400,Loop Diuretics/Potassium-sparing Diuretics With Other Diuretics
+2788,Burinex 1mg tablets (LEO Pharma),Bumetanide,1mg,Tablet,Oral,2020200,Loop Diuretics
+5218,Bumetanide 1mg/5ml oral solution sugar free,Bumetanide,200microgram/1ml,Oral solution,Oral,2020200,Loop Diuretics
+7806,Bumetanide 5mg tablets,Bumetanide,5mg,Tablet,Oral,2020200,Loop Diuretics
+12226,Burinex 1mg/5ml Oral solution (LEO Pharma),Bumetanide,200microgram/1ml,Oral solution,Oral,2020200,Loop Diuretics
+12294,Burinex 5mg tablets (LEO Pharma),Bumetanide,5mg,Tablet,Oral,2020200,Loop Diuretics
+15341,Burinex 0.5mg/ml Injection (LEO Pharma),Bumetanide,500microgram/1ml,Solution for injection,Intravenous/Intramuscular,2020200,Loop Diuretics
+19300,Bumetanide 2mg/4ml solution for injection ampoules,Bumetanide,500microgram/1ml,Solution for injection,Intravenous/Intramuscular,2020200,Loop Diuretics
+30913,Betinex 1mg Tablet (Berk Pharmaceuticals Ltd),Bumetanide,1mg,Tablet,Oral,2020200,Loop Diuretics
+31932,Bumetanide 1mg tablets (C P Pharmaceuticals Ltd),Bumetanide,1mg,Tablet,Oral,2020200,Loop Diuretics
+32091,Bumetanide 1mg tablets (A A H Pharmaceuticals Ltd),Bumetanide,1mg,Tablet,Oral,2020200,Loop Diuretics
+34613,Bumetanide 5mg tablets (Teva UK Ltd),Bumetanide,5mg,Tablet,Oral,2020200,Loop Diuretics
+34934,Bumetanide 1mg tablets (Generics (UK) Ltd),Bumetanide,1mg,Tablet,Oral,2020200,Loop Diuretics
+36767,Bumetanide 1mg tablets (IVAX Pharmaceuticals UK Ltd),Bumetanide,1mg,Tablet,Oral,2020200,Loop Diuretics
+39602,Bumetanide 1mg tablets (Actavis UK Ltd),Bumetanide,1mg,Tablet,Oral,2020200,Loop Diuretics
+45305,Bumetanide 1mg tablets (Teva UK Ltd),Bumetanide,1mg,Tablet,Oral,2020200,Loop Diuretics
+55548,Bumetanide 1mg tablets (Alliance Healthcare (Distribution) Ltd),Bumetanide,1mg,Tablet,Oral,2020200,Loop Diuretics
+62024,Bumetanide 5mg tablets (A A H Pharmaceuticals Ltd),Bumetanide,5mg,Tablet,Oral,2020200,Loop Diuretics
+2493,Burinex A 5mg/1mg tablets (LEO Pharma),Bumetanide/Amiloride hydrochloride,1mg + 5mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+14587,Amiloride 5mg / Bumetanide 1mg tablets,Bumetanide/Amiloride hydrochloride,1mg + 5mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+1776,Burinex K modified-release tablets (LEO Pharma),Bumetanide/Potassium chloride,500microgram + 573mg,Modified-release tablet,Oral,0,Unknown
+6160,Bumetanide 500microgram / Potassium chloride 573mg (potassium 7.7mmol) modified-release tablets,Bumetanide/Potassium chloride,500microgram + 573mg,Modified-release tablet,Oral,0,Unknown
+10902,Captopril 50mg with Hydrochlorothiazide 25mg tablets,Captopril,50mg + 25mg,Tablets,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors
+11133,Hydrochlorothiazide with captopril 25mg with 50mg Tablet,Captopril,25mg + 50mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors
+11641,Captopril 25mg with Hydrochlorothiazide 12.5mg tablets,Captopril,25mg + 12.5mg,Tablets,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors
+15135,Hydrochlorothiazide with captopril 12.5mg with 25mg Tablet,Captopril,12.5mg + 25mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors
+6816,Chlorothiazide 250mg/5ml oral suspension,Chlorothiazide,50mg/1ml,Oral suspension,Oral,2020100,Thiazides And Related Diuretics
+8836,Chlorothiazide 500mg tablets,Chlorothiazide,500mg,Tablets,Oral,2020100,Thiazides And Related Diuretics
+13246,Chlorothiazide 150mg/5ml oral suspension,Chlorothiazide,30mg/1ml,Oral suspension,Oral,2020100,Thiazides And Related Diuretics
+17720,Saluric 500mg Tablet (Merck Sharp & Dohme Ltd),Chlorothiazide,500mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+33724,Diuril 250mg/5ml oral suspension (Imported (United States)),Chlorothiazide,50mg/1ml,Oral suspension,Oral,2020100,Thiazides And Related Diuretics
+54679,Chlorothiazide 250mg tablets,Chlorothiazide,250mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+55889,Chlorothiazide oral solution,Chlorothiazide,,,,2020100,Thiazides And Related Diuretics
+56804,Chlorothiazide 25mg/5ml oral suspension,Chlorothiazide,5mg/1ml,Oral suspension,Oral,2020100,Thiazides And Related Diuretics
+60603,Chlorothiazide 50mg/5ml oral suspension,Chlorothiazide,10mg/1ml,Oral suspension,Oral,2020100,Thiazides And Related Diuretics
+581,Atenolol 50mg with Chlortalidone 12.5mg tablets,Chlortalidone,50mg+12.5mg,Tablets,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+605,Chlortalidone 50mg tablets,Chlortalidone,50mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+1788,Atenolol 100mg with Chlortalidone 25mg tablets,Chlortalidone,100mg+25mg,Tablets,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+3054,Hygroton 100mg Tablet (Alliance Pharmaceuticals Ltd),Chlortalidone,100mg,Tablet,Oral,02020100/06050200,Thiazides And Related Diuretics/Posterior Pituitary Hormones And Antagonists
+3548,Chlortalidone 100mg tablets,Chlortalidone,100mg,Tablets,Oral,02020100/06050200,Thiazides And Related Diuretics/Posterior Pituitary Hormones And Antagonists
+3997,Hygroton 50mg tablets (Alliance Pharmaceuticals Ltd),Chlortalidone,50mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+16786,Chlortalidone 25mg with Atenolol 100mg tablets,Chlortalidone,25mg+100mg,Tablets,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+19055,Chlortalidone 12.5mg with Atenolol 50mg tablets,Chlortalidone,12.5mg+50mg,Tablets,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+12546,Kalspare Tablet (Dominion Pharma),Chlortalidone/Triamterene,50mg + 50mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics
+12547,Triamterene 50mg / Chlortalidone 50mg tablets,Chlortalidone/Triamterene,50mg + 50mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+16498,Kalspare tablets (DHP Healthcare Ltd),Chlortalidone/Triamterene,50mg + 50mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+1170,Cyclopenthiazide 500microgram tablets,Cyclopenthiazide,500microgram,Tablet,Oral,2020100,Thiazides And Related Diuretics
+2046,Navidrex 500microgram tablets (AMCo),Cyclopenthiazide,500microgram,Tablet,Oral,2020100,Thiazides And Related Diuretics
+18606,Diltiazem and hydrochlorothiazide 150mg+12.5mg modified-release capsules,Diltiazem Hydrochloride,150mg + 12.5mg,Modified Release Capsules,Oral,02020100/02060200,Thiazides And Related Diuretics/Calcium-channel Blockers
+23505,Adizem xl plus 150mg+12.5mg Modified-release capsule (Napp Pharmaceuticals Ltd),Diltiazem Hydrochloride,150mg+12.5mg,Modified-release Capsule,Oral,02020100/02060200,Thiazides And Related Diuretics/Calcium-channel Blockers
+1021,Innozide 20mg/12.5mg tablets (Merck Sharp & Dohme Ltd),Enalapril maleate/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors
+5189,Enalapril 20mg / Hydrochlorothiazide 12.5mg tablets,Enalapril maleate/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors
+10251,Eplerenone 25mg tablets,Eplerenone,25mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+14144,Inspra 25mg tablets (Pfizer Ltd),Eplerenone,25mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+16531,Eplerenone 50mg tablets,Eplerenone,50mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+29694,Inspra 50mg tablets (Pfizer Ltd),Eplerenone,50mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+12354,Etacrynic 50mg tablets,Etacrynic Acid,50mg,Tablets,Oral,2020200,Loop Diuretics
+18650,Edecrin 50mg Tablet (Merck Sharp & Dohme Ltd),Etacrynic Acid,50mg,Tablet,Oral,2020200,Loop Diuretics
+32002,Etacrynic 50mg/vial injection,Etacrynic Acid,50mg/vial,Injection,,2020200,Loop Diuretics
+6,Furosemide 40mg tablets,Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics
+55,Furosemide 20mg tablets,Furosemide,20mg,Tablet,Oral,2020200,Loop Diuretics
+562,Furosemide 10mg/ml Injection,Furosemide,10mg/ml,Injection,,2020200,Loop Diuretics
+1369,Furosemide with amiloride 40mg+5mg Tablet,Furosemide,40mg+5mg,Tablet,Oral,02020200/02020400,Loop Diuretics/Potassium-sparing Diuretics With Other Diuretics
+3248,Furosemide 500mg tablets,Furosemide,500mg,Tablet,Oral,2020200,Loop Diuretics
+3287,Furosemide 1mg/ml Oral solution,Furosemide,1mg/ml,Oral Solution,Oral,2020200,Loop Diuretics
+4182,Lasix 5mg/5ml oral solution (Borg Medicare),Furosemide,1mg/1ml,Oral solution,Oral,2020200,Loop Diuretics
+4211,Furosemide with amiloride 20mg+2.5mg Tablet,Furosemide,20mg+2.5mg,Tablet,Oral,02020200/02020400,Loop Diuretics/Potassium-sparing Diuretics With Other Diuretics
+4258,Lasix 20mg/2ml solution for injection ampoules (Sanofi),Furosemide,10mg/1ml,Solution for injection,Intravenous/Intramuscular,2020200,Loop Diuretics
+4705,Furosemide 20mg/2ml Injection,Furosemide,20mg/2ml,Injection,Intravenous Injection,2020200,Loop Diuretics
+5220,Furosemide with amiloride 80mg+10mg Tablet,Furosemide,80mg+10mg,Tablet,Oral,02020200/02020400,Loop Diuretics/Potassium-sparing Diuretics With Other Diuretics
+5249,Furosemide 50mg/5ml oral solution sugar free,Furosemide,10mg/1ml,Oral solution,Oral,2020200,Loop Diuretics
+5728,Furosemide 40mg/5ml oral solution sugar free,Furosemide,8mg/1ml,Oral solution,Oral,2020200,Loop Diuretics
+5868,Frusol 20mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),Furosemide,4mg/1ml,Oral solution,Oral,2020200,Loop Diuretics
+6118,Furosemide 20mg/5ml oral solution sugar free,Furosemide,4mg/1ml,Oral solution,Oral,2020200,Loop Diuretics
+7606,Lasix 40mg tablets (Sanofi),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics
+7799,Lasix 20mg tablets (Borg Medicare),Furosemide,20mg,Tablet,Oral,2020200,Loop Diuretics
+9456,Amiloride 5mg / furosemide 40mg tablets,Furosemide,5mg + 40mg,Tablets,Oral,02020200/02020400,Loop Diuretics/Potassium-sparing Diuretics With Other Diuretics
+9680,Frusol 40mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),Furosemide,8mg/1ml,Oral solution,Oral,2020200,Loop Diuretics
+10392,Lasix 500mg tablets (Sanofi),Furosemide,500mg,Tablet,Oral,2020200,Loop Diuretics
+10422,Lasix 50mg/5ml Injection (Hoechst UK Ltd),Furosemide,10mg/1ml,Solution for injection,Intravenous/Intramuscular,2020200,Loop Diuretics
+12318,Lasix 250mg/25ml Injection (Hoechst Marion Roussel),Furosemide,10mg/1ml,Solution for injection,Intravenous/Intramuscular,2020200,Loop Diuretics
+14761,Frusid 40mg tablets (Dr Reddy's Laboratories (UK) Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics
+14837,Frusol 50mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),Furosemide,10mg/1ml,Oral solution,Oral,2020200,Loop Diuretics
+15874,Amiloride 2.5mg / furosemide 20mg tablets,Furosemide,2.5mg + 20mg,Tablets,Oral,02020200/02020400,Loop Diuretics/Potassium-sparing Diuretics With Other Diuretics
+16206,Froop 40mg tablets (Ashbourne Pharmaceuticals Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics
+18497,Amiloride 10mg / furosemide 80mg tablets,Furosemide,10mg + 80mg,Tablets,Oral,02020200/02020400,Loop Diuretics/Potassium-sparing Diuretics With Other Diuretics
+18716,Dryptal 10mg/ml Injection (Berk Pharmaceuticals Ltd),Furosemide,10mg/ml,Injection,,2020200,Loop Diuretics
+19056,Furosemide 50mg/5ml sugar free Oral solution (Rosemont Pharmaceuticals Ltd),Furosemide,10mg/1ml,Oral solution,Oral,2020200,Loop Diuretics
+19192,Furosemide 40mg Tablet (M & A Pharmachem Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics
+19194,Furosemide 20mg tablets (Teva UK Ltd),Furosemide,20mg,Tablet,Oral,2020200,Loop Diuretics
+19258,Furosemide 50mg/5ml solution for injection ampoules,Furosemide,10mg/1ml,Solution for injection,Intravenous/Intramuscular,2020200,Loop Diuretics
+20538,Frumax 40mg Tablet (Ashbourne Pharmaceuticals Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics
+21849,Dryptal 40mg Tablet (Berk Pharmaceuticals Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics
+24835,Min-i-jet furosemide 10mg/ml Injection (Celltech Pharma Europe Ltd),Furosemide,10mg/ml,Injection,Intravenous Injection,2020200,Loop Diuretics
+25334,Furosemide 500mg tablets (A A H Pharmaceuticals Ltd),Furosemide,500mg,Tablet,Oral,2020200,Loop Diuretics
+25717,Furosemide 40mg tablets (Generics (UK) Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics
+26292,Diuresal 40mg Tablet (Lagap),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics
+27447,Furosemide 40mg tablets (Wockhardt UK Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics
+27690,Furosemide 40mg tablets (A A H Pharmaceuticals Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics
+27696,Furosemide 40mg tablets (Kent Pharmaceuticals Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics
+27926,Furosemide 20mg tablets (Generics (UK) Ltd),Furosemide,20mg,Tablet,Oral,2020200,Loop Diuretics
+29780,Furosemide 20mg Tablet (C P Pharmaceuticals Ltd),Furosemide,20mg,Tablet,Oral,2020200,Loop Diuretics
+30625,Furosemide 20mg tablets (A A H Pharmaceuticals Ltd),Furosemide,20mg,Tablet,Oral,2020200,Loop Diuretics
+30875,Furosemide 250mg/25ml solution for injection ampoules,Furosemide,10mg/1ml,Solution for injection,Intravenous/Intramuscular,2020200,Loop Diuretics
+31548,Furosemide 20mg tablets (Actavis UK Ltd),Furosemide,20mg,Tablet,Oral,2020200,Loop Diuretics
+32277,Furosemide 80mg/8ml solution for injection pre-filled syringes,Furosemide,10mg/1ml,Solution for injection,Intravenous/Intramuscular,2020200,Loop Diuretics
+32896,Furosemide 40mg tablets (Ranbaxy (UK) Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics
+32918,Furosemide 20mg tablets (Sandoz Ltd),Furosemide,20mg,Tablet,Oral,2020200,Loop Diuretics
+34006,Furosemide 40mg tablets (Actavis UK Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics
+34374,Furosemide 40mg tablets (Teva UK Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics
+34557,Furosemide 40mg tablets (IVAX Pharmaceuticals UK Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics
+35162,Furosemide 20mg/2ml solution for injection ampoules,Furosemide,10mg/1ml,Solution for injection,Intravenous/Intramuscular,2020200,Loop Diuretics
+36190,Furosemide 5mg/5ml oral solution sugar free,Furosemide,1mg/1ml,Oral solution,Oral,2020200,Loop Diuretics
+40247,Furosemide 10mg/ml Injection (Martindale Pharmaceuticals Ltd),Furosemide,10mg/ml,Injection,Intravenous Injection,2020200,Loop Diuretics
+41292,Furosemide 20mg tablets (Wockhardt UK Ltd),Furosemide,20mg,Tablet,Oral,2020200,Loop Diuretics
+41405,Furosemide 500mg tablets (Teva UK Ltd),Furosemide,500mg,Tablet,Oral,2020200,Loop Diuretics
+41828,Furosemide 500mg tablets (Actavis UK Ltd),Furosemide,500mg,Tablet,Oral,2020200,Loop Diuretics
+42388,Furosemide 40mg/5ml oral solution sugar free (Focus Pharmaceuticals Ltd),Furosemide,8mg/1ml,Oral solution,Oral,2020200,Loop Diuretics
+42488,Furosemide 40mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd),Furosemide,8mg/1ml,Oral solution,Oral,2020200,Loop Diuretics
+46116,Furosemide 10mg/ml Injection (Antigen Pharmaceuticals),Furosemide,10mg/ml,Injection,Intravenous Injection,2020200,Loop Diuretics
+46699,Furosemide 40mg tablets (Almus Pharmaceuticals Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics
+46948,Furosemide 40mg tablets (Arrow Generics Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics
+47647,Co-amilofruse oral liquid,Furosemide,,Oral Liquid,Oral,02020200/02020300,Loop Diuretics/Potassium-sparing Diuretics And Aldosterone Antagonists
+47815,Furosemide 20mg Tablet (Celltech Pharma Europe Ltd),Furosemide,20mg,Tablet,Oral,2020200,Loop Diuretics
+52887,Furosemide 20mg/2ml solution for injection ampoules (A A H Pharmaceuticals Ltd),Furosemide,10mg/1ml,Solution for injection,Intravenous/Intramuscular,2020200,Loop Diuretics
+52900,Furosemide 80mg/8ml solution for injection Minijet pre-filled syringes (UCB Pharma Ltd),Furosemide,10mg/1ml,Solution for injection,Intravenous/Intramuscular,2020200,Loop Diuretics
+53967,Furosemide 20mg tablets (Bristol Laboratories Ltd),Furosemide,20mg,Tablet,Oral,2020200,Loop Diuretics
+54825,Furosemide 20mg tablets (Sigma Pharmaceuticals Plc),Furosemide,20mg,Tablet,Oral,2020200,Loop Diuretics
+55738,Furosemide 50mg/5ml solution for injection ampoules (Hameln Pharmaceuticals Ltd),Furosemide,10mg/1ml,Solution for injection,Intravenous/Intramuscular,2020200,Loop Diuretics
+56051,Furosemide 20mg tablets (Kent Pharmaceuticals Ltd),Furosemide,20mg,Tablet,Oral,2020200,Loop Diuretics
+56375,Furosemide 40mg tablets (Accord Healthcare Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics
+57600,Furosemide 20mg/2ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),Furosemide,10mg/1ml,Solution for injection,Intravenous/Intramuscular,2020200,Loop Diuretics
+57610,Furosemide 20mg/5ml oral solution sugar free (Focus Pharmaceuticals Ltd),Furosemide,4mg/1ml,Oral solution,Oral,2020200,Loop Diuretics
+58078,Furosemide 8mg/5ml oral solution,Furosemide,1.6mg/1ml,Oral solution,Oral,2020200,Loop Diuretics
+58224,Furosemide 10mg/5ml oral solution,Furosemide,2mg/1ml,Oral solution,Oral,2020200,Loop Diuretics
+59030,Furosemide 20mg/5ml oral solution,Furosemide,4mg/1ml,Oral solution,Oral,2020200,Loop Diuretics
+59290,Furosemide 20mg tablets (Alliance Healthcare (Distribution) Ltd),Furosemide,20mg,Tablet,Oral,2020200,Loop Diuretics
+59884,Furosemide 20mg tablets (Phoenix Healthcare Distribution Ltd),Furosemide,20mg,Tablet,Oral,2020200,Loop Diuretics
+59911,Furosemide 40mg tablets (Alliance Healthcare (Distribution) Ltd),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics
+60291,Furosemide 40mg tablets (AMCo),Furosemide,40mg,Tablet,Oral,2020200,Loop Diuretics
+60465,Furosemide 5mg/5ml oral solution,Furosemide,1mg/1ml,Oral solution,Oral,2020200,Loop Diuretics
+61365,Furosemide 40mg/5ml oral suspension,Furosemide,8mg/1ml,Oral suspension,Oral,2020200,Loop Diuretics
+61475,Furosemide 20mg tablets (DE Pharmaceuticals),Furosemide,20mg,Tablet,Oral,2020200,Loop Diuretics
+542,Hydrochlorothiazide 25mg tablets,Hydrochlorothiazide,25mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+3517,Hydrochlorothiazide 50mg tablets,Hydrochlorothiazide,50mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+13363,Esidrex 50mg Tablet (Novartis Pharmaceuticals UK Ltd),Hydrochlorothiazide,50mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+17252,Esidrex 25mg Tablet (Novartis Pharmaceuticals UK Ltd),Hydrochlorothiazide,25mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+35380,Hydrochlorothiazide with olmesartan medoxomil 12.5mg with 20mg tablet,Hydrochlorothiazide,12.5mg + 20mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists
+39021,Hydrochlorothiazide with olmesartan medoxomil 25mg with 20mg tablet,Hydrochlorothiazide,25mg + 20mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists
+48132,Hydrochlorothiazide Capsule,Hydrochlorothiazide,,Capsule,Oral,2020100,Thiazides And Related Diuretics
+57488,Hydrochlorothiazide Oral solution,Hydrochlorothiazide,,Oral Solution,,2020100,Thiazides And Related Diuretics
+12440,Hydrosaluric 25mg tablets (Merck Sharp & Dohme Ltd),Hydrochlorothiazide,25mg,Tablet,Oral,0,Unknown
+16632,Hydrosaluric 50mg tablets (Merck Sharp & Dohme Ltd),Hydrochlorothiazide,50mg,Tablet,Oral,0,Unknown
+47573,Sevikar HCT 40mg/5mg/12.5mg tablets (Daiichi Sankyo UK Ltd),Hydrochlorothiazide/Amlodipine besilate/Olmesartan medoxomil,12.5mg + 5mg + 40mg,Tablet,Oral,2050502,Angiotensin-ii Receptor Antagonists
+53220,Sevikar HCT 40mg/10mg/25mg tablets (Daiichi Sankyo UK Ltd),Hydrochlorothiazide/Amlodipine besilate/Olmesartan medoxomil,25mg + 10mg + 40mg,Tablet,Oral,2050502,Angiotensin-ii Receptor Antagonists
+47616,Sevikar HCT 40mg/10mg/12.5mg tablets (Daiichi Sankyo UK Ltd),Hydrochlorothiazide/amlodipine/olmesartan Medoxomil,40mg + 10mg + 12.5mg,Tablets,Oral,2050502,Angiotensin-ii Receptor Antagonists
+47727,Sevikar HCT 40mg/5mg/25mg tablets (Daiichi Sankyo UK Ltd),Hydrochlorothiazide/amlodipine/olmesartan Medoxomil,40mg + 5mg + 25mg,Tablets,Oral,2050502,Angiotensin-ii Receptor Antagonists
+3203,Capozide LS Tablet (E R Squibb and Sons Ltd),Hydrochlorothiazide/Captopril,12.5mg + 25mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors
+32166,Capto-co 25mg+50mg Tablet (IVAX Pharmaceuticals UK Ltd),Hydrochlorothiazide/Captopril,25mg + 50mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors
+1520,Capozide 25mg/50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Hydrochlorothiazide/Captopril,25mg + 50mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors
+11351,Co-zidocapt 25mg/50mg tablets,Hydrochlorothiazide/Captopril,25mg + 50mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors
+11561,Co-zidocapt 12.5mg/25mg tablets,Hydrochlorothiazide/Captopril,12.5mg + 25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors
+18263,Acezide 25mg/50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Hydrochlorothiazide/Captopril,25mg + 50mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors
+39227,Capozide LS 12.5mg/25mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Hydrochlorothiazide/Captopril,12.5mg + 25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors
+10316,CoAprovel 150mg/12.5mg tablets (Sanofi),Hydrochlorothiazide/Irbesartan,12.5mg + 150mg,Tablet,Oral,02020100/02050504,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists With Diuretic
+11448,Irbesartan 150mg / Hydrochlorothiazide 12.5mg tablets,Hydrochlorothiazide/Irbesartan,12.5mg + 150mg,Tablet,Oral,02020100/02050504,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists With Diuretic
+37650,Losartan 100mg / Hydrochlorothiazide 12.5mg tablets,Hydrochlorothiazide/losartan Potassium,100mg + 12.5mg,Tablets,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic
+7066,Metoprolol 100mg / Hydrochlorothiazide 12.5mg tablets,Hydrochlorothiazide/Metoprolol tartrate,12.5mg + 100mg,Tablet,Oral,0,Unknown
+10627,Co-Betaloc tablets (Pfizer Ltd),Hydrochlorothiazide/Metoprolol tartrate,12.5mg + 100mg,Tablet,Oral,0,Unknown
+18903,Olmesartan medoxomil 20mg / Hydrochlorothiazide 25mg tablets,Hydrochlorothiazide/olmesartan Medoxomil,20mg + 25mg,Tablets,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists
+43322,Olmesartan medoxomil 40mg / Hydrochlorothiazide 12.5mg tablets,Hydrochlorothiazide/Olmesartan medoxomil,12.5mg + 40mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists
+43915,Olmetec Plus 40mg/12.5mg tablets (Daiichi Sankyo UK Ltd),Hydrochlorothiazide/Olmesartan medoxomil,12.5mg + 40mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists
+15031,Accuretic 12.5mg/10mg tablets (Pfizer Ltd),Hydrochlorothiazide/Quinapril hydrochloride,12.5mg + 10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors
+15108,Quinapril 10mg / Hydrochlorothiazide 12.5mg tablets,Hydrochlorothiazide/Quinapril hydrochloride,12.5mg + 10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors
+38459,Telmisartan 80mg / Hydrochlorothiazide 25mg tablets,Hydrochlorothiazide/telmisartan,80mg + 25mg,Tablets,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic
+38889,MicardisPlus 80mg/25mg tablets (Boehringer Ingelheim Ltd),Hydrochlorothiazide/telmisartan,80mg + 25mg,Tablets,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic
+764,Co-Diovan 80mg/12.5mg tablets (Novartis Pharmaceuticals UK Ltd),Hydrochlorothiazide/Valsartan,12.5mg + 80mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic
+16060,Valsartan 80mg / Hydrochlorothiazide 12.5mg tablets,Hydrochlorothiazide/Valsartan,12.5mg + 80mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic
+52858,Co-Diovan 80mg/12.5mg tablets (Sigma Pharmaceuticals Plc),Hydrochlorothiazide/Valsartan,12.5mg + 80mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic
+12110,Hydroflumethiazide 50mg Tablet,Hydroflumethiazide,50mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+13525,Hydrenox 50mg Tablet (Knoll Ltd),Hydroflumethiazide,50mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+3056,Natrilix SR 1.5mg tablets (Servier Laboratories Ltd),Indapamide,1.5mg,Modified-release tablet,Oral,2020100,Thiazides And Related Diuretics
+5112,Indapamide 1.5mg modified-release tablets,Indapamide,1.5mg,Modified-release tablet,Oral,2020100,Thiazides And Related Diuretics
+39447,Varbim XL 1.5mg tablets (Teva UK Ltd),Indapamide,1.5mg,Modified-release tablet,Oral,2020100,Thiazides And Related Diuretics
+41861,Tensaid XL 1.5mg tablets (Generics (UK) Ltd),Indapamide,1.5mg,Modified-release tablet,Oral,2020100,Thiazides And Related Diuretics
+41885,Ethibide XL 1.5mg tablets (Genus Pharmaceuticals Ltd),Indapamide,1.5mg,Modified-release tablet,Oral,2020100,Thiazides And Related Diuretics
+43184,Mapemid XL 1.5mg tablets (Teva UK Ltd),Indapamide,1.5mg,Modified-release tablet,Oral,2020100,Thiazides And Related Diuretics
+44168,Indipam XL 1.5mg tablets (Actavis UK Ltd),Indapamide,1.5mg,Modified-release tablet,Oral,2020100,Thiazides And Related Diuretics
+46675,Indapamide 1.5mg modified-release tablets (A A H Pharmaceuticals Ltd),Indapamide,1.5mg,Modified-release tablet,Oral,2020100,Thiazides And Related Diuretics
+59616,Rawel XL 1.5mg tablets (Consilient Health Ltd),Indapamide,1.5mg,Modified-release tablet,Oral,2020100,Thiazides And Related Diuretics
+60020,Indapamide 1.5mg modified-release tablets (Waymade Healthcare Plc),Indapamide,1.5mg,Modified-release tablet,Oral,2020100,Thiazides And Related Diuretics
+62066,Cardide SR 1.5mg tablets (Teva UK Ltd),Indapamide,1.5mg,Modified-release tablet,Oral,2020100,Thiazides And Related Diuretics
+2612,Indapamide 2.5mg tablets,Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+7641,Natrilix 2.5mg tablets (Servier Laboratories Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+26256,Opumide 2.5mg Tablet (Opus Pharmaceuticals Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+26275,Nindaxa 2.5 tablets (Ashbourne Pharmaceuticals Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+27957,Natramid 2.5mg Tablet (Trinity Pharmaceuticals Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+33083,Indapamide 2.5mg tablets (Teva UK Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+34551,Indapamide 2.5mg tablets (Generics (UK) Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+40907,Indapamide 2.5mg tablets (Genus Pharmaceuticals Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+42906,Indapamide 2.5mg tablets (Niche Generics Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+43516,Indapamide 2.5mg tablets (Actavis UK Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+48079,Indapamide 2.5mg tablets (Zentiva),Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+48099,Indapamide 2.5mg tablets (A A H Pharmaceuticals Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+49529,Indapamide 2.5mg tablets (Phoenix Healthcare Distribution Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+54316,Indapamide 2.5mg tablets (Alliance Healthcare (Distribution) Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+55259,Indapamide 2.5mg tablets (Kent Pharmaceuticals Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+56296,Indapamide 2.5mg tablets (Boston Healthcare Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+56760,Indapamide 2.5mg tablets (Co-Pharma Ltd),Indapamide hemihydrate,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+37978,Perindopril arginine 5mg / Indapamide 1.25mg tablets,Indapamide/perindopril Arginine,5mg + 1.25mg,Tablets,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors
+6794,Perindopril erbumine 4mg / Indapamide 1.25mg tablets,Indapamide/Perindopril erbumine,1.25mg + 4mg,Tablet,Oral,02020100/02050500/02050501,Thiazides And Related Diuretics/Drugs Affecting The Renin-angiotensin System/Angiotensin-converting Enzyme Inhibitors
+14228,Coversyl Plus tablets (Servier Laboratories Ltd),Indapamide/Perindopril erbumine,1.25mg + 4mg,Tablet,Oral,0,Unknown
+11469,Irbesartan 300mg / Hydrochlorothiazide 12.5mg tablets,Irbesartan/Hydrochlorothiazide,300mg + 12.5mg,Tablet,Oral,02020100/02050504,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists With Diuretic
+11526,CoAprovel 300mg/12.5mg tablets (Sanofi),Irbesartan/Hydrochlorothiazide,300mg + 12.5mg,Tablet,Oral,02020100/02050504,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists With Diuretic
+35196,CoAprovel 300mg/25mg tablets (Sanofi),Irbesartan/Hydrochlorothiazide,300mg + 25mg,Tablet,Oral,02020100/02050504,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists With Diuretic
+35481,Irbesartan 300mg / Hydrochlorothiazide 25mg tablets,Irbesartan/hydrochlorothiazide,300mg + 25mg,Tablets,Oral,02020100/02050504,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists With Diuretic
+2982,Zestoretic 20- 20mg+12.5mg Tablet (AstraZeneca UK Ltd),Lisinopril/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors
+6359,Zestoretic 10- 10mg+12.5mg Tablet (AstraZeneca UK Ltd),Lisinopril/Hydrochlorothiazide,10mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors
+6468,Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets,Lisinopril/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors
+6786,Lisinopril 10mg / Hydrochlorothiazide 12.5mg tablets,Lisinopril/Hydrochlorothiazide,10mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors
+9764,Carace 20 Tablet (Bristol-Myers Squibb Pharmaceuticals Ltd),Lisinopril/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors
+17655,Carace 10 Tablet (Bristol-Myers Squibb Pharmaceuticals Ltd),Lisinopril/Hydrochlorothiazide,10mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors
+33353,Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets (Teva UK Ltd),Lisinopril/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors
+37710,Lisinopril 10mg / Hydrochlorothiazide 12.5mg tablets (Teva UK Ltd),Lisinopril/Hydrochlorothiazide,10mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors
+38995,Zestoretic 20 tablets (AstraZeneca UK Ltd),Lisinopril/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors
+39137,Zestoretic 10 tablets (AstraZeneca UK Ltd),Lisinopril/Hydrochlorothiazide,10mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors
+39147,Carace 20 Plus tablets (Merck Sharp & Dohme Ltd),Lisinopril/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors
+54201,Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets (Almus Pharmaceuticals Ltd),Lisinopril/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors
+55399,Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets (A A H Pharmaceuticals Ltd),Lisinopril/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors
+56244,Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets (Tillomed Laboratories Ltd),Lisinopril/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors
+57539,Zestoretic 10 tablets (Sigma Pharmaceuticals Plc),Lisinopril/Hydrochlorothiazide,10mg + 12.5mg,Tablet,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors
+21231,Caralpha 20mg/12.5mg tablets (Actavis UK Ltd),Lisinopril/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors
+39242,Carace 10 Plus tablets (Merck Sharp & Dohme Ltd),Lisinopril/Hydrochlorothiazide,10mg + 12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors
+14738,Hydrochlorothiazide with losartan 12.5mg with 50mg Tablet,Losartan Potassium,12.5mg + 50mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists
+24632,Hydrochlorothiazide with losartan 25mg with 100mg Tablet,Losartan Potassium,25mg + 100mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists
+38367,Hydrochlorothiazide with losartan 12.5mg with 100mg Tablet,Losartan Potassium,12.5mg + 100mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists
+4540,Cozaar-Comp 50mg/12.5mg tablets (Merck Sharp & Dohme Ltd),Losartan potassium/Hydrochlorothiazide,50mg + 12.5mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic
+6437,Losartan 50mg / Hydrochlorothiazide 12.5mg tablets,Losartan potassium/Hydrochlorothiazide,50mg + 12.5mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic
+10323,Losartan 100mg / Hydrochlorothiazide 25mg tablets,Losartan potassium/Hydrochlorothiazide,100mg + 25mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic
+21423,Cozaar-Comp 100mg/25mg tablets (Merck Sharp & Dohme Ltd),Losartan potassium/Hydrochlorothiazide,100mg + 25mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic
+37747,Cozaar-Comp 100mg/12.5mg tablets (Merck Sharp & Dohme Ltd),Losartan potassium/Hydrochlorothiazide,100mg + 12.5mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic
+48039,Losartan 100mg / Hydrochlorothiazide 12.5mg tablets (Teva UK Ltd),Losartan potassium/Hydrochlorothiazide,100mg + 12.5mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic
+52189,Losartan 100mg / Hydrochlorothiazide 25mg tablets (A A H Pharmaceuticals Ltd),Losartan potassium/Hydrochlorothiazide,100mg + 25mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic
+55160,Cozaar-Comp 50mg/12.5mg tablets (Sigma Pharmaceuticals Plc),Losartan potassium/Hydrochlorothiazide,50mg + 12.5mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic
+56204,Losartan 50mg / Hydrochlorothiazide 12.5mg tablets (Actavis UK Ltd),Losartan potassium/Hydrochlorothiazide,50mg + 12.5mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic
+56975,Losartan 50mg / Hydrochlorothiazide 12.5mg tablets (A A H Pharmaceuticals Ltd),Losartan potassium/Hydrochlorothiazide,50mg + 12.5mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic
+57796,Cozaar-Comp 50mg/12.5mg tablets (DE Pharmaceuticals),Losartan potassium/Hydrochlorothiazide,50mg + 12.5mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic
+20652,Mannitol 10% Infusion,Mannitol,10%,Infusion,Intravenous Infusion,2020500,Osmotic Diuretics
+30965,Mannitol 20% Infusion,Mannitol,20%,Infusion,Intravenous Infusion,2020500,Osmotic Diuretics
+52937,Mannitol 50g/500ml infusion polyethylene bottles,Mannitol,100mg/1ml,Infusion,Intravenous,2020500,Osmotic Diuretics
+61000,Mannitol 50g/500ml infusion bags,Mannitol,100mg/1ml,Infusion,Intravenous,2020500,Osmotic Diuretics
+15457,Baycaron 25mg Tablet (Bayer Plc),Mefruside,25mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+17143,Mefruside 25mg Tablet,Mefruside,25mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+8303,Tenavoid Tablet (Edwin Burgess Ltd),Meprobamate,,Tablet,Oral,02020100/04010200,Thiazides And Related Diuretics/Anxiolytics
+8464,Meprobamate with bendroflumethiazide Tablet,Meprobamate,,Tablet,Oral,02020100/04010200,Thiazides And Related Diuretics/Anxiolytics
+31013,Mersalyl 50mg/ml Injection,Mersalyl,50mg/ml,Injection,,2020600,Mercurial Diuretics
+18267,Enduron 5mg Tablet (Abbott Laboratories Ltd),Methyclothiazide,5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+20057,Methyclothiazide 5mg Tablet,Methyclothiazide,5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+28738,Methyldopa with hydrochlorothiazide Tablet,Methyldopa Anhydrous,,Tablet,Oral,2050200,Centrally Acting Antihypertensive Drugs
+4332,Metolazone 5mg tablets,Metolazone,5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+4334,Metolazone 500microgram low dose Tablet,Metolazone,500microgram,Tablet,Oral,2020100,Thiazides And Related Diuretics
+8602,Metenix 5mg tablets (Sanofi),Metolazone,5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+19352,Xuret 0.5mg Tablet (Galen Ltd),Metolazone,0.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+53674,Metolazone 2.5mg tablets,Metolazone,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+54329,Metolazone 5mg/5ml oral suspension,Metolazone,1mg/1ml,Oral suspension,Oral,2020100,Thiazides And Related Diuretics
+54643,Metolazone Oral solution,Metolazone,,Oral Solution,,2020100,Thiazides And Related Diuretics
+61846,Zaroxolyn 2.5mg tablets (IDIS),Metolazone,2.5mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+8147,Lopresoretic Tablet (Novartis Pharmaceuticals UK Ltd),Metoprolol Tartrate,,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+15488,Metoprolol tartrate with chlortalidone Tablet,Metoprolol Tartrate,,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+29427,Hydrochlorothiazide with metoprolol tartrate 12.5mg with 100mg tablet,Metoprolol Tartrate,12.5mg + 100mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+33659,Hydrochlorothiazide with metoprolol tartrate 25mg with 200mg Modified-release tablet,Metoprolol Tartrate,25mg + 200mg,Modified-release Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+18287,Co-Betaloc SA tablets (Pfizer Ltd),Metoprolol tartrate/Hydrochlorothiazide,200mg + 25mg,Modified-release tablet,Oral,0,Unknown
+20093,Metoprolol 200mg modified-release / Hydrochlorothiazide 25mg tablets,Metoprolol tartrate/Hydrochlorothiazide,200mg + 25mg,Modified-release tablet,Oral,0,Unknown
+11338,Bendroflumethiazide 5mg with Nadolol 40mg tablets,Nadolol,5mg + 40mg,Tablets,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+5330,Corgaretic 40mg tablets (Sanofi-Synthelabo Ltd),Nadolol/Bendroflumethiazide,40mg + 5mg,Tablet,Oral,0,Unknown
+14438,Corgaretic 80mg tablets (Sanofi-Synthelabo Ltd),Nadolol/Bendroflumethiazide,80mg + 5mg,Tablet,Oral,0,Unknown
+23134,Nadolol 40mg / Bendroflumethiazide 5mg tablets,Nadolol/Bendroflumethiazide,40mg + 5mg,Tablet,Oral,0,Unknown
+27946,Nadolol 80mg / Bendroflumethiazide 5mg tablets,Nadolol/Bendroflumethiazide,80mg + 5mg,Tablet,Oral,0,Unknown
+46355,Sevikar HCT 20mg/5mg/12.5mg tablets (Daiichi Sankyo UK Ltd),Olmesartan medoxomil/Amlodipine besilate/Hydrochlorothiazide,20mg + 5mg + 12.5mg,Tablet,Oral,2050502,Angiotensin-ii Receptor Antagonists
+18200,Olmesartan medoxomil 20mg / Hydrochlorothiazide 12.5mg tablets,Olmesartan medoxomil/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists
+27520,Olmetec Plus 20mg/25mg tablets (Daiichi Sankyo UK Ltd),Olmesartan medoxomil/Hydrochlorothiazide,20mg + 25mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists
+29634,Olmetec Plus 20mg/12.5mg tablets (Daiichi Sankyo UK Ltd),Olmesartan medoxomil/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists
+8673,Oxprenolol with cyclopenthiazide 160mg+0.25mg Modified-release tablet,Oxprenolol Hydrochloride,160mg+0.25mg,Modified-release Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+52145,Cyclopenthiazide 0.25mg with oxprenolol 160mg modified-release tablets,Oxprenolol Hydrochloride,,,,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+4429,Trasidrex modified-release tablets (Mercury Pharma Group Ltd),Oxprenolol hydrochloride/Cyclopenthiazide,160mg + 250microgram,Modified-release tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+13871,Co-prenozide 160mg/0.25mg modified-release tablets,Oxprenolol hydrochloride/Cyclopenthiazide,160mg + 250microgram,Modified-release tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+24832,Lasipressin Tablet (Hoechst UK Ltd),Penbutolol,,Tablet,Oral,02020200/02040000,Loop Diuretics/Beta-adrenoceptor Blocking Drugs
+26529,Furosemide with penbutolol Tablet,Penbutolol,,Tablet,Oral,02020200/02040000,Loop Diuretics/Beta-adrenoceptor Blocking Drugs
+37908,Coversyl Arginine Plus 5mg/1.25mg tablets (Servier Laboratories Ltd),Perindopril arginine/Indapamide,5mg + 1.25mg,Tablet,Oral,02020100/02050500/02050501,Thiazides And Related Diuretics/Drugs Affecting The Renin-angiotensin System/Angiotensin-converting Enzyme Inhibitors
+51258,Coversyl Arginine Plus 5mg/1.25mg tablets (DE Pharmaceuticals),Perindopril arginine/Indapamide,5mg + 1.25mg,Tablet,Oral,02020100/02050500/02050501,Thiazides And Related Diuretics/Drugs Affecting The Renin-angiotensin System/Angiotensin-converting Enzyme Inhibitors
+48098,Perindopril arginine 4mg with Indapamide 1.25mg tablet,Perindopril Erbumine,4mg + 1.25mg,Tablets,Oral,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors
+50607,Perindopril arginine 2mg with Indapamide 625 micrograms tablet,Perindopril Erbumine,,,,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors
+25462,Clopamide 5mg with Pindolol 10mg tablets,Pindolol,5mg + 10mg,Tablets,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+9143,Viskaldix tablets (AMCo),Pindolol/Clopamide,10mg + 5mg,Tablet,Oral,2040100,Beta-adrenoceptor Blocking Drugs With Diuretic
+14057,Pindolol 10mg / Clopamide 5mg tablets,Pindolol/Clopamide,10mg + 5mg,Tablet,Oral,2040100,Beta-adrenoceptor Blocking Drugs With Diuretic
+7709,Arelix 6mg Capsule (Hoechst Marion Roussel),Piretanide,6mg,Capsule,Oral,2020200,Loop Diuretics
+12367,Piretanide 6mg capsule,Piretanide,6mg,Capsules,Oral,2020200,Loop Diuretics
+12360,Nephril 1mg Tablet (Pfizer Ltd),Polythiazide,1mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+12926,Polythiazide 1mg tablets,Polythiazide,1mg,Tablet,Oral,0,Unknown
+1125,Navidrex -k Tablet (Novartis Pharmaceuticals UK Ltd),Potassium Chloride,,Tablet,Oral,2020100,Thiazides And Related Diuretics
+2833,CYCLOPENTHIAZIDE -K tablets,Potassium Chloride,,Tablets,Oral,2020100,Thiazides And Related Diuretics
+8891,Hygroton -k Tablet (Novartis Pharmaceuticals UK Ltd),Potassium Chloride,,Tablet,Oral,2020100,Thiazides And Related Diuretics
+18983,Brinaldix k Effervescent tablet (Berk Pharmaceuticals Ltd),Potassium Chloride,,Effervescent Tablet,Oral,2020800,Diuretics With Potassium
+22839,Clopamide with Potassium effervescent tablets,Potassium Chloride,,Effervescent Tablet,Oral,2020800,Diuretics With Potassium
+36519,Esidrex -k Tablet (Novartis Pharmaceuticals UK Ltd),Potassium Chloride,,Tablet,Oral,2020800,Diuretics With Potassium
+20426,Centyl k 2.5mg+7.7mmol Tablet (Edwin Burgess Ltd),Potassium chloride/Bendroflumethiazide,573mg + 2.5mg,Modified-release tablet,Oral,2020800,Diuretics With Potassium
+17561,Bendroflumethiazide 2.5mg / Potassium chloride 573mg (potassium 7.7mmol) modified-release tablets,Potassium chloride/Bendroflumethiazide,573mg + 2.5mg,Modified-release tablet,Oral,0,Unknown
+20431,Centyl K modified-release tablets (LEO Pharma),Potassium chloride/Bendroflumethiazide,573mg + 2.5mg,Modified-release tablet,Oral,0,Unknown
+7734,Diumide-K Continus tablets (Teofarma),Potassium chloride/Furosemide,600mg + 40mg,Modified-release tablet,Oral,2020800,Diuretics With Potassium
+8102,Furosemide 40mg / Potassium chloride 600mg (potassium 8mmol) modified-release tablets,Potassium chloride/Furosemide,600mg + 40mg,Modified-release tablet,Oral,2020800,Diuretics With Potassium
+10781,Lasix with k Tablet (Hoechst Marion Roussel),Potassium chloride/Furosemide,600mg + 40mg,Modified-release tablet,Oral,2020800,Diuretics With Potassium
+7582,Lasikal modified-release tablets (Borg Medicare),Potassium chloride/Furosemide,750mg + 20mg,Modified-release tablet,Oral,0,Unknown
+17960,Furosemide 20mg / Potassium chloride 750mg (potassium 10mmol) modified-release tablets,Potassium chloride/Furosemide,750mg + 20mg,Modified-release tablet,Oral,0,Unknown
+22912,Bendroflumethiazide 2.5mg with Propanolol 80mg capsules,Propranolol Hydrochloride,2.5mg + 80mg,Capsules,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+23131,Bendroflumethiazide 5mg with Propanolol 160mg modified-release capsules,Propranolol Hydrochloride,5mg + 160mg,Modified Release Capsules,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+4796,Inderetic 80mg/2.5mg capsules (AstraZeneca UK Ltd),Propranolol hydrochloride/Bendroflumethiazide,80mg + 2.5mg,Capsule,Oral,0,Unknown
+8369,Inderex 160mg/5mg modified-release capsules (AstraZeneca UK Ltd),Propranolol hydrochloride/Bendroflumethiazide,160mg + 5mg,Modified-release capsule,Oral,0,Unknown
+8987,Propranolol 160mg modified-release / Bendroflumethiazide 5mg capsules,Propranolol hydrochloride/Bendroflumethiazide,160mg + 5mg,Modified-release capsule,Oral,0,Unknown
+12054,Propranolol 80mg / Bendroflumethiazide 2.5mg capsules,Propranolol hydrochloride/Bendroflumethiazide,80mg + 2.5mg,Capsule,Oral,0,Unknown
+15493,Reserpine with hydrochlorothiazide tablet,Reserpine,,Tablets,Oral,2050200,Centrally Acting Antihypertensive Drugs
+19892,Serpasil -esidrex Tablet (Novartis Pharmaceuticals UK Ltd),Reserpine,,Tablet,Oral,2050200,Centrally Acting Antihypertensive Drugs
+3691,Sotalol 160mg with hydrochlorothiazide 25mg tablet,Sotalol Hydrochloride,160mg + 25mg,Tablets,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+8061,Sotalol 80mg with hydrochlorothiazide 12.5mg tablet,Sotalol Hydrochloride,80mg + 12.5mg,Tablets,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+692,Spironolactone 25mg tablets,Spironolactone,25mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+708,Spironolactone 50mg tablets,Spironolactone,50mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+787,Spironolactone 100mg capsule,Spironolactone,100mg,Capsules,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+2142,Spironolactone 100mg tablets,Spironolactone,100mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+2389,Aldactone 25mg tablets (Pfizer Ltd),Spironolactone,25mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+4161,Spiroctan 25mg Tablet (Roche Products Ltd),Spironolactone,25mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+4960,Aldactone 50mg tablets (Pfizer Ltd),Spironolactone,50mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+6815,Spironolactone 50mg/5ml oral suspension sugar free,Spironolactone,50mg/5ml,Suspension Sugar-free,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+7952,Aldactone 100mg tablets (Pfizer Ltd),Spironolactone,100mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+7961,Spironolactone 50mg with hydroflumethiazide 50mg tablet,Spironolactone,50mg+50mg,Tablets,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics
+7991,Spiroctan 100mg Capsule (Roche Products Ltd),Spironolactone,100mg,Capsule,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+8521,Spironolactone 25mg with hydroflumethiazide 25mg tablet,Spironolactone,25mg+25mg,Tablets,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics
+10214,Spironolactone 5mg/5ml oral suspension sugar free,Spironolactone,5mg/5ml,Suspension Sugar-free,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+11156,Spirolone 25mg Tablet (Berk Pharmaceuticals Ltd),Spironolactone,25mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+11519,Spironolactone 25mg/5ml oral suspension sugar free,Spironolactone,25mg/5ml,Suspension Sugar-free,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+12946,Spironolactone 10mg/5ml oral suspension sugar free,Spironolactone,10mg/5ml,Suspension Sugar-free,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+13264,Spironolactone 15mg/5ml oral suspension,Spironolactone,3mg/1ml,Oral suspension,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+14109,Spironolactone 100mg/5ml oral solution sugar free,Spironolactone,100mg/5ml,Suspension Sugar-free,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+15052,Spiroctan 50mg Tablet (Roche Products Ltd),Spironolactone,50mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+17902,Spirolone 100mg Tablet (Berk Pharmaceuticals Ltd),Spironolactone,100mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+17950,Spirolone 50mg Tablet (Berk Pharmaceuticals Ltd),Spironolactone,50mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+19195,Spironolactone 50mg Tablet (Wyeth Pharmaceuticals),Spironolactone,50mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+21911,Spirospare 25mg Tablet (Ashbourne Pharmaceuticals Ltd),Spironolactone,25mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+23091,Spirospare 100 tablets (Ashbourne Pharmaceuticals Ltd),Spironolactone,100mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+25494,Diatensec 50mg Tablet (Pharmacia Ltd),Spironolactone,50mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+29397,Spiretic 100mg Tablet (DDSA Pharmaceuticals Ltd),Spironolactone,100mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+29529,Hydroflumethiazide with spironolactone 25mg+25mg Tablet,Spironolactone,25mg+25mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics
+31219,Spironolactone 100mg tablets (A A H Pharmaceuticals Ltd),Spironolactone,100mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+31529,Spironolactone 25mg tablets (Teva UK Ltd),Spironolactone,25mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+32837,Spironolactone 50mg tablets (Teva UK Ltd),Spironolactone,50mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+34296,Spironolactone 25mg tablets (A A H Pharmaceuticals Ltd),Spironolactone,25mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+34347,Spironolactone 25mg tablets (Actavis UK Ltd),Spironolactone,25mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+34908,Spironolactone 25mg tablets (IVAX Pharmaceuticals UK Ltd),Spironolactone,25mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+35789,Spironolactone 25mg Tablet (Celltech Pharma Europe Ltd),Spironolactone,25mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+41074,Spironolactone 25mg tablets (Almus Pharmaceuticals Ltd),Spironolactone,25mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+41592,Spironolactone 100mg tablets (Actavis UK Ltd),Spironolactone,100mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+41660,Spironolactone 100mg tablets (Teva UK Ltd),Spironolactone,100mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+41706,Spironolactone 50mg tablets (IVAX Pharmaceuticals UK Ltd),Spironolactone,50mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+43514,Spironolactone 50mg tablets (A A H Pharmaceuticals Ltd),Spironolactone,50mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+45078,Spironolactone 25mg/5ml Oral solution sugar free (Rosemont Pharmaceuticals Ltd),Spironolactone,25mg/5ml,Oral Solution,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+45916,Hydroflumethiazide with spironolactone 50mg+50mg Tablet,Spironolactone,50mg+50mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics
+46674,Spironolactone 50mg/5ml Oral suspension sugar free (Rosemont Pharmaceuticals Ltd),Spironolactone,50mg/5ml,Oral Suspension,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+46990,Spironolactone 50mg/5ml oral suspension,Spironolactone,10mg/1ml,Oral suspension,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+47018,Spironolactone 25mg/5ml oral suspension,Spironolactone,5mg/1ml,Oral suspension,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+47687,Spiretic 25mg Tablet (DDSA Pharmaceuticals Ltd),Spironolactone,25mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+49388,Spironolactone 100mg/5ml oral suspension,Spironolactone,20mg/1ml,Oral suspension,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+50079,Spironolactone 10mg/5ml oral suspension,Spironolactone,2mg/1ml,Oral suspension,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+50370,Spironolactone 5mg/5ml oral suspension,Spironolactone,1mg/1ml,Oral suspension,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+51652,Spironolactone 25mg tablets (DE Pharmaceuticals),Spironolactone,25mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+51720,Spironolactone 25mg/5ml oral solution,Spironolactone,5mg/1ml,Oral solution,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+52970,Spironolactone 10mg/5ml oral solution,Spironolactone,2mg/1ml,Oral solution,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+53253,Spironolactone 50mg/5ml oral suspension (Drug Tariff Special Order),Spironolactone,10mg/1ml,Oral suspension,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+54120,Spironolactone 4mg/5ml oral suspension,Spironolactone,800microgram/1ml,Oral suspension,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+57104,Spironolactone 200mg/5ml oral suspension,Spironolactone,40mg/1ml,Oral suspension,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+57556,Spironolactone 12mg/5ml oral solution,Spironolactone,2.4mg/1ml,Oral solution,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+58225,Spironolactone 2.5mg/5ml oral suspension,Spironolactone,500microgram/1ml,Oral suspension,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+58757,Spironolactone 20mg/5ml oral suspension,Spironolactone,4mg/1ml,Oral suspension,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+60343,Spironolactone 25mg tablets (Kent Pharmaceuticals Ltd),Spironolactone,25mg,Tablet,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+60660,Spironolactone 3mg/5ml oral suspension,Spironolactone,600microgram/1ml,Oral suspension,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+53508,Spironolactone 5mg/5ml / Chlorothiazide 50mg/5ml oral suspension,Spironolactone/Chlorothiazide,1mg/1ml + 10mg/1ml,Oral suspension,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+4661,Spironolactone 50mg / Furosemide 20mg capsules,Spironolactone/Furosemide,50mg + 20mg,Capsule,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+7441,Lasilactone 20mg/50mg capsules (Sanofi),Spironolactone/Furosemide,50mg + 20mg,Capsule,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+1297,Aldactide 50 tablets (Pfizer Ltd),Spironolactone/Hydroflumethiazide,50mg + 50mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+2001,Aldactide 25 tablets (Pfizer Ltd),Spironolactone/Hydroflumethiazide,25mg + 25mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+11384,Co-flumactone 50mg/50mg tablets,Spironolactone/Hydroflumethiazide,50mg + 50mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+15811,Co-flumactone 25mg/25mg tablets,Spironolactone/Hydroflumethiazide,25mg + 25mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+25505,Spiro-co 50mg+50mg Tablet (IVAX Pharmaceuticals UK Ltd),Spironolactone/Hydroflumethiazide,50mg + 50mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics
+31131,Spiro-co 25mg+25mg Tablet (IVAX Pharmaceuticals UK Ltd),Spironolactone/Hydroflumethiazide,25mg + 25mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics
+14870,Telmisartan 40mg / Hydrochlorothiazide 12.5mg tablets,Telmisartan/Hydrochlorothiazide,40mg + 12.5mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic
+16161,Telmisartan 80mg / Hydrochlorothiazide 12.5mg tablets,Telmisartan/Hydrochlorothiazide,80mg + 12.5mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic
+17689,MicardisPlus 80mg/12.5mg tablets (Boehringer Ingelheim Ltd),Telmisartan/Hydrochlorothiazide,80mg + 12.5mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic
+18202,MicardisPlus 40mg/12.5mg tablets (Boehringer Ingelheim Ltd),Telmisartan/Hydrochlorothiazide,40mg + 12.5mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic
+12517,Timolol maleate with bendroflumethiazide 20mg + 5mg Tablet,Timolol Maleate,20mg + 5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+19142,Bendroflumethiazide 2.5mg with Timolol maleate 10mg tablets,Timolol Maleate,2.5mg + 10mg,Tablets,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+21025,Prestim forte Tablet (LEO Pharma),Timolol Maleate,,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+21182,Hydrochlorothiazide with timolol and amiloride 25mg with 10mg with 2.5mg Tablet,Timolol Maleate,25mg + 10mg + 2.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+25730,Timolol maleate with amiloride and hydrochlorothiazide Tablet,Timolol Maleate,,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+30519,Amiloride with timolol with hydrochlorothiazide tablets,Timolol Maleate,,Tablets,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+8623,Prestim Tablet (ICN Pharmaceuticals France S.A.),Timolol maleate/Bendroflumethiazide,10mg + 2.5mg,Tablet,Oral,02020100/02040000,Thiazides And Related Diuretics/Beta-adrenoceptor Blocking Drugs
+12651,Timolol 10mg / Bendroflumethiazide 2.5mg tablets,Timolol maleate/Bendroflumethiazide,10mg + 2.5mg,Tablet,Oral,2040100,Beta-adrenoceptor Blocking Drugs With Diuretic
+25363,Prestim tablets (Meda Pharmaceuticals Ltd),Timolol maleate/Bendroflumethiazide,10mg + 2.5mg,Tablet,Oral,2040100,Beta-adrenoceptor Blocking Drugs With Diuretic
+4605,Moducren tablets (Merck Sharp & Dohme Ltd),Timolol maleate/Hydrochlorothiazide/Amiloride hydrochloride,10mg + 25mg + 2.5mg,Tablet,Oral,0,Unknown
+8052,Torasemide 5mg tablets,Torasemide,5mg,Tablet,Oral,2020200,Loop Diuretics
+10066,Torem 5mg tablets (Meda Pharmaceuticals Ltd),Torasemide,5mg,Tablet,Oral,2020200,Loop Diuretics
+11268,Torem 2.5mg tablets (Meda Pharmaceuticals Ltd),Torasemide,2.5mg,Tablet,Oral,2020200,Loop Diuretics
+11487,Torasemide 2.5mg tablets,Torasemide,2.5mg,Tablet,Oral,2020200,Loop Diuretics
+18096,Torasemide 10mg tablets,Torasemide,10mg,Tablet,Oral,2020200,Loop Diuretics
+22658,Torem 10mg tablets (Meda Pharmaceuticals Ltd),Torasemide,10mg,Tablet,Oral,2020200,Loop Diuretics
+40190,Torasemide iv 20mg/4ml Intravenous injection,Torasemide,20mg/4ml,Intravenous Injection,,2020200,Loop Diuretics
+40738,Torem iv 10mg/2ml Intravenous injection (Boehringer Mannheim UK Ltd),Torasemide,10mg/2ml,Intravenous Injection,,2020200,Loop Diuretics
+40898,Torasemide 5mg tablets (A A H Pharmaceuticals Ltd),Torasemide,5mg,Tablet,Oral,2020200,Loop Diuretics
+46525,Torasemide 5mg tablets (Teva UK Ltd),Torasemide,5mg,Tablet,Oral,2020200,Loop Diuretics
+2179,Triamterene 50mg capsules,Triamterene,50mg,Capsule,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+3050,Furosemide with triamterene 40mgwith50mg Tablet,Triamterene,40mg + 50mg,Tablet,Oral,02020200/02020400,Loop Diuretics/Potassium-sparing Diuretics With Other Diuretics
+4068,Dytac 50mg capsules (AMCo),Triamterene,50mg,Capsule,Oral,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+9223,Triamterene with hydrochlorothiazide 50mg + 25mg Tablet,Triamterene,50mg + 25mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics
+15127,Hydrochlorothiazide with triamterene 25mgwith50mg Tablet,Triamterene,25mg+50mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics
+28157,Kalspare ls Tablet (Dominion Pharma),Triamterene,,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics
+37294,Triamterene with chlortalidone 50mg + 25mg Tablet,Triamterene,50mg + 25mg,Tablet,Oral,02020100/02020400,Thiazides And Related Diuretics/Potassium-sparing Diuretics With Other Diuretics
+7740,Triamterene 50mg / Benzthiazide 25mg capsules,Triamterene/Benzthiazide,50mg + 25mg,Capsule,Oral,0,Unknown
+7136,Dytide capsules (Mercury Pharma Group Ltd),Triamterene/Benzthiazide,50mg + 25mg,Capsule,Oral,0,Unknown
+2961,Frusene 50mg/40mg tablets (Orion Pharma (UK) Ltd),Triamterene/Furosemide,50mg + 40mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+11265,Triamterene 50mg / Furosemide 40mg tablets,Triamterene/Furosemide,50mg + 40mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+1721,Dyazide 50mg/25mg tablets (AMCo),Triamterene/Hydrochlorothiazide,50mg + 25mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+5416,Co-triamterzide 50mg/25mg tablets,Triamterene/Hydrochlorothiazide,50mg + 25mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+8897,Triam-Co 50mg/25mg tablets (IVAX Pharmaceuticals UK Ltd),Triamterene/Hydrochlorothiazide,50mg + 25mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+18726,Triamaxco 50mg/25mg tablets (Ashbourne Pharmaceuticals Ltd),Triamterene/Hydrochlorothiazide,50mg + 25mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+47804,Co-triamterzide 50mg/25mg tablets (A A H Pharmaceuticals Ltd),Triamterene/Hydrochlorothiazide,50mg + 25mg,Tablet,Oral,2020400,Potassium-sparing Diuretics With Other Diuretics
+23456,Hydrochlorothiazide with valsartan 25mg with 160mg Tablet,Valsartan,25mg + 160mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists
+24268,Hydrochlorothiazide with valsartan 12.5mg with 80mg Tablet,Valsartan,12.5mg + 80mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists
+24484,Hydrochlorothiazide with valsartan 12.5mg with 160mg Tablet,Valsartan,12.5mg + 160mg,Tablet,Oral,02020100/02050502,Thiazides And Related Diuretics/Angiotensin-ii Receptor Antagonists
+6877,Co-Diovan 160mg/12.5mg tablets (Novartis Pharmaceuticals UK Ltd),Valsartan/Hydrochlorothiazide,160mg + 12.5mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic
+11864,Valsartan 160mg / Hydrochlorothiazide 12.5mg tablets,Valsartan/Hydrochlorothiazide,160mg + 12.5mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic
+14283,Valsartan 160mg / Hydrochlorothiazide 25mg tablets,Valsartan/Hydrochlorothiazide,160mg + 25mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic
+25382,Co-Diovan 160mg/25mg tablets (Novartis Pharmaceuticals UK Ltd),Valsartan/Hydrochlorothiazide,160mg + 25mg,Tablet,Oral,2050504,Angiotensin-ii Receptor Antagonists With Diuretic
+4044,Diurexan 20mg tablets (Meda Pharmaceuticals Ltd),Xipamide,20mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+7618,Xipamide 20mg tablets,Xipamide,20mg,Tablet,Oral,2020100,Thiazides And Related Diuretics
+3962,TRIAMTERENE 50MG HYDROCHLOROTHIAZIDE25MG TAB,,,,,0,Unknown
+17721,ALDACTIDE 100MG TAB,,,,,0,Unknown
+20779,MODURETIC,,,,,0,Unknown
+20785,FRUMIL,,,,,0,Unknown
+27556,DYAZIDE,,,,,0,Unknown
+41889,TRIAMTERENE 50MG HYDROCHLOROTHIAZIDE25MG,,,,,0,Unknown
+48745,Timolol 10mg / Amiloride 2.5mg / Hydrochlorothiazide 25mg tablets,,,,,2040100,Beta-adrenoceptor Blocking Drugs With Diuretic
+49268,Furosemide 50mg/5ml oral suspension,,,,,2020200,Loop Diuretics
+49752,Metolazone 2.5mg/5ml oral solution,,,,,2020100,Thiazides And Related Diuretics
+51933,Spironolactone 50mg/5ml oral solution,,,,,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+51983,Furosemide 5mg/5ml oral suspension,,,,,2020200,Loop Diuretics
+52045,Furosemide 250mg/5ml solution for injection vials,,,,,2020200,Loop Diuretics
+52366,Spironolactone 5mg/5ml oral solution,,,,,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+54341,Chlorothiazide 5mg/5ml oral suspension,,,,,2020100,Thiazides And Related Diuretics
+55777,Metolazone 5mg/5ml oral solution,,,,,2020100,Thiazides And Related Diuretics
+56067,Spironolactone 4mg/5ml oral solution,,,,,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+56157,Perindopril tosilate 5mg / Indapamide 1.25mg tablets,,,,,02020100/02050501,Thiazides And Related Diuretics/Angiotensin-converting Enzyme Inhibitors
+56274,Spironolactone 4.5mg/5ml oral suspension,,,,,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+56536,Spironolactone 100mg/5ml oral solution,,,,,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+57933,Spironolactone 40mg/5ml oral suspension,,,,,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+58077,Spironolactone 8mg/5ml oral suspension,,,,,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists
+59834,Chlorothiazide 250mg/5ml oral solution,,,,,2020100,Thiazides And Related Diuretics
+59939,Furosemide 20mg/5ml oral suspension,,,,,2020200,Loop Diuretics
+61025,Spironolactone 20mg/5ml oral solution,,,,,2020300,Potassium-sparing Diuretics And Aldosterone Antagonists

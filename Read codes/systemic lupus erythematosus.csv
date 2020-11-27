@@ -1,9 +1,9 @@
-medcode,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
-7871,18199,1308,47,0,N000.00,Systemic lupus erythematosus,Feb-09
-20007,572,38,1,0,N000000,Disseminated lupus erythematosus,Feb-09
-57675,8,0,0,0,N000100,Libman-Sacks disease,Feb-09
-36942,33,0,0,0,N000200,Drug-induced systemic lupus erythematosus,Feb-09
-29519,122,11,2,0,N000300,Systemic lupus erythematosus with organ or sys involv,Feb-09
-11920,34,3,0,0,N000400,Systemic lupus erythematosus with pericarditis,Feb-09
-42719,327,4,0,0,N000z00,Systemic lupus erythematosus NOS,Feb-09
-58706,1,1,0,0,Nyu4300,[X]Other forms of systemic lupus erythematosus,Feb-09
+medcode,readcode,readterm,
+7871,N000.00,Systemic lupus erythematosus,
+20007,N000000,Disseminated lupus erythematosus,
+57675,N000100,Libman-Sacks disease,
+36942,N000200,Drug-induced systemic lupus erythematosus,
+29519,N000300,Systemic lupus erythematosus with organ or sys involv,
+11920,N000400,Systemic lupus erythematosus with pericarditis,
+42719,N000z00,Systemic lupus erythematosus NOS,
+58706,Nyu4300,[X]Other forms of systemic lupus erythematosus,

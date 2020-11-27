@@ -1,48 +1,48 @@
-medcode,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
-49787,7,0,0,0,G5y8.00,Rheumatoid myocarditis,Feb-09
-43816,24,0,0,0,G5yA.00,Rheumatoid carditis,Feb-09
-844,252941,20990,2610,0,N040.00,Rheumatoid arthritis,Feb-09
-44743,18,0,0,0,N040000,Rheumatoid arthritis of cervical spine,Feb-09
-44203,45,3,1,0,N040100,Other rheumatoid arthritis of spine,Feb-09
-21358,41,2,0,0,N040200,Rheumatoid arthritis of shoulder,Feb-09
-107963,1,0,0,0,N040300,Rheumatoid arthritis of sternoclavicular joint,Apr-14
-100914,4,0,0,0,N040400,Rheumatoid arthritis of acromioclavicular joint,Nov-10
-59738,29,0,0,0,N040500,Rheumatoid arthritis of elbow,Feb-09
-63365,3,0,0,0,N040600,Rheumatoid arthritis of distal radio-ulnar joint,Feb-09
-48832,106,0,0,0,N040700,Rheumatoid arthritis of wrist,Feb-09
-42299,66,3,0,0,N040800,Rheumatoid arthritis of MCP joint,Feb-09
-41941,43,1,0,0,N040900,Rheumatoid arthritis of PIP joint of finger,Feb-09
-63198,14,0,0,0,N040A00,Rheumatoid arthritis of DIP joint of finger,Feb-09
-49067,29,1,0,0,N040B00,Rheumatoid arthritis of hip,Feb-09
-100776,3,0,0,0,N040C00,Rheumatoid arthritis of sacro-iliac joint,Nov-10
-50863,133,3,0,0,N040D00,Rheumatoid arthritis of knee,Feb-09
-107791,1,0,0,0,N040E00,Rheumatoid arthritis of tibio-fibular joint,Mar-14
-51239,62,1,0,0,N040F00,Rheumatoid arthritis of ankle,Feb-09
-73619,7,0,0,0,N040G00,Rheumatoid arthritis of subtalar joint,Feb-09
-70658,6,0,0,0,N040H00,Rheumatoid arthritis of talonavicular joint,Feb-09
-71784,5,0,0,0,N040J00,Rheumatoid arthritis of other tarsal joint,Feb-09
-51238,15,0,0,0,N040K00,Rheumatoid arthritis of 1st MTP joint,Feb-09
-99414,4,0,0,0,N040L00,Rheumatoid arthritis of lesser MTP joint,May-10
-107112,6,0,0,0,N040M00,Rheumatoid arthritis of IP joint of toe,Oct-13
-30548,216,3,0,0,N040N00,Rheumatoid vasculitis,Feb-09
-6916,6236,216,0,0,N040P00,Seronegative rheumatoid arthritis,Feb-09
-18155,53,5,0,0,N040Q00,Rheumatoid bursitis,Feb-09
-53621,87,2,0,0,N040R00,Rheumatoid nodule,Feb-09
-31054,353,18,0,0,N040S00,Rheumatoid arthritis - multiple joint,Feb-09
-8350,4492,230,5,0,N040T00,Flare of rheumatoid arthritis,Feb-09
-23552,373,12,0,0,N041.00,Felty's syndrome,Feb-09
-49227,26,2,0,0,N042.00,Other rheumatoid arthropathy + visceral/systemic involvement,Feb-09
-46436,31,1,0,0,N042100,Rheumatoid lung disease,Feb-09
-5723,1907,176,3,0,N042200,Rheumatoid nodule,Feb-09
-37431,33,1,0,0,N042z00,Rheumatoid arthropathy + visceral/systemic involvement NOS,Feb-09
-9707,887,5,0,0,N047.00,Seropositive errosive rheumatoid arthritis,Feb-09
-12019,3542,77,0,0,N04X.00,"Seropositive rheumatoid arthritis, unspecified",Feb-09
-31724,108,11,0,0,N04y000,Rheumatoid lung,Feb-09
-56838,6,0,0,0,N04y011,Caplan's syndrome,Feb-09
-28853,293,9,0,0,N04y012,Fibrosing alveolitis associated with rheumatoid arthritis,Feb-09
-32001,141,1,0,0,N04y200,Adult-onset Still's disease,Feb-09
-24747,2284,81,0,0,N04z.00,Inflammatory polyarthropathy NOS,Feb-09
-106440,1,0,0,0,Nyu1000,[X]Rheumatoid arthritis+involvement/other organs or systems,Jun-13
-93715,16,0,0,0,Nyu1100,[X]Other seropositive rheumatoid arthritis,Feb-09
-70221,25,0,0,0,Nyu1200,[X]Other specified rheumatoid arthritis,Feb-09
-56202,32,1,0,0,Nyu1G00,"[X]Seropositive rheumatoid arthritis, unspecified",Feb-09
+medcode,readcode,readterm,
+49787,G5y8.00,Rheumatoid myocarditis,
+43816,G5yA.00,Rheumatoid carditis,
+844,N040.00,Rheumatoid arthritis,
+44743,N040000,Rheumatoid arthritis of cervical spine,
+44203,N040100,Other rheumatoid arthritis of spine,
+21358,N040200,Rheumatoid arthritis of shoulder,
+107963,N040300,Rheumatoid arthritis of sternoclavicular joint,
+100914,N040400,Rheumatoid arthritis of acromioclavicular joint,
+59738,N040500,Rheumatoid arthritis of elbow,
+63365,N040600,Rheumatoid arthritis of distal radio-ulnar joint,
+48832,N040700,Rheumatoid arthritis of wrist,
+42299,N040800,Rheumatoid arthritis of MCP joint,
+41941,N040900,Rheumatoid arthritis of PIP joint of finger,
+63198,N040A00,Rheumatoid arthritis of DIP joint of finger,
+49067,N040B00,Rheumatoid arthritis of hip,
+100776,N040C00,Rheumatoid arthritis of sacro-iliac joint,
+50863,N040D00,Rheumatoid arthritis of knee,
+107791,N040E00,Rheumatoid arthritis of tibio-fibular joint,
+51239,N040F00,Rheumatoid arthritis of ankle,
+73619,N040G00,Rheumatoid arthritis of subtalar joint,
+70658,N040H00,Rheumatoid arthritis of talonavicular joint,
+71784,N040J00,Rheumatoid arthritis of other tarsal joint,
+51238,N040K00,Rheumatoid arthritis of 1st MTP joint,
+99414,N040L00,Rheumatoid arthritis of lesser MTP joint,
+107112,N040M00,Rheumatoid arthritis of IP joint of toe,
+30548,N040N00,Rheumatoid vasculitis,
+6916,N040P00,Seronegative rheumatoid arthritis,
+18155,N040Q00,Rheumatoid bursitis,
+53621,N040R00,Rheumatoid nodule,
+31054,N040S00,Rheumatoid arthritis - multiple joint,
+8350,N040T00,Flare of rheumatoid arthritis,
+23552,N041.00,Felty's syndrome,
+49227,N042.00,Other rheumatoid arthropathy + visceral/systemic involvement,
+46436,N042100,Rheumatoid lung disease,
+5723,N042200,Rheumatoid nodule,
+37431,N042z00,Rheumatoid arthropathy + visceral/systemic involvement NOS,
+9707,N047.00,Seropositive errosive rheumatoid arthritis,
+12019,N04X.00,"Seropositive rheumatoid arthritis, unspecified",
+31724,N04y000,Rheumatoid lung,
+56838,N04y011,Caplan's syndrome,
+28853,N04y012,Fibrosing alveolitis associated with rheumatoid arthritis,
+32001,N04y200,Adult-onset Still's disease,
+24747,N04z.00,Inflammatory polyarthropathy NOS,
+106440,Nyu1000,[X]Rheumatoid arthritis+involvement/other organs or systems,
+93715,Nyu1100,[X]Other seropositive rheumatoid arthritis,
+70221,Nyu1200,[X]Other specified rheumatoid arthritis,
+56202,Nyu1G00,"[X]Seropositive rheumatoid arthritis, unspecified",

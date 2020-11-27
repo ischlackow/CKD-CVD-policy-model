@@ -1,437 +1,437 @@
-prodcode,therapyevents,gemscriptcode,productname,drugsubstancename,substancestrength,formulation,routeofadministration,bnfcode,bnfheader,databasebuild
-28586,9657,88107020,Lopace 5mg capsules (Discovery Pharmaceuticals),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-15121,536,80674020,Moexipril 7.5mg tablets,Moexipril hydrochloride,7.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-33977,1111,65098020,Lisinopril 10mg tablets (Mylan Ltd),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-42908,54,61247020,Enalapril 5mg tablets (IVAX Pharmaceuticals UK Ltd),Enalapril maleate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jul-10
-52407,1,1585020,Ramipril 10mg capsules (Kent Pharmaceuticals Ltd),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jan-13
-709,4998044,72675020,Ramipril 2.5mg capsules,Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-34768,181,61253020,Enalapril 20mg tablets (IVAX Pharmaceuticals UK Ltd),Enalapril maleate,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-57658,0,67312020,Ramipril 1.25mg tablets (A A H Pharmaceuticals Ltd),Ramipril,1.25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Oct-13
-48214,0,76375020,Perindopril erbumine 4mg tablets (Actavis UK Ltd),Perindopril erbumine,4mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Dec-12
-59972,0,1543020,Perindopril erbumine 2mg tablets (Alliance Healthcare (Distribution) Ltd),Perindopril erbumine,2mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,May-14
-47998,0,68974020,Ramipril 2.5mg capsules (Actavis UK Ltd),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Nov-12
-20188,51,60798020,Enalapril 2.5mg wafer,Enalapril Maleate,2.5mg,Wafer,,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-52399,0,1564020,Ramipril 1.25mg capsules (Kent Pharmaceuticals Ltd),Ramipril,1.25mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jan-13
-56850,2,84385020,Ecopace 12.5mg tablets (AMCo),Captopril,12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Aug-13
-11983,1807,90557020,Perindopril erbumine 4mg/5ml oral suspension,Perindopril erbumine,800microgram/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-5800,68562,72569020,Coversyl 4mg tablets (Servier Laboratories Ltd),Perindopril erbumine,4mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-45337,1,65231020,Lisinopril 5mg tablets (Actavis UK Ltd),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,May-11
-13589,24462,74175020,Staril 20mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Fosinopril sodium,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-56505,163,1458020,Zestril 5mg tablets (Lexon (UK) Ltd),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Aug-13
-34544,7,56638020,Captopril 12.5mg Tablet (IVAX Pharmaceuticals UK Ltd),Captopril,12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-21231,6,87820020,Caralpha 20mg/12.5mg tablets (Actavis UK Ltd),Lisinopril/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-38308,5422,95107020,Ramipril 2.5/5mg/10mg tablet,Ramipril,2.5mg + 5mg + 10mg,Tablets,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-26995,344,84491020,Kaplon 25mg tablets (Teva UK Ltd),Captopril,25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-34382,9,67206020,Ramipril 5mg capsules (Zentiva),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-61270,0,45151020,Perindopril erbumine 4mg tablets (Accord Healthcare Ltd),Perindopril erbumine,4mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Sep-14
-14960,3700,83699020,Coversyl 8mg tablets (Servier Laboratories Ltd),Perindopril erbumine,8mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-19690,6736,85865020,Verapamil 180mg modified-release / Trandolapril 2mg capsules,Verapamil hydrochloride/Trandolapril,180mg + 2mg,Modified-release capsule,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,Feb-09
-34453,90,61301020,Enalapril 20mg tablets (Mylan Ltd),Enalapril maleate,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-58294,0,1461020,Lisinopril 5mg tablets (Accord Healthcare Ltd),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Dec-13
-15096,3030,75604020,Accupro 40mg tablets (Pfizer Ltd),Quinapril hydrochloride,40mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-3310,66056,48565020,Capoten 12.5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Captopril,12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-46975,1,65137020,Lisinopril 5mg tablets (Sandoz Ltd),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Mar-12
-654,23384,80174020,Ramipril 2.5/5mg/10mg capsule,Ramipril,2.5mg + 5mg + 10mg,Capsules,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-45264,2,68971020,Ramipril 1.25mg capsules (Actavis UK Ltd),Ramipril,1.25mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,May-11
-65273,0,76557020,Perindopril erbumine 4mg tablets (Mylan Ltd),Perindopril erbumine,4mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jan-16
-51807,2,38770020,Coversyl Arginine 5mg tablets (DE Pharmaceuticals),Perindopril arginine,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jan-13
-37930,9220,94699020,Perindopril arginine 5mg tablets,Perindopril arginine,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-34652,5,67455020,Ramipril 5mg Capsule (Sovereign Medical Ltd),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-16708,144,60797020,Enalapril titration pack,Enalapril Maleate,,Titration Pack,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-8106,26735,55119020,Innovace 2.5mg tablets (Merck Sharp & Dohme Ltd),Enalapril maleate,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-41417,156,60324020,Enalapril 2.5mg tablets (A A H Pharmaceuticals Ltd),Enalapril maleate,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Mar-10
-43563,1,61391020,Enalapril 2.5mg tablets (Zentiva),Enalapril maleate,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Sep-10
-61133,0,1425020,Enalapril 10mg tablets (Phoenix Healthcare Distribution Ltd),Enalapril maleate,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Sep-14
-23252,39,73042020,Pralenal 10 tablets (Opus Pharmaceuticals Ltd),Enalapril maleate,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-54986,62,35397020,Perindopril erbumine 8mg/5ml oral suspension,,,,,2050501,Angiotensin-converting Enzyme Inhibitors,May-13
-59770,0,15619021,Perindopril erbumine 4mg tablets (Aurobindo Pharma Ltd),Perindopril erbumine,4mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,May-14
-27871,81,86081020,Innovace melt 10mg Wafer (Merck Sharp & Dohme Ltd),Enalapril Maleate,10mg,Wafer,,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-30921,80,64809020,Lisinopril 2.5mg tablets (Teva UK Ltd),Lisinopril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-56510,54,1481020,Zestril 20mg tablets (Sigma Pharmaceuticals Plc),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Aug-13
-8105,83955,58451020,Innovace 20mg tablets (Merck Sharp & Dohme Ltd),Enalapril maleate,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-34400,40,55722020,Enalapril 5mg Tablet (Dowelhurst Ltd),Enalapril maleate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-62860,0,21324021,Enalapril 5mg tablets (DE Pharmaceuticals),Enalapril maleate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Apr-15
-21943,146,84490020,Kaplon 12.5mg tablets (Teva UK Ltd),Captopril,12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-36742,14,93652020,Captopril 2mg/5ml oral suspension,Captopril,2mg/5ml,Oral Suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-29627,7007,88105020,Lopace 2.5mg capsules (Discovery Pharmaceuticals),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-22439,4,83449020,Ednyt 20mg Tablet (Dominion Pharma),Enalapril maleate,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-5275,22391,72670020,Tritace 2.5mg capsules (Sanofi),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-43413,586,65206020,Lisinopril 20mg tablets (A A H Pharmaceuticals Ltd),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Sep-10
-49164,0,1588020,Ramipril 10mg capsules (Actavis UK Ltd),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jan-13
-57333,37,47942020,Perindopril tosilate 5mg tablets,Perindopril tosilate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Oct-13
-34798,31,61362020,Enalapril 20mg tablets (Sandoz Ltd),Enalapril maleate,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-61694,0,67907020,Ramipril 5mg tablets (Zentiva),Ramipril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Nov-14
-52010,0,1418020,Enalapril 10mg tablets (Alliance Healthcare (Distribution) Ltd),Enalapril maleate,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jan-13
-54544,28,19241020,Captopril 25mg/5ml oral suspension,Captopril,5mg/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Apr-13
-8268,85729,68567020,Zestril 20mg tablets (AstraZeneca UK Ltd),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-53915,0,61780020,Enalapril 5mg tablets (Dexcel-Pharma Ltd),Enalapril maleate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-13
-31810,4,68138020,Odrik 1mg capsules (Aventis Pharma),Trandolapril,1mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-16196,3650,55291020,Vascace 5mg tablets (Roche Products Ltd),Cilazapril monohydrate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-60823,33,21648021,Noyada 5mg/5ml oral solution (Martindale Pharmaceuticals Ltd),,,,,2050501,Angiotensin-converting Enzyme Inhibitors,Aug-14
-34953,4,61397020,Enalapril 20mg tablets (Zentiva),Enalapril maleate,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-1121,595935,60377020,Captopril 12.5mg tablets,Captopril,12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-34937,16,56640020,Captopril 50mg Tablet (IVAX Pharmaceuticals UK Ltd),Captopril,50mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-31587,16,86077020,Innovace melt 20mg Wafer (Merck Sharp & Dohme Ltd),Enalapril Maleate,20mg,Wafer,,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-11937,3544,90539020,Ramipril 2.5mg/5ml oral suspension,Ramipril,500microgram/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-3839,41689,48567020,Capoten 50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Captopril,50mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-3720,54614,68562020,Zestril 2.5mg tablets (AstraZeneca UK Ltd),Lisinopril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-48049,16,76554020,Perindopril erbumine 2mg tablets (Mylan Ltd),Perindopril erbumine,2mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Nov-12
-41573,848,65180020,Lisopress 10mg tablets (Teva UK Ltd),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Mar-10
-56855,0,1590020,Ramipril 10mg capsules (Sigma Pharmaceuticals Plc),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Aug-13
-58874,0,1550020,Perindopril erbumine 2mg tablets (Somex Pharma),Perindopril erbumine,2mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-14
-53058,0,40612020,Perindopril erbumine 8mg tablets (Sandoz Ltd),Perindopril erbumine,8mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jan-13
-11567,7933,81446020,Ramipril 5mg with felodipine 5mg modified-release tablet,Felodipine/Ramipril,5mg + 5mg,Modified Release Tablet,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,Feb-09
-9915,14992,87063020,Tritace 10mg tablets (Sanofi),Ramipril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-32241,178,60326020,Enalapril 10mg tablets (A A H Pharmaceuticals Ltd),Enalapril maleate,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-46974,7,61297020,Enalapril 5mg tablets (Mylan Ltd),Enalapril maleate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Mar-12
-34390,16,67186020,Ramipril 5mg capsules (Genus Pharmaceuticals Ltd),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-37655,72,59733020,Captopril 25mg tablets (Teva UK Ltd),Captopril,25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-60143,0,38499020,Enalapril 5mg tablets (Medreich Plc),Enalapril maleate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jun-14
-34412,755,67140020,Ramipril 5mg capsules (Teva UK Ltd),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-41694,55,61246020,Enalapril 2.5mg tablets (IVAX Pharmaceuticals UK Ltd),Enalapril maleate,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Mar-10
-56129,0,1578020,Ramipril 5mg capsules (Kent Pharmaceuticals Ltd),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Aug-13
-43416,825,65202020,Lisinopril 10mg tablets (A A H Pharmaceuticals Ltd),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Sep-10
-41633,19,56801020,Captopril 12.5mg tablets (Actavis UK Ltd),Captopril,12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Mar-10
-12313,19986,68559020,Carace 20mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-59111,0,1473020,Lisinopril 20mg tablets (Alliance Healthcare (Distribution) Ltd),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Mar-14
-17120,1263,80675020,Moexipril 15mg tablets,Moexipril hydrochloride,15mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-34657,29,67209020,Ramipril 10mg capsules (Zentiva),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-42081,19,87446020,Tritace 1.25mg Tablet (Sterwin Medicines),Ramipril,1.25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Apr-10
-55896,1,65227020,Lisinopril 2.5mg tablets (Actavis UK Ltd),Lisinopril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Aug-13
-32514,1,84386020,Ecopace 25mg tablets (AMCo),Captopril,25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-60757,0,75136020,Trandolapril 500microgram capsules (Teva UK Ltd),Trandolapril,500microgram,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Aug-14
-57073,0,47143020,Ramipril 1.25mg capsules (Waymade Healthcare Plc),Ramipril,1.25mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Sep-13
-58843,0,1542020,Perindopril erbumine 2mg tablets (Kent Pharmaceuticals Ltd),Perindopril erbumine,2mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-14
-45816,77,71542020,Lisinopril 5mg tablets (Almus Pharmaceuticals Ltd),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Aug-11
-56162,0,1556020,Perindopril erbumine 4mg tablets (Consilient Health Ltd),Perindopril erbumine,4mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Aug-13
-41522,1129,65183020,Lisopress 20mg tablets (Teva UK Ltd),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Mar-10
-43566,8,65134020,Lisinopril 2.5mg tablets (Sandoz Ltd),Lisinopril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Sep-10
-54620,0,1575020,Ramipril 2.5mg capsules (Sigma Pharmaceuticals Plc),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Apr-13
-22708,1250,77941020,Enalapril 5mg wafer,Enalapril Maleate,5mg,Wafer,,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-6408,709,81266020,Tanatril 5mg tablets (Chiesi Ltd),Imidapril hydrochloride,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-37087,990,94156020,Enalapril 5mg/5ml oral suspension,Enalapril maleate,1mg/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-39421,857,95113020,Tritace titration pack tablets (Sanofi),,,Not applicable,Route of administration not applicable,2050501,Angiotensin-converting Enzyme Inhibitors,Apr-09
-60744,37,22980021,Perindopril erbumine 8mg / Amlodipine 5mg tablets,,,,,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,Aug-14
-30039,54,84463020,Tensopril 25mg tablets (Teva UK Ltd),Captopril,25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-14478,10298,69845020,Accupro 20mg tablets (Pfizer Ltd),Quinapril hydrochloride,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-196,1523829,60791020,Enalapril 5mg tablets,Enalapril maleate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-56148,0,10683020,Ramipril 1.25mg tablets (Kent Pharmaceuticals Ltd),Ramipril,1.25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Aug-13
-34712,0,63374020,Enalapril 20mg tablets (Kent Pharmaceuticals Ltd),Enalapril maleate,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-43507,21,56634020,Captopril 25mg Tablet (Generics (UK) Ltd),Captopril,25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Sep-10
-35794,1,60325020,Enalapril 5mg tablets (A A H Pharmaceuticals Ltd),Enalapril maleate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-52197,0,1582020,Ramipril 5mg capsules (Sigma Pharmaceuticals Plc),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jan-13
-17624,2301,88718020,Captopril 5mg/5ml oral suspension,Captopril,1mg/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-50863,12,19819020,Enalapril 5mg/5ml oral solution (Drug Tariff Special Order),Enalapril maleate,1mg/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jan-13
-633,161720,74178020,Fosinopril 10mg tablets,Fosinopril sodium,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-64877,2,61779020,Enalapril 2.5mg tablets (Dexcel-Pharma Ltd),Enalapril maleate,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Dec-15
-6364,7294,87059020,Tritace 2.5mg tablets (Sanofi),Ramipril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-52293,15,20854020,Captopril 2mg capsules,Captopril,2mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jan-13
-18223,699,85883020,Trandolapril with verapamil 2mg + 180mg Modified-release capsule,Verapamil Hydrochloride/Trandolapril,2mg + 180mg,Modified-release Capsule,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,Feb-09
-9646,14591,72669020,Tritace 1.25mg capsules (Aventis Pharma),Ramipril,1.25mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-45938,57,75040020,Perindopril erbumine 8mg tablets (Teva UK Ltd),Perindopril erbumine,8mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Aug-11
-43418,824,65199020,Lisinopril 5mg tablets (A A H Pharmaceuticals Ltd),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Sep-10
-11197,40,86080020,Innovace melt 5mg Wafer (Merck Sharp & Dohme Ltd),Enalapril Maleate,5mg,Wafer,,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-14387,26028,68555020,Carace 5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-19198,740,64822020,Lisinopril 20mg tablets (Teva UK Ltd),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-56473,2819,1546020,Perindopril erbumine 2mg tablets (Sigma Pharmaceuticals Plc),Perindopril erbumine,2mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Aug-13
-29530,18,86079020,Innovace melt 2.5mg Wafer (Merck Sharp & Dohme Ltd),Enalapril Maleate,2.5mg,Wafer,,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-20975,138,90115020,Lisinopril 7.5mg/5ml oral suspension,Lisinopril,1.5mg/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-65,4285235,68572020,Lisinopril 10mg tablets,Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-58461,6,1437020,Lisinopril 2.5mg tablets (Kent Pharmaceuticals Ltd),Lisinopril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Dec-13
-28438,53,85815020,Triapin 2.5mg/2.5mg modified-release tablets (Sanofi),Felodipine/Ramipril,2.5mg + 2.5mg,Modified-release tablet,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,Feb-09
-55299,0,67297020,Ramipril 1.25mg capsules (A A H Pharmaceuticals Ltd),Ramipril,1.25mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,May-13
-11987,3001,88326020,Lisinopril 5mg/5ml oral solution,Lisinopril,1mg/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-34936,54,56686020,Captopril 25mg Tablet (Lagap),Captopril,25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-18269,12243,52608020,Acepril 12.5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Captopril,12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-56472,3923,1554020,Perindopril erbumine 4mg tablets (Kent Pharmaceuticals Ltd),Perindopril erbumine,4mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Aug-13
-43411,580,61356020,Enalapril 5mg tablets (Sandoz Ltd),Enalapril maleate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Sep-10
-42894,105,61262020,Enalapril 10mg tablets (Teva UK Ltd),Enalapril maleate,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jul-10
-82,7938111,70737020,Ramipril 10mg capsules,Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-59603,4,1577020,Ramipril 2.5mg capsules (Phoenix Healthcare Distribution Ltd),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Apr-14
-54288,0,69238020,Lisinopril 10mg tablets (Arrow Generics Ltd),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Mar-13
-24041,131,77943020,Enalapril 20mg wafer,Enalapril Maleate,20mg,Wafer,,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-147,2008419,72674020,Ramipril 1.25mg capsules,Ramipril,1.25mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-4571,40882,74174020,Staril 10mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Fosinopril sodium,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-58195,23,19216020,Captopril 12.5mg/5ml oral solution,Captopril,2.5mg/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Dec-13
-7419,31205,69080020,Trandolapril 500microgram capsules,Trandolapril,500microgram,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-6807,114929,68563020,Zestril 5mg tablets (AstraZeneca UK Ltd),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-60349,47,21646021,Noyada 25mg/5ml oral solution (Martindale Pharmaceuticals Ltd),Captopril,5mg/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jul-14
-59996,0,1435020,Enalapril 20mg tablets (Milpharm Ltd),Enalapril maleate,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,May-14
-16710,3727,71438020,Gopten 500microgram capsules (Abbott Laboratories Ltd),Trandolapril,500microgram,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-60010,0,1462020,Lisinopril 10mg tablets (Kent Pharmaceuticals Ltd),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,May-14
-45300,64,65236020,Lisinopril 10mg tablets (Actavis UK Ltd),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,May-11
-58258,39,20373020,Lisinopril 2.5mg/5ml oral suspension,Lisinopril,500microgram/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Dec-13
-34732,2,67512020,Ramipril 2.5mg Capsule (Dexcel-Pharma Ltd),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-43649,19,56644020,Captopril 25mg tablets (A A H Pharmaceuticals Ltd),Captopril,25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Oct-10
-61499,0,73468020,Ramipril 2.5mg tablets (Actavis UK Ltd),Ramipril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Oct-14
-46951,7,56643020,Captopril 12.5mg tablets (A A H Pharmaceuticals Ltd),Captopril,12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Mar-12
-65102,0,1469020,Lisinopril 10mg tablets (Sigma Pharmaceuticals Plc),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jan-16
-64739,3,19240020,Captopril 25mg/5ml oral solution (Special Order),Captopril,5mg/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Nov-15
-24482,18,85703020,Captomex 50mg tablets (Actavis UK Ltd),Captopril,50mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-6765,49798,69848020,Quinapril 5mg tablets,Quinapril hydrochloride,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-34540,49,67305020,Ramipril 5mg capsules (A A H Pharmaceuticals Ltd),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-7314,11871,69843020,Accupro 5mg tablets (Pfizer Ltd),Quinapril hydrochloride,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-1904,2022453,60796020,Enalapril 20mg tablets,Enalapril maleate,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-11965,1306,81445020,Ramipril 2.5mg with felodipine 2.5mg modified-release tablet,Felodipine/Ramipril,2.5mg + 2.5mg,Modified Release Tablet,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,Feb-09
-45340,2,68982020,Ramipril 10mg Capsule (Actavis UK Ltd),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,May-11
-29130,896,87608020,Gopten 4mg capsules (Abbott Laboratories Ltd),Trandolapril,4mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-61292,0,68165020,Quinapril 40mg tablets (Mylan Ltd),Quinapril hydrochloride,40mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Oct-14
-56509,217,1375020,Capoten 12.5mg tablets (Dowelhurst Ltd),Captopril,12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Aug-13
-41743,24,59737020,Captopril 50mg tablets (Teva UK Ltd),Captopril,50mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Mar-10
-6806,113379,68564020,Zestril 10mg tablets (AstraZeneca UK Ltd),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-8830,112773,55121020,Innovace 10mg tablets (Merck Sharp & Dohme Ltd),Enalapril maleate,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-46957,5,59293020,Captopril 12.5mg tablets (Tillomed Laboratories Ltd),Captopril,12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Mar-12
-55639,14,1472020,Lisinopril 10mg tablets (Accord Healthcare Ltd),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jun-13
-33057,1,75030020,Ednyt 5mg Tablet (Dominion Pharma),Enalapril maleate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-15605,309,49385020,Cilazapril 250micrograms tablets,Cilazapril,250micrograms,Tablets,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-50509,22,20723020,Ramipril 10mg/5ml oral solution,Ramipril,2mg/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jan-13
-9693,4958,55352020,Tritace 10mg capsules (Sanofi),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-4103,72693,69081020,Trandolapril 1mg capsules,Trandolapril,1mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-448,548848,60790020,Enalapril 2.5mg tablets,Enalapril maleate,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-51433,0,66292020,Lisinopril 20mg tablets (Tillomed Laboratories Ltd),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jan-13
-47159,31,71545020,Lisinopril 10mg tablets (Almus Pharmaceuticals Ltd),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,May-12
-60065,0,1557020,Perindopril erbumine 4mg tablets (Sigma Pharmaceuticals Plc),Perindopril erbumine,4mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,May-14
-57235,0,74497020,Ramipril 1.25mg tablets (Sandoz Ltd),Ramipril,1.25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Sep-13
-17633,836,87231020,Captopril 3mg/5ml oral solution,Captopril,3mg/5ml,Oral Liquid,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-12574,10126,49387020,Cilazapril 1mg tablets,Cilazapril monohydrate,1mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-14477,13795,69844020,Accupro 10mg tablets (Pfizer Ltd),Quinapril hydrochloride,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-43432,16,92446020,Captopril 6.25mg tablets,Captopril,6.25mg,Tablets,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Sep-10
-97,3204428,72573020,Perindopril erbumine 4mg tablets,Perindopril erbumine,4mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-80,6003016,72676020,Ramipril 5mg capsules,Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-8800,91823,55120020,Innovace 5mg tablets (Merck Sharp & Dohme Ltd),Enalapril maleate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-34719,21,56635020,Captopril 50mg Tablet (Generics (UK) Ltd),Captopril,50mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-12815,1391,81267020,Tanatril 10mg tablets (Chiesi Ltd),Imidapril hydrochloride,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-35302,194,91890020,Captopril 12.5mg/5ml oral suspension,Captopril,2.5mg/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-34431,46,67203020,Ramipril 2.5mg capsules (Zentiva),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-52499,133,19239020,Captopril 25mg/5ml oral solution,Captopril,5mg/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jan-13
-38510,2,74776020,Perindopril erbumine 4mg tablets (Apotex UK Ltd),Perindopril erbumine,4mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-20849,3,84462020,Tensopril 12.5mg tablets (Teva UK Ltd),Captopril,12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-39227,67,95527020,Capozide LS 12.5mg/25mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Hydrochlorothiazide/Captopril,12.5mg + 25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Apr-09
-56279,5,20371020,Lisinopril 2.5mg/5ml oral solution,Lisinopril,500microgram/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Aug-13
-34799,24,65220020,Lisinopril 20mg tablets (Zentiva),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-28486,214,89909020,Captopril 6.25mg/5ml oral suspension,Captopril,1.25mg/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-57801,0,1558020,Perindopril erbumine 4mg tablets (Glenmark Generics (Europe) Ltd),Perindopril erbumine,4mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Dec-13
-59109,0,66285020,Lisinopril 5mg tablets (Tillomed Laboratories Ltd),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Mar-14
-45217,74,63368020,Enalapril 5mg tablets (Kent Pharmaceuticals Ltd),Enalapril maleate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,May-11
-15031,4227,74293020,Accuretic 12.5mg/10mg tablets (Pfizer Ltd),Hydrochlorothiazide/Quinapril hydrochloride,12.5mg + 10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-5612,54577,72568020,Coversyl 2mg tablets (Servier Laboratories Ltd),Perindopril erbumine,2mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-41538,136,65173020,Lisopress 2.5mg tablets (Teva UK Ltd),Lisinopril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Mar-10
-63559,0,1474020,Lisinopril 20mg tablets (Kent Pharmaceuticals Ltd),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jul-15
-28127,33,61260020,Enalapril 2.5mg tablets (Teva UK Ltd),Enalapril maleate,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-55798,0,47145020,Ramipril 5mg capsules (Waymade Healthcare Plc),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jun-13
-56079,81,47933020,Perindopril tosilate 10mg tablets,,,,,2050501,Angiotensin-converting Enzyme Inhibitors,Aug-13
-56516,2,75649020,Perindopril erbumine 2mg tablets (Sandoz Ltd),Perindopril erbumine,2mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Aug-13
-45554,373,99318020,Ramipril 5mg/5ml oral solution,Ramipril,1mg/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jun-11
-16924,9167,81181020,Imidapril 5mg tablets,Imidapril hydrochloride,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-6078,1515358,79311020,Perindopril erbumine 8mg tablets,Perindopril erbumine,8mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-31716,10,61347020,Enalapril 20mg tablets (Actavis UK Ltd),Enalapril maleate,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-23642,112,50587020,Vascace 0.25mg Tablet (Roche Products Ltd),Cilazapril,0.25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-57048,0,65217020,Lisinopril 10mg tablets (Zentiva),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Sep-13
-49491,0,1545020,Perindopril erbumine 2mg tablets (Consilient Health Ltd),Perindopril erbumine,2mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jan-13
-37080,809,94154020,Enalapril 5mg/5ml oral solution,Enalapril maleate,1mg/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-12412,12654,54164020,Cilazapril 2.5mg tablets,Cilazapril monohydrate,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-37971,7306,94701020,Perindopril arginine 10mg tablets,Perindopril Arginine,10mg,Tablets,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-41532,513,65176020,Lisopress 5mg tablets (Teva UK Ltd),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Mar-10
-58863,0,1471020,Lisinopril 10mg tablets (Phoenix Healthcare Distribution Ltd),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-14
-57701,1,76377020,Perindopril erbumine 8mg tablets (Actavis UK Ltd),Perindopril erbumine,8mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Oct-13
-58871,1,14472021,Lisinopril 10mg tablets (Waymade Healthcare Plc),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-14
-33811,1,69974020,Ramipril 2.5mg capsules (Ranbaxy (UK) Ltd),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-64055,6,47865020,Ramipril 2.5mg/5ml oral solution sugar free (Waymade Healthcare Plc),Ramipril,500microgram/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Aug-15
-32857,151,67125020,Ramipril 1.25mg capsules (Teva UK Ltd),Ramipril,1.25mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-62564,2,20367020,Lisinopril 10mg/5ml oral solution,Lisinopril,2mg/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Mar-15
-78,3637936,68571020,Lisinopril 5mg tablets,Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-38034,2555,94703020,Coversyl Arginine 2.5mg tablets (Servier Laboratories Ltd),Perindopril arginine,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-54037,0,1467020,Lisinopril 10mg tablets (Relonchem Ltd),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Mar-13
-28725,96,80672020,Perdix 15mg tablets (UCB Pharma Ltd),Moexipril hydrochloride,15mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-16701,25580,68556020,Carace 10mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-42902,77,61266020,Enalapril 20mg tablets (Teva UK Ltd),Enalapril maleate,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jul-10
-52882,16,40203020,Enalapril 5mg/5ml oral suspension sugar free,Enalapril maleate,1mg/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jan-13
-60232,0,65214020,Lisinopril 5mg tablets (Zentiva),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jun-14
-51701,0,1583020,Ramipril 5mg capsules (Bristol Laboratories Ltd),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jan-13
-54298,0,70068020,Ramipril 2.5mg capsules (Arrow Generics Ltd),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Mar-13
-54512,0,91738020,Lisinopril Oral solution,Lisinopril,,Oral Solution,,2050501,Angiotensin-converting Enzyme Inhibitors,Apr-13
-56763,0,1592020,Ramipril 10mg capsules (Phoenix Healthcare Distribution Ltd),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Aug-13
-61693,0,15724021,Perindopril erbumine 8mg tablets (Aurobindo Pharma Ltd),Perindopril erbumine,8mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Nov-14
-54941,0,1579020,Ramipril 5mg capsules (Alliance Healthcare (Distribution) Ltd),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,May-13
-34357,27,67189020,Ramipril 10mg capsules (Genus Pharmaceuticals Ltd),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-5735,29700,72671020,Tritace 5mg capsules (Sanofi),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-33095,82,73493020,Perindopril erbumine 4mg tablets (A A H Pharmaceuticals Ltd),Perindopril erbumine,4mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-45324,31,65239020,Lisinopril 20mg tablets (Actavis UK Ltd),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,May-11
-59699,192,21647021,Captopril 5mg/5ml oral solution sugar free,,,,,2050501,Angiotensin-converting Enzyme Inhibitors,Apr-14
-46365,3,89048020,Quinil 20mg tablets (Tillomed Laboratories Ltd),Quinapril hydrochloride,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Oct-11
-9948,53199,87606020,Trandolapril 4mg capsules,Trandolapril,4mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-43012,9,91957020,Perindopril erbumine oral solution,Perindopril Erbumine,,Oral Liquid,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jul-10
-50347,0,34964020,Coversyl Arginine 5mg tablets (Waymade Healthcare Plc),Perindopril arginine,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jan-13
-53551,0,1484020,Lisinopril 20mg tablets (Phoenix Healthcare Distribution Ltd),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jan-13
-60067,34,22976021,Perindopril erbumine 4mg / Amlodipine 5mg tablets,Perindopril erbumine/Amlodipine besilate,4mg + 5mg,Tablet,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,May-14
-34893,10,68264020,Ramipril 10mg Capsule (IVAX Pharmaceuticals UK Ltd),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-63322,0,71478020,Enalapril 10mg tablets (Almus Pharmaceuticals Ltd),Enalapril maleate,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jun-15
-33646,9,56633020,Captopril 12.5mg Tablet (Generics (UK) Ltd),Captopril,12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-34471,26,65081020,Lisinopril 5mg tablets (Mylan Ltd),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-15108,9762,74296020,Quinapril 10mg / Hydrochlorothiazide 12.5mg tablets,Hydrochlorothiazide/Quinapril hydrochloride,12.5mg + 10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-35731,22,73496020,Perindopril erbumine 8mg tablets (A A H Pharmaceuticals Ltd),Perindopril erbumine,8mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-51714,0,1572020,Ramipril 2.5mg capsules (Alliance Healthcare (Distribution) Ltd),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jan-13
-63824,1,20369020,Lisinopril 10mg/5ml oral suspension,Lisinopril,2mg/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jul-15
-3929,81448,69849020,Quinapril 10mg tablets,Quinapril hydrochloride,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-63442,0,67132020,Ramipril 2.5mg tablets (Teva UK Ltd),Ramipril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jun-15
-54345,0,10867020,Trandolapril 4mg capsules (Arrow Generics Ltd),Trandolapril,4mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Mar-13
-63030,0,23678021,Lisinopril 10mg tablets (DE Pharmaceuticals),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Apr-15
-18219,8602,81183020,Imidapril 20mg tablets,Imidapril hydrochloride,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-44657,9,75029020,Ednyt 2.5mg Tablet (Dominion Pharma),Enalapril maleate,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-11
-54733,0,9855020,Perindopril erbumine 8mg tablets (Consilient Health Ltd),Perindopril erbumine,8mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Apr-13
-40384,66,67322020,Ramipril 10mg tablets (A A H Pharmaceuticals Ltd),Ramipril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Sep-09
-53621,0,1576020,Ramipril 2.5mg capsules (Bristol Laboratories Ltd),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jan-13
-62039,0,67901020,Ramipril 1.25mg tablets (Zentiva),Ramipril,1.25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jan-15
-56704,0,1565020,Ramipril 1.25mg capsules (Alliance Healthcare (Distribution) Ltd),Ramipril,1.25mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Aug-13
-6288,201056,87053020,Ramipril 5mg tablets,Ramipril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-61339,0,73446020,Ramipril 10mg capsules (Almus Pharmaceuticals Ltd),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Oct-14
-62918,4,39779020,Ramipril 2.5mg/5ml oral solution,Ramipril,500microgram/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Apr-15
-57378,2,30788020,Enalapril 2mg/5ml oral suspension,Enalapril maleate,400microgram/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Oct-13
-41617,18,56802020,Captopril 25mg tablets (Actavis UK Ltd),Captopril,25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Mar-10
-42285,0,89050020,Quinil 40mg tablets (Tillomed Laboratories Ltd),Quinapril hydrochloride,40mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,May-10
-34567,4,69436020,Ramipril 2.5mg capsules (Mylan Ltd),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-34528,47,67301020,Ramipril 2.5mg capsules (A A H Pharmaceuticals Ltd),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-34696,42,65102020,Lisinopril 20mg tablets (Mylan Ltd),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-18263,7823,59646020,Acezide 25mg/50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Hydrochlorothiazide/Captopril,25mg + 50mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-10882,11617,68554020,Carace 2.5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Lisinopril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-34589,22,67515020,Ramipril 5mg Capsule (Dexcel-Pharma Ltd),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-1299,1822338,60792020,Enalapril 10mg tablets,Enalapril maleate,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-5047,201730,69082020,Trandolapril 2mg capsules,Trandolapril,2mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-21053,1390,50588020,Vascace 500microgram tablets (Roche Products Ltd),Cilazapril monohydrate,500microgram,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-12411,3301,49386020,Cilazapril 500microgram tablets,Cilazapril monohydrate,500microgram,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-63149,15,22978021,Perindopril erbumine 8mg / Amlodipine 10mg tablets,,,,,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,May-15
-53612,0,10700020,Ramipril 10mg tablets (Alliance Healthcare (Distribution) Ltd),Ramipril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jan-13
-59790,0,39906020,Perindopril erbumine 8mg tablets (Accord Healthcare Ltd),Perindopril erbumine,8mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,May-14
-47021,1559,475021,Ramipril 2.5mg/5ml oral solution sugar free,Ramipril,500microgram/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Mar-12
-57944,20,47936020,Perindopril tosilate 2.5mg tablets,,,,,2050501,Angiotensin-converting Enzyme Inhibitors,Dec-13
-39512,916,96425020,Captopril 25mg/5ml oral suspension,Captopril,25mg/5ml,Oral Suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Apr-09
-54899,1,75033020,Perindopril erbumine 2mg tablets (Teva UK Ltd),Perindopril erbumine,2mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,May-13
-39242,475,95903020,Carace 10 Plus tablets (Merck Sharp & Dohme Ltd),Lisinopril/Hydrochlorothiazide,10mg + 12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Apr-09
-17474,9240,78452020,Felodipine 5mg modified-release / Ramipril 5mg tablets,Felodipine/Ramipril,5mg + 5mg,Modified-release tablet,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,Feb-09
-62036,1,47656020,Ramipril 5mg tablets (Waymade Healthcare Plc),Ramipril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jan-15
-55456,0,1448020,Lisinopril 5mg tablets (Alliance Healthcare (Distribution) Ltd),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jun-13
-32560,531,81268020,Tanatril 20mg tablets (Chiesi Ltd),Imidapril hydrochloride,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-57864,1,10698020,Ramipril 5mg tablets (Sigma Pharmaceuticals Plc),Ramipril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Dec-13
-1143,718976,60378020,Captopril 25mg tablets,Captopril,25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-55002,0,1486020,Lisinopril 20mg tablets (Accord Healthcare Ltd),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,May-13
-60684,8,22974021,Perindopril erbumine 4mg / Amlodipine 10mg tablets,Perindopril erbumine/Amlodipine besilate,4mg + 10mg,Tablet,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,Aug-14
-33336,25,69419020,Captopril 5mg/5ml Oral suspension (Eldon Laboratories),Captopril,1mg/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-756,276385,87055020,Ramipril 10mg tablets,Ramipril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-25998,6,85701020,Captomex 12.5mg tablets (Actavis UK Ltd),Captopril,12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-34943,20,67309020,Ramipril 10mg capsules (A A H Pharmaceuticals Ltd),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-61067,0,73443020,Ramipril 5mg capsules (Almus Pharmaceuticals Ltd),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Sep-14
-37778,1047,94657020,Lisinopril 5mg/5ml oral suspension,Lisinopril,1mg/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-50402,0,74621020,Perindopril 2mg Tablet (Servier Laboratories Ltd),Perindopril erbumine,2mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jan-13
-34429,21,69439020,Ramipril 5mg capsules (Mylan Ltd),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-8025,10100,71439020,Gopten 1mg capsules (Abbott Laboratories Ltd),Trandolapril,1mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-48180,0,75652020,Perindopril erbumine 4mg tablets (Sandoz Ltd),Perindopril erbumine,4mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Dec-12
-593,1998964,72572020,Perindopril erbumine 2mg tablets,Perindopril erbumine,2mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-28902,48,68139020,Odrik 2mg capsules (Aventis Pharma),Trandolapril,2mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-56038,0,39749020,Ramipril 10mg tablets (Pfizer Ltd),Ramipril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Aug-13
-54942,0,76559020,Perindopril erbumine 8mg tablets (Mylan Ltd),Perindopril erbumine,8mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,May-13
-61262,7,1483020,Lisinopril 20mg tablets (Bristol Laboratories Ltd),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Sep-14
-60309,0,1454020,Lisinopril 5mg tablets (Relonchem Ltd),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jul-14
-34432,31,67183020,Ramipril 2.5mg capsules (Genus Pharmaceuticals Ltd),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-64062,2,30780020,Enalapril 1mg/5ml oral suspension,,,,,2050501,Angiotensin-converting Enzyme Inhibitors,Aug-15
-54928,0,1470020,Lisinopril 10mg tablets (Bristol Laboratories Ltd),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,May-13
-32048,31,84492020,Kaplon 50mg tablets (Teva UK Ltd),Captopril,50mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-64602,0,47141020,Perindopril erbumine 2mg tablets (Waymade Healthcare Plc),Perindopril erbumine,2mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Oct-15
-19223,660,64818020,Lisinopril 10mg tablets (Teva UK Ltd),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-35007,1456,91818020,Ramipril 10mg/5ml oral suspension,Ramipril,2mg/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-57346,0,47146020,Ramipril 10mg capsules (Waymade Healthcare Plc),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Oct-13
-15085,291,58452020,Innovace Titration pack (Merck Sharp & Dohme Ltd),Enalapril Maleate,,Titration Pack,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-64902,2,53969021,Lisinopril 5mg/5ml oral solution sugar free,,,,,2050501,Angiotensin-converting Enzyme Inhibitors,Dec-15
-34877,13,67460020,Ramipril 10mg Capsule (Sovereign Medical Ltd),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-34539,30,67175020,Ramipril 5mg capsules (Sandoz Ltd),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-277,1784310,68570020,Lisinopril 2.5mg tablets,Lisinopril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-34698,2,67770020,Ramipril 1.25mg capsules (Zentiva),Ramipril,1.25mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-58682,0,66939020,Lisinopril 2.5mg tablets (Mylan Ltd),Lisinopril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jan-14
-19208,40,61344020,Enalapril 10mg tablets (Actavis UK Ltd),Enalapril maleate,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-43813,34,76373020,Perindopril erbumine 2mg tablets (Actavis UK Ltd),Perindopril erbumine,2mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Nov-10
-58451,1,71538020,Lisinopril 2.5mg tablets (Almus Pharmaceuticals Ltd),Lisinopril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Dec-13
-57882,5,19854020,Enalapril 2.5mg/5ml oral suspension,Enalapril maleate,500microgram/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Dec-13
-34562,55,56639020,Captopril 25mg Tablet (IVAX Pharmaceuticals UK Ltd),Captopril,25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-34583,18,67518020,Ramipril 10mg Capsule (Dexcel-Pharma Ltd),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-34952,4,61298020,Enalapril 10mg tablets (Mylan Ltd),Enalapril maleate,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-34490,350,67129020,Ramipril 2.5mg capsules (Teva UK Ltd),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-63010,0,10706020,Ramipril 10mg tablets (Phoenix Healthcare Distribution Ltd),Ramipril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Apr-15
-53820,0,69229020,Lisinopril 5mg tablets (Arrow Generics Ltd),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-13
-34505,18,67170020,Ramipril 2.5mg capsules (Sandoz Ltd),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-36753,1,75031020,Ednyt 10mg Tablet (Dominion Pharma),Enalapril maleate,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-69,4605214,68575020,Lisinopril 20mg tablets,Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-46890,20,477021,Ramipril 5mg/5ml oral suspension,Ramipril,1mg/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Mar-12
-38854,1,95370020,Quinapril 20mg/5ml oral solution,Quinapril Hydrochloride,20mg/5ml,Oral Suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-53719,0,1427020,Enalapril 20mg tablets (Alliance Healthcare (Distribution) Ltd),Enalapril maleate,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-13
-61985,8,67121020,Ramipril 1.25mg tablets (Teva UK Ltd),Ramipril,1.25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jan-15
-46979,1,65143020,Lisinopril 20mg tablets (Sandoz Ltd),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Mar-12
-37964,6641,94697020,Perindopril arginine 2.5mg tablets,Perindopril Arginine,2.5mg,Tablets,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-28820,1,85702020,Captomex 25mg tablets (Actavis UK Ltd),Captopril,25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-5159,100842,69850020,Quinapril 20mg tablets,Quinapril hydrochloride,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-8026,14870,71440020,Gopten 2mg capsules (Abbott Laboratories Ltd),Trandolapril,2mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-32934,24991,88109020,Lopace 10mg capsules (Discovery Pharmaceuticals),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-33894,441,67144020,Ramipril 10mg capsules (Teva UK Ltd),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-761,57050,87049020,Ramipril 1.25mg tablets,Ramipril,1.25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-17006,1151,85824020,Triapin 5mg/5mg modified-release tablets (Sanofi),Felodipine/Ramipril,5mg + 5mg,Modified-release tablet,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,Feb-09
-33078,533,60335020,Enalapril 20mg tablets (A A H Pharmaceuticals Ltd),Enalapril maleate,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-5861,195107,74179020,Fosinopril 20mg tablets,Fosinopril sodium,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-23478,36,84464020,Tensopril 50mg tablets (Teva UK Ltd),Captopril,50mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-18325,6960,52610020,Acepril 50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Captopril,50mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-50780,2,30786020,Enalapril 2mg/5ml oral solution,Enalapril maleate,400microgram/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jan-13
-44527,1067,98847020,Captopril 5mg/ml oral solution sugar free,Captopril,5mg/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-11
-40355,77,89044020,Quinil 5mg tablets (Tillomed Laboratories Ltd),Quinapril hydrochloride,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Sep-09
-38026,3005,94707020,Coversyl Arginine 10mg tablets (Servier Laboratories Ltd),Perindopril Arginine,10mg,Tablets,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-32597,2,65140020,Lisinopril 10mg tablets (Sandoz Ltd),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-28724,94,80671020,Perdix 7.5mg tablets (UCB Pharma Ltd),Moexipril hydrochloride,7.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-12858,19103,81182020,Imidapril 10mg tablets,Imidapril hydrochloride,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-42723,21,73041020,Pralenal 5 tablets (Opus Pharmaceuticals Ltd),Enalapril maleate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jun-10
-58751,4,19799020,Enalapril 1.25mg/5ml oral suspension,Enalapril maleate,250microgram/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-14
-43412,355,65196020,Lisinopril 2.5mg tablets (A A H Pharmaceuticals Ltd),Lisinopril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Sep-10
-42901,97,61261020,Enalapril 5mg tablets (Teva UK Ltd),Enalapril maleate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jul-10
-55588,0,1482020,Lisinopril 20mg tablets (Sigma Pharmaceuticals Plc),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jun-13
-20579,3321,85903020,Tarka modified-release capsules (Abbott Laboratories Ltd),Verapamil hydrochloride/Trandolapril,180mg + 2mg,Modified-release capsule,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,Feb-09
-34651,3,69441020,Ramipril 10mg capsules (Mylan Ltd),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-56508,37,1552020,Coversyl 4mg tablets (Dowelhurst Ltd),Perindopril erbumine,4mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Aug-13
-57588,3,1446020,Zestril 2.5mg tablets (Mawdsley-Brooks & Company Ltd),Lisinopril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Oct-13
-16212,4926,50589020,Vascace 1mg tablets (Roche Products Ltd),Cilazapril monohydrate,1mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-59557,0,1571020,Ramipril 2.5mg capsules (Kent Pharmaceuticals Ltd),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Apr-14
-56013,0,47144020,Ramipril 2.5mg capsules (Waymade Healthcare Plc),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Aug-13
-19204,418,64814020,Lisinopril 5mg tablets (Teva UK Ltd),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-54283,1,20380020,Lisinopril 5mg/5ml oral suspension (Special Order),Lisinopril,1mg/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Mar-13
-62958,1,67136020,Ramipril 5mg tablets (Teva UK Ltd),Ramipril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Apr-15
-50334,1,19817020,Enalapril 4mg/5ml oral suspension,Enalapril maleate,800microgram/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jan-13
-56506,44,1541020,Coversyl 2mg tablets (Dowelhurst Ltd),Perindopril erbumine,2mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Aug-13
-55903,0,61781020,Enalapril 10mg tablets (Dexcel-Pharma Ltd),Enalapril maleate,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Aug-13
-48008,0,68978020,Ramipril 5mg capsules (Actavis UK Ltd),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Nov-12
-16197,5768,55290020,Vascace 2.5mg tablets (Roche Products Ltd),Cilazapril monohydrate,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-56356,0,1586020,Ramipril 10mg capsules (Alliance Healthcare (Distribution) Ltd),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Aug-13
-59788,0,1591020,Ramipril 10mg capsules (Bristol Laboratories Ltd),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,May-14
-41746,573,61357020,Enalapril 10mg tablets (Sandoz Ltd),Enalapril maleate,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Mar-10
-45319,34,73490020,Perindopril erbumine 2mg tablets (A A H Pharmaceuticals Ltd),Perindopril erbumine,2mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,May-11
-9731,73151,75607020,Quinapril 40mg tablets,Quinapril hydrochloride,40mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-1144,116561,48566020,Capoten 25mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Captopril,25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-48053,0,73269020,Ramipril 2.5mg capsules (Almus Pharmaceuticals Ltd),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Nov-12
-53271,0,1463020,Lisinopril 10mg tablets (Alliance Healthcare (Distribution) Ltd),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jan-13
-60730,0,1584020,Ramipril 5mg capsules (Phoenix Healthcare Distribution Ltd),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Aug-14
-37965,3790,94705020,Coversyl Arginine 5mg tablets (Servier Laboratories Ltd),Perindopril arginine,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-39355,19,87452020,Tritace 10mg Tablet (Sterwin Medicines),Ramipril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Apr-09
-45228,67,91312020,Captopril capsules,Captopril,,Capsules,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,May-11
-13026,17978,54165020,Cilazapril 5mg tablets,Cilazapril monohydrate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-6362,9797,87061020,Tritace 5mg tablets (Sanofi),Ramipril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-61117,26,20667021,Perindopril erbumine 4mg/5ml oral solution,,,,,2050501,Angiotensin-converting Enzyme Inhibitors,Sep-14
-3069,16843,52609020,Acepril 25mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Captopril,25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-46851,242,417021,Captopril 5mg/5ml oral solution,Captopril,1mg/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-12
-38899,13,89046020,Quinil 10mg tablets (Tillomed Laboratories Ltd),Quinapril hydrochloride,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-52088,0,1459020,Lisinopril 5mg tablets (Phoenix Healthcare Distribution Ltd),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jan-13
-31307,5,68137020,Odrik 500microgram capsules (Aventis Pharma),Trandolapril,500microgram,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-15958,1337,82305020,Captopril 2mg tablets,Captopril,2mg,Tablets,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-6261,3824,87057020,Tritace 1.25mg tablets (Sanofi),Ramipril,1.25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-38285,0,75036020,Perindopril erbumine 4mg tablets (Teva UK Ltd),Perindopril erbumine,4mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-59915,360,21645021,Captopril 25mg/5ml oral solution sugar free,Captopril,5mg/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,May-14
-6314,152694,87051020,Ramipril 2.5mg tablets,Ramipril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-63594,0,35077020,Generic Tritace titration pack tablets,,,Not applicable,Route of administration not applicable,2050501,Angiotensin-converting Enzyme Inhibitors,Jul-15
-60097,0,65209020,Lisinopril 2.5mg tablets (Zentiva),Lisinopril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Jun-14
-1807,388691,60379020,Captopril 50mg tablets,Captopril,50mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-34710,26,67179020,Ramipril 10mg capsules (Sandoz Ltd),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-21162,1414,78451020,Felodipine 2.5mg modified-release / Ramipril 2.5mg tablets,Felodipine/Ramipril,2.5mg + 2.5mg,Modified-release tablet,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,Feb-09
-13755,283,77942020,Enalapril 10mg wafer,Enalapril Maleate,10mg,Wafer,,2050501,Angiotensin-converting Enzyme Inhibitors,Feb-09
-56169,0,70076020,Ramipril 10mg capsules (Arrow Generics Ltd),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,Aug-13
+prodcode,gemscriptcode,productname,drugsubstancename,substancestrength,formulation,routeofadministration,bnfcode,bnfheader,
+28586,88107020,Lopace 5mg capsules (Discovery Pharmaceuticals),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+15121,80674020,Moexipril 7.5mg tablets,Moexipril hydrochloride,7.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+33977,65098020,Lisinopril 10mg tablets (Mylan Ltd),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+42908,61247020,Enalapril 5mg tablets (IVAX Pharmaceuticals UK Ltd),Enalapril maleate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+52407,1585020,Ramipril 10mg capsules (Kent Pharmaceuticals Ltd),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+709,72675020,Ramipril 2.5mg capsules,Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34768,61253020,Enalapril 20mg tablets (IVAX Pharmaceuticals UK Ltd),Enalapril maleate,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+57658,67312020,Ramipril 1.25mg tablets (A A H Pharmaceuticals Ltd),Ramipril,1.25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+48214,76375020,Perindopril erbumine 4mg tablets (Actavis UK Ltd),Perindopril erbumine,4mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+59972,1543020,Perindopril erbumine 2mg tablets (Alliance Healthcare (Distribution) Ltd),Perindopril erbumine,2mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+47998,68974020,Ramipril 2.5mg capsules (Actavis UK Ltd),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+20188,60798020,Enalapril 2.5mg wafer,Enalapril Maleate,2.5mg,Wafer,,2050501,Angiotensin-converting Enzyme Inhibitors,
+52399,1564020,Ramipril 1.25mg capsules (Kent Pharmaceuticals Ltd),Ramipril,1.25mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+56850,84385020,Ecopace 12.5mg tablets (AMCo),Captopril,12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+11983,90557020,Perindopril erbumine 4mg/5ml oral suspension,Perindopril erbumine,800microgram/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+5800,72569020,Coversyl 4mg tablets (Servier Laboratories Ltd),Perindopril erbumine,4mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+45337,65231020,Lisinopril 5mg tablets (Actavis UK Ltd),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+13589,74175020,Staril 20mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Fosinopril sodium,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+56505,1458020,Zestril 5mg tablets (Lexon (UK) Ltd),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34544,56638020,Captopril 12.5mg Tablet (IVAX Pharmaceuticals UK Ltd),Captopril,12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+21231,87820020,Caralpha 20mg/12.5mg tablets (Actavis UK Ltd),Lisinopril/Hydrochlorothiazide,20mg + 12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+38308,95107020,Ramipril 2.5/5mg/10mg tablet,Ramipril,2.5mg + 5mg + 10mg,Tablets,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+26995,84491020,Kaplon 25mg tablets (Teva UK Ltd),Captopril,25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34382,67206020,Ramipril 5mg capsules (Zentiva),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+61270,45151020,Perindopril erbumine 4mg tablets (Accord Healthcare Ltd),Perindopril erbumine,4mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+14960,83699020,Coversyl 8mg tablets (Servier Laboratories Ltd),Perindopril erbumine,8mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+19690,85865020,Verapamil 180mg modified-release / Trandolapril 2mg capsules,Verapamil hydrochloride/Trandolapril,180mg + 2mg,Modified-release capsule,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,
+34453,61301020,Enalapril 20mg tablets (Mylan Ltd),Enalapril maleate,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+58294,1461020,Lisinopril 5mg tablets (Accord Healthcare Ltd),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+15096,75604020,Accupro 40mg tablets (Pfizer Ltd),Quinapril hydrochloride,40mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+3310,48565020,Capoten 12.5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Captopril,12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+46975,65137020,Lisinopril 5mg tablets (Sandoz Ltd),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+654,80174020,Ramipril 2.5/5mg/10mg capsule,Ramipril,2.5mg + 5mg + 10mg,Capsules,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+45264,68971020,Ramipril 1.25mg capsules (Actavis UK Ltd),Ramipril,1.25mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+65273,76557020,Perindopril erbumine 4mg tablets (Mylan Ltd),Perindopril erbumine,4mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+51807,38770020,Coversyl Arginine 5mg tablets (DE Pharmaceuticals),Perindopril arginine,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+37930,94699020,Perindopril arginine 5mg tablets,Perindopril arginine,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34652,67455020,Ramipril 5mg Capsule (Sovereign Medical Ltd),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+16708,60797020,Enalapril titration pack,Enalapril Maleate,,Titration Pack,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+8106,55119020,Innovace 2.5mg tablets (Merck Sharp & Dohme Ltd),Enalapril maleate,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+41417,60324020,Enalapril 2.5mg tablets (A A H Pharmaceuticals Ltd),Enalapril maleate,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+43563,61391020,Enalapril 2.5mg tablets (Zentiva),Enalapril maleate,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+61133,1425020,Enalapril 10mg tablets (Phoenix Healthcare Distribution Ltd),Enalapril maleate,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+23252,73042020,Pralenal 10 tablets (Opus Pharmaceuticals Ltd),Enalapril maleate,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+54986,35397020,Perindopril erbumine 8mg/5ml oral suspension,,,,,2050501,Angiotensin-converting Enzyme Inhibitors,
+59770,15619021,Perindopril erbumine 4mg tablets (Aurobindo Pharma Ltd),Perindopril erbumine,4mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+27871,86081020,Innovace melt 10mg Wafer (Merck Sharp & Dohme Ltd),Enalapril Maleate,10mg,Wafer,,2050501,Angiotensin-converting Enzyme Inhibitors,
+30921,64809020,Lisinopril 2.5mg tablets (Teva UK Ltd),Lisinopril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+56510,1481020,Zestril 20mg tablets (Sigma Pharmaceuticals Plc),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+8105,58451020,Innovace 20mg tablets (Merck Sharp & Dohme Ltd),Enalapril maleate,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34400,55722020,Enalapril 5mg Tablet (Dowelhurst Ltd),Enalapril maleate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+62860,21324021,Enalapril 5mg tablets (DE Pharmaceuticals),Enalapril maleate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+21943,84490020,Kaplon 12.5mg tablets (Teva UK Ltd),Captopril,12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+36742,93652020,Captopril 2mg/5ml oral suspension,Captopril,2mg/5ml,Oral Suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+29627,88105020,Lopace 2.5mg capsules (Discovery Pharmaceuticals),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+22439,83449020,Ednyt 20mg Tablet (Dominion Pharma),Enalapril maleate,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+5275,72670020,Tritace 2.5mg capsules (Sanofi),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+43413,65206020,Lisinopril 20mg tablets (A A H Pharmaceuticals Ltd),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+49164,1588020,Ramipril 10mg capsules (Actavis UK Ltd),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+57333,47942020,Perindopril tosilate 5mg tablets,Perindopril tosilate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34798,61362020,Enalapril 20mg tablets (Sandoz Ltd),Enalapril maleate,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+61694,67907020,Ramipril 5mg tablets (Zentiva),Ramipril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+52010,1418020,Enalapril 10mg tablets (Alliance Healthcare (Distribution) Ltd),Enalapril maleate,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+54544,19241020,Captopril 25mg/5ml oral suspension,Captopril,5mg/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+8268,68567020,Zestril 20mg tablets (AstraZeneca UK Ltd),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+53915,61780020,Enalapril 5mg tablets (Dexcel-Pharma Ltd),Enalapril maleate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+31810,68138020,Odrik 1mg capsules (Aventis Pharma),Trandolapril,1mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+16196,55291020,Vascace 5mg tablets (Roche Products Ltd),Cilazapril monohydrate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+60823,21648021,Noyada 5mg/5ml oral solution (Martindale Pharmaceuticals Ltd),,,,,2050501,Angiotensin-converting Enzyme Inhibitors,
+34953,61397020,Enalapril 20mg tablets (Zentiva),Enalapril maleate,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+1121,60377020,Captopril 12.5mg tablets,Captopril,12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34937,56640020,Captopril 50mg Tablet (IVAX Pharmaceuticals UK Ltd),Captopril,50mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+31587,86077020,Innovace melt 20mg Wafer (Merck Sharp & Dohme Ltd),Enalapril Maleate,20mg,Wafer,,2050501,Angiotensin-converting Enzyme Inhibitors,
+11937,90539020,Ramipril 2.5mg/5ml oral suspension,Ramipril,500microgram/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+3839,48567020,Capoten 50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Captopril,50mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+3720,68562020,Zestril 2.5mg tablets (AstraZeneca UK Ltd),Lisinopril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+48049,76554020,Perindopril erbumine 2mg tablets (Mylan Ltd),Perindopril erbumine,2mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+41573,65180020,Lisopress 10mg tablets (Teva UK Ltd),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+56855,1590020,Ramipril 10mg capsules (Sigma Pharmaceuticals Plc),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+58874,1550020,Perindopril erbumine 2mg tablets (Somex Pharma),Perindopril erbumine,2mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+53058,40612020,Perindopril erbumine 8mg tablets (Sandoz Ltd),Perindopril erbumine,8mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+11567,81446020,Ramipril 5mg with felodipine 5mg modified-release tablet,Felodipine/Ramipril,5mg + 5mg,Modified Release Tablet,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,
+9915,87063020,Tritace 10mg tablets (Sanofi),Ramipril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+32241,60326020,Enalapril 10mg tablets (A A H Pharmaceuticals Ltd),Enalapril maleate,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+46974,61297020,Enalapril 5mg tablets (Mylan Ltd),Enalapril maleate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34390,67186020,Ramipril 5mg capsules (Genus Pharmaceuticals Ltd),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+37655,59733020,Captopril 25mg tablets (Teva UK Ltd),Captopril,25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+60143,38499020,Enalapril 5mg tablets (Medreich Plc),Enalapril maleate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34412,67140020,Ramipril 5mg capsules (Teva UK Ltd),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+41694,61246020,Enalapril 2.5mg tablets (IVAX Pharmaceuticals UK Ltd),Enalapril maleate,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+56129,1578020,Ramipril 5mg capsules (Kent Pharmaceuticals Ltd),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+43416,65202020,Lisinopril 10mg tablets (A A H Pharmaceuticals Ltd),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+41633,56801020,Captopril 12.5mg tablets (Actavis UK Ltd),Captopril,12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+12313,68559020,Carace 20mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+59111,1473020,Lisinopril 20mg tablets (Alliance Healthcare (Distribution) Ltd),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+17120,80675020,Moexipril 15mg tablets,Moexipril hydrochloride,15mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34657,67209020,Ramipril 10mg capsules (Zentiva),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+42081,87446020,Tritace 1.25mg Tablet (Sterwin Medicines),Ramipril,1.25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+55896,65227020,Lisinopril 2.5mg tablets (Actavis UK Ltd),Lisinopril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+32514,84386020,Ecopace 25mg tablets (AMCo),Captopril,25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+60757,75136020,Trandolapril 500microgram capsules (Teva UK Ltd),Trandolapril,500microgram,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+57073,47143020,Ramipril 1.25mg capsules (Waymade Healthcare Plc),Ramipril,1.25mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+58843,1542020,Perindopril erbumine 2mg tablets (Kent Pharmaceuticals Ltd),Perindopril erbumine,2mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+45816,71542020,Lisinopril 5mg tablets (Almus Pharmaceuticals Ltd),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+56162,1556020,Perindopril erbumine 4mg tablets (Consilient Health Ltd),Perindopril erbumine,4mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+41522,65183020,Lisopress 20mg tablets (Teva UK Ltd),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+43566,65134020,Lisinopril 2.5mg tablets (Sandoz Ltd),Lisinopril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+54620,1575020,Ramipril 2.5mg capsules (Sigma Pharmaceuticals Plc),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+22708,77941020,Enalapril 5mg wafer,Enalapril Maleate,5mg,Wafer,,2050501,Angiotensin-converting Enzyme Inhibitors,
+6408,81266020,Tanatril 5mg tablets (Chiesi Ltd),Imidapril hydrochloride,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+37087,94156020,Enalapril 5mg/5ml oral suspension,Enalapril maleate,1mg/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+39421,95113020,Tritace titration pack tablets (Sanofi),,,Not applicable,Route of administration not applicable,2050501,Angiotensin-converting Enzyme Inhibitors,
+60744,22980021,Perindopril erbumine 8mg / Amlodipine 5mg tablets,,,,,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,
+30039,84463020,Tensopril 25mg tablets (Teva UK Ltd),Captopril,25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+14478,69845020,Accupro 20mg tablets (Pfizer Ltd),Quinapril hydrochloride,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+196,60791020,Enalapril 5mg tablets,Enalapril maleate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+56148,10683020,Ramipril 1.25mg tablets (Kent Pharmaceuticals Ltd),Ramipril,1.25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34712,63374020,Enalapril 20mg tablets (Kent Pharmaceuticals Ltd),Enalapril maleate,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+43507,56634020,Captopril 25mg Tablet (Generics (UK) Ltd),Captopril,25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+35794,60325020,Enalapril 5mg tablets (A A H Pharmaceuticals Ltd),Enalapril maleate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+52197,1582020,Ramipril 5mg capsules (Sigma Pharmaceuticals Plc),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+17624,88718020,Captopril 5mg/5ml oral suspension,Captopril,1mg/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+50863,19819020,Enalapril 5mg/5ml oral solution (Drug Tariff Special Order),Enalapril maleate,1mg/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+633,74178020,Fosinopril 10mg tablets,Fosinopril sodium,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+64877,61779020,Enalapril 2.5mg tablets (Dexcel-Pharma Ltd),Enalapril maleate,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+6364,87059020,Tritace 2.5mg tablets (Sanofi),Ramipril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+52293,20854020,Captopril 2mg capsules,Captopril,2mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+18223,85883020,Trandolapril with verapamil 2mg + 180mg Modified-release capsule,Verapamil Hydrochloride/Trandolapril,2mg + 180mg,Modified-release Capsule,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,
+9646,72669020,Tritace 1.25mg capsules (Aventis Pharma),Ramipril,1.25mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+45938,75040020,Perindopril erbumine 8mg tablets (Teva UK Ltd),Perindopril erbumine,8mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+43418,65199020,Lisinopril 5mg tablets (A A H Pharmaceuticals Ltd),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+11197,86080020,Innovace melt 5mg Wafer (Merck Sharp & Dohme Ltd),Enalapril Maleate,5mg,Wafer,,2050501,Angiotensin-converting Enzyme Inhibitors,
+14387,68555020,Carace 5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+19198,64822020,Lisinopril 20mg tablets (Teva UK Ltd),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+56473,1546020,Perindopril erbumine 2mg tablets (Sigma Pharmaceuticals Plc),Perindopril erbumine,2mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+29530,86079020,Innovace melt 2.5mg Wafer (Merck Sharp & Dohme Ltd),Enalapril Maleate,2.5mg,Wafer,,2050501,Angiotensin-converting Enzyme Inhibitors,
+20975,90115020,Lisinopril 7.5mg/5ml oral suspension,Lisinopril,1.5mg/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+65,68572020,Lisinopril 10mg tablets,Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+58461,1437020,Lisinopril 2.5mg tablets (Kent Pharmaceuticals Ltd),Lisinopril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+28438,85815020,Triapin 2.5mg/2.5mg modified-release tablets (Sanofi),Felodipine/Ramipril,2.5mg + 2.5mg,Modified-release tablet,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,
+55299,67297020,Ramipril 1.25mg capsules (A A H Pharmaceuticals Ltd),Ramipril,1.25mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+11987,88326020,Lisinopril 5mg/5ml oral solution,Lisinopril,1mg/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34936,56686020,Captopril 25mg Tablet (Lagap),Captopril,25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+18269,52608020,Acepril 12.5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Captopril,12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+56472,1554020,Perindopril erbumine 4mg tablets (Kent Pharmaceuticals Ltd),Perindopril erbumine,4mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+43411,61356020,Enalapril 5mg tablets (Sandoz Ltd),Enalapril maleate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+42894,61262020,Enalapril 10mg tablets (Teva UK Ltd),Enalapril maleate,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+82,70737020,Ramipril 10mg capsules,Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+59603,1577020,Ramipril 2.5mg capsules (Phoenix Healthcare Distribution Ltd),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+54288,69238020,Lisinopril 10mg tablets (Arrow Generics Ltd),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+24041,77943020,Enalapril 20mg wafer,Enalapril Maleate,20mg,Wafer,,2050501,Angiotensin-converting Enzyme Inhibitors,
+147,72674020,Ramipril 1.25mg capsules,Ramipril,1.25mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+4571,74174020,Staril 10mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Fosinopril sodium,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+58195,19216020,Captopril 12.5mg/5ml oral solution,Captopril,2.5mg/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+7419,69080020,Trandolapril 500microgram capsules,Trandolapril,500microgram,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+6807,68563020,Zestril 5mg tablets (AstraZeneca UK Ltd),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+60349,21646021,Noyada 25mg/5ml oral solution (Martindale Pharmaceuticals Ltd),Captopril,5mg/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+59996,1435020,Enalapril 20mg tablets (Milpharm Ltd),Enalapril maleate,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+16710,71438020,Gopten 500microgram capsules (Abbott Laboratories Ltd),Trandolapril,500microgram,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+60010,1462020,Lisinopril 10mg tablets (Kent Pharmaceuticals Ltd),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+45300,65236020,Lisinopril 10mg tablets (Actavis UK Ltd),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+58258,20373020,Lisinopril 2.5mg/5ml oral suspension,Lisinopril,500microgram/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34732,67512020,Ramipril 2.5mg Capsule (Dexcel-Pharma Ltd),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+43649,56644020,Captopril 25mg tablets (A A H Pharmaceuticals Ltd),Captopril,25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+61499,73468020,Ramipril 2.5mg tablets (Actavis UK Ltd),Ramipril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+46951,56643020,Captopril 12.5mg tablets (A A H Pharmaceuticals Ltd),Captopril,12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+65102,1469020,Lisinopril 10mg tablets (Sigma Pharmaceuticals Plc),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+64739,19240020,Captopril 25mg/5ml oral solution (Special Order),Captopril,5mg/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+24482,85703020,Captomex 50mg tablets (Actavis UK Ltd),Captopril,50mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+6765,69848020,Quinapril 5mg tablets,Quinapril hydrochloride,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34540,67305020,Ramipril 5mg capsules (A A H Pharmaceuticals Ltd),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+7314,69843020,Accupro 5mg tablets (Pfizer Ltd),Quinapril hydrochloride,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+1904,60796020,Enalapril 20mg tablets,Enalapril maleate,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+11965,81445020,Ramipril 2.5mg with felodipine 2.5mg modified-release tablet,Felodipine/Ramipril,2.5mg + 2.5mg,Modified Release Tablet,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,
+45340,68982020,Ramipril 10mg Capsule (Actavis UK Ltd),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+29130,87608020,Gopten 4mg capsules (Abbott Laboratories Ltd),Trandolapril,4mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+61292,68165020,Quinapril 40mg tablets (Mylan Ltd),Quinapril hydrochloride,40mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+56509,1375020,Capoten 12.5mg tablets (Dowelhurst Ltd),Captopril,12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+41743,59737020,Captopril 50mg tablets (Teva UK Ltd),Captopril,50mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+6806,68564020,Zestril 10mg tablets (AstraZeneca UK Ltd),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+8830,55121020,Innovace 10mg tablets (Merck Sharp & Dohme Ltd),Enalapril maleate,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+46957,59293020,Captopril 12.5mg tablets (Tillomed Laboratories Ltd),Captopril,12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+55639,1472020,Lisinopril 10mg tablets (Accord Healthcare Ltd),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+33057,75030020,Ednyt 5mg Tablet (Dominion Pharma),Enalapril maleate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+15605,49385020,Cilazapril 250micrograms tablets,Cilazapril,250micrograms,Tablets,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+50509,20723020,Ramipril 10mg/5ml oral solution,Ramipril,2mg/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+9693,55352020,Tritace 10mg capsules (Sanofi),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+4103,69081020,Trandolapril 1mg capsules,Trandolapril,1mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+448,60790020,Enalapril 2.5mg tablets,Enalapril maleate,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+51433,66292020,Lisinopril 20mg tablets (Tillomed Laboratories Ltd),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+47159,71545020,Lisinopril 10mg tablets (Almus Pharmaceuticals Ltd),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+60065,1557020,Perindopril erbumine 4mg tablets (Sigma Pharmaceuticals Plc),Perindopril erbumine,4mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+57235,74497020,Ramipril 1.25mg tablets (Sandoz Ltd),Ramipril,1.25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+17633,87231020,Captopril 3mg/5ml oral solution,Captopril,3mg/5ml,Oral Liquid,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+12574,49387020,Cilazapril 1mg tablets,Cilazapril monohydrate,1mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+14477,69844020,Accupro 10mg tablets (Pfizer Ltd),Quinapril hydrochloride,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+43432,92446020,Captopril 6.25mg tablets,Captopril,6.25mg,Tablets,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+97,72573020,Perindopril erbumine 4mg tablets,Perindopril erbumine,4mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+80,72676020,Ramipril 5mg capsules,Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+8800,55120020,Innovace 5mg tablets (Merck Sharp & Dohme Ltd),Enalapril maleate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34719,56635020,Captopril 50mg Tablet (Generics (UK) Ltd),Captopril,50mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+12815,81267020,Tanatril 10mg tablets (Chiesi Ltd),Imidapril hydrochloride,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+35302,91890020,Captopril 12.5mg/5ml oral suspension,Captopril,2.5mg/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34431,67203020,Ramipril 2.5mg capsules (Zentiva),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+52499,19239020,Captopril 25mg/5ml oral solution,Captopril,5mg/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+38510,74776020,Perindopril erbumine 4mg tablets (Apotex UK Ltd),Perindopril erbumine,4mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+20849,84462020,Tensopril 12.5mg tablets (Teva UK Ltd),Captopril,12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+39227,95527020,Capozide LS 12.5mg/25mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Hydrochlorothiazide/Captopril,12.5mg + 25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+56279,20371020,Lisinopril 2.5mg/5ml oral solution,Lisinopril,500microgram/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34799,65220020,Lisinopril 20mg tablets (Zentiva),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+28486,89909020,Captopril 6.25mg/5ml oral suspension,Captopril,1.25mg/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+57801,1558020,Perindopril erbumine 4mg tablets (Glenmark Generics (Europe) Ltd),Perindopril erbumine,4mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+59109,66285020,Lisinopril 5mg tablets (Tillomed Laboratories Ltd),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+45217,63368020,Enalapril 5mg tablets (Kent Pharmaceuticals Ltd),Enalapril maleate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+15031,74293020,Accuretic 12.5mg/10mg tablets (Pfizer Ltd),Hydrochlorothiazide/Quinapril hydrochloride,12.5mg + 10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+5612,72568020,Coversyl 2mg tablets (Servier Laboratories Ltd),Perindopril erbumine,2mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+41538,65173020,Lisopress 2.5mg tablets (Teva UK Ltd),Lisinopril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+63559,1474020,Lisinopril 20mg tablets (Kent Pharmaceuticals Ltd),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+28127,61260020,Enalapril 2.5mg tablets (Teva UK Ltd),Enalapril maleate,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+55798,47145020,Ramipril 5mg capsules (Waymade Healthcare Plc),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+56079,47933020,Perindopril tosilate 10mg tablets,,,,,2050501,Angiotensin-converting Enzyme Inhibitors,
+56516,75649020,Perindopril erbumine 2mg tablets (Sandoz Ltd),Perindopril erbumine,2mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+45554,99318020,Ramipril 5mg/5ml oral solution,Ramipril,1mg/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+16924,81181020,Imidapril 5mg tablets,Imidapril hydrochloride,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+6078,79311020,Perindopril erbumine 8mg tablets,Perindopril erbumine,8mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+31716,61347020,Enalapril 20mg tablets (Actavis UK Ltd),Enalapril maleate,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+23642,50587020,Vascace 0.25mg Tablet (Roche Products Ltd),Cilazapril,0.25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+57048,65217020,Lisinopril 10mg tablets (Zentiva),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+49491,1545020,Perindopril erbumine 2mg tablets (Consilient Health Ltd),Perindopril erbumine,2mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+37080,94154020,Enalapril 5mg/5ml oral solution,Enalapril maleate,1mg/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+12412,54164020,Cilazapril 2.5mg tablets,Cilazapril monohydrate,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+37971,94701020,Perindopril arginine 10mg tablets,Perindopril Arginine,10mg,Tablets,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+41532,65176020,Lisopress 5mg tablets (Teva UK Ltd),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+58863,1471020,Lisinopril 10mg tablets (Phoenix Healthcare Distribution Ltd),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+57701,76377020,Perindopril erbumine 8mg tablets (Actavis UK Ltd),Perindopril erbumine,8mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+58871,14472021,Lisinopril 10mg tablets (Waymade Healthcare Plc),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+33811,69974020,Ramipril 2.5mg capsules (Ranbaxy (UK) Ltd),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+64055,47865020,Ramipril 2.5mg/5ml oral solution sugar free (Waymade Healthcare Plc),Ramipril,500microgram/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+32857,67125020,Ramipril 1.25mg capsules (Teva UK Ltd),Ramipril,1.25mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+62564,20367020,Lisinopril 10mg/5ml oral solution,Lisinopril,2mg/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+78,68571020,Lisinopril 5mg tablets,Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+38034,94703020,Coversyl Arginine 2.5mg tablets (Servier Laboratories Ltd),Perindopril arginine,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+54037,1467020,Lisinopril 10mg tablets (Relonchem Ltd),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+28725,80672020,Perdix 15mg tablets (UCB Pharma Ltd),Moexipril hydrochloride,15mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+16701,68556020,Carace 10mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+42902,61266020,Enalapril 20mg tablets (Teva UK Ltd),Enalapril maleate,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+52882,40203020,Enalapril 5mg/5ml oral suspension sugar free,Enalapril maleate,1mg/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+60232,65214020,Lisinopril 5mg tablets (Zentiva),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+51701,1583020,Ramipril 5mg capsules (Bristol Laboratories Ltd),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+54298,70068020,Ramipril 2.5mg capsules (Arrow Generics Ltd),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+54512,91738020,Lisinopril Oral solution,Lisinopril,,Oral Solution,,2050501,Angiotensin-converting Enzyme Inhibitors,
+56763,1592020,Ramipril 10mg capsules (Phoenix Healthcare Distribution Ltd),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+61693,15724021,Perindopril erbumine 8mg tablets (Aurobindo Pharma Ltd),Perindopril erbumine,8mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+54941,1579020,Ramipril 5mg capsules (Alliance Healthcare (Distribution) Ltd),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34357,67189020,Ramipril 10mg capsules (Genus Pharmaceuticals Ltd),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+5735,72671020,Tritace 5mg capsules (Sanofi),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+33095,73493020,Perindopril erbumine 4mg tablets (A A H Pharmaceuticals Ltd),Perindopril erbumine,4mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+45324,65239020,Lisinopril 20mg tablets (Actavis UK Ltd),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+59699,21647021,Captopril 5mg/5ml oral solution sugar free,,,,,2050501,Angiotensin-converting Enzyme Inhibitors,
+46365,89048020,Quinil 20mg tablets (Tillomed Laboratories Ltd),Quinapril hydrochloride,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+9948,87606020,Trandolapril 4mg capsules,Trandolapril,4mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+43012,91957020,Perindopril erbumine oral solution,Perindopril Erbumine,,Oral Liquid,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+50347,34964020,Coversyl Arginine 5mg tablets (Waymade Healthcare Plc),Perindopril arginine,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+53551,1484020,Lisinopril 20mg tablets (Phoenix Healthcare Distribution Ltd),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+60067,22976021,Perindopril erbumine 4mg / Amlodipine 5mg tablets,Perindopril erbumine/Amlodipine besilate,4mg + 5mg,Tablet,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,
+34893,68264020,Ramipril 10mg Capsule (IVAX Pharmaceuticals UK Ltd),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+63322,71478020,Enalapril 10mg tablets (Almus Pharmaceuticals Ltd),Enalapril maleate,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+33646,56633020,Captopril 12.5mg Tablet (Generics (UK) Ltd),Captopril,12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34471,65081020,Lisinopril 5mg tablets (Mylan Ltd),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+15108,74296020,Quinapril 10mg / Hydrochlorothiazide 12.5mg tablets,Hydrochlorothiazide/Quinapril hydrochloride,12.5mg + 10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+35731,73496020,Perindopril erbumine 8mg tablets (A A H Pharmaceuticals Ltd),Perindopril erbumine,8mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+51714,1572020,Ramipril 2.5mg capsules (Alliance Healthcare (Distribution) Ltd),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+63824,20369020,Lisinopril 10mg/5ml oral suspension,Lisinopril,2mg/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+3929,69849020,Quinapril 10mg tablets,Quinapril hydrochloride,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+63442,67132020,Ramipril 2.5mg tablets (Teva UK Ltd),Ramipril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+54345,10867020,Trandolapril 4mg capsules (Arrow Generics Ltd),Trandolapril,4mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+63030,23678021,Lisinopril 10mg tablets (DE Pharmaceuticals),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+18219,81183020,Imidapril 20mg tablets,Imidapril hydrochloride,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+44657,75029020,Ednyt 2.5mg Tablet (Dominion Pharma),Enalapril maleate,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+54733,9855020,Perindopril erbumine 8mg tablets (Consilient Health Ltd),Perindopril erbumine,8mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+40384,67322020,Ramipril 10mg tablets (A A H Pharmaceuticals Ltd),Ramipril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+53621,1576020,Ramipril 2.5mg capsules (Bristol Laboratories Ltd),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+62039,67901020,Ramipril 1.25mg tablets (Zentiva),Ramipril,1.25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+56704,1565020,Ramipril 1.25mg capsules (Alliance Healthcare (Distribution) Ltd),Ramipril,1.25mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+6288,87053020,Ramipril 5mg tablets,Ramipril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+61339,73446020,Ramipril 10mg capsules (Almus Pharmaceuticals Ltd),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+62918,39779020,Ramipril 2.5mg/5ml oral solution,Ramipril,500microgram/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+57378,30788020,Enalapril 2mg/5ml oral suspension,Enalapril maleate,400microgram/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+41617,56802020,Captopril 25mg tablets (Actavis UK Ltd),Captopril,25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+42285,89050020,Quinil 40mg tablets (Tillomed Laboratories Ltd),Quinapril hydrochloride,40mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34567,69436020,Ramipril 2.5mg capsules (Mylan Ltd),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34528,67301020,Ramipril 2.5mg capsules (A A H Pharmaceuticals Ltd),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34696,65102020,Lisinopril 20mg tablets (Mylan Ltd),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+18263,59646020,Acezide 25mg/50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Hydrochlorothiazide/Captopril,25mg + 50mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+10882,68554020,Carace 2.5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Lisinopril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34589,67515020,Ramipril 5mg Capsule (Dexcel-Pharma Ltd),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+1299,60792020,Enalapril 10mg tablets,Enalapril maleate,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+5047,69082020,Trandolapril 2mg capsules,Trandolapril,2mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+21053,50588020,Vascace 500microgram tablets (Roche Products Ltd),Cilazapril monohydrate,500microgram,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+12411,49386020,Cilazapril 500microgram tablets,Cilazapril monohydrate,500microgram,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+63149,22978021,Perindopril erbumine 8mg / Amlodipine 10mg tablets,,,,,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,
+53612,10700020,Ramipril 10mg tablets (Alliance Healthcare (Distribution) Ltd),Ramipril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+59790,39906020,Perindopril erbumine 8mg tablets (Accord Healthcare Ltd),Perindopril erbumine,8mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+47021,475021,Ramipril 2.5mg/5ml oral solution sugar free,Ramipril,500microgram/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+57944,47936020,Perindopril tosilate 2.5mg tablets,,,,,2050501,Angiotensin-converting Enzyme Inhibitors,
+39512,96425020,Captopril 25mg/5ml oral suspension,Captopril,25mg/5ml,Oral Suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+54899,75033020,Perindopril erbumine 2mg tablets (Teva UK Ltd),Perindopril erbumine,2mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+39242,95903020,Carace 10 Plus tablets (Merck Sharp & Dohme Ltd),Lisinopril/Hydrochlorothiazide,10mg + 12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+17474,78452020,Felodipine 5mg modified-release / Ramipril 5mg tablets,Felodipine/Ramipril,5mg + 5mg,Modified-release tablet,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,
+62036,47656020,Ramipril 5mg tablets (Waymade Healthcare Plc),Ramipril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+55456,1448020,Lisinopril 5mg tablets (Alliance Healthcare (Distribution) Ltd),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+32560,81268020,Tanatril 20mg tablets (Chiesi Ltd),Imidapril hydrochloride,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+57864,10698020,Ramipril 5mg tablets (Sigma Pharmaceuticals Plc),Ramipril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+1143,60378020,Captopril 25mg tablets,Captopril,25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+55002,1486020,Lisinopril 20mg tablets (Accord Healthcare Ltd),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+60684,22974021,Perindopril erbumine 4mg / Amlodipine 10mg tablets,Perindopril erbumine/Amlodipine besilate,4mg + 10mg,Tablet,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,
+33336,69419020,Captopril 5mg/5ml Oral suspension (Eldon Laboratories),Captopril,1mg/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+756,87055020,Ramipril 10mg tablets,Ramipril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+25998,85701020,Captomex 12.5mg tablets (Actavis UK Ltd),Captopril,12.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34943,67309020,Ramipril 10mg capsules (A A H Pharmaceuticals Ltd),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+61067,73443020,Ramipril 5mg capsules (Almus Pharmaceuticals Ltd),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+37778,94657020,Lisinopril 5mg/5ml oral suspension,Lisinopril,1mg/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+50402,74621020,Perindopril 2mg Tablet (Servier Laboratories Ltd),Perindopril erbumine,2mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34429,69439020,Ramipril 5mg capsules (Mylan Ltd),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+8025,71439020,Gopten 1mg capsules (Abbott Laboratories Ltd),Trandolapril,1mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+48180,75652020,Perindopril erbumine 4mg tablets (Sandoz Ltd),Perindopril erbumine,4mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+593,72572020,Perindopril erbumine 2mg tablets,Perindopril erbumine,2mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+28902,68139020,Odrik 2mg capsules (Aventis Pharma),Trandolapril,2mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+56038,39749020,Ramipril 10mg tablets (Pfizer Ltd),Ramipril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+54942,76559020,Perindopril erbumine 8mg tablets (Mylan Ltd),Perindopril erbumine,8mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+61262,1483020,Lisinopril 20mg tablets (Bristol Laboratories Ltd),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+60309,1454020,Lisinopril 5mg tablets (Relonchem Ltd),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34432,67183020,Ramipril 2.5mg capsules (Genus Pharmaceuticals Ltd),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+64062,30780020,Enalapril 1mg/5ml oral suspension,,,,,2050501,Angiotensin-converting Enzyme Inhibitors,
+54928,1470020,Lisinopril 10mg tablets (Bristol Laboratories Ltd),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+32048,84492020,Kaplon 50mg tablets (Teva UK Ltd),Captopril,50mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+64602,47141020,Perindopril erbumine 2mg tablets (Waymade Healthcare Plc),Perindopril erbumine,2mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+19223,64818020,Lisinopril 10mg tablets (Teva UK Ltd),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+35007,91818020,Ramipril 10mg/5ml oral suspension,Ramipril,2mg/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+57346,47146020,Ramipril 10mg capsules (Waymade Healthcare Plc),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+15085,58452020,Innovace Titration pack (Merck Sharp & Dohme Ltd),Enalapril Maleate,,Titration Pack,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+64902,53969021,Lisinopril 5mg/5ml oral solution sugar free,,,,,2050501,Angiotensin-converting Enzyme Inhibitors,
+34877,67460020,Ramipril 10mg Capsule (Sovereign Medical Ltd),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34539,67175020,Ramipril 5mg capsules (Sandoz Ltd),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+277,68570020,Lisinopril 2.5mg tablets,Lisinopril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34698,67770020,Ramipril 1.25mg capsules (Zentiva),Ramipril,1.25mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+58682,66939020,Lisinopril 2.5mg tablets (Mylan Ltd),Lisinopril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+19208,61344020,Enalapril 10mg tablets (Actavis UK Ltd),Enalapril maleate,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+43813,76373020,Perindopril erbumine 2mg tablets (Actavis UK Ltd),Perindopril erbumine,2mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+58451,71538020,Lisinopril 2.5mg tablets (Almus Pharmaceuticals Ltd),Lisinopril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+57882,19854020,Enalapril 2.5mg/5ml oral suspension,Enalapril maleate,500microgram/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34562,56639020,Captopril 25mg Tablet (IVAX Pharmaceuticals UK Ltd),Captopril,25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34583,67518020,Ramipril 10mg Capsule (Dexcel-Pharma Ltd),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34952,61298020,Enalapril 10mg tablets (Mylan Ltd),Enalapril maleate,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34490,67129020,Ramipril 2.5mg capsules (Teva UK Ltd),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+63010,10706020,Ramipril 10mg tablets (Phoenix Healthcare Distribution Ltd),Ramipril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+53820,69229020,Lisinopril 5mg tablets (Arrow Generics Ltd),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34505,67170020,Ramipril 2.5mg capsules (Sandoz Ltd),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+36753,75031020,Ednyt 10mg Tablet (Dominion Pharma),Enalapril maleate,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+69,68575020,Lisinopril 20mg tablets,Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+46890,477021,Ramipril 5mg/5ml oral suspension,Ramipril,1mg/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+38854,95370020,Quinapril 20mg/5ml oral solution,Quinapril Hydrochloride,20mg/5ml,Oral Suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+53719,1427020,Enalapril 20mg tablets (Alliance Healthcare (Distribution) Ltd),Enalapril maleate,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+61985,67121020,Ramipril 1.25mg tablets (Teva UK Ltd),Ramipril,1.25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+46979,65143020,Lisinopril 20mg tablets (Sandoz Ltd),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+37964,94697020,Perindopril arginine 2.5mg tablets,Perindopril Arginine,2.5mg,Tablets,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+28820,85702020,Captomex 25mg tablets (Actavis UK Ltd),Captopril,25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+5159,69850020,Quinapril 20mg tablets,Quinapril hydrochloride,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+8026,71440020,Gopten 2mg capsules (Abbott Laboratories Ltd),Trandolapril,2mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+32934,88109020,Lopace 10mg capsules (Discovery Pharmaceuticals),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+33894,67144020,Ramipril 10mg capsules (Teva UK Ltd),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+761,87049020,Ramipril 1.25mg tablets,Ramipril,1.25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+17006,85824020,Triapin 5mg/5mg modified-release tablets (Sanofi),Felodipine/Ramipril,5mg + 5mg,Modified-release tablet,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,
+33078,60335020,Enalapril 20mg tablets (A A H Pharmaceuticals Ltd),Enalapril maleate,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+5861,74179020,Fosinopril 20mg tablets,Fosinopril sodium,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+23478,84464020,Tensopril 50mg tablets (Teva UK Ltd),Captopril,50mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+18325,52610020,Acepril 50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Captopril,50mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+50780,30786020,Enalapril 2mg/5ml oral solution,Enalapril maleate,400microgram/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+44527,98847020,Captopril 5mg/ml oral solution sugar free,Captopril,5mg/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+40355,89044020,Quinil 5mg tablets (Tillomed Laboratories Ltd),Quinapril hydrochloride,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+38026,94707020,Coversyl Arginine 10mg tablets (Servier Laboratories Ltd),Perindopril Arginine,10mg,Tablets,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+32597,65140020,Lisinopril 10mg tablets (Sandoz Ltd),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+28724,80671020,Perdix 7.5mg tablets (UCB Pharma Ltd),Moexipril hydrochloride,7.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+12858,81182020,Imidapril 10mg tablets,Imidapril hydrochloride,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+42723,73041020,Pralenal 5 tablets (Opus Pharmaceuticals Ltd),Enalapril maleate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+58751,19799020,Enalapril 1.25mg/5ml oral suspension,Enalapril maleate,250microgram/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+43412,65196020,Lisinopril 2.5mg tablets (A A H Pharmaceuticals Ltd),Lisinopril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+42901,61261020,Enalapril 5mg tablets (Teva UK Ltd),Enalapril maleate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+55588,1482020,Lisinopril 20mg tablets (Sigma Pharmaceuticals Plc),Lisinopril,20mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+20579,85903020,Tarka modified-release capsules (Abbott Laboratories Ltd),Verapamil hydrochloride/Trandolapril,180mg + 2mg,Modified-release capsule,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,
+34651,69441020,Ramipril 10mg capsules (Mylan Ltd),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+56508,1552020,Coversyl 4mg tablets (Dowelhurst Ltd),Perindopril erbumine,4mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+57588,1446020,Zestril 2.5mg tablets (Mawdsley-Brooks & Company Ltd),Lisinopril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+16212,50589020,Vascace 1mg tablets (Roche Products Ltd),Cilazapril monohydrate,1mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+59557,1571020,Ramipril 2.5mg capsules (Kent Pharmaceuticals Ltd),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+56013,47144020,Ramipril 2.5mg capsules (Waymade Healthcare Plc),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+19204,64814020,Lisinopril 5mg tablets (Teva UK Ltd),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+54283,20380020,Lisinopril 5mg/5ml oral suspension (Special Order),Lisinopril,1mg/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+62958,67136020,Ramipril 5mg tablets (Teva UK Ltd),Ramipril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+50334,19817020,Enalapril 4mg/5ml oral suspension,Enalapril maleate,800microgram/1ml,Oral suspension,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+56506,1541020,Coversyl 2mg tablets (Dowelhurst Ltd),Perindopril erbumine,2mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+55903,61781020,Enalapril 10mg tablets (Dexcel-Pharma Ltd),Enalapril maleate,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+48008,68978020,Ramipril 5mg capsules (Actavis UK Ltd),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+16197,55290020,Vascace 2.5mg tablets (Roche Products Ltd),Cilazapril monohydrate,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+56356,1586020,Ramipril 10mg capsules (Alliance Healthcare (Distribution) Ltd),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+59788,1591020,Ramipril 10mg capsules (Bristol Laboratories Ltd),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+41746,61357020,Enalapril 10mg tablets (Sandoz Ltd),Enalapril maleate,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+45319,73490020,Perindopril erbumine 2mg tablets (A A H Pharmaceuticals Ltd),Perindopril erbumine,2mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+9731,75607020,Quinapril 40mg tablets,Quinapril hydrochloride,40mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+1144,48566020,Capoten 25mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Captopril,25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+48053,73269020,Ramipril 2.5mg capsules (Almus Pharmaceuticals Ltd),Ramipril,2.5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+53271,1463020,Lisinopril 10mg tablets (Alliance Healthcare (Distribution) Ltd),Lisinopril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+60730,1584020,Ramipril 5mg capsules (Phoenix Healthcare Distribution Ltd),Ramipril,5mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+37965,94705020,Coversyl Arginine 5mg tablets (Servier Laboratories Ltd),Perindopril arginine,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+39355,87452020,Tritace 10mg Tablet (Sterwin Medicines),Ramipril,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+45228,91312020,Captopril capsules,Captopril,,Capsules,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+13026,54165020,Cilazapril 5mg tablets,Cilazapril monohydrate,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+6362,87061020,Tritace 5mg tablets (Sanofi),Ramipril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+61117,20667021,Perindopril erbumine 4mg/5ml oral solution,,,,,2050501,Angiotensin-converting Enzyme Inhibitors,
+3069,52609020,Acepril 25mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Captopril,25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+46851,417021,Captopril 5mg/5ml oral solution,Captopril,1mg/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+38899,89046020,Quinil 10mg tablets (Tillomed Laboratories Ltd),Quinapril hydrochloride,10mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+52088,1459020,Lisinopril 5mg tablets (Phoenix Healthcare Distribution Ltd),Lisinopril,5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+31307,68137020,Odrik 500microgram capsules (Aventis Pharma),Trandolapril,500microgram,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+15958,82305020,Captopril 2mg tablets,Captopril,2mg,Tablets,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+6261,87057020,Tritace 1.25mg tablets (Sanofi),Ramipril,1.25mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+38285,75036020,Perindopril erbumine 4mg tablets (Teva UK Ltd),Perindopril erbumine,4mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+59915,21645021,Captopril 25mg/5ml oral solution sugar free,Captopril,5mg/1ml,Oral solution,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+6314,87051020,Ramipril 2.5mg tablets,Ramipril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+63594,35077020,Generic Tritace titration pack tablets,,,Not applicable,Route of administration not applicable,2050501,Angiotensin-converting Enzyme Inhibitors,
+60097,65209020,Lisinopril 2.5mg tablets (Zentiva),Lisinopril,2.5mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+1807,60379020,Captopril 50mg tablets,Captopril,50mg,Tablet,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+34710,67179020,Ramipril 10mg capsules (Sandoz Ltd),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,
+21162,78451020,Felodipine 2.5mg modified-release / Ramipril 2.5mg tablets,Felodipine/Ramipril,2.5mg + 2.5mg,Modified-release tablet,Oral,02050501/02060200,Angiotensin-converting Enzyme Inhibitors/Calcium-channel Blockers,
+13755,77942020,Enalapril 10mg wafer,Enalapril Maleate,10mg,Wafer,,2050501,Angiotensin-converting Enzyme Inhibitors,
+56169,70076020,Ramipril 10mg capsules (Arrow Generics Ltd),Ramipril,10mg,Capsule,Oral,2050501,Angiotensin-converting Enzyme Inhibitors,

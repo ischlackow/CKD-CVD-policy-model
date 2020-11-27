@@ -1,421 +1,421 @@
-prodcode,therapyevents,gemscriptcode,productname,drugsubstancename,substancestrength,formulation,routeofadministration,bnfcode,bnfheader,databasebuild
-35778,3,58483020,Labrocol 100mg Tablet (Lagap),Labetalol hydrochloride,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-2361,31167,54886020,Trasicor 80mg Tablet (Novartis Pharmaceuticals UK Ltd),Oxprenolol hydrochloride,80mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-40240,64,49924020,Labetalol 400mg tablets (A A H Pharmaceuticals Ltd),Labetalol hydrochloride,400mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Aug-09
-43251,2,75323020,Bisoprolol 1.25mg tablets (Mylan Ltd),Bisoprolol fumarate,1.25mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Aug-10
-5478,6111,59376020,Propranolol 10mg/5ml oral solution sugar free,Propranolol hydrochloride,2mg/1ml,Oral solution,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Feb-09
-58763,1,47116020,Bisoprolol 2.5mg tablets (Waymade Healthcare Plc),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Feb-14
-63535,0,1085020,Bisoprolol 5mg tablets (Relonchem Ltd),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Jun-15
-58491,0,924020,Propranolol 40mg tablets (Alliance Healthcare (Distribution) Ltd),Propranolol hydrochloride,40mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Jan-14
-34378,38,50435020,Propranolol 10mg tablets (A A H Pharmaceuticals Ltd),Propranolol hydrochloride,10mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Feb-09
-7543,58407,56162020,Kalten capsules (M & A Pharmachem Ltd),Atenolol/Amiloride hydrochloride/Hydrochlorothiazide,50mg + 2.5mg + 25mg,Capsule,Oral,2040100,Beta-adrenoceptor Blocking Drugs With Diuretic,Feb-09
-29998,29,69479020,Metoros 190mg Tablet (Novartis Pharmaceuticals UK Ltd),Metoprolol,190mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-34741,1,67913020,Carvedilol 3.125mg tablets (IVAX Pharmaceuticals UK Ltd),Carvedilol,3.125mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-33839,171,62689020,Bisoprolol 10mg tablets (Actavis UK Ltd),Bisoprolol fumarate,10mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Feb-09
-55416,0,71580020,Propranolol 40mg tablets (Almus Pharmaceuticals Ltd),Propranolol hydrochloride,40mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",May-13
-64160,0,15600021,Propranolol 5mg/5ml oral solution sugar free (AM Distributions (Yorkshire) Ltd),Propranolol hydrochloride,1mg/1ml,Oral solution,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Sep-15
-4588,4474,52291020,Visken 5mg Tablet (Sovereign Medical Ltd),Pindolol,5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-17615,8030,83190020,Cardicor 5mg tablets (Merck Serono Ltd),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Feb-09
-61573,8,30311020,Atenolol 25mg/5ml oral solution,,,,,2040000,Beta-adrenoceptor Blocking Drugs,Nov-14
-40167,113,54126020,Metoprolol 100mg tablets (IVAX Pharmaceuticals UK Ltd),Metoprolol tartrate,100mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Aug-09
-55949,6,20600020,Propranolol 40mg/5ml oral solution,Propranolol hydrochloride,8mg/1ml,Oral solution,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Aug-13
-63422,0,47121020,Carvedilol 12.5mg tablets (Waymade Healthcare Plc),Carvedilol,12.5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Jun-15
-52611,11,31454020,Bisoprolol 10mg/5ml oral solution,,,,,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Jan-13
-47107,102,567021,Carvedilol 5mg/5ml oral suspension,Carvedilol,1mg/1ml,Oral suspension,Oral,2040000,Beta-adrenoceptor Blocking Drugs,May-12
-10716,8671,54539020,Corgard 80mg tablets (Sanofi),Nadolol,80mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-34509,51,60551020,Metoprolol 100mg tablets (Mylan Ltd),Metoprolol tartrate,100mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-34501,79,67708020,Carvedilol 12.5mg tablets (Actavis UK Ltd),Carvedilol,12.5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-34177,628,49922020,Labetalol 100mg tablets (A A H Pharmaceuticals Ltd),Labetalol hydrochloride,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-58297,1,918020,Propranolol 10mg tablets (Kent Pharmaceuticals Ltd),Propranolol hydrochloride,10mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Dec-13
-29762,142,63850020,Mepranix 50mg Tablet (Ashbourne Pharmaceuticals Ltd),Metoprolol tartrate,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-31776,58,63160020,Propranolol 40mg tablets (Mylan Ltd),Propranolol hydrochloride,40mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Feb-09
-45877,10,99275020,Beta-Prograne 160mg modified-release capsules (Teva UK Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Aug-11
-53826,0,1006020,Atenolol 25mg tablets (Boston Healthcare Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-13
-18414,2446,72241020,Eucardic 12.5mg tablets (Roche Products Ltd),Carvedilol,12.5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-3748,8225,59365020,Oxprenolol 160mg Tablet,Oxprenolol Hydrochloride,160mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-1048,29810,54495020,Inderal 80mg tablets (AstraZeneca UK Ltd),Propranolol hydrochloride,80mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Feb-09
-4542,57494,68847020,Atenolol 50mg / Nifedipine 20mg modified-release capsules,Atenolol/Nifedipine,50mg + 20mg,Modified-release capsule,Oral,02040000/02060200,Beta-adrenoceptor Blocking Drugs/Calcium-channel Blockers,Feb-09
-34783,183,50422020,Propranolol 10mg tablets (Actavis UK Ltd),Propranolol hydrochloride,10mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Feb-09
-33909,237,90617020,Congescor 1.25mg tablets (Tillomed Laboratories Ltd),Bisoprolol fumarate,1.25mg,Tablet,Oral,02040000/02050000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Feb-09
-19178,294,62996020,Bisoprolol 10mg tablets (Ranbaxy (UK) Ltd),Bisoprolol fumarate,10mg,Tablet,Oral,02040000/02050000/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Management Of Myocardial Infarction,Feb-09
-34094,4216,50072020,Metoprolol 50mg tablets (A A H Pharmaceuticals Ltd),Metoprolol tartrate,50mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-44858,54,56835020,Atenolol 25mg tablets (Actavis UK Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Mar-11
-48682,780,183020,Propranolol 50mg/5ml oral solution sugar free,Propranolol hydrochloride,10mg/1ml,Oral solution,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Jan-13
-51998,0,1011020,Atenolol 25mg tablets (Co-Pharma Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Jan-13
-7474,11555,54884020,Trasicor 20mg Tablet (Novartis Pharmaceuticals UK Ltd),Oxprenolol hydrochloride,20mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-3167,32567,59374020,Propranolol 160mg tablets,Propranolol hydrochloride,160mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Feb-09
-56240,18,40506020,Bisoprolol 3.75mg tablets (Sandoz Ltd),Bisoprolol fumarate,3.75mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Aug-13
-27357,9,49156020,Oxprenolol 40mg Tablet (Actavis UK Ltd),Oxprenolol hydrochloride,40mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-26922,1,56705020,Brevibloc Premixed 100mg/10ml solution for injection vials (Baxter Healthcare Ltd),Esmolol hydrochloride,10mg/1ml,Solution for injection,Intravenous,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-34976,29,59302020,Atenolol 25mg tablets (Tillomed Laboratories Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-35938,264,64558020,Propranolol 80mg modified-release capsules (A A H Pharmaceuticals Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Feb-09
-3691,13965,66694020,Sotalol 160mg with hydrochlorothiazide 25mg tablet,Sotalol Hydrochloride/Hydrochlorothiazide,160mg + 25mg,Tablets,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-472,3240354,68438020,Bisoprolol 5mg tablets,Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Feb-09
-53204,0,973020,Atenolol 50mg tablets (Alliance Healthcare (Distribution) Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Jan-13
-33850,103,56836020,Atenolol 50mg tablets (Actavis UK Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-19172,4267,57790020,Atenolol 25mg tablets (IVAX Pharmaceuticals UK Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-55791,0,40507020,Bisoprolol 3.75mg tablets (Actavis UK Ltd),Bisoprolol fumarate,3.75mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Jun-13
-58498,33,15612021,Bisoprolol 2.5mg tablets (Medreich Plc),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Jan-14
-62407,0,94413020,Bisoprolol oral solution,Bisoprolol Fumarate,,,,2040000,Beta-adrenoceptor Blocking Drugs,Feb-15
-14808,1408,55786020,Bedranol SR 80mg capsules (Sandoz Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Feb-09
-13394,4098,51861020,Tenormin 25mg/5ml syrup (AstraZeneca UK Ltd),Atenolol,5mg/1ml,Oral solution,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-1295,30635,68333020,Labetalol 400mg tablets,Labetalol hydrochloride,400mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-52686,30,31458020,Bisoprolol 2.5mg/5ml oral solution,Bisoprolol fumarate,500microgram/1ml,Oral solution,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Jan-13
-822,68,91125020,Bisoprolol 1.5mg/5ml oral suspension,Bisoprolol Fumarate,1.5mg/5ml,Oral Suspension,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-21133,24,86681020,Atenamin 50mg Tablet (OPD Pharm),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-59961,700,21461021,Nebivolol 10mg tablets,Nebivolol hydrochloride,10mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,May-14
-8113,37984,59925020,Acebutolol 200mg capsules,Acebutolol hydrochloride,200mg,Capsule,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-3474,26248,53660020,Betaloc-SA 200mg tablets (AstraZeneca UK Ltd),Metoprolol tartrate,200mg,Modified-release tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-30636,7,72687020,Vasaten 50mg Tablet (Shire Pharmaceuticals Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-46908,6,56095020,Atenolol 100mg tablets (Kent Pharmaceuticals Ltd),Atenolol,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Mar-12
-33085,1460,51023020,Atenolol 100mg tablets (A A H Pharmaceuticals Ltd),Atenolol,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-46936,2,67784020,Carvedilol 3.125mg tablets (A A H Pharmaceuticals Ltd),Carvedilol,3.125mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Mar-12
-29180,1256,90895020,Trasicor 80mg tablets (Amdipharm Plc),Oxprenolol hydrochloride,80mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-20082,2568,50243020,Lopresor SR 200mg tablets (Recordati Pharmaceuticals Ltd),Metoprolol tartrate,200mg,Modified-release tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-63493,0,77726020,Bisoprolol 2.5mg tablets (Actavis UK Ltd),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Jun-15
-34208,8,51777020,Propranolol SR 160mg Modified-release capsule (C P Pharmaceuticals Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-59982,0,1012020,Atenolol 25mg tablets (Accord Healthcare Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,May-14
-34882,59,52909020,Atenolol 50mg Tablet (Berk Pharmaceuticals Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-36603,60,50847020,Propranolol SR 160mg Modified-release capsule (Hillcross Pharmaceuticals Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-45297,1,64022020,Propranolol 40mg tablets (IVAX Pharmaceuticals UK Ltd),Propranolol hydrochloride,40mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",May-11
-3588,61965,68353020,Monocor 5mg tablets (Wyeth Pharmaceuticals),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050000/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Management Of Myocardial Infarction,Feb-09
-22793,3,58484020,Labrocol 200mg Tablet (Lagap),Labetalol hydrochloride,200mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-8023,18014,52703020,Sectral 400mg tablets (Sanofi),Acebutolol hydrochloride,400mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-13871,6506,73921020,Co-prenozide 160mg/0.25mg modified-release tablets,Oxprenolol hydrochloride/Cyclopenthiazide,160mg + 250microgram,Modified-release tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-34365,8110,53708020,Atenolol 50mg tablets (Teva UK Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-34214,1,50424020,Propranolol 160mg tablets (Actavis UK Ltd),Propranolol hydrochloride,160mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Feb-09
-49142,30,31922020,Carvedilol 3.125mg/5ml oral suspension,Carvedilol,625microgram/1ml,Oral suspension,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Jan-13
-8262,171901,68837020,Celiprolol 200mg tablets,Celiprolol hydrochloride,200mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-63736,0,14465021,Labetalol 100mg tablets (Waymade Healthcare Plc),Labetalol hydrochloride,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Jul-15
-594,3612410,83178020,Bisoprolol 2.5mg tablets,Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Feb-09
-53664,19,40505020,Bisoprolol 2.5mg tablets (Sandoz Ltd),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Feb-13
-33602,4,85990020,Slo-Pro 160mg capsules (Mylan Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Feb-09
-61651,1,1149020,Bisoprolol 7.5mg tablets (Almus Pharmaceuticals Ltd),Bisoprolol fumarate,7.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Nov-14
-7528,18982,80460020,Nebilet 5mg tablets (A. Menarini Farmaceutica Internazionale SRL),Nebivolol hydrochloride,5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-34754,199,51439020,Atenolol 100mg tablets (Sandoz Ltd),Atenolol,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-31536,71,56093020,Atenolol 25mg tablets (Kent Pharmaceuticals Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-10892,38988,68369020,Emcor 10mg tablets (Merck Serono Ltd),Bisoprolol fumarate,10mg,Tablet,Oral,02040000/02050000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Feb-09
-41555,26,50436020,Propranolol 40mg tablets (A A H Pharmaceuticals Ltd),Propranolol hydrochloride,40mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Mar-10
-25359,518,79243020,Rapranol SR 160mg capsules (Ranbaxy (UK) Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Feb-09
-39819,2,89270020,Esmolol 2.5g/250ml infusion bags,Esmolol Hydrochloride,2500mg/250ml,Solution For Infusion,Intravenous Infusion,2040000,Beta-adrenoceptor Blocking Drugs,Jul-09
-7429,52,51862020,Tenormin 5mg/10ml solution for injection ampoules (AstraZeneca UK Ltd),Atenolol,500microgram/1ml,Solution for injection,Intravenous,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-59695,0,980020,Atenolol 50mg tablets (Boston Healthcare Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Apr-14
-16776,13519,68966020,Celectol 400mg Tablet (Pantheon Healthcare Ltd),Celiprolol hydrochloride,400mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-38991,1,75624020,Bisoprolol 7.5mg tablets (A A H Pharmaceuticals Ltd),Bisoprolol fumarate,7.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Feb-09
-62638,1,57012020,Labetalol 100mg tablets (Actavis UK Ltd),Labetalol hydrochloride,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Mar-15
-47300,1,76819020,Nebivolol 2.5mg tablets (Glenmark Generics (Europe) Ltd),Nebivolol hydrochloride,2.5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Jun-12
-24083,294,62681020,Bisoprolol 5mg tablets (Teva UK Ltd),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Feb-09
-8068,39930,64670020,Metoprolol 200mg modified-release tablets,Metoprolol tartrate,200mg,Modified-release tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-297,1458898,59368020,Propranolol 10mg tablets,Propranolol hydrochloride,10mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Feb-09
-40241,20,56193020,Propranolol LA 160mg Capsule (Approved Prescription Services Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Aug-09
-50514,1,1122020,Bisoprolol 2.5mg tablets (Chanelle Medical UK Ltd),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Jan-13
-40761,44944,97367020,Nebivolol 2.5mg tablets,Nebivolol hydrochloride,2.5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Nov-09
-8935,7393,64895020,Nadolol 40mg tablets,Nadolol,40mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-33644,3,50437020,Propranolol 80mg tablets (A A H Pharmaceuticals Ltd),Propranolol hydrochloride,80mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Feb-09
-56173,1303,955020,Half Beta-Prograne 80mg modified-release capsules (Actavis UK Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Aug-13
-34821,126,62677020,Bisoprolol 10mg tablets (Mylan Ltd),Bisoprolol fumarate,10mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Feb-09
-28128,822,54244020,Propranolol 80mg Modified-release capsule (Actavis UK Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-62711,0,20143021,Propranolol 80mg modified-release capsules (Waymade Healthcare Plc),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Apr-15
-1050,92099,54494020,Inderal 40mg tablets (AstraZeneca UK Ltd),Propranolol hydrochloride,40mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Feb-09
-52728,0,1077020,Beta-Adalat modified-release capsules (Lexon (UK) Ltd),Atenolol/Nifedipine,50mg + 20mg,Modified-release capsule,Oral,02040000/02060200,Beta-adrenoceptor Blocking Drugs/Calcium-channel Blockers,Jan-13
-34585,339,51440020,Atenolol 25mg tablets (Sandoz Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-30541,10,57093020,Esmolol HCl 250mg/ml concentrate solution for infusion,Esmolol Hydrochloride,250mg/ml,Concentrate For Solution For Infusion,,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-33376,1,78494020,Probeta LA 160mg Capsule (Trinity Pharmaceuticals Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-59222,0,43810020,Labetalol 100mg/20ml solution for injection ampoules (Focus Pharmaceuticals Ltd),Labetalol hydrochloride,5mg/1ml,Solution for injection,Intravenous,2040000,Beta-adrenoceptor Blocking Drugs,Mar-14
-12651,5026,67081020,Timolol 10mg / Bendroflumethiazide 2.5mg tablets,Timolol maleate/Bendroflumethiazide,10mg + 2.5mg,Tablet,Oral,2040100,Beta-adrenoceptor Blocking Drugs With Diuretic,Feb-09
-47041,11,75328020,Bisoprolol 2.5mg tablets (Mylan Ltd),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Apr-12
-7049,139783,72237020,Carvedilol 25mg tablets,Carvedilol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-1597,97536,63899020,Labetalol 100mg tablets,Labetalol hydrochloride,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-18185,2137,83191020,Cardicor 7.5mg tablets (Merck Serono Ltd),Bisoprolol fumarate,7.5mg,Tablet,Oral,02040000/02050000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Feb-09
-20502,15101,72697020,Atenix 100 tablets (Ashbourne Pharmaceuticals Ltd),Atenolol,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-46935,2,67701020,Carvedilol 3.125mg tablets (Actavis UK Ltd),Carvedilol,3.125mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Mar-12
-34265,545,51438020,Atenolol 50mg tablets (Sandoz Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-41827,47,60515020,Labetalol 100mg tablets (Mylan Ltd),Labetalol hydrochloride,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Apr-10
-12296,18151,52701020,Sectral 100mg capsules (Sanofi),Acebutolol hydrochloride,100mg,Capsule,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-23326,198,71607020,Betadur cr 160mg Modified-release capsule (Monmouth Pharmaceuticals Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-25462,50,61503020,Clopamide 5mg with Pindolol 10mg tablets,Pindolol/Clopamide,5mg + 10mg,Tablets,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-59597,12,75862020,Propranolol 160mg modified-release capsules (A A H Pharmaceuticals Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Apr-14
-3005,271043,49929020,Inderal LA 160mg capsules (AstraZeneca UK Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Feb-09
-11793,1987,67160020,Metoprolol 50mg/5ml oral suspension,Metoprolol tartrate,10mg/1ml,Oral suspension,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-35940,1755,91237020,Celectol 400mg tablets (Zentiva),Celiprolol hydrochloride,400mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-53885,0,74139020,Bisoprolol 1.25mg tablets (A A H Pharmaceuticals Ltd),Bisoprolol fumarate,1.25mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Feb-13
-20012,1392,52292020,Visken 15mg Tablet (Sovereign Medical Ltd),Pindolol,15mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-59148,16,41897020,Bisoprolol 2.5mg tablets (Zentiva),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Mar-14
-58974,0,1116020,Bisoprolol 2.5mg tablets (Alliance Healthcare (Distribution) Ltd),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Mar-14
-19200,22,63135020,Bisoprolol 5mg tablets (IVAX Pharmaceuticals UK Ltd),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050000/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Management Of Myocardial Infarction,Feb-09
-29398,317,86682020,Atenamin 100mg Tablet (OPD Pharm),Atenolol,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-4410,143653,83758020,Carvedilol 6.25mg tablets,Carvedilol,6.25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-28996,165,87099020,Bedranol SR 160mg capsules (Sandoz Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Feb-09
-751,466375,80458020,Nebivolol 5mg tablets,Nebivolol hydrochloride,5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-1448,465068,66308020,Propranolol 160mg modified-release capsules,Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Feb-09
-8172,28837,59924020,Acebutolol 100mg capsules,Acebutolol hydrochloride,100mg,Capsule,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-2587,343521,51860020,Tenormin 100mg tablets (AstraZeneca UK Ltd),Atenolol,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-5,14033284,60153020,Atenolol 50mg tablets,Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-17122,0,86794020,Isoprenaline 200micrograms/1ml solution for injection ampoules,Isoprenaline hydrochloride,200microgram/1ml,Solution for injection,Intramuscular/Subcutaneous/Intravenous/Intracardiac,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-55929,0,45144020,Bisoprolol 5mg tablets (Accord Healthcare Ltd),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Aug-13
-61340,0,38485020,Bisoprolol 5mg tablets (DE Pharmaceuticals),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Oct-14
-20728,37,86680020,Atenamin 25mg Tablet (OPD Pharm),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-54542,0,1008020,Atenolol 25mg tablets (Zanza Laboratories Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Apr-13
-57063,1079,957020,Bedranol SR 80mg capsules (Almus Pharmaceuticals Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Sep-13
-59495,1,43811020,Bisoprolol 1.25mg tablets (Teva UK Ltd),Bisoprolol fumarate,1.25mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Apr-14
-33092,661,51022020,Atenolol 50mg tablets (A A H Pharmaceuticals Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-7852,7042,54409020,Blocadren 10mg Tablet (Merck Sharp & Dohme Ltd),Timolol maleate,10mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-54106,1,35298020,Carvedilol 1.5mg/5ml oral suspension,Carvedilol,300microgram/1ml,Oral suspension,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Mar-13
-15117,9698,68850020,Nifedipine with atenolol 20mg + 50mg Capsule,Nifedipine/Atenolol,20mg + 50mg,Capsule,Oral,02040000/02060200,Beta-adrenoceptor Blocking Drugs/Calcium-channel Blockers,Feb-09
-63850,8,43812020,Bisoprolol 2.5mg tablets (Teva UK Ltd),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Jul-15
-61564,0,47117020,Bisoprolol 3.75mg tablets (Waymade Healthcare Plc),Bisoprolol fumarate,3.75mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Nov-14
-45765,18,96602020,Syprol 40mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),Propranolol hydrochloride,8mg/1ml,Oral solution,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Jul-11
-37118,148,73449020,Bisoprolol 2.5mg tablets (A A H Pharmaceuticals Ltd),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Feb-09
-7853,79993,69193020,Timolol 10mg tablets,Timolol maleate,10mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-7553,117,90711020,Bisoprolol 5mg/5ml oral suspension,Bisoprolol fumarate,1mg/1ml,Oral suspension,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Feb-09
-39846,1,84559020,Vivacor 5mg tablets (Lexon (UK) Ltd),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050000/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Management Of Myocardial Infarction,Aug-09
-50224,31,41307020,Congescor 2.5mg tablets (Teva UK Ltd),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050000,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure,Jan-13
-55298,0,1097020,Bisoprolol 10mg tablets (Sigma Pharmaceuticals Plc),Bisoprolol fumarate,10mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,May-13
-31214,1,63161020,Propranolol 80mg tablets (Mylan Ltd),Propranolol hydrochloride,80mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Feb-09
-53802,0,1007020,Atenolol 25mg tablets (Sigma Pharmaceuticals Plc),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-13
-57176,2,45145020,Bisoprolol 10mg tablets (Accord Healthcare Ltd),Bisoprolol fumarate,10mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Sep-13
-8978,472,63928020,Propanix 160mg Modified-release capsule (Ashbourne Pharmaceuticals Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-14146,1438,83760020,Eucardic 6.25mg tablets (Roche Products Ltd),Carvedilol,6.25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-35062,537,90891020,Trasicor 20mg tablets (Amdipharm Plc),Oxprenolol hydrochloride,20mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-54623,77,99279020,Beta-Prograne 160mg modified-release capsules (Actavis UK Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Apr-13
-33184,81,52914020,Atenolol 100mg tablets (Wockhardt UK Ltd),Atenolol,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-57934,14,67815020,Bisoprolol 5mg tablets (Sandoz Ltd),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Dec-13
-27700,312,50423020,Propranolol 40mg tablets (Actavis UK Ltd),Propranolol hydrochloride,40mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Feb-09
-29368,585,53709020,Atenolol 25mg tablets (Teva UK Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-8555,18050,52702020,Sectral 200mg capsules (Sanofi),Acebutolol hydrochloride,200mg,Capsule,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-47674,6,49918020,Labetalol 200mg Tablet (C P Pharmaceuticals Ltd),Labetalol hydrochloride,200mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Aug-12
-45494,86,71577020,Propranolol 10mg tablets (Almus Pharmaceuticals Ltd),Propranolol hydrochloride,10mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Jun-11
-32552,771,90619020,Congescor 2.5mg tablets (Tillomed Laboratories Ltd),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Feb-09
-14117,1226,72243020,Eucardic 3.125mg tablets (Roche Products Ltd),Carvedilol,3.125mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-56485,162,1155020,Celectol 200mg tablets (Waymade Healthcare Plc),Celiprolol hydrochloride,200mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Aug-13
-10429,16361,50246020,Lopresor 50mg Tablet (Novartis Pharmaceuticals UK Ltd),Metoprolol tartrate,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-57817,3,74385020,Atenolol 50mg tablets (Zentiva),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Dec-13
-19182,3848,55394020,Atenolol 50mg tablets (IVAX Pharmaceuticals UK Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-17322,7777,72698020,Atenix 25 tablets (Ashbourne Pharmaceuticals Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-8061,267,66693020,Sotalol 80mg with hydrochlorothiazide 12.5mg tablet,Sotalol Hydrochloride/Hydrochlorothiazide,80mg + 12.5mg,Tablets,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-61719,0,1072020,Beta-Adalat modified-release capsules (Waymade Healthcare Plc),Atenolol/Nifedipine,50mg + 20mg,Modified-release capsule,Oral,02040000/02060200,Beta-adrenoceptor Blocking Drugs/Calcium-channel Blockers,Nov-14
-599,1949856,68440020,Bisoprolol 1.25mg tablets,Bisoprolol fumarate,1.25mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Feb-09
-24461,4,53655020,Betaloc I.V. 5mg/5ml solution for injection ampoules (AstraZeneca UK Ltd),Metoprolol tartrate,1mg/1ml,Solution for injection,Intravenous,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-57626,2,19127020,Bisoprolol 1.25mg/5ml oral solution,Bisoprolol fumarate,250microgram/1ml,Oral solution,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Oct-13
-1290,1598741,68439020,Bisoprolol 10mg tablets,Bisoprolol fumarate,10mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Feb-09
-32162,31,59465020,Propranolol 80mg Modified-release capsule (Lagap),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-45343,2,51778020,Propranolol SR 80mg Modified-release capsule (C P Pharmaceuticals Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,May-11
-3087,2914,75253020,Propranolol 40mg/5ml oral solution sugar free,Propranolol hydrochloride,8mg/1ml,Oral solution,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Feb-09
-54297,24,34198020,Propranolol 50mg/5ml oral solution,Propranolol hydrochloride,10mg/1ml,Oral solution,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Mar-13
-769,1425691,66307020,Propranolol 80mg modified-release capsules,Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Feb-09
-707,1864188,59369020,Propranolol 40mg tablets,Propranolol hydrochloride,40mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Feb-09
-59969,24,1090020,Bisoprolol 5mg tablets (Almus Pharmaceuticals Ltd),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,May-14
-65027,0,44190021,Bisoprolol 5mg / Aspirin 100mg capsules,,,,,02040000/02090000,Beta-adrenoceptor Blocking Drugs/Antiplatelet Drugs,Dec-15
-55849,1,63164020,Propranolol 160mg tablets (Mylan Ltd),Propranolol hydrochloride,160mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Aug-13
-17783,6,57624020,Spiroprop Tablet (Pharmacia Ltd),Propranolol Hydrochloride/Spironolactone,,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-29230,4,59496020,Slow-pren 160mg Tablet (IVAX Pharmaceuticals UK Ltd),Oxprenolol hydrochloride,160mg,Modified-release tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-19202,22,67720020,Carvedilol 6.25mg tablets (Teva UK Ltd),Carvedilol,6.25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-64703,3,1227020,Nebivolol 5mg tablets (Glenmark Generics (Europe) Ltd),Nebivolol hydrochloride,5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Nov-15
-4725,20095,68332020,Labetalol 50mg tablets,Labetalol hydrochloride,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-59037,5,62942020,Bisoprolol 5mg tablets (A A H Pharmaceuticals Ltd),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Mar-14
-41740,37,63783020,Celiprolol 200mg tablets (Teva UK Ltd),Celiprolol hydrochloride,200mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Mar-10
-55778,0,983020,Atenolol 50mg tablets (Phoenix Healthcare Distribution Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Jun-13
-34949,58,54245020,Propranolol 160mg Modified-release capsule (Actavis UK Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-43564,26,62726020,Bisoprolol 5mg Tablet (PLIVA Pharma Ltd),Bisoprolol fumarate,5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Sep-10
-54752,0,984020,Atenolol 50mg tablets (Co-Pharma Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Apr-13
-45250,40,66745020,Labetalol 400mg tablets (Sandoz Ltd),Labetalol hydrochloride,400mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,May-11
-34695,35,56094020,Atenolol 50mg tablets (Kent Pharmaceuticals Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-4771,33930,68375020,Emcor LS 5mg tablets (Merck Serono Ltd),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Feb-09
-19437,2294,72242020,Eucardic 25mg tablets (Roche Products Ltd),Carvedilol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-4429,78612,51994020,Trasidrex modified-release tablets (Mercury Pharma Group Ltd),Oxprenolol hydrochloride/Cyclopenthiazide,160mg + 250microgram,Modified-release tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-59415,5,20140021,Propranolol 40mg tablets (Accord Healthcare Ltd),Propranolol hydrochloride,40mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Apr-14
-5284,25668,65802020,Pindolol 5mg tablets,Pindolol,5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-12037,4654,48400020,Betim 10mg Tablet (ICN Pharmaceuticals France S.A.),Timolol maleate,10mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-17082,168,79593020,Syprol 5mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),Propranolol hydrochloride,1mg/1ml,Oral solution,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Feb-09
-10191,26486,72696020,Atenix 50 tablets (Ashbourne Pharmaceuticals Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-1684,66439,68629020,Beta-Adalat modified-release capsules (Bayer Plc),Atenolol/Nifedipine,50mg + 20mg,Modified-release capsule,Oral,02040000/02060200,Beta-adrenoceptor Blocking Drugs/Calcium-channel Blockers,Feb-09
-48745,0,37067020,Timolol 10mg / Amiloride 2.5mg / Hydrochlorothiazide 25mg tablets,,,,,2040100,Beta-adrenoceptor Blocking Drugs With Diuretic,Jan-13
-26895,164,79594020,Syprol 10mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),Propranolol hydrochloride,2mg/1ml,Oral solution,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Feb-09
-54479,70,1103020,Bisoprolol 1.25mg tablets (Alliance Healthcare (Distribution) Ltd),Bisoprolol fumarate,1.25mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Apr-13
-21905,40,86502020,Bipranix 10mg tablets (Ashbourne Pharmaceuticals Ltd),Bisoprolol fumarate,10mg,Tablet,Oral,02040000/02050000/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Management Of Myocardial Infarction,Feb-09
-10777,5773,54889020,Trasicor 160mg Tablet (Novartis Pharmaceuticals UK Ltd),Oxprenolol Hydrochloride,160mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-8071,56894,48396020,Betaloc 50mg tablets (AstraZeneca UK Ltd),Metoprolol tartrate,50mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-14058,9510,83182020,Cardicor 1.25mg tablets (Merck Serono Ltd),Bisoprolol fumarate,1.25mg,Tablet,Oral,02040000/02050000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Feb-09
-34925,39,65979020,Metoprolol 50mg tablets (Sandoz Ltd),Metoprolol tartrate,50mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-15619,155,57243020,Half-betadur cr 80mg Capsule (Monmouth Pharmaceuticals Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-25367,1291,84837020,Rapranol SR 80mg capsules (Ranbaxy (UK) Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Feb-09
-15042,780,66704020,Tolerzide Tablet (Bristol-Myers Squibb Pharmaceuticals Ltd),Sotalol Hydrochloride/Hydrochlorothiazide,,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-34740,23,67705020,Carvedilol 6.25mg tablets (Actavis UK Ltd),Carvedilol,6.25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-197,562,60300020,Atenolol 5mg/10ml solution for injection ampoules,Atenolol,500microgram/1ml,Solution for injection,Intravenous,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-42152,95,79595020,Syprol 50mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),Propranolol hydrochloride,10mg/1ml,Oral solution,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Apr-10
-58982,0,38487020,Bisoprolol 10mg tablets (Medreich Plc),Bisoprolol fumarate,10mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Mar-14
-58109,6,19125020,Bisoprolol 1.25mg/5ml oral suspension,Bisoprolol fumarate,250microgram/1ml,Oral suspension,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Dec-13
-26211,1377,68815020,Antipressan 25mg tablets (Teva UK Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-63724,0,47106020,Metoprolol 100mg tablets (Waymade Healthcare Plc),Metoprolol tartrate,100mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Jul-15
-46363,105,99271020,Half Beta-Prograne 80mg modified-release capsules (Teva UK Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Oct-11
-44083,2,57013020,Labetalol 200mg tablets (Actavis UK Ltd),Labetalol hydrochloride,200mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Dec-10
-55853,9,60484020,Pindolol 15mg Tablet (Hillcross Pharmaceuticals Ltd),Pindolol,15mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Aug-13
-3516,22924,59360020,Oxprenolol 20mg tablets,Oxprenolol hydrochloride,20mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-32836,657,60550020,Metoprolol 50mg tablets (Mylan Ltd),Metoprolol tartrate,50mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-24,5068572,60152020,Atenolol 100mg tablets,Atenolol,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-7091,259975,83179020,Bisoprolol 3.75mg tablets,Bisoprolol fumarate,3.75mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Feb-09
-47870,3,70250020,Atenolol 25mg tablets (Almus Pharmaceuticals Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Oct-12
-58407,0,53353020,Propranolol 80mg tablets (Teva UK Ltd),Propranolol hydrochloride,80mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Dec-13
-39233,1,68806020,Propranolol 80mg modified-release capsules (Teva UK Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Apr-09
-47673,30,54575020,Labetalol 400mg Tablet (Approved Prescription Services Ltd),Labetalol hydrochloride,400mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Aug-12
-38370,0,90779020,Labetalol 100mg/20ml solution for injection ampoules,Labetalol hydrochloride,5mg/1ml,Solution for injection,Intravenous,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-29827,50,71512020,Carteolol HCl 10mg tablets,Carteolol Hydrochloride,10mg,Tablets,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-24195,7872,68814020,Antipressan 100mg tablets (Teva UK Ltd),Atenolol,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-49953,0,1009020,Atenolol 25mg tablets (Bristol Laboratories Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Jan-13
-24191,13368,68813020,Antipressan 50mg tablets (Teva UK Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-34492,182,60231020,Atenolol 25mg tablets (Mylan Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-739,1229374,64666020,Metoprolol 50mg tablets,Metoprolol tartrate,50mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-52635,0,1082020,Bisoprolol 5mg tablets (Alliance Healthcare (Distribution) Ltd),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Jan-13
-39646,482,96562020,Bisoprolol 0.625mg/5ml oral solution,Bisoprolol Fumarate,0.625mg/5ml,Oral Liquid,Oral,2040000,Beta-adrenoceptor Blocking Drugs,May-09
-41591,313,62682020,Bisoprolol 10mg tablets (Teva UK Ltd),Bisoprolol fumarate,10mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Mar-10
-2590,64628,72526020,Tenormin 25mg tablets (AstraZeneca UK Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-21885,84,74896020,Oxyprenix SR 160mg tablets,Oxprenolol Hydrochloride,160mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-22208,28,84849020,Half propanix la 80mg Modified-release capsule (Ashbourne Pharmaceuticals Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-44808,6,77127020,Nebivolol 2.5mg tablets (A A H Pharmaceuticals Ltd),Nebivolol hydrochloride,2.5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Mar-11
-8707,22633,54881020,Trandate 200mg tablets (Focus Pharmaceuticals Ltd),Labetalol hydrochloride,200mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-44000,630,98730020,Bisoprolol 2.5mg/5ml oral suspension,Bisoprolol fumarate,500microgram/1ml,Oral suspension,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Dec-10
-3344,27406,48397020,Betaloc 100mg tablets (AstraZeneca UK Ltd),Metoprolol tartrate,100mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-14030,28766,83183020,Cardicor 2.5mg tablets (Merck Serono Ltd),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Feb-09
-34430,679,57037020,Metoprolol 50mg tablets (Actavis UK Ltd),Metoprolol tartrate,50mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-60565,1,70592020,Propranolol 40mg tablets (Ranbaxy (UK) Ltd),Propranolol hydrochloride,40mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Jul-14
-26,6385118,67920020,Atenolol 25mg tablets,Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-36261,15,59303020,Atenolol 50mg tablets (Tillomed Laboratories Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-47536,1,770021,Metoprolol tartrate 12.5mg/5ml Oral suspension,Metoprolol Tartrate,12.5mg/5ml,Oral Suspension,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Aug-12
-34884,26,66703020,Propranolol 160mg Modified-release capsule (Sandoz Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-19858,3157,83192020,Cardicor 10mg tablets (Merck Serono Ltd),Bisoprolol fumarate,10mg,Tablet,Oral,02040000/02050000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Feb-09
-55979,5,20535020,Metoprolol 25mg/5ml oral suspension,Metoprolol tartrate,5mg/1ml,Oral suspension,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Aug-13
-6066,63342,67919020,Atenolol 25mg/5ml oral solution sugar free,Atenolol,5mg/1ml,Oral solution,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-53414,0,985020,Atenolol 50mg tablets (Accord Healthcare Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Jan-13
-46614,260,195021,Lopresor 50mg tablets (Recordati Pharmaceuticals Ltd),Metoprolol tartrate,50mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Jan-12
-34575,358,52915020,Atenolol 25mg tablets (Wockhardt UK Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-7620,25903,59926020,Acebutolol 400mg tablets,Acebutolol hydrochloride,400mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-47907,135,538021,Bedranol SR 160mg capsules (Almus Pharmaceuticals Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Oct-12
-36576,3,63159020,Propranolol 10mg tablets (Mylan Ltd),Propranolol hydrochloride,10mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Feb-09
-4025,103751,51584020,Slow-Trasicor 160mg tablets (AMCo),Oxprenolol hydrochloride,160mg,Modified-release tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-14502,18,52381020,Metoprolol 5mg/5ml solution for injection ampoules,Metoprolol tartrate,1mg/1ml,Solution for injection,Intravenous,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-20468,9436,72042020,Half Beta-Prograne 80mg modified-release capsules (Tillomed Laboratories Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Feb-09
-24094,1881,90893020,Trasicor 40mg tablets (Amdipharm Plc),Oxprenolol hydrochloride,40mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-50403,0,73571020,Bisoprolol 1.25mg Tablet (Teva UK Ltd),Bisoprolol fumarate,1.25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Jan-13
-18950,568,72693020,Totamol 25mg Tablet (C P Pharmaceuticals Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-28700,5,71407020,Cartrol 10mg Tablet (Novartis Consumer Health UK Ltd),Carteolol Hydrochloride,10mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-5713,293899,83180020,Bisoprolol 7.5mg tablets,Bisoprolol fumarate,7.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Feb-09
-60761,0,15611021,Bisoprolol 1.25mg tablets (Medreich Plc),Bisoprolol fumarate,1.25mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Aug-14
-60896,0,38486020,Bisoprolol 5mg tablets (Medreich Plc),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Aug-14
-33657,1178,51024020,Atenolol 25mg tablets (A A H Pharmaceuticals Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-34867,262,56034020,Propranolol 80mg Capsule (IVAX Pharmaceuticals UK Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-57573,85,1153020,Celectol 200mg tablets (Dowelhurst Ltd),Celiprolol hydrochloride,200mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Oct-13
-9143,30206,52285020,Viskaldix tablets (AMCo),Pindolol/Clopamide,10mg + 5mg,Tablet,Oral,2040100,Beta-adrenoceptor Blocking Drugs With Diuretic,Feb-09
-52500,0,70253020,Atenolol 50mg tablets (Almus Pharmaceuticals Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Jan-13
-1334,61005,65274020,Oxprenolol 160mg modified-release tablets,Oxprenolol hydrochloride,160mg,Modified-release tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-34584,377,54125020,Metoprolol 50mg tablets (IVAX Pharmaceuticals UK Ltd),Metoprolol tartrate,50mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-2780,48227,59362020,Oxprenolol 80mg tablets,Oxprenolol hydrochloride,80mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-61115,23,19119020,Bisoprolol 5mg/5ml oral solution,Bisoprolol fumarate,1mg/1ml,Oral solution,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Sep-14
-45289,1,91796020,Metoprolol tartrate Oral solution,Metoprolol Tartrate,,Oral Solution,Oral,2040000,Beta-adrenoceptor Blocking Drugs,May-11
-57567,4,34143020,Propranolol 10mg/5ml oral suspension,Propranolol hydrochloride,2mg/1ml,Oral suspension,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Oct-13
-34804,545,53351020,Propranolol 10mg tablets (Teva UK Ltd),Propranolol hydrochloride,10mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Feb-09
-61663,0,67717020,Carvedilol 3.125mg tablets (Teva UK Ltd),Carvedilol,3.125mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Nov-14
-2414,75504,54493020,Inderal 10mg tablets (AstraZeneca UK Ltd),Propranolol hydrochloride,10mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Feb-09
-26229,656,56515020,Beta-Prograne 160mg modified-release capsules (Tillomed Laboratories Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Feb-09
-4265,71123,68965020,Celectol 200mg Tablet (Pantheon Healthcare Ltd),Celiprolol hydrochloride,200mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-64538,0,77787020,Bisoprolol 3.75mg tablets (Teva UK Ltd),Bisoprolol fumarate,3.75mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Oct-15
-51447,7,20527020,Metoprolol 12.5mg/5ml oral suspension,Metoprolol tartrate,2.5mg/1ml,Oral suspension,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Jan-13
-940,236295,59370020,Propranolol 80mg tablets,Propranolol hydrochloride,80mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Feb-09
-64850,0,38489020,Bisoprolol 2.5mg tablets (DE Pharmaceuticals),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Dec-15
-33374,9,69739020,Carvedilol 12.5mg tablets (Genus Pharmaceuticals Ltd),Carvedilol,12.5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-34443,236,52913020,Atenolol 50mg tablets (Wockhardt UK Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-2775,84533,63900020,Labetalol 200mg tablets,Labetalol hydrochloride,200mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-34854,70,57038020,Metoprolol 100mg tablets (Actavis UK Ltd),Metoprolol tartrate,100mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-19853,2462,83184020,Cardicor 3.75mg tablets (Merck Serono Ltd),Bisoprolol fumarate,3.75mg,Tablet,Oral,02040000/02050000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Feb-09
-8642,94204,68652020,Tenif 50mg/20mg modified-release capsules (AstraZeneca UK Ltd),Atenolol/Nifedipine,50mg + 20mg,Modified-release capsule,Oral,02040000/02060200,Beta-adrenoceptor Blocking Drugs/Calcium-channel Blockers,Feb-09
-64784,0,63960020,Bisoprolol 5mg tablets (Niche Generics Ltd),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Nov-15
-14673,3255,65803020,Pindolol 15mg tablets,Pindolol,15mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-31934,1969,55395020,Atenolol 100mg tablets (IVAX Pharmaceuticals UK Ltd),Atenolol,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-62361,0,1109020,Bisoprolol 1.25mg tablets (Chanelle Medical UK Ltd),Bisoprolol fumarate,1.25mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Feb-15
-57023,0,1125020,Bisoprolol 2.5mg tablets (Almus Pharmaceuticals Ltd),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Sep-13
-50300,5,41306020,Congescor 1.25mg tablets (Teva UK Ltd),Bisoprolol fumarate,1.25mg,Tablet,Oral,02040000/02050000,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure,Jan-13
-34171,32,49917020,Labetalol 100mg Tablet (C P Pharmaceuticals Ltd),Labetalol hydrochloride,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-61727,0,20139021,Propranolol 10mg tablets (Accord Healthcare Ltd),Propranolol hydrochloride,10mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Nov-14
-8807,7246,52545020,Trandate 400mg tablets (Focus Pharmaceuticals Ltd),Labetalol hydrochloride,400mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-7974,56537,68838020,Celiprolol 400mg tablets,Celiprolol hydrochloride,400mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-35695,357,78143020,Visken 5mg tablets (AMCo),Pindolol,5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-29610,372,88268020,Betim 10mg tablets (Meda Pharmaceuticals Ltd),Timolol maleate,10mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-23587,1,66314020,Sloprolol 160mg Capsule (C P Pharmaceuticals Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-52777,0,925020,Propranolol 40mg tablets (Kent Pharmaceuticals Ltd),Propranolol hydrochloride,40mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Jan-13
-43525,31,64019020,Propranolol 10mg tablets (IVAX Pharmaceuticals UK Ltd),Propranolol hydrochloride,10mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Sep-10
-26255,57,78284020,Lopranol la 160mg Capsule (Opus Pharmaceuticals Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-60934,24,948020,Propranolol 80mg modified-release capsules (Kent Pharmaceuticals Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Aug-14
-817,166219,72238020,Carvedilol 3.125mg tablets,Carvedilol,3.125mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-25644,2,57667020,Apsolox 80mg Tablet (Approved Prescription Services Ltd),Oxprenolol hydrochloride,80mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-753,244930,64667020,Metoprolol 100mg tablets,Metoprolol tartrate,100mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-27719,31,69482020,Metoros ls 95mg Tablet (Geigy Pharmaceuticals),Metoprolol,95mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-33650,638,60232020,Atenolol 50mg tablets (Mylan Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-50702,0,998020,Atenolol 25mg tablets (Alliance Healthcare (Distribution) Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Jan-13
-20169,1,66147020,Practolol 2mg/ml injection,Practolol,2mg/ml,Injection,,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-33569,134,49177020,Oxprenolol sr 160mg Modified-release tablet (Hillcross Pharmaceuticals Ltd),Oxprenolol hydrochloride,160mg,Modified-release tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-13499,17496,50247020,Lopresor 100mg Tablet (Novartis Pharmaceuticals UK Ltd),Metoprolol tartrate,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-34868,381,53352020,Propranolol 40mg tablets (Teva UK Ltd),Propranolol hydrochloride,40mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Feb-09
-30770,359,49923020,Labetalol 200mg tablets (A A H Pharmaceuticals Ltd),Labetalol hydrochloride,200mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-9016,29034,54880020,Trandate 100mg tablets (Focus Pharmaceuticals Ltd),Labetalol hydrochloride,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-2499,20907,64896020,Nadolol 80mg tablets,Nadolol,80mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-42795,6,61054020,Celiprolol 200mg tablets (Mylan Ltd),Celiprolol hydrochloride,200mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Jul-10
-64973,0,52168021,Atenolol 50mg tablets (Sigma Pharmaceuticals Plc),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Dec-15
-56764,0,47096020,Propranolol 40mg tablets (Waymade Healthcare Plc),Propranolol hydrochloride,40mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Aug-13
-34125,725,50073020,Metoprolol 100mg tablets (A A H Pharmaceuticals Ltd),Metoprolol tartrate,100mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-57342,0,928020,Propranolol 40mg tablets (Phoenix Healthcare Distribution Ltd),Propranolol hydrochloride,40mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Oct-13
-32787,216,78135020,Visken 15mg tablets (AMCo),Pindolol,15mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-49863,1481,182020,Propranolol 5mg/5ml oral solution sugar free,Propranolol hydrochloride,1mg/1ml,Oral solution,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Jan-13
-25363,3382,88272020,Prestim tablets (Meda Pharmaceuticals Ltd),Timolol maleate/Bendroflumethiazide,10mg + 2.5mg,Tablet,Oral,2040100,Beta-adrenoceptor Blocking Drugs With Diuretic,Feb-09
-26228,225,85670020,Propanix LA 160mg Modified-release capsule (Ashbourne Pharmaceuticals Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-34945,4,59464020,Propranolol 160mg Modified-release capsule (Lagap),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-2629,155425,72236020,Carvedilol 12.5mg tablets,Carvedilol,12.5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-14057,6836,65806020,Pindolol 10mg / Clopamide 5mg tablets,Pindolol/Clopamide,10mg + 5mg,Tablet,Oral,2040100,Beta-adrenoceptor Blocking Drugs With Diuretic,Feb-09
-15176,2468,72691020,Totamol 50mg Tablet (C P Pharmaceuticals Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-51528,0,40504020,Bisoprolol 1.25mg tablets (Actavis UK Ltd),Bisoprolol fumarate,1.25mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Jan-13
-52136,1,69495020,Bedranol sr 160mg Capsule (Lagap),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Jan-13
-62325,0,47104020,Atenolol 25mg tablets (Waymade Healthcare Plc),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-15
-19998,27,51987020,Trandate 100mg/20ml solution for injection ampoules (Focus Pharmaceuticals Ltd),Labetalol hydrochloride,5mg/1ml,Solution for injection,Intravenous,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-12456,12584,51646020,Sotazide Tablet (Bristol-Myers Squibb Pharmaceuticals Ltd),Sotalol Hydrochloride/Hydrochlorothiazide,,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-19191,2218,53707020,Atenolol 100mg tablets (Teva UK Ltd),Atenolol,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-53334,20,62943020,Bisoprolol 10mg tablets (A A H Pharmaceuticals Ltd),Bisoprolol fumarate,10mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Jan-13
-34188,3,51424020,Labetalol 200mg Tablet (Celltech Pharma Europe Ltd),Labetalol hydrochloride,200mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-33079,145,60233020,Atenolol 100mg tablets (Mylan Ltd),Atenolol,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-8290,41402,54885020,Trasicor 40mg Tablet (Novartis Pharmaceuticals UK Ltd),Oxprenolol hydrochloride,40mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-56486,75,1094020,Monocor 10mg tablets (Dowelhurst Ltd),Bisoprolol fumarate,10mg,Tablet,Oral,02040000/02050000/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Management Of Myocardial Infarction,Aug-13
-21966,65,86500020,Bipranix 5mg tablets (Ashbourne Pharmaceuticals Ltd),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050000/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Management Of Myocardial Infarction,Feb-09
-52609,1,942020,Inderal LA 160mg capsules (Sigma Pharmaceuticals Plc),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Jan-13
-58973,3,63965020,Bisoprolol 10mg tablets (Niche Generics Ltd),Bisoprolol fumarate,10mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Mar-14
-30400,84,63851020,Mepranix 100mg Tablet (Ashbourne Pharmaceuticals Ltd),Metoprolol tartrate,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-35054,3616,91235020,Celectol 200mg tablets (Zentiva),Celiprolol hydrochloride,200mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-37837,32,73574020,Bisoprolol 2.5mg Tablet (Teva UK Ltd),Bisoprolol fumarate,2.5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-2432,380795,54818020,Tenormin LS 50mg tablets (AstraZeneca UK Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-32630,28,77372020,Vivacor 10mg tablets (Lexon (UK) Ltd),Bisoprolol fumarate,10mg,Tablet,Oral,02040000/02050000/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Management Of Myocardial Infarction,Feb-09
-34963,53,62688020,Bisoprolol 5mg tablets (Actavis UK Ltd),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Feb-09
-55228,0,927020,Propranolol 40mg tablets (Boston Healthcare Ltd),Propranolol hydrochloride,40mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",May-13
-15730,1213,72692020,Totamol 100mg Tablet (C P Pharmaceuticals Ltd),Atenolol,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-16645,1,58485020,Labrocol 400mg Tablet (Lagap),Labetalol hydrochloride,400mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-34185,60,56194020,Propranolol LA 80mg Modified-release capsule (Approved Prescription Services Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-1006,674149,53253020,Half Inderal LA 80mg capsules (AstraZeneca UK Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs",Feb-09
-57578,2,1123020,Cardicor 2.5mg tablets (Necessity Supplies Ltd),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Oct-13
-60502,0,38490020,Bisoprolol 3.75mg tablets (DE Pharmaceuticals),Bisoprolol fumarate,3.75mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Jul-14
-56459,4,45146020,Bisoprolol 2.5mg tablets (Accord Healthcare Ltd),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Aug-13
-32114,169,62676020,Bisoprolol 5mg tablets (Mylan Ltd),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Feb-09
-51643,0,1013020,Atenolol 25mg/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd),Atenolol,5mg/1ml,Oral solution,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Jan-13
-34407,372,56767020,Metoprolol 50mg tablets (Teva UK Ltd),Metoprolol tartrate,50mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-56768,13,77972020,Bisoprolol 2.5mg tablets (Niche Generics Ltd),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Aug-13
-34890,47,53461020,Metoprolol 50mg Tablet (Berk Pharmaceuticals Ltd),Metoprolol tartrate,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-34092,103,56768020,Metoprolol 100mg tablets (Teva UK Ltd),Metoprolol tartrate,100mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-52310,0,39793020,Atenolol 25mg tablets (Crescent Pharma Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Jan-13
-46931,3,56837020,Atenolol 100mg tablets (Actavis UK Ltd),Atenolol,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Mar-12
-9273,3123,54879020,Trandate 50mg tablets (Focus Pharmaceuticals Ltd),Labetalol hydrochloride,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-56445,0,77037020,Atenolol 25mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd),Atenolol,5mg/1ml,Oral solution,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Aug-13
-5968,66158,68354020,Monocor 10mg tablets (Wyeth Pharmaceuticals),Bisoprolol fumarate,10mg,Tablet,Oral,02040000/02050000/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Management Of Myocardial Infarction,Feb-09
-54487,3,44459020,Nebivolol 2.5mg tablets (Sigma Pharmaceuticals Plc),Nebivolol hydrochloride,2.5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Apr-13
-46740,286,197021,Lopresor 100mg tablets (Recordati Pharmaceuticals Ltd),Metoprolol tartrate,100mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-12
-45309,4,71703020,Acebutolol 400mg tablets (A A H Pharmaceuticals Ltd),Acebutolol hydrochloride,400mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,May-11
-58455,19,40508020,Bisoprolol 7.5mg tablets (Sandoz Ltd),Bisoprolol fumarate,7.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Dec-13
-65227,2,20525020,Metoprolol 12.5mg/5ml oral solution,Metoprolol tartrate,2.5mg/1ml,Oral solution,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Jan-16
-1333,55030,59361020,Oxprenolol 40mg tablets,Oxprenolol hydrochloride,40mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Feb-09
-58511,80,40503020,Bisoprolol 1.25mg tablets (Sandoz Ltd),Bisoprolol fumarate,1.25mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction,Jan-14
-57240,1,20539020,Metoprolol 50mg/5ml oral suspension (Drug Tariff Special Order),Metoprolol tartrate,10mg/1ml,Oral suspension,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Sep-13
-28788,2,85953020,Half propatard la 80mg Modified-release capsule (Galen Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine,Feb-09
-53215,45,982020,Atenolol 50mg tablets (Bristol Laboratories Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs,Jan-13
+prodcode,gemscriptcode,productname,drugsubstancename,substancestrength,formulation,routeofadministration,bnfcode,bnfheader
+35778,58483020,Labrocol 100mg Tablet (Lagap),Labetalol hydrochloride,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+2361,54886020,Trasicor 80mg Tablet (Novartis Pharmaceuticals UK Ltd),Oxprenolol hydrochloride,80mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+40240,49924020,Labetalol 400mg tablets (A A H Pharmaceuticals Ltd),Labetalol hydrochloride,400mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+43251,75323020,Bisoprolol 1.25mg tablets (Mylan Ltd),Bisoprolol fumarate,1.25mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+5478,59376020,Propranolol 10mg/5ml oral solution sugar free,Propranolol hydrochloride,2mg/1ml,Oral solution,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+58763,47116020,Bisoprolol 2.5mg tablets (Waymade Healthcare Plc),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+63535,1085020,Bisoprolol 5mg tablets (Relonchem Ltd),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+58491,924020,Propranolol 40mg tablets (Alliance Healthcare (Distribution) Ltd),Propranolol hydrochloride,40mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+34378,50435020,Propranolol 10mg tablets (A A H Pharmaceuticals Ltd),Propranolol hydrochloride,10mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+7543,56162020,Kalten capsules (M & A Pharmachem Ltd),Atenolol/Amiloride hydrochloride/Hydrochlorothiazide,50mg + 2.5mg + 25mg,Capsule,Oral,2040100,Beta-adrenoceptor Blocking Drugs With Diuretic
+29998,69479020,Metoros 190mg Tablet (Novartis Pharmaceuticals UK Ltd),Metoprolol,190mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+34741,67913020,Carvedilol 3.125mg tablets (IVAX Pharmaceuticals UK Ltd),Carvedilol,3.125mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+33839,62689020,Bisoprolol 10mg tablets (Actavis UK Ltd),Bisoprolol fumarate,10mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+55416,71580020,Propranolol 40mg tablets (Almus Pharmaceuticals Ltd),Propranolol hydrochloride,40mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+64160,15600021,Propranolol 5mg/5ml oral solution sugar free (AM Distributions (Yorkshire) Ltd),Propranolol hydrochloride,1mg/1ml,Oral solution,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+4588,52291020,Visken 5mg Tablet (Sovereign Medical Ltd),Pindolol,5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+17615,83190020,Cardicor 5mg tablets (Merck Serono Ltd),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+61573,30311020,Atenolol 25mg/5ml oral solution,,,,,2040000,Beta-adrenoceptor Blocking Drugs
+40167,54126020,Metoprolol 100mg tablets (IVAX Pharmaceuticals UK Ltd),Metoprolol tartrate,100mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+55949,20600020,Propranolol 40mg/5ml oral solution,Propranolol hydrochloride,8mg/1ml,Oral solution,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+63422,47121020,Carvedilol 12.5mg tablets (Waymade Healthcare Plc),Carvedilol,12.5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+52611,31454020,Bisoprolol 10mg/5ml oral solution,,,,,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+47107,567021,Carvedilol 5mg/5ml oral suspension,Carvedilol,1mg/1ml,Oral suspension,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+10716,54539020,Corgard 80mg tablets (Sanofi),Nadolol,80mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+34509,60551020,Metoprolol 100mg tablets (Mylan Ltd),Metoprolol tartrate,100mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+34501,67708020,Carvedilol 12.5mg tablets (Actavis UK Ltd),Carvedilol,12.5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+34177,49922020,Labetalol 100mg tablets (A A H Pharmaceuticals Ltd),Labetalol hydrochloride,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+58297,918020,Propranolol 10mg tablets (Kent Pharmaceuticals Ltd),Propranolol hydrochloride,10mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+29762,63850020,Mepranix 50mg Tablet (Ashbourne Pharmaceuticals Ltd),Metoprolol tartrate,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+31776,63160020,Propranolol 40mg tablets (Mylan Ltd),Propranolol hydrochloride,40mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+45877,99275020,Beta-Prograne 160mg modified-release capsules (Teva UK Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+53826,1006020,Atenolol 25mg tablets (Boston Healthcare Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+18414,72241020,Eucardic 12.5mg tablets (Roche Products Ltd),Carvedilol,12.5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+3748,59365020,Oxprenolol 160mg Tablet,Oxprenolol Hydrochloride,160mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+1048,54495020,Inderal 80mg tablets (AstraZeneca UK Ltd),Propranolol hydrochloride,80mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+4542,68847020,Atenolol 50mg / Nifedipine 20mg modified-release capsules,Atenolol/Nifedipine,50mg + 20mg,Modified-release capsule,Oral,02040000/02060200,Beta-adrenoceptor Blocking Drugs/Calcium-channel Blockers
+34783,50422020,Propranolol 10mg tablets (Actavis UK Ltd),Propranolol hydrochloride,10mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+33909,90617020,Congescor 1.25mg tablets (Tillomed Laboratories Ltd),Bisoprolol fumarate,1.25mg,Tablet,Oral,02040000/02050000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+19178,62996020,Bisoprolol 10mg tablets (Ranbaxy (UK) Ltd),Bisoprolol fumarate,10mg,Tablet,Oral,02040000/02050000/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Management Of Myocardial Infarction
+34094,50072020,Metoprolol 50mg tablets (A A H Pharmaceuticals Ltd),Metoprolol tartrate,50mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+44858,56835020,Atenolol 25mg tablets (Actavis UK Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+48682,183020,Propranolol 50mg/5ml oral solution sugar free,Propranolol hydrochloride,10mg/1ml,Oral solution,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+51998,1011020,Atenolol 25mg tablets (Co-Pharma Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+7474,54884020,Trasicor 20mg Tablet (Novartis Pharmaceuticals UK Ltd),Oxprenolol hydrochloride,20mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+3167,59374020,Propranolol 160mg tablets,Propranolol hydrochloride,160mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+56240,40506020,Bisoprolol 3.75mg tablets (Sandoz Ltd),Bisoprolol fumarate,3.75mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+27357,49156020,Oxprenolol 40mg Tablet (Actavis UK Ltd),Oxprenolol hydrochloride,40mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+26922,56705020,Brevibloc Premixed 100mg/10ml solution for injection vials (Baxter Healthcare Ltd),Esmolol hydrochloride,10mg/1ml,Solution for injection,Intravenous,2040000,Beta-adrenoceptor Blocking Drugs
+34976,59302020,Atenolol 25mg tablets (Tillomed Laboratories Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+35938,64558020,Propranolol 80mg modified-release capsules (A A H Pharmaceuticals Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+3691,66694020,Sotalol 160mg with hydrochlorothiazide 25mg tablet,Sotalol Hydrochloride/Hydrochlorothiazide,160mg + 25mg,Tablets,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+472,68438020,Bisoprolol 5mg tablets,Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+53204,973020,Atenolol 50mg tablets (Alliance Healthcare (Distribution) Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+33850,56836020,Atenolol 50mg tablets (Actavis UK Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+19172,57790020,Atenolol 25mg tablets (IVAX Pharmaceuticals UK Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+55791,40507020,Bisoprolol 3.75mg tablets (Actavis UK Ltd),Bisoprolol fumarate,3.75mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+58498,15612021,Bisoprolol 2.5mg tablets (Medreich Plc),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+62407,94413020,Bisoprolol oral solution,Bisoprolol Fumarate,,,,2040000,Beta-adrenoceptor Blocking Drugs
+14808,55786020,Bedranol SR 80mg capsules (Sandoz Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+13394,51861020,Tenormin 25mg/5ml syrup (AstraZeneca UK Ltd),Atenolol,5mg/1ml,Oral solution,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+1295,68333020,Labetalol 400mg tablets,Labetalol hydrochloride,400mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+52686,31458020,Bisoprolol 2.5mg/5ml oral solution,Bisoprolol fumarate,500microgram/1ml,Oral solution,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+822,91125020,Bisoprolol 1.5mg/5ml oral suspension,Bisoprolol Fumarate,1.5mg/5ml,Oral Suspension,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+21133,86681020,Atenamin 50mg Tablet (OPD Pharm),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+59961,21461021,Nebivolol 10mg tablets,Nebivolol hydrochloride,10mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+8113,59925020,Acebutolol 200mg capsules,Acebutolol hydrochloride,200mg,Capsule,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+3474,53660020,Betaloc-SA 200mg tablets (AstraZeneca UK Ltd),Metoprolol tartrate,200mg,Modified-release tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+30636,72687020,Vasaten 50mg Tablet (Shire Pharmaceuticals Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+46908,56095020,Atenolol 100mg tablets (Kent Pharmaceuticals Ltd),Atenolol,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+33085,51023020,Atenolol 100mg tablets (A A H Pharmaceuticals Ltd),Atenolol,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+46936,67784020,Carvedilol 3.125mg tablets (A A H Pharmaceuticals Ltd),Carvedilol,3.125mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+29180,90895020,Trasicor 80mg tablets (Amdipharm Plc),Oxprenolol hydrochloride,80mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+20082,50243020,Lopresor SR 200mg tablets (Recordati Pharmaceuticals Ltd),Metoprolol tartrate,200mg,Modified-release tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+63493,77726020,Bisoprolol 2.5mg tablets (Actavis UK Ltd),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+34208,51777020,Propranolol SR 160mg Modified-release capsule (C P Pharmaceuticals Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+59982,1012020,Atenolol 25mg tablets (Accord Healthcare Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+34882,52909020,Atenolol 50mg Tablet (Berk Pharmaceuticals Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+36603,50847020,Propranolol SR 160mg Modified-release capsule (Hillcross Pharmaceuticals Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+45297,64022020,Propranolol 40mg tablets (IVAX Pharmaceuticals UK Ltd),Propranolol hydrochloride,40mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+3588,68353020,Monocor 5mg tablets (Wyeth Pharmaceuticals),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050000/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Management Of Myocardial Infarction
+22793,58484020,Labrocol 200mg Tablet (Lagap),Labetalol hydrochloride,200mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+8023,52703020,Sectral 400mg tablets (Sanofi),Acebutolol hydrochloride,400mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+13871,73921020,Co-prenozide 160mg/0.25mg modified-release tablets,Oxprenolol hydrochloride/Cyclopenthiazide,160mg + 250microgram,Modified-release tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+34365,53708020,Atenolol 50mg tablets (Teva UK Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+34214,50424020,Propranolol 160mg tablets (Actavis UK Ltd),Propranolol hydrochloride,160mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+49142,31922020,Carvedilol 3.125mg/5ml oral suspension,Carvedilol,625microgram/1ml,Oral suspension,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+8262,68837020,Celiprolol 200mg tablets,Celiprolol hydrochloride,200mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+63736,14465021,Labetalol 100mg tablets (Waymade Healthcare Plc),Labetalol hydrochloride,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+594,83178020,Bisoprolol 2.5mg tablets,Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+53664,40505020,Bisoprolol 2.5mg tablets (Sandoz Ltd),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+33602,85990020,Slo-Pro 160mg capsules (Mylan Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+61651,1149020,Bisoprolol 7.5mg tablets (Almus Pharmaceuticals Ltd),Bisoprolol fumarate,7.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+7528,80460020,Nebilet 5mg tablets (A. Menarini Farmaceutica Internazionale SRL),Nebivolol hydrochloride,5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+34754,51439020,Atenolol 100mg tablets (Sandoz Ltd),Atenolol,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+31536,56093020,Atenolol 25mg tablets (Kent Pharmaceuticals Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+10892,68369020,Emcor 10mg tablets (Merck Serono Ltd),Bisoprolol fumarate,10mg,Tablet,Oral,02040000/02050000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+41555,50436020,Propranolol 40mg tablets (A A H Pharmaceuticals Ltd),Propranolol hydrochloride,40mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+25359,79243020,Rapranol SR 160mg capsules (Ranbaxy (UK) Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+39819,89270020,Esmolol 2.5g/250ml infusion bags,Esmolol Hydrochloride,2500mg/250ml,Solution For Infusion,Intravenous Infusion,2040000,Beta-adrenoceptor Blocking Drugs
+7429,51862020,Tenormin 5mg/10ml solution for injection ampoules (AstraZeneca UK Ltd),Atenolol,500microgram/1ml,Solution for injection,Intravenous,2040000,Beta-adrenoceptor Blocking Drugs
+59695,980020,Atenolol 50mg tablets (Boston Healthcare Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+16776,68966020,Celectol 400mg Tablet (Pantheon Healthcare Ltd),Celiprolol hydrochloride,400mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+38991,75624020,Bisoprolol 7.5mg tablets (A A H Pharmaceuticals Ltd),Bisoprolol fumarate,7.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+62638,57012020,Labetalol 100mg tablets (Actavis UK Ltd),Labetalol hydrochloride,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+47300,76819020,Nebivolol 2.5mg tablets (Glenmark Generics (Europe) Ltd),Nebivolol hydrochloride,2.5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+24083,62681020,Bisoprolol 5mg tablets (Teva UK Ltd),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+8068,64670020,Metoprolol 200mg modified-release tablets,Metoprolol tartrate,200mg,Modified-release tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+297,59368020,Propranolol 10mg tablets,Propranolol hydrochloride,10mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+40241,56193020,Propranolol LA 160mg Capsule (Approved Prescription Services Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+50514,1122020,Bisoprolol 2.5mg tablets (Chanelle Medical UK Ltd),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+40761,97367020,Nebivolol 2.5mg tablets,Nebivolol hydrochloride,2.5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+8935,64895020,Nadolol 40mg tablets,Nadolol,40mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+33644,50437020,Propranolol 80mg tablets (A A H Pharmaceuticals Ltd),Propranolol hydrochloride,80mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+56173,955020,Half Beta-Prograne 80mg modified-release capsules (Actavis UK Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+34821,62677020,Bisoprolol 10mg tablets (Mylan Ltd),Bisoprolol fumarate,10mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+28128,54244020,Propranolol 80mg Modified-release capsule (Actavis UK Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+62711,20143021,Propranolol 80mg modified-release capsules (Waymade Healthcare Plc),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+1050,54494020,Inderal 40mg tablets (AstraZeneca UK Ltd),Propranolol hydrochloride,40mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+52728,1077020,Beta-Adalat modified-release capsules (Lexon (UK) Ltd),Atenolol/Nifedipine,50mg + 20mg,Modified-release capsule,Oral,02040000/02060200,Beta-adrenoceptor Blocking Drugs/Calcium-channel Blockers
+34585,51440020,Atenolol 25mg tablets (Sandoz Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+30541,57093020,Esmolol HCl 250mg/ml concentrate solution for infusion,Esmolol Hydrochloride,250mg/ml,Concentrate For Solution For Infusion,,2040000,Beta-adrenoceptor Blocking Drugs
+33376,78494020,Probeta LA 160mg Capsule (Trinity Pharmaceuticals Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+59222,43810020,Labetalol 100mg/20ml solution for injection ampoules (Focus Pharmaceuticals Ltd),Labetalol hydrochloride,5mg/1ml,Solution for injection,Intravenous,2040000,Beta-adrenoceptor Blocking Drugs
+12651,67081020,Timolol 10mg / Bendroflumethiazide 2.5mg tablets,Timolol maleate/Bendroflumethiazide,10mg + 2.5mg,Tablet,Oral,2040100,Beta-adrenoceptor Blocking Drugs With Diuretic
+47041,75328020,Bisoprolol 2.5mg tablets (Mylan Ltd),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+7049,72237020,Carvedilol 25mg tablets,Carvedilol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+1597,63899020,Labetalol 100mg tablets,Labetalol hydrochloride,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+18185,83191020,Cardicor 7.5mg tablets (Merck Serono Ltd),Bisoprolol fumarate,7.5mg,Tablet,Oral,02040000/02050000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+20502,72697020,Atenix 100 tablets (Ashbourne Pharmaceuticals Ltd),Atenolol,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+46935,67701020,Carvedilol 3.125mg tablets (Actavis UK Ltd),Carvedilol,3.125mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+34265,51438020,Atenolol 50mg tablets (Sandoz Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+41827,60515020,Labetalol 100mg tablets (Mylan Ltd),Labetalol hydrochloride,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+12296,52701020,Sectral 100mg capsules (Sanofi),Acebutolol hydrochloride,100mg,Capsule,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+23326,71607020,Betadur cr 160mg Modified-release capsule (Monmouth Pharmaceuticals Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+25462,61503020,Clopamide 5mg with Pindolol 10mg tablets,Pindolol/Clopamide,5mg + 10mg,Tablets,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+59597,75862020,Propranolol 160mg modified-release capsules (A A H Pharmaceuticals Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+3005,49929020,Inderal LA 160mg capsules (AstraZeneca UK Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+11793,67160020,Metoprolol 50mg/5ml oral suspension,Metoprolol tartrate,10mg/1ml,Oral suspension,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+35940,91237020,Celectol 400mg tablets (Zentiva),Celiprolol hydrochloride,400mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+53885,74139020,Bisoprolol 1.25mg tablets (A A H Pharmaceuticals Ltd),Bisoprolol fumarate,1.25mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+20012,52292020,Visken 15mg Tablet (Sovereign Medical Ltd),Pindolol,15mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+59148,41897020,Bisoprolol 2.5mg tablets (Zentiva),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+58974,1116020,Bisoprolol 2.5mg tablets (Alliance Healthcare (Distribution) Ltd),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+19200,63135020,Bisoprolol 5mg tablets (IVAX Pharmaceuticals UK Ltd),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050000/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Management Of Myocardial Infarction
+29398,86682020,Atenamin 100mg Tablet (OPD Pharm),Atenolol,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+4410,83758020,Carvedilol 6.25mg tablets,Carvedilol,6.25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+28996,87099020,Bedranol SR 160mg capsules (Sandoz Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+751,80458020,Nebivolol 5mg tablets,Nebivolol hydrochloride,5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+1448,66308020,Propranolol 160mg modified-release capsules,Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+8172,59924020,Acebutolol 100mg capsules,Acebutolol hydrochloride,100mg,Capsule,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+2587,51860020,Tenormin 100mg tablets (AstraZeneca UK Ltd),Atenolol,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+5,60153020,Atenolol 50mg tablets,Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+17122,86794020,Isoprenaline 200micrograms/1ml solution for injection ampoules,Isoprenaline hydrochloride,200microgram/1ml,Solution for injection,Intramuscular/Subcutaneous/Intravenous/Intracardiac,2040000,Beta-adrenoceptor Blocking Drugs
+55929,45144020,Bisoprolol 5mg tablets (Accord Healthcare Ltd),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+61340,38485020,Bisoprolol 5mg tablets (DE Pharmaceuticals),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+20728,86680020,Atenamin 25mg Tablet (OPD Pharm),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+54542,1008020,Atenolol 25mg tablets (Zanza Laboratories Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+57063,957020,Bedranol SR 80mg capsules (Almus Pharmaceuticals Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+59495,43811020,Bisoprolol 1.25mg tablets (Teva UK Ltd),Bisoprolol fumarate,1.25mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+33092,51022020,Atenolol 50mg tablets (A A H Pharmaceuticals Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+7852,54409020,Blocadren 10mg Tablet (Merck Sharp & Dohme Ltd),Timolol maleate,10mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+54106,35298020,Carvedilol 1.5mg/5ml oral suspension,Carvedilol,300microgram/1ml,Oral suspension,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+15117,68850020,Nifedipine with atenolol 20mg + 50mg Capsule,Nifedipine/Atenolol,20mg + 50mg,Capsule,Oral,02040000/02060200,Beta-adrenoceptor Blocking Drugs/Calcium-channel Blockers
+63850,43812020,Bisoprolol 2.5mg tablets (Teva UK Ltd),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+61564,47117020,Bisoprolol 3.75mg tablets (Waymade Healthcare Plc),Bisoprolol fumarate,3.75mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+45765,96602020,Syprol 40mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),Propranolol hydrochloride,8mg/1ml,Oral solution,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+37118,73449020,Bisoprolol 2.5mg tablets (A A H Pharmaceuticals Ltd),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+7853,69193020,Timolol 10mg tablets,Timolol maleate,10mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+7553,90711020,Bisoprolol 5mg/5ml oral suspension,Bisoprolol fumarate,1mg/1ml,Oral suspension,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+39846,84559020,Vivacor 5mg tablets (Lexon (UK) Ltd),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050000/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Management Of Myocardial Infarction
+50224,41307020,Congescor 2.5mg tablets (Teva UK Ltd),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050000,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure
+55298,1097020,Bisoprolol 10mg tablets (Sigma Pharmaceuticals Plc),Bisoprolol fumarate,10mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+31214,63161020,Propranolol 80mg tablets (Mylan Ltd),Propranolol hydrochloride,80mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+53802,1007020,Atenolol 25mg tablets (Sigma Pharmaceuticals Plc),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+57176,45145020,Bisoprolol 10mg tablets (Accord Healthcare Ltd),Bisoprolol fumarate,10mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+8978,63928020,Propanix 160mg Modified-release capsule (Ashbourne Pharmaceuticals Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+14146,83760020,Eucardic 6.25mg tablets (Roche Products Ltd),Carvedilol,6.25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+35062,90891020,Trasicor 20mg tablets (Amdipharm Plc),Oxprenolol hydrochloride,20mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+54623,99279020,Beta-Prograne 160mg modified-release capsules (Actavis UK Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+33184,52914020,Atenolol 100mg tablets (Wockhardt UK Ltd),Atenolol,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+57934,67815020,Bisoprolol 5mg tablets (Sandoz Ltd),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+27700,50423020,Propranolol 40mg tablets (Actavis UK Ltd),Propranolol hydrochloride,40mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+29368,53709020,Atenolol 25mg tablets (Teva UK Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+8555,52702020,Sectral 200mg capsules (Sanofi),Acebutolol hydrochloride,200mg,Capsule,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+47674,49918020,Labetalol 200mg Tablet (C P Pharmaceuticals Ltd),Labetalol hydrochloride,200mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+45494,71577020,Propranolol 10mg tablets (Almus Pharmaceuticals Ltd),Propranolol hydrochloride,10mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+32552,90619020,Congescor 2.5mg tablets (Tillomed Laboratories Ltd),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+14117,72243020,Eucardic 3.125mg tablets (Roche Products Ltd),Carvedilol,3.125mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+56485,1155020,Celectol 200mg tablets (Waymade Healthcare Plc),Celiprolol hydrochloride,200mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+10429,50246020,Lopresor 50mg Tablet (Novartis Pharmaceuticals UK Ltd),Metoprolol tartrate,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+57817,74385020,Atenolol 50mg tablets (Zentiva),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+19182,55394020,Atenolol 50mg tablets (IVAX Pharmaceuticals UK Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+17322,72698020,Atenix 25 tablets (Ashbourne Pharmaceuticals Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+8061,66693020,Sotalol 80mg with hydrochlorothiazide 12.5mg tablet,Sotalol Hydrochloride/Hydrochlorothiazide,80mg + 12.5mg,Tablets,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+61719,1072020,Beta-Adalat modified-release capsules (Waymade Healthcare Plc),Atenolol/Nifedipine,50mg + 20mg,Modified-release capsule,Oral,02040000/02060200,Beta-adrenoceptor Blocking Drugs/Calcium-channel Blockers
+599,68440020,Bisoprolol 1.25mg tablets,Bisoprolol fumarate,1.25mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+24461,53655020,Betaloc I.V. 5mg/5ml solution for injection ampoules (AstraZeneca UK Ltd),Metoprolol tartrate,1mg/1ml,Solution for injection,Intravenous,2040000,Beta-adrenoceptor Blocking Drugs
+57626,19127020,Bisoprolol 1.25mg/5ml oral solution,Bisoprolol fumarate,250microgram/1ml,Oral solution,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+1290,68439020,Bisoprolol 10mg tablets,Bisoprolol fumarate,10mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+32162,59465020,Propranolol 80mg Modified-release capsule (Lagap),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+45343,51778020,Propranolol SR 80mg Modified-release capsule (C P Pharmaceuticals Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+3087,75253020,Propranolol 40mg/5ml oral solution sugar free,Propranolol hydrochloride,8mg/1ml,Oral solution,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+54297,34198020,Propranolol 50mg/5ml oral solution,Propranolol hydrochloride,10mg/1ml,Oral solution,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+769,66307020,Propranolol 80mg modified-release capsules,Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+707,59369020,Propranolol 40mg tablets,Propranolol hydrochloride,40mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+59969,1090020,Bisoprolol 5mg tablets (Almus Pharmaceuticals Ltd),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+65027,44190021,Bisoprolol 5mg / Aspirin 100mg capsules,,,,,02040000/02090000,Beta-adrenoceptor Blocking Drugs/Antiplatelet Drugs
+55849,63164020,Propranolol 160mg tablets (Mylan Ltd),Propranolol hydrochloride,160mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+17783,57624020,Spiroprop Tablet (Pharmacia Ltd),Propranolol Hydrochloride/Spironolactone,,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+29230,59496020,Slow-pren 160mg Tablet (IVAX Pharmaceuticals UK Ltd),Oxprenolol hydrochloride,160mg,Modified-release tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+19202,67720020,Carvedilol 6.25mg tablets (Teva UK Ltd),Carvedilol,6.25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+64703,1227020,Nebivolol 5mg tablets (Glenmark Generics (Europe) Ltd),Nebivolol hydrochloride,5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+4725,68332020,Labetalol 50mg tablets,Labetalol hydrochloride,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+59037,62942020,Bisoprolol 5mg tablets (A A H Pharmaceuticals Ltd),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+41740,63783020,Celiprolol 200mg tablets (Teva UK Ltd),Celiprolol hydrochloride,200mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+55778,983020,Atenolol 50mg tablets (Phoenix Healthcare Distribution Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+34949,54245020,Propranolol 160mg Modified-release capsule (Actavis UK Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+43564,62726020,Bisoprolol 5mg Tablet (PLIVA Pharma Ltd),Bisoprolol fumarate,5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+54752,984020,Atenolol 50mg tablets (Co-Pharma Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+45250,66745020,Labetalol 400mg tablets (Sandoz Ltd),Labetalol hydrochloride,400mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+34695,56094020,Atenolol 50mg tablets (Kent Pharmaceuticals Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+4771,68375020,Emcor LS 5mg tablets (Merck Serono Ltd),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+19437,72242020,Eucardic 25mg tablets (Roche Products Ltd),Carvedilol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+4429,51994020,Trasidrex modified-release tablets (Mercury Pharma Group Ltd),Oxprenolol hydrochloride/Cyclopenthiazide,160mg + 250microgram,Modified-release tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+59415,20140021,Propranolol 40mg tablets (Accord Healthcare Ltd),Propranolol hydrochloride,40mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+5284,65802020,Pindolol 5mg tablets,Pindolol,5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+12037,48400020,Betim 10mg Tablet (ICN Pharmaceuticals France S.A.),Timolol maleate,10mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+17082,79593020,Syprol 5mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),Propranolol hydrochloride,1mg/1ml,Oral solution,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+10191,72696020,Atenix 50 tablets (Ashbourne Pharmaceuticals Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+1684,68629020,Beta-Adalat modified-release capsules (Bayer Plc),Atenolol/Nifedipine,50mg + 20mg,Modified-release capsule,Oral,02040000/02060200,Beta-adrenoceptor Blocking Drugs/Calcium-channel Blockers
+48745,37067020,Timolol 10mg / Amiloride 2.5mg / Hydrochlorothiazide 25mg tablets,,,,,2040100,Beta-adrenoceptor Blocking Drugs With Diuretic
+26895,79594020,Syprol 10mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),Propranolol hydrochloride,2mg/1ml,Oral solution,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+54479,1103020,Bisoprolol 1.25mg tablets (Alliance Healthcare (Distribution) Ltd),Bisoprolol fumarate,1.25mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+21905,86502020,Bipranix 10mg tablets (Ashbourne Pharmaceuticals Ltd),Bisoprolol fumarate,10mg,Tablet,Oral,02040000/02050000/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Management Of Myocardial Infarction
+10777,54889020,Trasicor 160mg Tablet (Novartis Pharmaceuticals UK Ltd),Oxprenolol Hydrochloride,160mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+8071,48396020,Betaloc 50mg tablets (AstraZeneca UK Ltd),Metoprolol tartrate,50mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+14058,83182020,Cardicor 1.25mg tablets (Merck Serono Ltd),Bisoprolol fumarate,1.25mg,Tablet,Oral,02040000/02050000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+34925,65979020,Metoprolol 50mg tablets (Sandoz Ltd),Metoprolol tartrate,50mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+15619,57243020,Half-betadur cr 80mg Capsule (Monmouth Pharmaceuticals Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+25367,84837020,Rapranol SR 80mg capsules (Ranbaxy (UK) Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+15042,66704020,Tolerzide Tablet (Bristol-Myers Squibb Pharmaceuticals Ltd),Sotalol Hydrochloride/Hydrochlorothiazide,,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+34740,67705020,Carvedilol 6.25mg tablets (Actavis UK Ltd),Carvedilol,6.25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+197,60300020,Atenolol 5mg/10ml solution for injection ampoules,Atenolol,500microgram/1ml,Solution for injection,Intravenous,2040000,Beta-adrenoceptor Blocking Drugs
+42152,79595020,Syprol 50mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),Propranolol hydrochloride,10mg/1ml,Oral solution,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+58982,38487020,Bisoprolol 10mg tablets (Medreich Plc),Bisoprolol fumarate,10mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+58109,19125020,Bisoprolol 1.25mg/5ml oral suspension,Bisoprolol fumarate,250microgram/1ml,Oral suspension,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+26211,68815020,Antipressan 25mg tablets (Teva UK Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+63724,47106020,Metoprolol 100mg tablets (Waymade Healthcare Plc),Metoprolol tartrate,100mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+46363,99271020,Half Beta-Prograne 80mg modified-release capsules (Teva UK Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+44083,57013020,Labetalol 200mg tablets (Actavis UK Ltd),Labetalol hydrochloride,200mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+55853,60484020,Pindolol 15mg Tablet (Hillcross Pharmaceuticals Ltd),Pindolol,15mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+3516,59360020,Oxprenolol 20mg tablets,Oxprenolol hydrochloride,20mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+32836,60550020,Metoprolol 50mg tablets (Mylan Ltd),Metoprolol tartrate,50mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+24,60152020,Atenolol 100mg tablets,Atenolol,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+7091,83179020,Bisoprolol 3.75mg tablets,Bisoprolol fumarate,3.75mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+47870,70250020,Atenolol 25mg tablets (Almus Pharmaceuticals Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+58407,53353020,Propranolol 80mg tablets (Teva UK Ltd),Propranolol hydrochloride,80mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+39233,68806020,Propranolol 80mg modified-release capsules (Teva UK Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+47673,54575020,Labetalol 400mg Tablet (Approved Prescription Services Ltd),Labetalol hydrochloride,400mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+38370,90779020,Labetalol 100mg/20ml solution for injection ampoules,Labetalol hydrochloride,5mg/1ml,Solution for injection,Intravenous,2040000,Beta-adrenoceptor Blocking Drugs
+29827,71512020,Carteolol HCl 10mg tablets,Carteolol Hydrochloride,10mg,Tablets,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+24195,68814020,Antipressan 100mg tablets (Teva UK Ltd),Atenolol,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+49953,1009020,Atenolol 25mg tablets (Bristol Laboratories Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+24191,68813020,Antipressan 50mg tablets (Teva UK Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+34492,60231020,Atenolol 25mg tablets (Mylan Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+739,64666020,Metoprolol 50mg tablets,Metoprolol tartrate,50mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+52635,1082020,Bisoprolol 5mg tablets (Alliance Healthcare (Distribution) Ltd),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+39646,96562020,Bisoprolol 0.625mg/5ml oral solution,Bisoprolol Fumarate,0.625mg/5ml,Oral Liquid,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+41591,62682020,Bisoprolol 10mg tablets (Teva UK Ltd),Bisoprolol fumarate,10mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+2590,72526020,Tenormin 25mg tablets (AstraZeneca UK Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+21885,74896020,Oxyprenix SR 160mg tablets,Oxprenolol Hydrochloride,160mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+22208,84849020,Half propanix la 80mg Modified-release capsule (Ashbourne Pharmaceuticals Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+44808,77127020,Nebivolol 2.5mg tablets (A A H Pharmaceuticals Ltd),Nebivolol hydrochloride,2.5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+8707,54881020,Trandate 200mg tablets (Focus Pharmaceuticals Ltd),Labetalol hydrochloride,200mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+44000,98730020,Bisoprolol 2.5mg/5ml oral suspension,Bisoprolol fumarate,500microgram/1ml,Oral suspension,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+3344,48397020,Betaloc 100mg tablets (AstraZeneca UK Ltd),Metoprolol tartrate,100mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+14030,83183020,Cardicor 2.5mg tablets (Merck Serono Ltd),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+34430,57037020,Metoprolol 50mg tablets (Actavis UK Ltd),Metoprolol tartrate,50mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+60565,70592020,Propranolol 40mg tablets (Ranbaxy (UK) Ltd),Propranolol hydrochloride,40mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+26,67920020,Atenolol 25mg tablets,Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+36261,59303020,Atenolol 50mg tablets (Tillomed Laboratories Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+47536,770021,Metoprolol tartrate 12.5mg/5ml Oral suspension,Metoprolol Tartrate,12.5mg/5ml,Oral Suspension,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+34884,66703020,Propranolol 160mg Modified-release capsule (Sandoz Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+19858,83192020,Cardicor 10mg tablets (Merck Serono Ltd),Bisoprolol fumarate,10mg,Tablet,Oral,02040000/02050000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+55979,20535020,Metoprolol 25mg/5ml oral suspension,Metoprolol tartrate,5mg/1ml,Oral suspension,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+6066,67919020,Atenolol 25mg/5ml oral solution sugar free,Atenolol,5mg/1ml,Oral solution,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+53414,985020,Atenolol 50mg tablets (Accord Healthcare Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+46614,195021,Lopresor 50mg tablets (Recordati Pharmaceuticals Ltd),Metoprolol tartrate,50mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+34575,52915020,Atenolol 25mg tablets (Wockhardt UK Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+7620,59926020,Acebutolol 400mg tablets,Acebutolol hydrochloride,400mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+47907,538021,Bedranol SR 160mg capsules (Almus Pharmaceuticals Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+36576,63159020,Propranolol 10mg tablets (Mylan Ltd),Propranolol hydrochloride,10mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+4025,51584020,Slow-Trasicor 160mg tablets (AMCo),Oxprenolol hydrochloride,160mg,Modified-release tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+14502,52381020,Metoprolol 5mg/5ml solution for injection ampoules,Metoprolol tartrate,1mg/1ml,Solution for injection,Intravenous,2040000,Beta-adrenoceptor Blocking Drugs
+20468,72042020,Half Beta-Prograne 80mg modified-release capsules (Tillomed Laboratories Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+24094,90893020,Trasicor 40mg tablets (Amdipharm Plc),Oxprenolol hydrochloride,40mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+50403,73571020,Bisoprolol 1.25mg Tablet (Teva UK Ltd),Bisoprolol fumarate,1.25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+18950,72693020,Totamol 25mg Tablet (C P Pharmaceuticals Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+28700,71407020,Cartrol 10mg Tablet (Novartis Consumer Health UK Ltd),Carteolol Hydrochloride,10mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+5713,83180020,Bisoprolol 7.5mg tablets,Bisoprolol fumarate,7.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+60761,15611021,Bisoprolol 1.25mg tablets (Medreich Plc),Bisoprolol fumarate,1.25mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+60896,38486020,Bisoprolol 5mg tablets (Medreich Plc),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+33657,51024020,Atenolol 25mg tablets (A A H Pharmaceuticals Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+34867,56034020,Propranolol 80mg Capsule (IVAX Pharmaceuticals UK Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+57573,1153020,Celectol 200mg tablets (Dowelhurst Ltd),Celiprolol hydrochloride,200mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+9143,52285020,Viskaldix tablets (AMCo),Pindolol/Clopamide,10mg + 5mg,Tablet,Oral,2040100,Beta-adrenoceptor Blocking Drugs With Diuretic
+52500,70253020,Atenolol 50mg tablets (Almus Pharmaceuticals Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+1334,65274020,Oxprenolol 160mg modified-release tablets,Oxprenolol hydrochloride,160mg,Modified-release tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+34584,54125020,Metoprolol 50mg tablets (IVAX Pharmaceuticals UK Ltd),Metoprolol tartrate,50mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+2780,59362020,Oxprenolol 80mg tablets,Oxprenolol hydrochloride,80mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+61115,19119020,Bisoprolol 5mg/5ml oral solution,Bisoprolol fumarate,1mg/1ml,Oral solution,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+45289,91796020,Metoprolol tartrate Oral solution,Metoprolol Tartrate,,Oral Solution,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+57567,34143020,Propranolol 10mg/5ml oral suspension,Propranolol hydrochloride,2mg/1ml,Oral suspension,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+34804,53351020,Propranolol 10mg tablets (Teva UK Ltd),Propranolol hydrochloride,10mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+61663,67717020,Carvedilol 3.125mg tablets (Teva UK Ltd),Carvedilol,3.125mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+2414,54493020,Inderal 10mg tablets (AstraZeneca UK Ltd),Propranolol hydrochloride,10mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+26229,56515020,Beta-Prograne 160mg modified-release capsules (Tillomed Laboratories Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+4265,68965020,Celectol 200mg Tablet (Pantheon Healthcare Ltd),Celiprolol hydrochloride,200mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+64538,77787020,Bisoprolol 3.75mg tablets (Teva UK Ltd),Bisoprolol fumarate,3.75mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+51447,20527020,Metoprolol 12.5mg/5ml oral suspension,Metoprolol tartrate,2.5mg/1ml,Oral suspension,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+940,59370020,Propranolol 80mg tablets,Propranolol hydrochloride,80mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+64850,38489020,Bisoprolol 2.5mg tablets (DE Pharmaceuticals),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+33374,69739020,Carvedilol 12.5mg tablets (Genus Pharmaceuticals Ltd),Carvedilol,12.5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+34443,52913020,Atenolol 50mg tablets (Wockhardt UK Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+2775,63900020,Labetalol 200mg tablets,Labetalol hydrochloride,200mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+34854,57038020,Metoprolol 100mg tablets (Actavis UK Ltd),Metoprolol tartrate,100mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+19853,83184020,Cardicor 3.75mg tablets (Merck Serono Ltd),Bisoprolol fumarate,3.75mg,Tablet,Oral,02040000/02050000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+8642,68652020,Tenif 50mg/20mg modified-release capsules (AstraZeneca UK Ltd),Atenolol/Nifedipine,50mg + 20mg,Modified-release capsule,Oral,02040000/02060200,Beta-adrenoceptor Blocking Drugs/Calcium-channel Blockers
+64784,63960020,Bisoprolol 5mg tablets (Niche Generics Ltd),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+14673,65803020,Pindolol 15mg tablets,Pindolol,15mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+31934,55395020,Atenolol 100mg tablets (IVAX Pharmaceuticals UK Ltd),Atenolol,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+62361,1109020,Bisoprolol 1.25mg tablets (Chanelle Medical UK Ltd),Bisoprolol fumarate,1.25mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+57023,1125020,Bisoprolol 2.5mg tablets (Almus Pharmaceuticals Ltd),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+50300,41306020,Congescor 1.25mg tablets (Teva UK Ltd),Bisoprolol fumarate,1.25mg,Tablet,Oral,02040000/02050000,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure
+34171,49917020,Labetalol 100mg Tablet (C P Pharmaceuticals Ltd),Labetalol hydrochloride,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+61727,20139021,Propranolol 10mg tablets (Accord Healthcare Ltd),Propranolol hydrochloride,10mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+8807,52545020,Trandate 400mg tablets (Focus Pharmaceuticals Ltd),Labetalol hydrochloride,400mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+7974,68838020,Celiprolol 400mg tablets,Celiprolol hydrochloride,400mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+35695,78143020,Visken 5mg tablets (AMCo),Pindolol,5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+29610,88268020,Betim 10mg tablets (Meda Pharmaceuticals Ltd),Timolol maleate,10mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+23587,66314020,Sloprolol 160mg Capsule (C P Pharmaceuticals Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+52777,925020,Propranolol 40mg tablets (Kent Pharmaceuticals Ltd),Propranolol hydrochloride,40mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+43525,64019020,Propranolol 10mg tablets (IVAX Pharmaceuticals UK Ltd),Propranolol hydrochloride,10mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+26255,78284020,Lopranol la 160mg Capsule (Opus Pharmaceuticals Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+60934,948020,Propranolol 80mg modified-release capsules (Kent Pharmaceuticals Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+817,72238020,Carvedilol 3.125mg tablets,Carvedilol,3.125mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+25644,57667020,Apsolox 80mg Tablet (Approved Prescription Services Ltd),Oxprenolol hydrochloride,80mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+753,64667020,Metoprolol 100mg tablets,Metoprolol tartrate,100mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+27719,69482020,Metoros ls 95mg Tablet (Geigy Pharmaceuticals),Metoprolol,95mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+33650,60232020,Atenolol 50mg tablets (Mylan Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+50702,998020,Atenolol 25mg tablets (Alliance Healthcare (Distribution) Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+20169,66147020,Practolol 2mg/ml injection,Practolol,2mg/ml,Injection,,2040000,Beta-adrenoceptor Blocking Drugs
+33569,49177020,Oxprenolol sr 160mg Modified-release tablet (Hillcross Pharmaceuticals Ltd),Oxprenolol hydrochloride,160mg,Modified-release tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+13499,50247020,Lopresor 100mg Tablet (Novartis Pharmaceuticals UK Ltd),Metoprolol tartrate,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+34868,53352020,Propranolol 40mg tablets (Teva UK Ltd),Propranolol hydrochloride,40mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+30770,49923020,Labetalol 200mg tablets (A A H Pharmaceuticals Ltd),Labetalol hydrochloride,200mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+9016,54880020,Trandate 100mg tablets (Focus Pharmaceuticals Ltd),Labetalol hydrochloride,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+2499,64896020,Nadolol 80mg tablets,Nadolol,80mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+42795,61054020,Celiprolol 200mg tablets (Mylan Ltd),Celiprolol hydrochloride,200mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+64973,52168021,Atenolol 50mg tablets (Sigma Pharmaceuticals Plc),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+56764,47096020,Propranolol 40mg tablets (Waymade Healthcare Plc),Propranolol hydrochloride,40mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+34125,50073020,Metoprolol 100mg tablets (A A H Pharmaceuticals Ltd),Metoprolol tartrate,100mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+57342,928020,Propranolol 40mg tablets (Phoenix Healthcare Distribution Ltd),Propranolol hydrochloride,40mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+32787,78135020,Visken 15mg tablets (AMCo),Pindolol,15mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+49863,182020,Propranolol 5mg/5ml oral solution sugar free,Propranolol hydrochloride,1mg/1ml,Oral solution,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+25363,88272020,Prestim tablets (Meda Pharmaceuticals Ltd),Timolol maleate/Bendroflumethiazide,10mg + 2.5mg,Tablet,Oral,2040100,Beta-adrenoceptor Blocking Drugs With Diuretic
+26228,85670020,Propanix LA 160mg Modified-release capsule (Ashbourne Pharmaceuticals Ltd),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+34945,59464020,Propranolol 160mg Modified-release capsule (Lagap),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+2629,72236020,Carvedilol 12.5mg tablets,Carvedilol,12.5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+14057,65806020,Pindolol 10mg / Clopamide 5mg tablets,Pindolol/Clopamide,10mg + 5mg,Tablet,Oral,2040100,Beta-adrenoceptor Blocking Drugs With Diuretic
+15176,72691020,Totamol 50mg Tablet (C P Pharmaceuticals Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+51528,40504020,Bisoprolol 1.25mg tablets (Actavis UK Ltd),Bisoprolol fumarate,1.25mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+52136,69495020,Bedranol sr 160mg Capsule (Lagap),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+62325,47104020,Atenolol 25mg tablets (Waymade Healthcare Plc),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+19998,51987020,Trandate 100mg/20ml solution for injection ampoules (Focus Pharmaceuticals Ltd),Labetalol hydrochloride,5mg/1ml,Solution for injection,Intravenous,2040000,Beta-adrenoceptor Blocking Drugs
+12456,51646020,Sotazide Tablet (Bristol-Myers Squibb Pharmaceuticals Ltd),Sotalol Hydrochloride/Hydrochlorothiazide,,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+19191,53707020,Atenolol 100mg tablets (Teva UK Ltd),Atenolol,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+53334,62943020,Bisoprolol 10mg tablets (A A H Pharmaceuticals Ltd),Bisoprolol fumarate,10mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+34188,51424020,Labetalol 200mg Tablet (Celltech Pharma Europe Ltd),Labetalol hydrochloride,200mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+33079,60233020,Atenolol 100mg tablets (Mylan Ltd),Atenolol,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+8290,54885020,Trasicor 40mg Tablet (Novartis Pharmaceuticals UK Ltd),Oxprenolol hydrochloride,40mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+56486,1094020,Monocor 10mg tablets (Dowelhurst Ltd),Bisoprolol fumarate,10mg,Tablet,Oral,02040000/02050000/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Management Of Myocardial Infarction
+21966,86500020,Bipranix 5mg tablets (Ashbourne Pharmaceuticals Ltd),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050000/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Management Of Myocardial Infarction
+52609,942020,Inderal LA 160mg capsules (Sigma Pharmaceuticals Plc),Propranolol hydrochloride,160mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+58973,63965020,Bisoprolol 10mg tablets (Niche Generics Ltd),Bisoprolol fumarate,10mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+30400,63851020,Mepranix 100mg Tablet (Ashbourne Pharmaceuticals Ltd),Metoprolol tartrate,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+35054,91235020,Celectol 200mg tablets (Zentiva),Celiprolol hydrochloride,200mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+37837,73574020,Bisoprolol 2.5mg Tablet (Teva UK Ltd),Bisoprolol fumarate,2.5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+2432,54818020,Tenormin LS 50mg tablets (AstraZeneca UK Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+32630,77372020,Vivacor 10mg tablets (Lexon (UK) Ltd),Bisoprolol fumarate,10mg,Tablet,Oral,02040000/02050000/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Management Of Myocardial Infarction
+34963,62688020,Bisoprolol 5mg tablets (Actavis UK Ltd),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+55228,927020,Propranolol 40mg tablets (Boston Healthcare Ltd),Propranolol hydrochloride,40mg,Tablet,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+15730,72692020,Totamol 100mg Tablet (C P Pharmaceuticals Ltd),Atenolol,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+16645,58485020,Labrocol 400mg Tablet (Lagap),Labetalol hydrochloride,400mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+34185,56194020,Propranolol LA 80mg Modified-release capsule (Approved Prescription Services Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+1006,53253020,Half Inderal LA 80mg capsules (AstraZeneca UK Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402/04090300/06020200,"Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine/Drugs For Essential Tremor, Chorea, Tics, And Related Disorders/Antithyroid Drugs"
+57578,1123020,Cardicor 2.5mg tablets (Necessity Supplies Ltd),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+60502,38490020,Bisoprolol 3.75mg tablets (DE Pharmaceuticals),Bisoprolol fumarate,3.75mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+56459,45146020,Bisoprolol 2.5mg tablets (Accord Healthcare Ltd),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+32114,62676020,Bisoprolol 5mg tablets (Mylan Ltd),Bisoprolol fumarate,5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+51643,1013020,Atenolol 25mg/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd),Atenolol,5mg/1ml,Oral solution,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+34407,56767020,Metoprolol 50mg tablets (Teva UK Ltd),Metoprolol tartrate,50mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+56768,77972020,Bisoprolol 2.5mg tablets (Niche Generics Ltd),Bisoprolol fumarate,2.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+34890,53461020,Metoprolol 50mg Tablet (Berk Pharmaceuticals Ltd),Metoprolol tartrate,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+34092,56768020,Metoprolol 100mg tablets (Teva UK Ltd),Metoprolol tartrate,100mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+52310,39793020,Atenolol 25mg tablets (Crescent Pharma Ltd),Atenolol,25mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+46931,56837020,Atenolol 100mg tablets (Actavis UK Ltd),Atenolol,100mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+9273,54879020,Trandate 50mg tablets (Focus Pharmaceuticals Ltd),Labetalol hydrochloride,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+56445,77037020,Atenolol 25mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd),Atenolol,5mg/1ml,Oral solution,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+5968,68354020,Monocor 10mg tablets (Wyeth Pharmaceuticals),Bisoprolol fumarate,10mg,Tablet,Oral,02040000/02050000/02100100,Beta-adrenoceptor Blocking Drugs/Hypertension And Heart Failure/Management Of Myocardial Infarction
+54487,44459020,Nebivolol 2.5mg tablets (Sigma Pharmaceuticals Plc),Nebivolol hydrochloride,2.5mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+46740,197021,Lopresor 100mg tablets (Recordati Pharmaceuticals Ltd),Metoprolol tartrate,100mg,Tablet,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+45309,71703020,Acebutolol 400mg tablets (A A H Pharmaceuticals Ltd),Acebutolol hydrochloride,400mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+58455,40508020,Bisoprolol 7.5mg tablets (Sandoz Ltd),Bisoprolol fumarate,7.5mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+65227,20525020,Metoprolol 12.5mg/5ml oral solution,Metoprolol tartrate,2.5mg/1ml,Oral solution,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+1333,59361020,Oxprenolol 40mg tablets,Oxprenolol hydrochloride,40mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs
+58511,40503020,Bisoprolol 1.25mg tablets (Sandoz Ltd),Bisoprolol fumarate,1.25mg,Tablet,Oral,02040000/02050500/02100100,Beta-adrenoceptor Blocking Drugs/Drugs Affecting The Renin-angiotensin System/Management Of Myocardial Infarction
+57240,20539020,Metoprolol 50mg/5ml oral suspension (Drug Tariff Special Order),Metoprolol tartrate,10mg/1ml,Oral suspension,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+28788,85953020,Half propatard la 80mg Modified-release capsule (Galen Ltd),Propranolol hydrochloride,80mg,Modified-release capsule,Oral,02040000/04070402,Beta-adrenoceptor Blocking Drugs/Prophylaxis Of Migraine
+53215,982020,Atenolol 50mg tablets (Bristol Laboratories Ltd),Atenolol,50mg,Tablet,Oral,2040000,Beta-adrenoceptor Blocking Drugs

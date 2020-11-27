@@ -1,33 +1,33 @@
-prodcode,therapyevents,gemscriptcode,productname,drugsubstancename,substancestrength,formulation,routeofadministration,bnfcode,bnfheader,databasebuild
-49755,83,43740020,Fosrenol 750mg oral powder sachets (Shire Pharmaceuticals Ltd),,,,,9050202,Phosphate-binding Agents,Jan-13
-47749,79,99673020,Calcium acetate 950mg tablets,Calcium acetate,950mg,Tablet,Oral,9050202,Phosphate-binding Agents,Sep-12
-41300,7,96764020,Rephoren 435mg+235mg film-coated Tablet (Fresenius Medical Care (UK) Ltd),Calcium Acetate/Magnesium Carbonate,435mg+235mg,Tablet,Oral,9050202,Phosphate-binding Agents,Feb-10
-50816,186,18273020,Calcium acetate 500mg tablets,Calcium acetate,500mg,Tablet,Oral,9050202,Phosphate-binding Agents,Jan-13
-44182,169,98885020,Renvela 2.4g oral powder sachets (Sanofi),Sevelamer carbonate,2.4gram,Powder,Oral,9050202,Phosphate-binding Agents,Dec-10
-49569,233,43739020,Lanthanum carbonate 750mg oral powder sachets,,,,,9050202,Phosphate-binding Agents,Jan-13
-47701,5,92889020,Lanthanum carbonate (roi) 250mg Chewable tablet,Lanthanum Carbonate,250mg,Chewable Tablet,Oral,9050202,Phosphate-binding Agents,Aug-12
-35390,3840,92897020,Lanthanum carbonate 1g chewable tablets sugar free,Lanthanum carbonate,1gram,Chewable tablet,Oral,9050202,Phosphate-binding Agents,Feb-09
-6814,47715,77356020,Sevelamer 800mg tablets,Sevelamer Hydrochloride,800mg,Tablets,Oral,9050202,Phosphate-binding Agents,Feb-09
-46136,219,99671020,Calcium acetate 475mg tablets,Calcium acetate,475mg,Tablet,Oral,9050202,Phosphate-binding Agents,Sep-11
-44353,865,98551020,Sevelamer carbonate 800mg film coated tablet,Sevelamer Carbonate,800mg,Film Coated Tablets,Oral,9050202,Phosphate-binding Agents,Jan-11
-40977,555,97271020,Calcium acetate 667mg capsules,Calcium acetate,667mg,Capsule,Oral,9050202,Phosphate-binding Agents,Dec-09
-54029,160,99677020,Renacet 950mg tablets (Stanningley Pharma Ltd),Calcium acetate,950mg,Tablet,Oral,9050202,Phosphate-binding Agents,Mar-13
-11699,25925,79797020,Calcium acetate 1g tablets,Calcium acetate,1gram,Tablet,Oral,9050202,Phosphate-binding Agents,Feb-09
-44611,725,98887020,Renvela 800mg tablets (Sanofi),Sevelamer Carbonate,800mg,Film Coated Tablets,Oral,9050202,Phosphate-binding Agents,Feb-11
-60180,1,20683021,Colestilan 3g granules sachets,,,,,9050202,Phosphate-binding Agents,Jun-14
-41951,942,97273020,PhosLo 667mg capsules (Stanningley Pharma Ltd),Calcium acetate,667mg,Capsule,Oral,9050202,Phosphate-binding Agents,Apr-10
-48119,252,99675020,Renacet 475mg tablets (Stanningley Pharma Ltd),Calcium acetate,475mg,Tablet,Oral,9050202,Phosphate-binding Agents,Dec-12
-35042,4554,92893020,Lanthanum carbonate 750mg chewable tablets sugar free,Lanthanum carbonate,750mg,Chewable tablet,Oral,9050202,Phosphate-binding Agents,Feb-09
-42664,1395,97602020,Osvaren 435mg/235mg tablets (Fresenius Medical Care (UK) Ltd),Magnesium Carbonate/calcium Acetate,435mg+235mg,Film Coated Tablets,Oral,9050202,Phosphate-binding Agents,Jun-10
-62651,2,20681021,Colestilan 2g granules sachets,,,,,9050202,Phosphate-binding Agents,Mar-15
-35119,3598,92891020,Lanthanum carbonate 500mg chewable tablets sugar free,Lanthanum carbonate,500mg,Chewable tablet,Oral,9050202,Phosphate-binding Agents,Feb-09
-40800,495,96762020,Calcium acetate 435mg / Magnesium carbonate heavy 235mg tablets,Magnesium Carbonate/calcium Acetate,435mg+235mg,Film Coated Tablets,Oral,9050202,Phosphate-binding Agents,Nov-09
-35396,526,93091020,Fosrenol 500mg chewable tablets (Shire Pharmaceuticals Ltd),Lanthanum carbonate,500mg,Chewable tablet,Oral,9050202,Phosphate-binding Agents,Feb-09
-44732,321,98549020,Sevelamer 2.4g oral powder sachets sugar free,Sevelamer carbonate,2.4gram,Powder,Oral,9050202,Phosphate-binding Agents,Feb-11
-6450,24442,77359020,Renagel 800mg tablets (Sanofi),Sevelamer,800mg,Tablet,Oral,9050202,Phosphate-binding Agents,Feb-09
-2841,10455,83194020,Phosex 1g tablets (Pharmacosmos UK Ltd),Calcium acetate,1gram,Tablet,Oral,9050202,Phosphate-binding Agents,Feb-09
-35216,1126,93093020,Fosrenol 750mg chewable tablets (Shire Pharmaceuticals Ltd),Lanthanum carbonate,750mg,Chewable tablet,Oral,9050202,Phosphate-binding Agents,Feb-09
-49054,461,43737020,Lanthanum carbonate 1g oral powder sachets,,,,,9050202,Phosphate-binding Agents,Jan-13
-56060,30,43738020,Fosrenol 1000mg oral powder sachets (Shire Pharmaceuticals Ltd),,,,,9050202,Phosphate-binding Agents,Aug-13
-47030,5,99667020,Calcium acetate 660mg tablets,Calcium Acetate,660mg,Film Coated Tablets,Oral,9050202,Phosphate-binding Agents,Mar-12
-35819,807,93095020,Fosrenol 1000mg chewable tablets (Shire Pharmaceuticals Ltd),Lanthanum carbonate,1gram,Chewable tablet,Oral,9050202,Phosphate-binding Agents,Feb-09
+prodcode,gemscriptcode,productname,drugsubstancename,substancestrength,formulation,routeofadministration,bnfcode,bnfheader
+49755,43740020,Fosrenol 750mg oral powder sachets (Shire Pharmaceuticals Ltd),,,,,9050202,Phosphate-binding Agents
+47749,99673020,Calcium acetate 950mg tablets,Calcium acetate,950mg,Tablet,Oral,9050202,Phosphate-binding Agents
+41300,96764020,Rephoren 435mg+235mg film-coated Tablet (Fresenius Medical Care (UK) Ltd),Calcium Acetate/Magnesium Carbonate,435mg+235mg,Tablet,Oral,9050202,Phosphate-binding Agents
+50816,18273020,Calcium acetate 500mg tablets,Calcium acetate,500mg,Tablet,Oral,9050202,Phosphate-binding Agents
+44182,98885020,Renvela 2.4g oral powder sachets (Sanofi),Sevelamer carbonate,2.4gram,Powder,Oral,9050202,Phosphate-binding Agents
+49569,43739020,Lanthanum carbonate 750mg oral powder sachets,,,,,9050202,Phosphate-binding Agents
+47701,92889020,Lanthanum carbonate (roi) 250mg Chewable tablet,Lanthanum Carbonate,250mg,Chewable Tablet,Oral,9050202,Phosphate-binding Agents
+35390,92897020,Lanthanum carbonate 1g chewable tablets sugar free,Lanthanum carbonate,1gram,Chewable tablet,Oral,9050202,Phosphate-binding Agents
+6814,77356020,Sevelamer 800mg tablets,Sevelamer Hydrochloride,800mg,Tablets,Oral,9050202,Phosphate-binding Agents
+46136,99671020,Calcium acetate 475mg tablets,Calcium acetate,475mg,Tablet,Oral,9050202,Phosphate-binding Agents
+44353,98551020,Sevelamer carbonate 800mg film coated tablet,Sevelamer Carbonate,800mg,Film Coated Tablets,Oral,9050202,Phosphate-binding Agents
+40977,97271020,Calcium acetate 667mg capsules,Calcium acetate,667mg,Capsule,Oral,9050202,Phosphate-binding Agents
+54029,99677020,Renacet 950mg tablets (Stanningley Pharma Ltd),Calcium acetate,950mg,Tablet,Oral,9050202,Phosphate-binding Agents
+11699,79797020,Calcium acetate 1g tablets,Calcium acetate,1gram,Tablet,Oral,9050202,Phosphate-binding Agents
+44611,98887020,Renvela 800mg tablets (Sanofi),Sevelamer Carbonate,800mg,Film Coated Tablets,Oral,9050202,Phosphate-binding Agents
+60180,20683021,Colestilan 3g granules sachets,,,,,9050202,Phosphate-binding Agents
+41951,97273020,PhosLo 667mg capsules (Stanningley Pharma Ltd),Calcium acetate,667mg,Capsule,Oral,9050202,Phosphate-binding Agents
+48119,99675020,Renacet 475mg tablets (Stanningley Pharma Ltd),Calcium acetate,475mg,Tablet,Oral,9050202,Phosphate-binding Agents
+35042,92893020,Lanthanum carbonate 750mg chewable tablets sugar free,Lanthanum carbonate,750mg,Chewable tablet,Oral,9050202,Phosphate-binding Agents
+42664,97602020,Osvaren 435mg/235mg tablets (Fresenius Medical Care (UK) Ltd),Magnesium Carbonate/calcium Acetate,435mg+235mg,Film Coated Tablets,Oral,9050202,Phosphate-binding Agents
+62651,20681021,Colestilan 2g granules sachets,,,,,9050202,Phosphate-binding Agents
+35119,92891020,Lanthanum carbonate 500mg chewable tablets sugar free,Lanthanum carbonate,500mg,Chewable tablet,Oral,9050202,Phosphate-binding Agents
+40800,96762020,Calcium acetate 435mg / Magnesium carbonate heavy 235mg tablets,Magnesium Carbonate/calcium Acetate,435mg+235mg,Film Coated Tablets,Oral,9050202,Phosphate-binding Agents
+35396,93091020,Fosrenol 500mg chewable tablets (Shire Pharmaceuticals Ltd),Lanthanum carbonate,500mg,Chewable tablet,Oral,9050202,Phosphate-binding Agents
+44732,98549020,Sevelamer 2.4g oral powder sachets sugar free,Sevelamer carbonate,2.4gram,Powder,Oral,9050202,Phosphate-binding Agents
+6450,77359020,Renagel 800mg tablets (Sanofi),Sevelamer,800mg,Tablet,Oral,9050202,Phosphate-binding Agents
+2841,83194020,Phosex 1g tablets (Pharmacosmos UK Ltd),Calcium acetate,1gram,Tablet,Oral,9050202,Phosphate-binding Agents
+35216,93093020,Fosrenol 750mg chewable tablets (Shire Pharmaceuticals Ltd),Lanthanum carbonate,750mg,Chewable tablet,Oral,9050202,Phosphate-binding Agents
+49054,43737020,Lanthanum carbonate 1g oral powder sachets,,,,,9050202,Phosphate-binding Agents
+56060,43738020,Fosrenol 1000mg oral powder sachets (Shire Pharmaceuticals Ltd),,,,,9050202,Phosphate-binding Agents
+47030,99667020,Calcium acetate 660mg tablets,Calcium Acetate,660mg,Film Coated Tablets,Oral,9050202,Phosphate-binding Agents
+35819,93095020,Fosrenol 1000mg chewable tablets (Shire Pharmaceuticals Ltd),Lanthanum carbonate,1gram,Chewable tablet,Oral,9050202,Phosphate-binding Agents

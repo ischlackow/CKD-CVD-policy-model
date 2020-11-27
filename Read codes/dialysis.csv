@@ -1,34 +1,34 @@
-medcode,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
-2996,5694,83,4,0,7L1A200,Haemodialysis NEC,Feb-09
-11773,2867,38,0,0,7L1A.11,Dialysis for renal failure,Feb-09
-20073,1240,18,0,0,7L1A000,Renal dialysis,Feb-09
-20196,1967,66,0,0,14V2.00,H/O: renal dialysis,Feb-09
-22252,309,6,0,0,ZV45100,[V]Renal dialysis status,Feb-09
-28158,18,0,0,0,TB11.00,"Kidney dialysis with complication, without blame",Feb-09
-31549,156,20,0,0,7L1A.00,Compensation for renal failure,Feb-09
-35921,1,0,0,0,TA22.00,Failure of sterile precautions during perfusion,Feb-09
-44422,51,2,0,0,14V2.11,H/O: kidney dialysis,Feb-09
-46145,16,1,0,0,ZV56011,[V]Aftercare involving renal dialysis NOS,Feb-09
-48022,7,1,1,0,7L1Ay00,Other specified compensation for renal failure,Feb-09
-54844,3,0,0,0,U612200,[X]Failure sterile precautions dur kidney dialys/other perf,Feb-09
-60302,356,0,0,0,7A60600,Creation of graft fistula for dialysis,Feb-09
-60743,12,4,0,0,ZV56.00,[V]Aftercare involving intermittent dialysis,Feb-09
-64636,3,0,0,0,7L1Az00,Compensation for renal failure NOS,Feb-09
-65089,3,0,0,0,7L1Cz00,Placement other apparatus- compensate for renal failure NOS,Feb-09
-66714,5,0,0,0,TB11.11,"Renal dialysis with complication, without blame",Feb-09
-69266,3,0,0,0,TA22000,Failure of sterile precautions during kidney dialysis,Feb-09
-69427,2,0,0,0,TA02z00,"Accid cut,puncture,perf,h'ge - perfusion NOS",Feb-09
-69760,23,0,0,0,ZVu3G00,[X]Other dialysis,Feb-09
-71124,77,0,0,0,7L1A300,Haemofiltration,Feb-09
-83513,19,0,0,0,7L1C.00,Placement other apparatus for compensation for renal failure,Feb-09
-96184,2,0,0,0,TA02000,"Accid cut,puncture,perf,h'ge - kidney dialysis",Apr-09
-101756,3,0,0,0,7L1A011,Thomas intravascular shunt for dialysis,Feb-11
-2994,2750,75,3,0,7L1A100,Peritoneal dialysis,Feb-09
-8037,614,12,0,0,7L1B000,Insertion of ambulatory peritoneal dialysis catheter,Feb-09
-23773,292,7,0,0,7L1B100,Removal of ambulatory peritoneal dialysis catheter,Feb-09
-30709,198,4,0,0,7L1C000,Insertion of temporary peritoneal dialysis catheter,Feb-09
-30756,108,1,0,0,7L1A500,Continuous ambulatory peritoneal dialysis,Feb-09
-36442,34,0,0,0,7L1B.11,Placement ambulatory dialysis apparatus - compens renal fail,Feb-09
-56760,20,0,0,0,7L1B.00,Placement ambulatory apparatus compensation renal failure,Feb-09
-59194,1,0,0,0,7L1By00,Placement ambulatory apparatus- compensate renal failure OS,Feb-09
-64828,148,0,0,0,7L1A600,Peritoneal dialysis NEC,Feb-09
+medcode,readcode,readterm
+2996,7L1A200,Haemodialysis NEC
+11773,7L1A.11,Dialysis for renal failure
+20073,7L1A000,Renal dialysis
+20196,14V2.00,H/O: renal dialysis
+22252,ZV45100,[V]Renal dialysis status
+28158,TB11.00,"Kidney dialysis with complication, without blame"
+31549,7L1A.00,Compensation for renal failure
+35921,TA22.00,Failure of sterile precautions during perfusion
+44422,14V2.11,H/O: kidney dialysis
+46145,ZV56011,[V]Aftercare involving renal dialysis NOS
+48022,7L1Ay00,Other specified compensation for renal failure
+54844,U612200,[X]Failure sterile precautions dur kidney dialys/other perf
+60302,7A60600,Creation of graft fistula for dialysis
+60743,ZV56.00,[V]Aftercare involving intermittent dialysis
+64636,7L1Az00,Compensation for renal failure NOS
+65089,7L1Cz00,Placement other apparatus- compensate for renal failure NOS
+66714,TB11.11,"Renal dialysis with complication, without blame"
+69266,TA22000,Failure of sterile precautions during kidney dialysis
+69427,TA02z00,"Accid cut,puncture,perf,h'ge - perfusion NOS"
+69760,ZVu3G00,[X]Other dialysis
+71124,7L1A300,Haemofiltration
+83513,7L1C.00,Placement other apparatus for compensation for renal failure
+96184,TA02000,"Accid cut,puncture,perf,h'ge - kidney dialysis"
+101756,7L1A011,Thomas intravascular shunt for dialysis
+2994,7L1A100,Peritoneal dialysis
+8037,7L1B000,Insertion of ambulatory peritoneal dialysis catheter
+23773,7L1B100,Removal of ambulatory peritoneal dialysis catheter
+30709,7L1C000,Insertion of temporary peritoneal dialysis catheter
+30756,7L1A500,Continuous ambulatory peritoneal dialysis
+36442,7L1B.11,Placement ambulatory dialysis apparatus - compens renal fail
+56760,7L1B.00,Placement ambulatory apparatus compensation renal failure
+59194,7L1By00,Placement ambulatory apparatus- compensate renal failure OS
+64828,7L1A600,Peritoneal dialysis NEC

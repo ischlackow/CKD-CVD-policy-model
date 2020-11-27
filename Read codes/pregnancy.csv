@@ -1,1113 +1,1113 @@
-medcode,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
-13584,24475,13,0,0,3885,Edinburgh postnatal depression scale,
-29205,159,23,804,0,4453,Serum pregnancy test positive,Feb-09
-3030,45536,22644,65893,0,4654,Urine pregnancy test positive,Feb-09
-44173,0,1,64,0,5391,Obstetric X-ray - fetus,
-56727,0,0,1,0,5392,Obstetric X-ray - placenta,
-27019,250,543,1754,0,5841,U-S obstetric scan requested,
-4797,139,48,3010,0,5842,U-S obstetric scan normal,
-29685,35,15,375,0,5843,U-S obstetric scan abnormal,
-32975,148,12,0,0,6166,"Pregnant, diaphragm failure",Feb-09
-14994,2434,160,0,0,6174,"Pregnant, sheath failure",Feb-09
-16215,4847,48,1,0,6211,Pregnant - urine test confirms,Feb-09
-30817,804,1,0,0,6212,Pregnant - blood test confirms,Feb-09
-35592,168,0,0,0,6213,Pregnant - V.E. confirms,Feb-09
-15318,2420,166,0,0,6214,Pregnant - on history,Feb-09
-51298,601,2,0,0,6215,Pregnant - on abdom. palpation,Feb-09
-20240,5225,883,1,0,6216,Pregnant - planned,Feb-09
-14842,2653,400,0,0,6217,Pregnant - unplanned - wanted,Feb-09
-15567,10379,5317,1,0,6218,Pregnant -unplanned-not wanted,Feb-09
-16750,11404,261,0,0,6221,Antenatal care: primigravida,
-29631,9078,105,0,0,6222,Antenatal care: 2nd pregnancy,Feb-09
-29593,4209,47,0,0,6223,Antenatal care: 3rd pregnancy,Feb-09
-31570,2057,13,0,0,6224,Antenatal care: multip,
-26875,445,19,0,0,6232,A/N care: recurrent aborter,
-26691,70,0,0,0,6235,A/N care: H/O perinatal death,
-26692,332,2,0,0,6236,A/N care: poor obstetr history,
-37048,41,0,0,0,6282,A/N care:10yrs+since last preg,
-67706,2,0,0,0,6292,Ante-natal care: not wanted,
-57120,8,0,0,0,6293,Ante-natal care: not attended,
-35309,428,31,0,0,6755,Post miscarriage counselling,
-20933,2460,130,0,0,6776,Preg. termination counselling,
-9407,8174,4372,0,0,6776.11,Abortion counselling,
-65231,5,0,0,0,9384,Obstetric coop card updated,
-64738,3734,0,0,0,9537,Complete post-natal care,
-65905,3095,0,0,0,9538,Part post-natal care-1 visit,
-69627,286,0,0,0,9539,Part post-natal care-2 visits,
-5044,60628,13105,2,0,13H7.00,Unwanted pregnancy,Feb-09
-14651,167,21,0,0,13H8.00,Illegitimate pregnancy,Feb-09
-37693,336,4,0,0,13Hd.00,Teenage pregnancy,Feb-09
-24038,433,12,0,0,13S..00,Pregnancy benefits,Feb-09
-50058,148,0,0,0,13SZ.00,Pregnancy benefit NOS,Feb-09
-13317,480221,1393,0,0,27...00,Obstetric examination,
-13318,815141,227,0,0,271..11,O/E - fundus size - obstetric,
-11204,184,5,0,0,271..12,O/E - uterus size - obstetric,
-26698,70,0,0,0,27Z..00,Obstetric examination NOS,
-102362,190,37,0,0,389B.00,Assessment for termination of pregnancy,Jun-11
-13713,171,140,54356,0,44B..00,Serum alpha-feto protein,
-13715,3,0,151,0,44B1.00,Blood sent: alpha-feto protein,
-26821,1881,8530,10983,0,44B2.00,Alpha-feto protein normal,
-59888,0,0,5,0,44B3.00,Alpha-feto protein equivocal,
-19953,337,1070,1223,0,44B4.00,Alpha-feto protein raised,
-34546,121,219,219,0,44B5.00,Alpha-feto protein low,
-26897,2,2,1371,0,44BZ.00,Alpha-feto protein NOS,
-85961,1,0,9111,0,44Cy.00,Serum pregnancy associated plasma protein-A MoM measurement,Feb-09
-85960,0,0,442,0,44Cz.00,Plasma pregnancy associated plasma protein-A MoM,Feb-09
-100151,0,0,2,0,46J4.00,Urine pregnanediol titre,Jul-10
-104440,1,0,1241,0,4Q3N.00,Pregnancy associated plasma protein A level,Jun-12
-20591,9,1,343,0,539..00,Abdominal obstetric X-ray,
-53409,4,2,30,0,539..11,Obstet. X-ray abdomen,
-23169,0,0,7,0,539Z.00,Abdominal obstetric X-ray NOS,
-35558,57,11,404,0,584..12,"U-S scan - obstetric, diagn.",
-13965,6444,2396,22197,0,584..13,Ultra-sound scan - obstetric,
-16613,620,114,2097,0,584C.00,Antenatal ultrasound result received,
-13968,1837,126,4214,0,584D.00,Antenatal ultrasound confirms intra-uterine pregnancy,Feb-09
-13984,91,5,76,0,584E.00,Antenatal ultrasound confirms ectopic pregnancy,Feb-09
-13975,164,36,389,0,584F.00,Antenatal scan unable to confirm pregnancy,Feb-09
-23421,613,73,0,0,615C.00,IUD failure - pregnant,Feb-09
-29692,256,47,0,0,615C.11,"Pregnant, IUD failure",Feb-09
-127,1301968,286680,2652,0,62...00,Patient pregnant,Feb-09
-294,738943,58470,683,0,62...11,Antenatal care,
-5709,70244,17724,0,0,62...13,Pregnancy care,Feb-09
-13165,67359,5264,0,0,621..00,Patient currently pregnant,Feb-09
-4536,51460,8601,10,0,621..11,Pregnancy confirmed,Feb-09
-15338,1164,291,0,0,621A.00,Pregnancy unplanned ? wanted,Feb-09
-14877,359,87,2,0,621B.00,Pregnant - ? planned,Feb-09
-7517,10320,1936,0,0,621C.00,Unplanned pregnancy,Feb-09
-14899,21490,1182,0,0,621Z.00,Patient pregnant NOS,Feb-09
-21543,765,17,0,0,622..00,Antenatal care: gravida No.,
-49617,2957,2,0,0,622Z.00,Antenatal care: gravida NOS,
-9546,116795,632,0,0,623..00,A/N care: obstetric risk,
-26690,825,6,0,0,623Z.00,A/N care: obstetric risk NOS,
-35509,195,1,0,0,624..00,A/N care: precious pregnancy,Feb-09
-35514,29,2,0,0,624Z.00,A/N care: precious preg. NOS,
-51698,22,0,0,0,629..00,No ante-natal care,
-73032,6,0,0,0,629Z.00,No ante-natal care NOS,
-17947,1394,6,0,0,62a..00,Pregnancy review,Feb-09
-90776,8,0,0,0,62a..11,Review of pregnancy,Feb-09
-18536,2090,0,2029,0,62b..00,Antenatal HIV screening,
-28732,493,23,0,0,62c..00,Antenatal screening,
-13819,728,43,2962,0,62F..00,Antenatal amniocentesis,
-51432,9,0,53,0,62FZ.00,Antenatal amniocentesis NOS,
-2029,5153,1391,145743,0,62G..00,Antenatal ultrasound scan,
-14085,13,2,623,0,62GB.00,Antenatal ultrasounds scan at 4-8 weeks,
-14084,62,17,1823,0,62GC.00,Antenatal ultrasound scan at 9-16 weeks,
-27056,4,0,1140,0,62GD.00,Antenatal ultrasound scan at 17-22 weeks,
-39611,4,1,1227,0,62GE.00,Antenatal ultrasound scan at 22-40 weeks,
-14083,19,3,1304,0,62GZ.00,Antenatal ultrasound scan NOS,
-69815,3,0,0,0,62H3.00,Rh screen - 1st preg. sample,
-29623,2,0,0,0,62H4.00,Rh screen - 2nd preg. sample,
-50383,197,0,2,0,62I..00,Alpha-feto protein blood test,
-21957,1842,150,157,0,62I..11,AFP test - antenatal,
-25391,151,37,36,0,62I..12,Alpha-feto protein test - A/N,
-13417,1017,165,738,0,62K..00,Antenatal syphilis screen,
-42326,102,0,0,0,62KZ.00,Antenatal syphilis screen NOS,
-13419,8443,143,136,0,62L..00,Antenatal blood group screen,
-13416,86,3,1,0,62M..00,Antenatal sickle cell screen,
-10056,967267,1654,3,0,62N..00,Antenatal examinations,
-13168,22548,7,0,0,62NZ.00,Antenatal examination NOS,
-45032,606,2,0,0,62O..00,Misc. antenatal data,
-20118,226,20,0,0,62O..12,Static weight gain pregnancy,Feb-09
-24063,85,6,0,0,62O7.00,Pregnancy prolonged - 41 weeks,Feb-09
-44734,14,0,0,0,62O8.00,Pregnancy prolonged - 42 weeks,Feb-09
-30801,50,0,0,0,62OZ.00,Misc. antenatal data NOS,
-17893,1778,9,0,0,62Q..00,Postnatal care provider,
-65188,6,0,0,0,62Q4.00,No post natal care,
-19544,2260,6,0,0,62Q6.00,Postnatal care,
-15672,3087,5,0,0,62QZ.00,Post natal care NOS,
-13585,414394,1512,6,0,62R..00,Postnatal visits,
-13587,9026,1,0,0,62RZ.00,Postnatal visit NOS,
-5071,219843,2511,14,0,62S..11,Postnatal exam. - maternal,
-29287,10891,997,1,0,62S6.00,Postnatal examination minor problem found,
-4180,77699,1506,26,0,62S7.00,Postnatal examination normal,
-37675,1536,0,0,0,62T..00,Misc. postnatal data,
-51806,106,0,0,0,62TZ.00,Misc. post natal data NOS,
-13418,8152,4292,378,0,62W..00,Antenatal blood tests,
-18810,12650,5,0,0,62X..00,Length of gestation,
-26555,264,0,0,0,62X0.00,Gestation <24 weeks,
-34484,47,1,0,0,62X1.00,Gestation = 24 weeks,
-26556,459,0,0,0,62X2.00,Gestation >24 weeks,
-34505,138,0,0,0,62X3.00,Full term gestation - 40 weeks,
-40859,53,0,0,0,62X4.00,Length of gestation at birth,
-45091,656,5,0,0,62Y..00,Routine antenatal care,
-46577,73,11,0,0,66AX.00,Diabetes: shared care in pregnancy - diabetol and obstet,Feb-09
-35484,1681,19,0,0,679E.00,Antenatal education,
-5778,31550,1587,1,0,67A..00,Pregnancy advice,Feb-09
-43140,1718,20,0,0,67A2.00,Diet in pregnancy advice,Feb-09
-10184,2923,17,0,0,67A3.00,Pregnancy smoking advice,Feb-09
-36235,413,3,0,0,67A4.00,Pregnancy exercise advice,Feb-09
-35859,1075,3,0,0,67A5.00,Pregnancy alcohol advice,Feb-09
-30351,573,2,0,0,67A6.00,Drugs in pregnancy advice,Feb-09
-38556,90,1,0,0,67A7.00,Pregnancy dental advice,Feb-09
-49193,1,1,0,0,67A7.11,Care of teeth advice -in preg.,
-94804,3,0,0,0,67AB.00,Preg. prescription exempt adv.,
-97034,2466,1,0,0,67AE.00,Folic acid advice in first trimester of pregnancy,Jul-09
-102359,15518,2,0,0,67AF.00,Pregnancy advice for patients with epilepsy,Jun-11
-104542,12,0,0,0,67AH.00,Education about toxoplasmosis precautions during pregnancy,Jul-12
-36903,2350,8,0,0,67AZ.00,Pregnancy advice NOS,Feb-09
-34253,3699,2,0,0,67C..00,Postnatal support group,
-97523,16,0,0,0,68b..00,Antenatal screening status,
-98481,2,0,0,0,68b4.00,Repeat antenatal screening required,
-99475,2,0,0,0,68b5.00,Antenatal screening result pending,
-97259,2,0,0,0,68b6.00,Antenatal screening declined,
-55111,116,2,0,0,6B22.00,Sure Start antenatal visit,
-43416,6,0,0,0,6B23.00,Sure Start postnatal visit,
-12773,15226,31,0,0,6G...00,Postnatal care,
-11817,216,9,0,0,6G0..00,Postnatal counselling,
-18702,1342,58,0,0,6G00.00,Postnatal depression counselling,
-63407,5,0,0,0,7D10300,Non obstetric episiotomy NEC,
-2924,12145,996,1,0,7E06600,Hysterotomy and termination of pregnancy,Feb-09
-18944,204,3,0,0,7E07011,Dilation cervix uteri & curettage for termination pregnancy,Feb-09
-103059,2,0,0,0,7E07111,Curettage of term pregnancy NEC,Oct-11
-16384,360,7,0,0,7E07113,Curettage of uterus for termination of pregnancy NEC,Feb-09
-45862,86,0,0,0,7E07114,Curettage of uterus for termination of pregnancy NEC,Feb-09
-1748,58229,1511,0,0,7E08400,Suction termination of pregnancy,Feb-09
-21438,1051,18,0,0,7E08411,Vacuum termination of pregnancy,Feb-09
-5357,810,44,0,0,7E08500,Dilation of cervix and extraction termination of pregnancy,Feb-09
-1686,315476,13113,0,0,7E08600,Termination of pregnancy NEC,Feb-09
-4708,4525,40,0,0,7E08800,Dilation and curettage removal of missed abortion,
-68683,67,0,0,0,7E0B.00,Introduction of abortifacient into uterine cavity,
-23357,37,7,0,0,7E0B100,Intraamniotic injection of abortifacient NEC,
-38473,87,1,0,0,7E0B400,Insertion of prostaglandin abortifacient pessary,
-55278,5,0,0,0,7E0B500,Insertion of abortifacient pessary NEC,
-99205,1,0,0,0,7E0Bz00,Introduction of abortifacient into uterine cavity NOS,
-54609,4,0,0,0,7E0F200,Manual manipulation of non pregnant uterus,Feb-09
-27672,426,4,0,0,7E13100,Excision of ectopic ovarian pregnancy,Feb-09
-11986,1092,9,0,0,7E13300,Excision of ruptured ectopic tubal pregnancy,Feb-09
-29122,839,14,0,0,7E19011,Removal of ectopic pregnancy from fallopian tube,Feb-09
-40279,3,1,0,0,7E19012,Fimbrial extraction of tubal pregnancy,Feb-09
-39036,81,7,0,0,7F...00,Obstetric operations,
-30302,49,2,0,0,7F...12,Pregnancy operations,Feb-09
-1850,1697,56,0,0,7F06012,Shirodkar suture in pregnancy,Feb-09
-34046,21,0,0,0,7F2..00,Other obstetric operations,
-47231,27,3,0,0,7F22700,Pack to control postnatal vaginal bleeding,
-54099,10,1,0,0,7F22711,Pack to control postnatal vaginal bleeding,
-93190,0,0,0,0,7F22712,Pack to control postnatal haemorrhage,
-57891,31,0,0,0,7F23.00,Immediate repair of obstetric laceration,
-23800,57,1,0,0,7F23.11,Immediate repair of obstetric tear,
-11268,234,10,0,0,7F23.12,Immediate suture of obstetric laceration,
-34677,44,1,0,0,7F23000,Immed repair obstetric laceration of uterus or cervix uteri,
-31375,88,4,0,0,7F23200,Immed repair obstetric laceration vagina and floor of pelvis,
-70607,2,0,0,0,7F23300,Immediate repair of minor obstetric laceration,
-61173,4,0,0,0,7F23y00,Other specified immediate repair of obstetric laceration,
-35601,39,4,0,0,7F23z00,Immediate repair of obstetric laceration NOS,
-86021,5,0,0,0,7F24.00,Other obstetric operations,
-50516,21,0,0,0,7F24000,Secondary repair of obstetric laceration,
-45912,10,0,0,0,7F24y00,Other specified other obstetric operation,
-66471,3,0,0,0,7F24z00,Other obstetric operation NOS,
-53094,12,0,0,0,7F25y00,Other specified obstetric monitoring,
-29087,12,1,0,0,7F25z00,Obstetric monitoring NOS,
-86011,80,1,0,0,7F26.00,Routine obstetric scan,
-96343,3,0,0,0,7F26y00,Other specified routine obstetric scan,
-85245,7,0,0,0,7F26z00,Routine obstetric scan NOS,
-85992,39,3,0,0,7F27.00,Non routine obstetric scan for fetal observations,
-98261,1,0,0,0,7F27y00,OS non routine obstetric scan for fetal observations,
-95875,2,0,0,0,7F27z00,Non routine obstetric scan for fetal observations NOS,
-78449,30,4,0,0,7F28.00,Other non routine obstetric scan,
-95698,1,0,0,0,7F28y00,Other specified other non routine obstetric scan,
-85951,6,0,0,0,7F28z00,Other non routine obstetric scan NOS,
-88229,78,0,0,0,7F2A.00,Obstetric Doppler studies,
-87844,1,0,0,0,7F2A000,Obstetric umbilical artery Doppler,
-94059,3,0,0,0,7F2Az00,Obstetric Doppler studies NOS,
-85244,51,0,0,0,7F2B.00,Obstetric ultrasound monitoring,
-12837,5999,892,1,0,7F2B100,Ultrasound monitoring of early pregnancy,Feb-09
-87848,8,0,0,0,7F2Bz00,Obstetric ultrasound monitoring NOS,
-57220,4,0,0,0,7F2y.00,Other specified obstetric operations,
-62012,6,0,0,0,7F2z.00,Other obstetric operations NOS,
-34086,19,2,0,0,7Fz..00,Obstetric operations NOS,
-69356,12,0,0,0,7L0D100,Correction of obstetric palsy,
-62279,1,0,0,0,7L0D114,L'Episcopo operation for obstetric palsy,
-37386,1020,3,0,0,8B68.00,Pregnancy prophylactic therapy,Feb-09
-15065,121,1,0,0,8B7..11,Pregnancy vitamin/iron prophyl,Feb-09
-10775,3803,32,0,0,8B74.00,Iron supplement in pregnancy,Feb-09
-29746,328,0,0,0,8B75.00,Vitamin supplement - pregnancy,Feb-09
-102635,52,0,0,0,8Cg..00,Pregnancy termination care,Jul-11
-36164,72,0,0,0,8E9Z.00,Post-natal exercises,
-24655,3391,825,0,0,8H27.00,Admit obstetric emergency,
-22929,4497,99,0,0,8H3C.00,Non-urgent obstetric admission,
-11988,35873,50874,0,0,8H57.00,Obstetric referral,
-102494,88,10,0,0,8Hh3.00,Self referral to termination of pregnancy service,Jun-11
-13672,3892,3630,0,0,8HHf.00,Refer to early pregnancy unit,Feb-09
-11989,5138,6127,0,0,8HHV.00,Referral for termination of pregnancy,Feb-09
-103683,3,4,0,0,8Hki.00,Referral to teenage pregnancy and parenting support service,Feb-12
-35197,73,343,0,0,8HLN.00,Obstetric D.V. done,
-48200,23,17,0,0,8HMN.00,Listed for Obstetric admission,
-444,20866,42309,0,0,8HT9.00,Referral to antenatal clinic,
-17000,35,21,0,0,8HTA.00,Referral to postnatal clinic,
-39447,9,0,0,0,8I3G.00,Edinburgh postnatal depression scale declined,
-102191,641,0,0,0,8IAi.00,Pregnancy advice for patients with epilepsy declined,May-11
-102375,5158,1,0,0,8IB4.00,Pregnancy advice for patients with epilepsy not indicated,Jun-11
-106268,318,0,0,0,8IEc.00,Pertussis vaccination in pregnancy declined,Jun-13
-2278,48168,19649,1,0,8M6..00,Requests pregnancy termination,Feb-09
-36340,13,0,0,0,938..00,Obstetric coop card,
-60870,1,0,0,0,938Z.00,Obstetric coop card NOS,
-62367,48,0,0,0,953A.00,Part post-natal care-3 visits,
-69630,13,0,0,0,953B.00,Part post-natal care-4 visits,
-69623,508,0,0,0,953C.00,Part post-natal care-5 visits,
-53027,6543,0,0,0,953D.00,Full post-natal examination,
-22183,1344,0,0,0,957..11,Prescription exempt form-preg,
-100104,265,0,0,0,95B..00,Health in Pregnancy grant claim form issued,Jul-10
-24303,200,26,0,0,9Ea..00,Reason for termination of pregnancy,Feb-09
-98133,1,0,0,0,9Ea0.00,Risk life pregnant woman greater than if pregnancy terminatd,Dec-09
-25230,8,0,0,0,9Ea2.00,Less 24 wk involv risk injury physic/mentl health preg woman,
-106618,806,0,0,0,9kv..00,Pertussis vaccinatn progrme pregnant women enhan srvce admin,Aug-13
-106378,1596,1,0,0,9mK..00,Pertussis vaccination in pregnancy invitation,Jun-13
-106735,890,0,0,0,9mK0.00,Pertussis vaccination in pregnancy invitation first letter,Aug-13
-106736,314,0,0,0,9mK1.00,Pertussis vaccination in pregnancy invitation second letter,Aug-13
-106737,128,0,0,0,9mK2.00,Pertussis vaccination in pregnancy invitation third letter,Aug-13
-21345,4452,12,0,0,9N05.00,Seen in postnatal clinic,
-6095,237606,2021,1,0,9N1N.00,Seen in antenatal clinic,
-36000,836,0,0,0,9N1y400,Seen in postnatal clinic,
-106957,7,0,0,0,9Nif.00,Did not attend pertussis vaccination in pregnancy,Sep-13
-103610,3979,1,0,0,9NkN.00,Seen in early pregnancy unit,Jan-12
-94071,5,0,0,0,9NV0.00,Postnatal clinic,
-56967,401,0,0,0,9NV1.00,Antenatal clinic,
-46730,3,0,0,0,A370.00,Obstetrical tetanus,
-24525,386,20,0,0,E201C00,Phantom pregnancy,Feb-09
-6071,1230,164,7,0,E202E00,Fear of pregnancy,Feb-09
-2639,89325,2850,5,0,E204.11,Postnatal depression,
-13307,2104,46,0,0,Eu53011,[X]Postnatal depression NOS,
-28485,288,13,0,0,G856.00,Vulval varices - non obstetric,
-60179,12,1,0,0,J004500,Postnatal enamel hypoplasia,
-65395,1,0,0,0,K181.11,Postobstetric urethral stricture,
-35926,4,0,0,0,K54y300,Old uterine laceration due to obstetric cause,
-11152,2984,687,0,0,L....00,"Complications of pregnancy, childbirth and the puerperium",Feb-09
-32073,958,3,0,0,L0...00,Pregnancy with abortive outcome,Feb-09
-48552,303,0,0,0,L010.11,Anembryonic pregnancy,Feb-09
-1737,31237,2079,5,0,L02..00,Missed abortion,
-12241,6237,51,0,0,L02..11,Missed miscarriage,
-96949,165,0,0,0,L02..12,Silent miscarriage,
-1744,41418,2168,2,0,L03..00,Ectopic pregnancy,Feb-09
-54866,44,1,0,0,L030.00,Abdominal pregnancy,Feb-09
-65783,28,0,0,0,L030000,Delivery of viable fetus in abdominal pregnancy,Feb-09
-21849,898,13,0,0,L031.00,Tubal pregnancy,Feb-09
-44729,123,0,0,0,L031000,Fallopian tube pregnancy,Feb-09
-3874,274,14,0,0,L031200,Tubal abortion,
-50512,57,2,0,0,L031z00,Tubal pregnancy NOS,Feb-09
-59276,32,1,0,0,L032.00,Ovarian pregnancy,Feb-09
-58156,31,0,0,0,L03y.00,Other ectopic pregnancy,Feb-09
-52221,16,0,0,0,L03y000,Cervical pregnancy,Feb-09
-32950,48,1,0,0,L03y100,Cornual pregnancy,Feb-09
-21467,2,0,0,0,L03y200,Membranous pregnancy,Feb-09
-106267,2,0,0,0,L03y300,Combined or heterotopic pregnancy,Jun-13
-61995,18,1,0,0,L03yz00,Other ectopic pregnancy NOS,Feb-09
-33724,912,19,0,0,L03z.00,Ectopic pregnancy NOS,Feb-09
-3082,28929,742,0,0,L04..00,Spontaneous abortion,
-165,237479,9179,38,0,L04..11,Miscarriage,
-42458,763,7,0,0,L040.00,Spontaneous abortion unspecified,
-72307,1,0,0,0,L040000,Unspec spontaneous abortion + genital tract/pelvic infection,
-40258,3,0,0,0,L040011,Spontaneous abortion with sepsis,
-68511,5,0,0,0,L040100,Unspec spontaneous abortion + delayed/excessive haemorrhage,
-45340,7,0,0,0,L040111,Spontaneous abortion with heavy bleeding,
-99955,1,0,0,0,L040400,Unspecified spontaneous abortion with metabolic disorder,
-48603,256,5,0,0,L040900,Inevitable miscarriage,
-68669,1,0,0,0,L040w00,Unspec spontaneous abortion + other specified complication,
-68938,5,0,0,0,L040y00,Unspec spontaneous abortion without mention of complication,
-56562,307,0,0,0,L040z00,Unspecified spontaneous abortion NOS,
-7413,12407,117,0,0,L041.00,Spontaneous abortion incomplete,
-67699,8,2,0,0,L041000,Incomp spontaneous abortion + genital tract/pelvic infection,
-41783,99,1,0,0,L041100,Incomp spontaneous abortion + delayed/excessive haemorrhage,
-56828,11,0,0,0,L041w00,Incomp spontaneous abortion + other specified complication,
-68740,7,1,0,0,L041x00,Incomplete spontaneous abortion with complication NOS,
-50653,79,1,0,0,L041y00,Incomp spontaneous abortion with no mention of complication,
-29439,849,3,0,0,L041z00,Incomplete spontaneous abortion NOS,
-30276,107,6,0,0,L041z11,Retained products after spontaneous abortion,
-7817,4823,49,0,0,L042.00,Spontaneous abortion complete,
-99736,1,0,0,0,L042000,Complete spontaneous abortion + genital tract/pelvic infect,
-94359,1,0,0,0,L042w00,Complete spontaneous abortion + other specified complication,
-63778,1,0,0,0,L042x00,Complete spontaneous abortion with complication NOS,
-56325,104,2,0,0,L042y00,Complete spontaneous abortion + no mention of complication,
-29940,406,2,0,0,L042z00,Complete spontaneous abortion NOS,
-8173,1876,55,0,0,L043.00,Inevitable abortion unspecified,
-11234,888,57,0,0,L043.11,Inevitable miscarriage unspecified,
-94270,1,0,0,0,L043x00,Unspecified inevitable abortion with unspec complication,
-99578,9,0,0,0,L043x11,Unspecified inevitable miscarriage with unspec complication,
-66365,2,0,0,0,L043y00,Unspecified inevitable abortion with OS complication,
-68110,12,0,0,0,L043z00,Unspecified inevitable abortion without complication,
-7114,1745,30,0,0,L044.00,Inevitable abortion incomplete,
-17625,2428,81,0,0,L044.11,Inevitable miscarriage incomp,
-95625,1,0,0,0,L044200,Incomplete inevitable abortion complicated by embolism,
-72593,5,0,0,0,L044x00,Incomplete inevitable abortion with unspecified complication,
-94976,3,0,0,0,L044x11,Incomplete inevitable miscarriage with unspecified comp,
-68311,2,0,0,0,L044y00,Incomplete inevitable abortion with OS complication,
-92284,3,0,0,0,L044y11,Incomplete inevitable miscarriage with other specified comp,
-51614,41,1,0,0,L044z00,Incomplete inevitable abortion without complication,
-53836,16,0,0,0,L044z11,Incomplete inevitable miscarriage without complication,
-33501,532,12,0,0,L045.00,Inevitable abortion complete,
-11323,4587,52,0,0,L045.11,Inevitable miscarriage complete,
-59116,2,0,0,0,L045x00,Complete inevitable abortion with unspecified complication,
-63777,3,1,0,0,L045y00,Complete inevitable abortion with OS complication,
-57576,5,0,0,0,L045y11,Complete inevitable miscarriage with OS complication,
-33989,41,1,0,0,L045z00,Complete inevitable abortion without complication,
-55404,14,0,0,0,L045z11,Complete inevitable miscarriage without complication,
-22379,2755,9,0,0,L04z.00,Spontaneous abortion NOS,
-2187,22825,549,36,0,L05..00,Legally induced abortion,
-60771,204,0,0,0,L05..11,Elective abortion,
-255,246229,17114,51,0,L05..12,Termination of pregnancy,
-31431,456,8,0,0,L05..13,Therapeutic abortion,
-56822,254,0,0,0,L050.00,Legal abortion unspecified,
-73445,1,0,0,0,L050000,Unspecified legal abortion + genital tract/pelvic infection,
-47931,1,0,0,0,L050w00,Unspecified legal abortion with other specified complication,
-41098,4,1,0,0,L050x00,Unspecified legal abortion with complication NOS,
-70384,10,0,0,0,L050y00,Unspecified legal abortion with no mention of complication,
-38415,13,0,0,0,L050z00,Unspecified legal abortion NOS,
-12337,372,8,0,0,L051.00,Legal abortion incomplete,
-39754,18,1,0,0,L051.11,Medal abortion - incomplete,
-6730,154,2,0,0,L051.12,Surgical abortion - incomplete,
-99195,0,1,0,0,L051000,Incomplete legal abortion + genital tract/pelvic infection,
-68936,3,1,0,0,L051100,Incomplete legal abortion + delayed or excessive haemorrhage,
-102576,15,0,0,0,L051711,Incomplete termination of pregnancy,Jul-11
-96652,1,0,0,0,L051w00,Incomplete legal abortion with other specified complication,
-73443,5,0,0,0,L051y00,Incomplete legal abortion with no mention of complication,
-28605,54,0,0,0,L051z00,Incomplete legal abortion NOS,
-47298,322,5,0,0,L052.00,Legal abortion complete,
-41379,452,1,0,0,L052.11,Medical abortion - complete,
-49849,521,2,0,0,L052.12,Surgical abortion - complete,
-69190,3,0,0,0,L052000,Complete legal abortion + genital tract or pelvic infection,
-69183,1,0,0,0,L052100,Complete legal abortion with delayed/excessive haemorrhage,
-99590,1,0,0,0,L052w00,Complete legal abortion with other specified complication,
-67076,4,0,0,0,L052x00,Complete legal abortion with complication NOS,
-50612,56,0,0,0,L052y00,Complete legal abortion with no mention of complication,
-58085,88,0,0,0,L052z00,Complete legal abortion NOS,
-33770,1345,1,0,0,L05z.00,Legally induced abortion NOS,
-41606,35,0,0,0,L06..00,Illegally induced abortion,
-71289,5,0,0,0,L06..11,Criminal abortion,
-49467,26,1,0,0,L06..12,Self-induced abortion,
-71529,1,0,0,0,L060.00,Illegal abortion unspecified,
-53229,1,0,0,0,L060z00,Unspecified illegal abortion NOS,
-72229,9,0,0,0,L061.00,Illegal abortion incomplete,
-94404,1,0,0,0,L061z00,Incomplete illegal abortion NOS,
-66561,1,0,0,0,L062.00,Illegal abortion complete,
-97991,1,0,0,0,L062w00,Complete illegal abortion with other specified complication,
-96418,1,0,0,0,L06z.00,Illegally induced abortion NOS,
-1439,3740,315,23,0,L07..00,Unspecified abortion,
-70643,23,1,0,0,L070.00,Unspecified abortion,
-45806,10,5,0,0,L070x00,Unspecified abortion with complication NOS,
-56224,8,0,0,0,L070z00,Unspecified abortion NOS,
-1879,19840,2866,10,0,L071.00,Unspecified abortion incomplete,
-59084,1,1,0,0,L071500,Unspecified incomplete abortion with shock,
-25883,1,0,0,0,L071y00,Unspecified incomplete abortion + no mention of complication,
-35184,264,16,0,0,L071z00,Unspecified incomplete abortion NOS,
-29594,38,0,0,0,L072z00,Unspecified complete abortion NOS,
-58137,35,0,0,0,L07z.00,Unspecified abortion NOS,
-39470,50,1,0,0,L08..00,Failed attempted abortion,
-41118,2,0,0,0,L08z.00,Failed attempted abortion NOS,
-9585,61,1,0,0,L09..00,Complications following abortion/ectopic/molar pregnancies,Feb-09
-12320,270,15,0,0,L09..11,Complications following abortion/ectopic/molar pregnancies,Feb-09
-32007,79,1,0,0,L090.00,Genital or pelvic infection following abortive pregnancy,Feb-09
-30326,262,3,0,0,L090000,Endometritis following abortive pregnancy,Feb-09
-50571,5,0,0,0,L090100,Parametritis following abortive pregnancy,Feb-09
-51359,7,1,0,0,L090200,Pelvic peritonitis following abortive pregnancy,Feb-09
-47918,34,0,0,0,L090300,Salpingitis following abortive pregnancy,Feb-09
-59493,25,0,0,0,L090400,Salpingo-oophoritis following abortive pregnancy,Feb-09
-20152,380,24,0,0,L090y00,Sepsis NOS following abortion/ectopic/molar pregnancy,Feb-09
-23840,73,0,0,0,L090z00,Septicaemia NOS following abortive pregnancy,Feb-09
-20307,345,101,0,0,L091.00,Delayed/excessive haemorrhage following abortive pregnancy,Feb-09
-63362,2,0,0,0,L091100,Defibrination syndrome following abortive pregnancy,Feb-09
-64523,10,0,0,0,L091z00,Delayed/excess haemorrhage NOS following abortive pregnancy,Feb-09
-65085,5,0,0,0,L092000,Bladder damage following abortive pregnancy,Feb-09
-99933,1,0,0,0,L092100,Bowel damage following abortive pregnancy,Jun-10
-89557,4,0,0,0,L092300,Cervix damage following abortive pregnancy,Feb-09
-62052,12,0,0,0,L092500,Uterus damage following abortive pregnancy,Feb-09
-71314,3,0,0,0,L093.00,Renal failure following abortive pregnancy,Feb-09
-50093,6,2,0,0,L093000,Oliguria following abortive pregnancy,Feb-09
-70422,1,0,0,0,L093400,Uraemia following abortive pregnancy,Feb-09
-92415,2,0,0,0,L095.00,Shock following abortive pregnancy,Feb-09
-93583,1,0,0,0,L096.00,Embolism following abortive pregnancy,Feb-09
-63319,1,0,0,0,L096.11,Embolus following abortive pregnancy,Feb-09
-67006,7,0,0,0,L096400,Pulmonary embolism following abortive pregnancy,Feb-09
-94736,4,0,0,0,L096600,Septic embolism following abortive pregnancy,Feb-09
-35273,13,1,0,0,L097.00,Readmission for abortive pregnancy (NHS codes),Feb-09
-8996,411,36,0,0,L097000,"Readmis for retain products of concept, spontaneous abortion",
-23693,140,10,0,0,L097100,"Readmission for retained produc of concept, legal abortion",
-47435,1,0,0,0,L097200,"Readmission for retained produc of concept, illegal abortion",
-21805,63,1,0,0,L097300,"Readmission for retained produc of concept, unspec abortion",
-106097,2,0,0,0,L09y.00,Other specified complication following abortive pregnancy,May-13
-105918,1,0,0,0,L09y400,Urinary tract infection following abortive pregnancy,Apr-13
-64125,8,0,0,0,L09yz00,Other specified complication NOS follow abortive pregnancy,Feb-09
-25028,18,0,0,0,L09z.00,Complication NOS following abortion/ectopic/molar pregnancy,Feb-09
-49809,10,0,0,0,L0A..00,Failed attempted abortion,
-47376,3,1,0,0,L0A1.00,Failed medical abortion complic by genital tract/pelvic infn,
-50903,4,0,0,0,L0A2.00,Failed medical abortion comp by delayed/excessive haem'ge,
-59572,1,0,0,0,L0A3.00,"Failed medical abortion, complicated by embolism",
-33964,7,0,0,0,L0A4.00,"Failed medical abortion, without complication",
-44650,25,0,0,0,L0y..00,Other specified pregnancy with abortive outcome,Feb-09
-44733,122,2,0,0,L0z..00,Pregnancy with abortive outcome NOS,Feb-09
-2638,7886,981,5,0,L1...00,Pregnancy complications,Feb-09
-3766,6132,1776,6,0,L10..00,Haemorrhage in early pregnancy,Feb-09
-906,74413,15155,10,0,L100.00,Threatened abortion,
-35701,214,13,0,0,L100000,Threatened abortion unspecified,
-66227,12,0,0,0,L100100,Threatened abortion - delivered,
-57852,74,2,0,0,L100200,Threatened abortion - not delivered,
-25605,607,23,0,0,L100z00,Threatened abortion NOS,
-24603,386,11,0,0,L10y.00,Other haemorrhage in early pregnancy,Feb-09
-9408,21046,1948,0,0,L10y.11,Bleeding in early pregnancy,Feb-09
-61301,34,1,0,0,L10y000,Other haemorrhage in early pregnancy unspecified,Feb-09
-105654,1,0,0,0,L10y100,Other haemorrhage in early pregnancy - delivered,Jan-13
-73917,7,0,0,0,L10y200,Other haemorrhage in early pregnancy - not delivered,Feb-09
-69327,32,3,0,0,L10yz00,Other haemorrhage in early pregnancy NOS,Feb-09
-14925,3802,1350,0,0,L10z.00,Early pregnancy haemorrhage NOS,Feb-09
-54107,30,2,0,0,L10z000,Early pregnancy haemorrhage NOS unspecified,Feb-09
-101260,3,0,0,0,L10z100,Early pregnancy haemorrhage NOS - delivered,Jan-11
-48304,9,0,0,0,L10z200,Early pregnancy haemorrhage NOS - not delivered,Feb-09
-41122,464,11,0,0,L10zz00,Early pregnancy haemorrhage NOS,Feb-09
-2034,4453,1086,0,0,L10zz11,Inevitable abortion,
-9170,6780,118,0,0,L12..00,Hypertension complicating pregnancy/childbirth/puerperium,Feb-09
-12604,540,2,0,0,L120.00,Benign essential hypertension in pregnancy/childbirth/puerp,Feb-09
-37344,55,1,0,0,L120000,Benign essential hypertension in preg/childb/puerp unspec,
-44912,18,0,0,0,L120100,Benign essential hypertension in preg/childb/puerp - deliv,
-97781,2,0,0,0,L120200,Benign ess hypert in preg/childb/puerp - deliv with p/n comp,
-61408,8,0,0,0,L120300,Benign essential hypertension in preg/childb/puerp-not deliv,
-73633,1,0,0,0,L120400,Benign essential hypertension in preg/childb/puerp +p/n comp,
-34136,58,0,0,0,L120z00,Benign essential hypertension in preg/childb/puerp NOS,
-93143,8,0,0,0,L121.00,Renal hypertension in pregnancy/childbirth/puerperium,Feb-09
-64127,4,0,0,0,L121000,Renal hypertension in pregnancy/childbirth/puerp unspecified,Feb-09
-71717,2,0,0,0,L121100,Renal hypertension in pregnancy/childbirth/puerp - delivered,Feb-09
-97349,1,0,0,0,L121300,Renal hypertension in preg/childbirth/puerp - not delivered,
-94718,1,0,0,0,L121z00,Renal hypertension in pregnancy/childbirth/puerperium NOS,Feb-09
-66567,6,0,0,0,L122.00,Other pre-existing hypertension in preg/childbirth/puerp,
-73586,5,0,0,0,L122000,Other pre-existing hypertension in preg/childb/puerp unspec,
-72030,3,0,0,0,L122100,Other pre-existing hypertension in preg/childb/puerp - deliv,
-96743,1,0,0,0,L122300,Other pre-exist hypertension in preg/childb/puerp-not deliv,
-62432,5,1,0,0,L122z00,Other pre-existing hypertension in preg/childb/puerp NOS,
-20439,1171,0,0,0,L123.00,Transient hypertension of pregnancy,Feb-09
-55338,47,2,0,0,L123000,Transient hypertension of pregnancy unspecified,Feb-09
-54942,78,0,0,0,L123100,Transient hypertension of pregnancy - delivered,Feb-09
-67035,2,0,0,0,L123200,Transient hypertension of pregnancy - deliv with p/n comp,Feb-09
-71730,9,0,0,0,L123300,Transient hypertension of pregnancy - not delivered,Feb-09
-70342,7,0,0,0,L123400,Transient hypertension of pregnancy + postnatal complication,Feb-09
-21526,1010,9,0,0,L123500,Gestational hypertension,
-38882,521,0,0,0,L123600,Transient hypertension of pregnancy,Feb-09
-35646,96,0,0,0,L123z00,Transient hypertension of pregnancy NOS,Feb-09
-62919,8,0,0,0,L125200,Severe pre-eclampsia - delivered with postnatal complication,
-62916,4,0,0,0,L125400,Severe pre-eclampsia with postnatal complication,
-70487,7,0,0,0,L126200,Eclampsia - delivered with postnatal complication,
-70891,7,0,0,0,L126400,Eclampsia with postnatal complication,
-39117,277,0,0,0,L126500,Eclampsia in pregnancy,Feb-09
-44549,13,0,0,0,L128.00,Pre-exist hypertension compl preg childbirth and puerperium,
-60655,1,1,0,0,L128000,Pre-exist hyperten heart dis compl preg childbth+puerperium,
-52621,20,3,0,0,L128200,Pre-exist 2ndry hypertens comp preg childbth and puerperium,
-34173,162,15,10,0,L12B.00,Proteinuric hypertension of pregnancy,Feb-09
-40723,246,2,0,0,L12z.00,Unspecified hypertension in pregnancy/childbirth/puerperium,Feb-09
-41949,29,0,0,0,L12z000,Unspecified hypertension in preg/childb/puerp unspecified,
-44068,42,1,0,0,L12z100,Unspecified hypertension in preg/childb/puerp - delivered,
-89561,2,0,0,0,L12z200,Unspecified hypertension in preg/childb/puerp -del +p/n comp,
-3421,3255,365,1,0,L12z300,Unspecified hypertension in preg/childb/puerp - not deliv,
-35698,104,0,0,0,L12zz00,Unspecified hypertension in preg/childb/puerp NOS,
-10185,7214,134,0,0,L13..00,Excessive pregnancy vomiting,Feb-09
-15061,1359,23,0,0,L13..12,Hyperemesis of pregnancy,Feb-09
-65555,47,0,0,0,L132.00,Late vomiting of pregnancy,Feb-09
-69011,4,0,0,0,L132000,Late pregnancy vomiting unspecified,Feb-09
-70476,2,0,0,0,L132100,Late pregnancy vomiting - delivered,Feb-09
-72019,1,0,0,0,L132200,Late pregnancy vomiting - not delivered,Feb-09
-101518,2,0,0,0,L132z00,Late pregnancy vomiting NOS,Jan-11
-27833,49,0,0,0,L13y.00,Other pregnancy vomiting,Feb-09
-41504,14,0,0,0,L13y000,Other pregnancy vomiting unspecified,Feb-09
-41504,8,0,0,0,L13y000,Other pregnancy vomiting unspecified,
-99247,4,0,0,0,L13y200,Other pregnancy vomiting - not delivered,Apr-10
-41625,33,0,0,0,L13yz00,Other pregnancy vomiting NOS,Feb-09
-11760,3226,128,0,0,L13z.00,Unspecified pregnancy vomiting,Feb-09
-73559,8,0,0,0,L13z000,Unspecified pregnancy vomiting unspecified,Feb-09
-73535,2,0,0,0,L13z100,Unspecified pregnancy vomiting - delivered,Feb-09
-53661,9,0,0,0,L13z200,Unspecified pregnancy vomiting - not delivered,Feb-09
-56451,114,2,0,0,L13zz00,Unspecified pregnancy vomiting NOS,Feb-09
-54596,6,0,0,0,L140200,False labour at or after 37 completed weeks of gestation,
-24170,34,8,0,0,L15..00,Prolonged or post-term pregnancy,Feb-09
-23995,21,5,0,0,L15..11,Post-term pregnancy,Feb-09
-23373,46,17,0,0,L150.00,Post-term pregnancy,Feb-09
-67698,1,2,0,0,L150000,Post-term pregnancy unspecified,Feb-09
-30948,153,13,0,0,L150100,Post-term pregnancy - delivered,Feb-09
-67728,0,1,0,0,L150200,Post-term pregnancy - not delivered,Feb-09
-37163,1,1,0,0,L150z00,Post-term pregnancy NOS,Feb-09
-35855,2,0,0,0,L15z.00,Prolonged pregnancy NOS,Feb-09
-27740,121,3,0,0,L16..00,Other pregnancy complication NEC,Feb-09
-28107,314,3,0,0,L161.00,Oedema or excessive weight gain in pregnancy no hypertension,Feb-09
-12521,149,3,0,0,L161.11,Excessive weight gain in pregnancy,Feb-09
-29565,2089,0,0,0,L161.13,Gestational oedema,
-53921,22,0,0,0,L161000,"Oedema or excessive weight gain in pregnancy, unspecified",Feb-09
-61563,35,0,0,0,L161300,Oedema or excessive weight gain in pregnancy - not delivered,Feb-09
-61835,2715,0,0,0,L161z00,Oedema or excessive weight gain in pregnancy NOS,Feb-09
-47080,25,2,0,0,L162.00,Unspecified renal disease in pregnancy,Feb-09
-23334,71,18,3,0,L162.11,Albuminuria in pregnancy without hypertension,Feb-09
-38312,15,2,1,0,L162.12,Nephropathy NOS in pregnancy without hypertension,Feb-09
-92579,1,0,0,0,L162.13,Uraemia in pregnancy without hypertension,Feb-09
-54938,1,0,0,0,L162000,Unspecified renal disease in pregnancy unspecified,Feb-09
-96724,1,0,0,0,L162100,Unspecified renal disease in pregnancy - delivered,Apr-09
-24944,14,4,0,0,L163300,Pregnancy care of habitual aborter,Feb-09
-65256,7,2,0,0,L164.00,Peripheral neuritis in pregnancy,Feb-09
-31162,157,2,0,0,L165.00,Asymptomatic bacteriuria in pregnancy,Feb-09
-98264,1,0,0,0,L165200,Asymptomatic bacteriuria in pregnancy - del with p/n comp,Dec-09
-105943,3,0,0,0,L165300,Asymptomatic bacteriuria in pregnancy - not delivered,Apr-13
-107225,1,0,0,0,L165z00,Asymptomatic bacteriuria in pregnancy NOS,Nov-13
-67975,1844,0,0,0,L166.00,Genitourinary tract infections in pregnancy,Feb-09
-2602,333,9,0,0,L166.11,Cystitis of pregnancy,Feb-09
-27451,118,11,2,0,L166000,Genitourinary tract infection in pregnancy unspecified,Feb-09
-16017,42,7,1,0,L166100,Genitourinary tract infection in pregnancy - delivered,Feb-09
-15418,292,20,2,0,L166300,Genitourinary tract infection in pregnancy - not delivered,Feb-09
-98981,1,0,0,0,L166400,Genitourinary tract infection in pregnancy with p/n comp,Apr-10
-3029,323,34,3,0,L166500,Infections of kidney in pregnancy,Feb-09
-27980,55,1,0,0,L166700,Infections of the genital tract in pregnancy,Feb-09
-6649,2465,32,5,0,L166800,Urinary tract infection complicating pregnancy,Feb-09
-15634,356,5,1,0,L166z00,Genitourinary tract infection in pregnancy NOS,Feb-09
-14644,799,7,0,0,L166z11,UTI - urinary tract infection in pregnancy,Feb-09
-18258,60,2,0,0,L167.00,Liver disorder in pregnancy,Feb-09
-62358,3,0,0,0,L167000,Liver disorder in pregnancy unspecified,Feb-09
-57419,6,0,0,0,L167100,Liver disorder in pregnancy - delivered,Feb-09
-54677,5,1,0,0,L167200,Liver disorder in pregnancy - not delivered,Feb-09
-36421,20,1,0,0,L167z00,Liver disorder in pregnancy NOS,Feb-09
-52583,111,1,0,0,L168.00,Fatigue during pregnancy,Feb-09
-64099,5,0,0,0,L168000,Fatigue during pregnancy unspecified,Feb-09
-68930,4,0,0,0,L168100,Fatigue during pregnancy - delivered,Feb-09
-99980,1,0,0,0,L168300,Fatigue during pregnancy - not delivered,Jun-10
-99956,1,0,0,0,L168400,Fatigue during pregnancy with postnatal complication,Jun-10
-73727,1,0,0,0,L168z00,Fatigue during pregnancy NOS,Feb-09
-7515,260,14,0,0,L169.00,Herpes gestationis,
-69250,2,0,0,0,L169000,Herpes gestationis unspecified,
-71876,0,0,0,0,L169200,Herpes gestationis - delivered with postnatal complication,
-54082,1,1,0,0,L169300,Herpes gestationis - not delivered,
-100157,1,0,0,0,L169400,Herpes gestationis with postnatal complication,
-40703,11,0,0,0,L169z00,Herpes gestationis NOS,
-5693,1333,102,14,0,L16A.00,Glycosuria during pregnancy,Feb-09
-58142,9,0,0,0,L16A000,Glycosuria during pregnancy unspecified,Feb-09
-70149,2,0,0,0,L16A100,Glycosuria during pregnancy - delivered,Feb-09
-99889,1,0,0,0,L16A200,Glycosuria during pregnancy - delivered with p/n comp,Jun-10
-63751,4,0,0,0,L16A300,Glycosuria during pregnancy - not delivered,Feb-09
-70993,36,0,0,0,L16Az00,Glycosuria during pregnancy NOS,Feb-09
-36394,54,3,0,0,L16C.00,Pregnancy induced oedema+proteinuria without hypertension,Feb-09
-34265,25,0,0,0,L16C000,Gestational proteinuria,
-37201,2,1,0,0,L16C100,Gestational oedema with proteinuria,
-43000,29,3,0,0,L16D.00,Excessive weight gain in pregnancy,Feb-09
-16775,2428,56,0,0,L16E.00,Pregnancy pruritus,Feb-09
-42015,77,0,0,0,L16y.00,Other pregnancy complications,Feb-09
-53849,21,0,0,0,L16y000,Other pregnancy complication unspecified,Feb-09
-71162,14,0,0,0,L16y100,Other pregnancy complication - delivered,Feb-09
-55757,0,0,0,0,L16y200,Other pregnancy complication - delivered with postnatal comp,Feb-09
-64292,9,0,0,0,L16y300,Other pregnancy complication - not delivered,Feb-09
-94527,4,0,0,0,L16y400,Other pregnancy complication with postnatal complication,Feb-09
-3191,7510,556,18,0,L16y500,Abdominal pain in pregnancy,Feb-09
-25872,40,1,0,0,L16yz00,Other pregnancy complication NOS,Feb-09
-36006,378,0,0,0,L16z.00,Pregnancy complication NOS,Feb-09
-23485,34,5,0,0,L17..00,Infective/parasitic disease in preg/childbirth/puerperium,
-54761,61,3,2,0,L170.00,Maternal syphilis in pregnancy/childbirth/puerperium,Feb-09
-96437,1,0,0,0,L170000,"Maternal syphilis, unspec whether in pregnancy or puerperium",Apr-09
-66537,7,0,0,0,L170100,Maternal syphilis during pregnancy - baby delivered,Feb-09
-107197,1,0,0,0,L170z00,Maternal syphilis in pregnancy/childbirth/puerperium NOS,Nov-13
-41961,8,0,0,0,L171.00,Maternal gonorrhoea during pregnancy/childbirth/puerperium,Feb-09
-41959,3,0,0,0,L171300,Maternal gonorrhoea in pregnancy - baby not yet delivered,Feb-09
-23691,107,0,0,0,L172.00,Other venereal diseases in pregnancy/childbirth/puerperium,Feb-09
-86991,1,0,0,0,L172000,"Other maternal venereal disease, unspec pregnancy/puerperium",Feb-09
-99188,4,0,0,0,L173.00,Maternal tuberculosis in pregnancy/childbirth/puerperium,Apr-10
-58140,1,0,0,0,L173000,"Maternal tuberculosis,unspec whether in pregnancy/puerperium",Feb-09
-49390,3,0,0,0,L174.00,"Maternal malaria in pregnancy, childbirth and the puerperium",Feb-09
-42598,95,0,0,0,L175.00,"Maternal rubella in pregnancy, childbirth and the puerperium",Feb-09
-2937,228,42,21,0,L175.11,Rubella contact in pregnancy,Feb-09
-94353,3,0,0,0,L175000,"Maternal rubella, unspecified whether pregnancy/puerperium",Feb-09
-64649,5,0,0,0,L175100,Maternal rubella during pregnancy - baby delivered,Feb-09
-55889,3,0,0,0,L175300,Maternal rubella during pregnancy - baby not yet delivered,Feb-09
-73927,3,0,0,0,L175z00,Maternal rubella in pregnancy/childbirth/puerperium NOS,Feb-09
-72944,6,0,0,0,L176.00,Other maternal viral dis. in pregnancy/childbirth/puerperium,Feb-09
-106517,2,0,0,0,L176100,Other maternal viral disease in pregnancy - baby delivered,Aug-13
-103104,2,0,0,0,L176300,Other maternal viral dis.in pregnancy-baby not yet delivered,Oct-11
-59573,21,0,0,0,L176500,"Viral hepatitis comp pregnancy, childbirth & the puerperium",Feb-09
-47608,28,0,0,0,L177.00,Infections of bladder in pregnancy,Feb-09
-53490,8,0,0,0,L178.00,Infections of urethra in pregnancy,Feb-09
-104466,3,0,0,0,L179.00,HIV disease complicating pregnancy childbirth puerperium,Jul-12
-97881,1,0,0,0,L17y.00,Other mat.infective/parasitic disease in preg/childb/puerp.,
-97877,1,0,0,0,L17yz00,Other mat.infective/parasitic dis in preg/childb/puerp NOS,
-59910,4,0,0,0,L17z.00,Maternal infect/parasitic dis NOS in pregnancy/childb/puerp,Feb-09
-44069,23,0,0,0,L18..00,Other medical condition in pregnancy/childbirth/puerperium,Feb-09
-11359,949,30,7,0,L180.00,Diabetes mellitus during pregnancy/childbirth/puerperium,Feb-09
-67635,13,0,0,0,L180000,Diabetes mellitus - unspec whether in pregnancy/puerperium,Feb-09
-34639,55,0,0,0,L180100,Diabetes mellitus during pregnancy - baby delivered,Feb-09
-49559,39,2,0,0,L180300,Diabetes mellitus during pregnancy - baby not yet delivered,Feb-09
-10278,461,6,0,0,L180800,Diabetes mellitus arising in pregnancy,Feb-09
-8446,9832,76,12,0,L180811,Gestational diabetes mellitus,
-2664,1993,58,1,0,L180900,Gestational diabetes mellitus,
-64384,40,1,0,0,L180z00,Diabetes mellitus in pregnancy/childbirth/puerperium NOS,Feb-09
-47686,46,4,0,0,L181.00,Thyroid dysfunction in pregnancy/childbirth/puerperium,Feb-09
-100670,8,0,0,0,L181100,Thyroid dysfunction during pregnancy - baby delivered,Sep-10
-91888,6,1,0,0,L181300,Thyroid dysfunction in pregnancy - baby not yet delivered,Feb-09
-63644,4,0,0,0,L181z00,Thyroid dysfunction in pregnancy/childbirth/puerperium NOS,Feb-09
-1771,42787,199,34,0,L182.00,"Anaemia during pregnancy, childbirth and the puerperium",Feb-09
-15633,89,0,0,0,L182000,Anaemia - unspecified whether in pregnancy or the puerperium,Feb-09
-33708,130,0,0,0,L182100,Anaemia during pregnancy - baby delivered,Feb-09
-21119,2063,2,0,0,L182300,Anaemia during pregnancy - baby not yet delivered,Feb-09
-1668,9320,63,18,0,L182500,Iron deficiency anaemia of pregnancy,
-33634,753,1,0,0,L182z00,Anaemia during pregnancy/childbirth/puerperium NOS,Feb-09
-41473,35,2,0,0,L183.00,"Drug dependence in pregnancy, childbirth and the puerperium",Feb-09
-64500,1,0,0,0,L183.11,Pregnancy and drug dependence,Feb-09
-63379,2,0,0,0,L183100,Drug dependence during pregnancy - baby delivered,Feb-09
-67098,13,0,0,0,L183300,Drug dependence during pregnancy - baby not yet delivered,Feb-09
-96004,2,0,0,0,L183z00,Drug dependence during pregnancy/childbirth/puerperium NOS,Feb-09
-46756,15,1,0,0,L184.00,"Mental disorders in pregnancy, childbirth and the puerperium",Feb-09
-109465,1,0,0,0,L184300,Mental disorder during pregnancy - baby not yet delivered,Apr-15
-57491,23,2,0,0,L185.00,Congenital cardiovascular disorders in preg/childb/puerp,
-61935,5,0,0,0,L185.11,Congenital heart disease in pregnancy,Feb-09
-69703,1,0,0,0,L185100,Congenital cardiovasc dis in pregnancy - baby delivered,Feb-09
-53142,2,0,0,0,L185z00,Congenital cardiovascular disorder in preg/childb/puerp NOS,
-58982,1,0,0,0,L186.00,Other cardiovascular diseases in pregnancy/childbirth/puerp,Feb-09
-66594,1,0,0,0,L186.11,Heart disease during pregnancy,Feb-09
-41283,6,1,0,0,L187.00,Orthopaedic disorders in pregnancy/childbirth/puerperium,Feb-09
-99422,5,0,0,0,L187000,Orthopaedic disorder - unsp whether in pregnancy/puerperium,May-10
-57059,5,0,0,0,L187300,Orthopaedic disorder in pregnancy - baby not yet delivered,Feb-09
-6478,129,0,1,0,L188.00,Abnormal glucose tolerance test in pregnancy/childb/puerp,Feb-09
-18668,61,12,7,0,L188.11,GTT - glucose tolerance test abnormal in preg/childb/puerp,
-73647,5,0,0,0,L188000,Abnormal GTT - unspec whether during pregnancy/puerperium,Feb-09
-68215,9,0,0,0,L188100,Abnormal GTT during pregnancy - baby delivered,Feb-09
-53167,28,0,0,0,L188300,Abnormal GTT during pregnancy - baby not yet delivered,Feb-09
-73557,4,0,0,0,L188z00,Abnormal GTT in pregnancy/childbirth/puerperium NOS,Feb-09
-54681,5,0,0,0,L189.00,"Dis resp syst comp pregnancy, childbirth & puerperium",Feb-09
-62809,7,1,0,0,L18A.00,Dis of the digestive sys comp preg childbirth and puerp,
-26286,1518,29,0,0,L18A000,Cholestasis of pregnancy,Feb-09
-45942,24,0,0,0,L18B.00,Dis of the skin and subcut tis comp preg childbrth puerp,
-24951,5,0,0,0,L18C.00,"Endocrine nutrition+metab dis complic pregn,childbirth+puerp",
-64260,3,0,0,0,L18D.00,"Dis nervous syst complic pregnancy,childbirth and puerperium",Feb-09
-43754,7,0,0,0,L18z.00,Medical condition NOS in pregnancy/childbirth/puerperium,Feb-09
-73432,3,0,0,0,L18z100,Medical condition NOS during pregnancy - baby delivered,Feb-09
-67164,4,0,0,0,L18z300,Medical condition NOS in pregnancy - baby not yet delivered,Feb-09
-69911,1,0,0,0,L18zz00,Medical condition NOS in pregnancy/childb/puerp NOS,Feb-09
-60330,3,0,0,0,L19..00,Complications specific to multiple gestation,
-44770,6,0,0,0,L191.00,Continuing pregnancy after abortion of one fetus or more,Feb-09
-40964,28,0,0,0,L192.00,Continuing preg after intrauterine death one fetus or more,
-24521,1504,244,0,0,L1A..00,Sublux of symphysis pubis in preg childbirth and puerp,
-41718,38,0,0,0,L1y..00,Complications of pregnancy/childbirth/puerperium OS,Feb-09
-53310,148,1,0,0,L1z..00,Complications of pregnancy/childbirth/puerperium NOS,Feb-09
-10261,313,22,1,0,L2...00,Risk factors in pregnancy,Feb-09
-31743,617,0,0,0,L200.00,Normal delivery but ante- or post- natal conditions present,
-15433,494,20,0,0,L21..00,Multiple pregnancy,Feb-09
-16975,7,0,0,0,L21..11,Gestation - multiple,
-1130,10410,479,10,0,L210.00,Twin pregnancy,Feb-09
-54577,27,0,0,0,L210000,Twin pregnancy unspecified,Feb-09
-1357,5403,236,0,0,L210100,Twin pregnancy - delivered,
-61284,26,0,0,0,L210200,Twin pregnancy with antenatal problem,Feb-09
-41587,200,1,0,0,L210z00,Twin pregnancy NOS,Feb-09
-20197,419,13,0,0,L211.00,Triplet pregnancy,Feb-09
-61576,1,0,0,0,L211000,Triplet pregnancy unspecified,Feb-09
-61182,6,0,0,0,L211100,Triplet pregnancy - delivered,Feb-09
-94473,2,0,0,0,L211z00,Triplet pregnancy NOS,Feb-09
-34938,36,1,0,0,L212.00,Quadruplet pregnancy,Feb-09
-51956,1,0,0,0,L212200,Quadruplet pregnancy with antenatal problem,Feb-09
-72014,1,0,0,0,L212z00,Quadruplet pregnancy NOS,Feb-09
-69599,2,0,0,0,L21y.00,Other multiple pregnancy,Feb-09
-107713,1,0,0,0,L21y200,Other multiple pregnancy with antenatal problem,Feb-14
-105511,1,0,0,0,L21z.00,Multiple pregnancy NOS,Jan-13
-70214,4,0,0,0,L21z100,Multiple pregnancy NOS - delivered,Feb-09
-106170,1,0,0,0,L21zz00,Multiple pregnancy NOS,May-13
-66496,5,0,0,0,L222200,Breech presentation with antenatal problem,
-70096,4,0,0,0,L224200,Transverse lie with antenatal problem,
-73191,1,0,0,0,L226200,Brow presentation with antenatal problem,
-49502,6,0,0,0,L228.00,Multiple pregnancy with malpresentation,Feb-09
-71851,4,0,0,0,L229200,Prolapsed arm with antenatal problem,
-60154,13,0,0,0,L24..00,Pelvic soft tissue abnormality in pregnancy/childbirth/puerp,Feb-09
-34299,73,3,0,0,L240.00,Congenital abnormality of uterus in preg/childbirth/puerp,
-28225,260,21,0,0,L240.11,"Bicornuate uterus in pregnancy, childbirth and puerperium",Feb-09
-49789,29,3,0,0,L240.12,"Double uterus in pregnancy, childbirth and the puerperium",Feb-09
-41899,7,1,0,0,L240000,Congenital abnormality of uterus affecting obstetric care,
-34210,23,1,0,0,L240011,Bicornuate uterus affecting obstetric care,
-92362,4,0,0,0,L240z00,Congenital abnormality uterus in pregnancy/childb/puerp NOS,Feb-09
-56542,16,0,0,0,L240z11,"Bicornuate uterus in pregnancy, childbirth or puerperium NOS",Feb-09
-53141,26,1,0,0,L241.00,Tumour of uterine body in pregnancy/childbirth/puerperium,Feb-09
-45242,92,3,0,0,L241.11,"Uterine fibroids in pregnancy, childbirth and the puerperium",Feb-09
-93136,3,0,0,0,L241000,Tumour of uterine body affecting obstetric care,
-20826,30,1,0,0,L241011,Uterine fibroid affecting obstetric care,
-72215,6,1,0,0,L241z00,Uterine body tumour in pregnancy/childbirth/puerperium NOS,Feb-09
-51639,60,2,0,0,L241z11,Uterine fibroid in pregnancy/childbirth/puerperium NOS,Feb-09
-50908,43,5,0,0,L242.00,Uterine scar from previous surgery in pregnancy/childb/puerp,Feb-09
-97836,1,0,0,0,L242100,Uterine operation scar in pregnancy/childbirth/puerp - deliv,Oct-09
-57640,1,0,0,0,L242z00,Uterine operation scar in pregnancy/childbirth/puerp NOS,Feb-09
-15254,46,15,0,0,L244.00,Other uterine/pelvic floor abnormality in preg/childb/puerp,
-20850,47,3,0,0,L244.11,"Cystocele in pregnancy, childbirth and the puerperium",Feb-09
-35903,25,9,0,0,L244.12,"Pendulous abdomen in pregnancy,childbirth and the puerperium",Feb-09
-39492,31,3,0,0,L244.13,"Rectocele in pregnancy, childbirth and the puerperium",Feb-09
-54473,15,2,0,0,L244000,Other uterine/pelvic floor abnormal affecting obstetric care,
-20907,26,1,0,0,L244011,Cystocele affecting obstetric care,
-58517,18,1,0,0,L244012,Rectocele affecting obstetric care,
-30378,3,2,0,0,L244312,Rectocele complicating antenatal care - baby not delivered,
-35683,8,0,0,0,L244z00,Other uterine/pelvic floor abn in preg/childb/puerp NOS,
-39550,42,2,0,0,L244z11,"Cystocele in pregnancy, childbirth or the puerperium NOS",Feb-09
-64147,10,0,0,0,L244z12,"Rectocele in pregnancy, childbirth or the puerperium NOS",Feb-09
-38871,27,5,0,0,L246.00,Other cervical abnormality in pregnancy/childbirth/puerp,Feb-09
-53056,17,3,0,0,L246.11,"Polyp of cervix in pregnancy, childbirth and the puerperium",Feb-09
-97629,6,1,0,0,L246z00,Other cervical abnormality in pregnancy/childbirth/puerp NOS,Sep-09
-33255,4,2,0,0,L246z11,Polyp of cervix in pregnancy/childbirth/puerperium NOS,Feb-09
-101499,1,0,0,0,L246z12,Stenosis of cervix in pregnancy/childbirth/puerperium NOS,Jan-11
-38875,2,0,0,0,L247.00,Congenital/acquired abnormality vagina in preg/childb/puerp,
-41016,11,0,0,0,L247.11,"Septate vagina in pregnancy, childbirth and the puerperium",Feb-09
-40262,13,1,0,0,L247.13,Vaginal abnormality in pregnancy/childbirth/puerperium,Feb-09
-43628,5,0,0,0,L247011,Septate vagina affecting obstetric care,
-61626,1,0,0,0,L247012,Stenosis of vagina affecting obstetric care,
-73757,1,0,0,0,L247z00,Vaginal abnormality in pregnancy/childbirth/puerperium NOS,Feb-09
-63835,2,0,0,0,L247z11,Septate vagina in pregnancy/childbirth/puerperium NOS,Feb-09
-72203,3,1,0,0,L248.00,Congenital/acquired abnormality vulva in preg/childb/puerp,
-88361,2,1,0,0,L248.11,"Persistent hymen in pregnancy, childbirth and the puerperium",Feb-09
-31610,60,12,0,0,L248.13,Vulval abnormality in pregnancy/childbirth/puerperium,Feb-09
-98057,1,0,0,0,L248000,Vulval abnormality affecting obstetric care,
-72437,7,0,0,0,L248z00,Vulval abnormality in pregnancy/childbirth/puerperium NOS,Feb-09
-103222,1,0,0,0,L248z11,Persistent hymen in pregnancy/childbirth/puerperium NOS,Oct-11
-62315,1,0,0,0,L24z400,Pelvic soft tissue abnorm in preg/childb/puerp with p/n comp,
-71563,2,0,0,0,L24zz00,Pelvic soft tissue abnormality in preg/childb/puerp NOS,
-69788,1,0,0,0,L260200,Fetal-maternal haemorrhage with antenatal problem,
-73407,2,0,0,0,L261200,Rhesus isoimmunisation with antenatal problem,
-69072,2,0,0,0,L262200,Other blood-group isoimmunisation with antenatal problem,
-44828,0,0,0,0,L263200,Fetal distress with antenatal problem,
-60877,3,0,0,0,L263800,Maternal care for fetal decelerations during pregnancy,Feb-09
-12230,41,3,0,0,L263900,Maternal care for fetal tachycardia during pregnancy,Feb-09
-26055,34,2,0,0,L263A00,Maternal care for fetal bradycardia during pregnancy,Feb-09
-45413,44,4,0,0,L263A11,Maternal care for reduced fetal heart rate during pregnancy,Feb-09
-69254,7,0,0,0,L264200,Intrauterine death with antenatal problem,
-23495,1198,286,0,0,L265.00,Small-for-dates fetus in pregnancy,Feb-09
-23751,67,6,0,0,L266.00,Large-for-dates fetus in pregnancy,Feb-09
-99479,2,0,0,0,L267200,Other placental conditions with antenatal problem,
-61533,3,0,0,0,L270200,Polyhydramnios with antenatal problem,
-47928,5,0,0,0,L280200,Oligohydramnios with antenatal problem,
-97391,1,0,0,0,L281200,Premature rupture of membranes with antenatal problem,
-99286,1,0,0,0,L28y200,Other amniotic/membrane problem with antenatal problem,
-15685,123,8,1,0,L2A..00,Abnormal findings on antenatal screening of mother,
-42120,9,1,1,0,L2A0.00,Abnormal haematologic find on antenatal screening of mother,
-36226,3,0,0,0,L2A1.00,Abnormal biochemical finding on antenatal screen of mother,
-28290,55,1,0,0,L2A3.00,Abnormal ultrasonic finding on antenatal screening of mother,
-70046,2,0,0,0,L2A4.00,Abnormal radiological finding on antenatal screen of mother,
-37985,6,0,0,0,L2AX.00,Abnormal finding on antenatal screening of mother,
-49407,32,4,0,0,L2B..00,Low weight gain in pregnancy,Feb-09
-67893,1,0,0,0,L2C..00,Malnutrition in pregnancy,Feb-09
-40357,29,1,0,0,L2D..00,Retained intrauterine contraceptive device in pregnancy,Feb-09
-26866,80,2,0,0,L2y..00,Other specified risk factors in pregnancy,Feb-09
-23438,187,37,0,0,L2z..00,Risk factors in pregnancy NOS,Feb-09
-44401,4,1,0,0,L305200,Shoulder dystocia with antenatal problem,
-71794,3,0,0,0,L307200,Other failed trial of labour with antenatal problem,
-73765,1,0,0,0,L311200,Secondary uterine inertia with antenatal problem,
-95107,1,0,0,0,L312200,Other uterine inertia with antenatal problem,
-71862,1,0,0,0,L323200,Delayed delivery second twin with antenatal problem,
-99939,1,0,0,0,L33y200,Other umbilical cord complications with antenatal problem,
-96678,1,0,0,0,L33z200,Umbilical cord complications NOS with antenatal problem,
-59623,9,0,0,0,L35..00,Other obstetric trauma,
-90277,1,0,0,0,L350200,Rupture of uterus before labour with antenatal problem,
-68319,1,0,0,0,L351300,Rupture of uterus during/after labour with postnatal problem,
-33352,10,0,0,0,L352.00,Obstetric inversion of uterus,
-34843,14,0,0,0,L352.11,Inversion of uterus - obstetric,
-72594,2,0,0,0,L352200,Obstetric inversion of uterus with postnatal problem,
-94444,4,0,0,0,L352z00,Obstetric inversion of uterus NOS,
-55750,20,6,0,0,L353.00,Obstetric laceration of cervix,
-44261,25,0,0,0,L353.11,Laceration of cervix - obstetric,
-27916,31,4,0,0,L353.12,Tear of cervix - obstetric,
-68557,1,0,0,0,L353000,Obstetric laceration of cervix unspecified,
-73797,6,0,0,0,L353z00,Obstetric laceration of cervix NOS,
-69458,10,2,0,0,L354.00,Obstetric high vaginal laceration,
-51929,37,3,0,0,L354.11,High vaginal laceration - obstetric,
-50488,34,4,0,0,L354.12,High vaginal tear - obstetric,
-71742,1,0,0,0,L354000,Obstetric high vaginal laceration unspecified,
-44872,5,0,0,0,L354100,Obstetric high vaginal laceration - delivered,
-72298,6,1,0,0,L355.00,Other obstetric pelvic organ damage,
-28730,33,2,0,0,L355.11,Bladder injury - obstetric,
-22765,9,0,0,0,L355.12,Urethra injury - obstetric,
-94399,1,0,0,0,L355100,Other obstetric pelvic organ damage - delivered,
-48853,42,2,0,0,L356.00,Obstetric trauma damaging pelvic joints and ligaments,
-93982,2,0,0,0,L356.11,Obstetric pelvic joint damage,
-48442,7,2,0,0,L356.12,Obstetric pelvic ligament damage,
-61200,4,0,0,0,L356000,Obstetric damage to pelvic joints and ligaments unspecified,
-69382,3,0,0,0,L356200,Obstetric damage to pelvic joints and ligaments + p/n prob,
-24089,14,0,0,0,L356z00,Obstetric damage to pelvic joints and ligaments NOS,
-47156,56,2,0,0,L357.00,Obstetric trauma causing pelvic haematoma,
-91278,7,0,0,0,L357000,Obstetric pelvic haematoma unspecified,
-73028,2,0,0,0,L357100,Obstetric pelvic haematoma - delivered,
-67257,1,0,0,0,L35y.00,Other obstetric trauma OS,
-96745,1,0,0,0,L35y100,Other obstetric trauma - delivered,
-69285,1,0,0,0,L35y200,Other obstetric trauma - delivered with postnatal problem,
-44385,15,1,0,0,L35z.00,Obstetric trauma NOS,
-60507,1,0,0,0,L35z000,"Obstetric trauma NOS, unspecified",
-71745,1,0,0,0,L35z100,Obstetric trauma NOS - delivered,
-99969,1,0,0,0,L35z400,Obstetric trauma NOS with postnatal problem,
-54582,4,0,0,0,L35zz00,Obstetric trauma NOS,
-97719,1,0,0,0,L360200,Third-stage postpartum haemorrhage with postnatal problem,
-47542,7,1,0,0,L362200,Secondary postpartum haemorrhage with postnatal problem,
-2872,87,31,0,0,L371200,Retained products with no haemorrhage with postnatal problem,
-73983,1,0,0,0,L380.00,Obstetric anaesthesia with pulmonary complications,
-62676,1,0,0,0,L382000,Obstetric anaesthesia with CNS complications unspecified,
-13039,7,1,0,0,L383.00,Obstetric toxic reaction to local anaesthesia,
-27650,43,0,0,0,L384.00,Obstetric spinal and epidural anaesthesia-induced headache,
-39359,32,0,0,0,L385.00,Failed or difficult intubation during pregnancy,Feb-09
-36959,17,1,0,0,L391.00,Obstetric shock,
-69433,1,0,0,0,L393200,Post-delivery acute renal failure with postnatal problem,
-89151,2,0,0,0,L394.00,Other complications of obstetric procedures,
-73560,0,0,0,0,L394100,Other complications of obstetric procedures - delivered,
-96648,1,0,0,0,L394200,Other complications of obstetric procedures - del +p/n prob,
-6031,3275,32,0,0,L394500,Infection of obstetric surgical wound,
-11741,227,8,0,0,L394600,Haematoma of obstetric wound,
-56246,1,0,0,0,L394z00,Other complications of obstetric procedures NOS,
-863,32432,1574,0,0,L398200,Caesarean section - pregnancy at term,Feb-09
-56420,3,0,0,0,L39B.00,Death from sequelae of direct obstetric causes,
-49478,21,0,0,0,L39X.00,Obstetric death of unspecified cause,
-5113,418,32,1,0,L39y411,Postnatal vaginal discomfort,
-16476,252,30,0,0,L39y412,Vaginal discomfort postnatal,
-62888,4,0,0,0,L400100,Puerperal endometritis - delivered with postnatal comp,
-57236,1,0,0,0,L400200,Puerperal endometritis with postnatal complication,
-97272,1,0,0,0,L401200,Puerperal salpingitis with postnatal complication,
-46744,177,0,0,0,L41..00,Venous complications of pregnancy and the puerperium,Feb-09
-29620,73,3,0,0,L41..11,Varicose veins - obstetric,
-16046,835,47,0,0,L410.00,Varicose veins of legs in pregnancy and the puerperium,Feb-09
-99154,2,0,0,0,L410000,Varicose veins of legs in pregnancy/puerperium unspecified,Apr-10
-47197,9,3,0,0,L410400,Varicose veins of legs in pregnancy/puerperium + p/n comp,Feb-09
-53685,735,0,0,0,L410500,Varicose veins of legs in pregnancy,Feb-09
-63781,13,0,0,0,L410z00,Varicose veins of legs in pregnancy and puerperium NOS,Feb-09
-25759,204,10,0,0,L411.00,VV's of perineum/vulva in pregnancy/puerperium,Feb-09
-19327,8,0,0,0,L411.11,Perineal obstetric varicose veins,
-20496,554,9,0,0,L411.12,Vulval obstetric varicose veins,
-71943,2,0,0,0,L411000,VV's of perineum/vulva in pregnancy/puerperium unspecified,Feb-09
-26023,3,1,0,0,L411300,VV's of perineum/vulva in pregnancy/puerperium + a/n comp,Feb-09
-59588,16,1,0,0,L411500,Genital varices in pregnancy,Feb-09
-99237,1,0,0,0,L411511,Perineal varices in pregnancy,Apr-10
-59634,25,0,0,0,L411512,Vaginal varices in pregnancy,Feb-09
-96757,30,0,0,0,L411513,Vulval varices in pregnancy,Apr-09
-42091,10,0,0,0,L411z00,Varicose veins of perineum/vulva in pregnancy/puerperium NOS,Feb-09
-23456,597,6,0,0,L412.00,Superficial thrombophlebitis in pregnancy and the puerperium,Feb-09
-35652,13,0,0,0,L412000,Superficial thrombophlebitis in pregnancy/puerperium unsp,Feb-09
-71144,15,0,0,0,L412200,Superficial thrombophleb in preg/puerperium - del + p/n comp,
-20098,68,3,0,0,L412400,Superficial thrombophlebitis in preg/puerperium + p/n comp,
-64366,22,0,0,0,L412500,Superficial thrombophlebitis in pregnancy,Feb-09
-73914,6,0,0,0,L412511,Thrombophlebitis of legs in pregnancy,Feb-09
-52106,7,0,0,0,L412z00,Superficial thrombophlebitis in pregnancy and puerperium NOS,Feb-09
-23667,102,4,0,0,L413.00,Antenatal deep vein thrombosis,
-26873,140,10,0,0,L413.11,"DVT - deep venous thrombosis, antenatal",
-65725,11,0,0,0,L413000,Antenatal deep vein thrombosis unspecified,
-94405,1,0,0,0,L413100,Antenatal deep vein thrombosis - delivered,
-61203,11,0,0,0,L413z00,Antenatal deep vein thrombosis NOS,
-4607,142,4,0,0,L414.00,Postnatal deep vein thrombosis,
-16250,15,3,1,0,L414.12,Phlegmasia alba dolens - obstetric,
-69921,8,0,0,0,L414000,Postnatal deep vein thrombosis unspecified,
-23588,12,1,0,0,L414200,Postnatal deep vein thrombosis with postnatal complication,
-61204,14,0,0,0,L414z00,Postnatal deep vein thrombosis NOS,
-65579,6,0,0,0,L415.00,Other phlebitis and thrombosis in pregnancy and puerperium,Feb-09
-99594,1,0,0,0,L415000,Other phlebitis/thrombosis in pregnancy/puerperium unsp,May-10
-107708,1,0,0,0,L415100,Other phlebitis/thrombosis in pregnancy/puerperium - deliv,Feb-14
-66102,1,0,0,0,L415300,Other phlebitis/thrombosis in preg/puerperium + a/n comp,
-6560,1985,16,0,0,L416.00,Haemorrhoids in pregnancy and the puerperium,Feb-09
-17911,2466,30,0,0,L416.11,Piles - obstetric,
-56217,19,0,0,0,L416000,Haemorrhoids in pregnancy and the puerperium unspecified,Feb-09
-63773,9,0,0,0,L416100,Haemorrhoids in pregnancy and the puerperium - delivered,Feb-09
-68840,1,0,0,0,L416200,Haemorrhoids in pregnancy and puerperium - deliv + p/n comp,Feb-09
-103144,2,0,0,0,L416300,Haemorrhoids in pregnancy and puerperium with a/n comp,Oct-11
-109550,1,0,0,0,L416400,Haemorrhoids in pregnancy and puerperium with p/n comp,Apr-15
-29786,90,3,0,0,L416600,Haemorrhoids in pregnancy,Feb-09
-90329,9,0,0,0,L416z00,Haemorrhoids in pregnancy and the puerperium NOS,Feb-09
-52679,9,0,0,0,L417.00,Obstetric cerebral venous thrombosis,
-69686,4,0,0,0,L417000,Cerebral venous thrombosis in pregnancy,Feb-09
-105500,0,0,0,0,L41yz00,Other venous complication of pregnancy and puerperium NOS,Dec-12
-73311,4,0,0,0,L41z.00,Venous complications of pregnancy and puerperium NOS,Feb-09
-66649,8,0,0,0,L41z500,"Venous complication of pregnancy, unspecified",Feb-09
-59681,15,0,0,0,L41z511,Gestational phlebitis NOS,
-50081,1,0,0,0,L41z512,Gestational phlebopathy NOS,
-58971,5,0,0,0,L41z513,Gestational thrombosis NOS,
-7174,105,6,0,0,L43..00,Obstetric pulmonary embolism,
-68438,5,0,0,0,L43..11,Obstetric pulmonary embolus,
-31313,7,1,0,0,L430.00,Obstetric air pulmonary embolism,
-49269,1,0,0,0,L432.00,Obstetric blood-clot pulmonary embolism,
-59059,2,1,0,0,L433.12,Septic obstetric embolism,
-73569,1,0,0,0,L43z.00,Obstetric pulmonary embolism NOS,
-97367,1,0,0,0,L43z100,Obstetric pulmonary embolism NOS - delivered,
-44404,9,3,0,0,L43z400,Obstetric pulmonary embolism NOS with postnatal complication,
-98639,2,0,0,0,L43zz00,Obstetric pulmonary embolism NOS,
-91272,0,0,0,0,L440300,Puerperal cerebrovascular disorder with antenatal comp,
-54623,1,0,0,0,L441200,Caesarean wound disruption with postnatal complication,
-24018,338,27,2,0,L442.00,Obstetric perineal wound disruption,
-36478,29,1,0,0,L442000,Obstetric perineal wound disruption unspecified,
-38616,3,1,0,0,L442100,Obstetric perineal wound disruption - deliv + p/n comp,
-65230,11,0,0,0,L442200,Obstetric perineal wound disruption with p/n complication,
-50765,55,5,0,0,L442z00,Obstetric perineal wound disruption NOS,
-50137,31,3,0,0,L443.00,Other complication of obstetric surgical wound,
-55917,9,1,0,0,L443000,Other complication of obstetric surgical wound unspecified,
-93551,1,0,0,0,L443200,Other complication obstetric surgical wound with p/n comp,
-33786,15,2,0,0,L443z00,Other complication of obstetric surgical wound NOS,
-31934,387,6,0,0,L45..00,Obstetric breast infections,
-64289,27,0,0,0,L450.00,Obstetric nipple infection,
-37435,13,0,0,0,L450.11,Abscess of nipple - obstetric,
-19737,429,15,0,0,L450.12,Nipple infection - obstetric,
-71610,2,0,0,0,L450000,Obstetric nipple infection unspecified,
-72931,1,0,0,0,L450100,Obstetric nipple infection - delivered,
-72195,1,0,0,0,L450400,Obstetric nipple infection with postnatal complication,
-59739,7,0,0,0,L450z00,Obstetric nipple infection NOS,
-20371,644,15,0,0,L451.00,Obstetric breast abscess,
-16424,1024,8,0,0,L451.11,Purulent mastitis - obstetric,
-63755,12,0,0,0,L451000,Obstetric breast abscess unspecified,
-53660,15,2,0,0,L451100,Obstetric breast abscess - delivered,
-15533,131,12,1,0,L451400,Obstetric breast abscess with postnatal complication,
-44482,23,1,0,0,L451z00,Obstetric breast abscess NOS,
-20383,3739,7,0,0,L452.00,Obstetric nonpurulent mastitis,
-50089,4,0,0,0,L452.11,Lymphangitis of breast - obstetric,
-15697,75,0,0,0,L452000,Obstetric nonpurulent mastitis unspecified,
-20630,70,0,0,0,L452100,Obstetric nonpurulent mastitis - delivered,
-60820,5,0,0,0,L452200,Obstetric nonpurulent mastitis - deliv with p/n complication,
-53683,1,0,0,0,L452300,Obstetric nonpurulent mastitis with antenatal complication,
-5045,589,4,0,0,L452400,Obstetric nonpurulent mastitis with postnatal complication,
-35710,101,0,0,0,L452z00,Obstetric nonpurulent mastitis NOS,
-15721,2,0,0,0,L45y.00,Other obstetric breast infections,
-58880,2,0,0,0,L45y000,Other obstetric breast infection unspecified,
-39805,46,0,0,0,L45z.00,Obstetric breast infection NOS,
-41108,2,0,0,0,L45z000,"Obstetric breast infection NOS, unspecified",
-54269,24,0,0,0,L45z100,Obstetric breast infection NOS - delivered,
-16281,176,0,0,0,L45z400,Obstetric breast infection NOS with postnatal complication,
-33633,17,0,0,0,L45zz00,Obstetric breast infection NOS,
-30944,97,1,0,0,L46..00,Obstetric breast and lactation disorders NOS,
-70092,74,0,0,0,L460.00,"Retracted nipple in pregnancy, the puerperium or lactation",Feb-09
-73089,3,0,0,0,L460000,Retracted nipple in pregnancy/puerperium/lactation unspec,Feb-09
-99389,2,0,0,0,L460300,Retracted nipple in pregnancy/puerperium/lact with a/n comp,May-10
-99365,9,0,0,0,L460z00,Retracted nipple in pregnancy/puerperium/lactation NOS,May-10
-28611,423,0,0,0,L461.00,"Cracked nipple in pregnancy, the puerperium or lactation",Feb-09
-97741,4,0,0,0,L461000,Cracked nipple in pregnancy/puerperium/lactation unspecified,Oct-09
-50009,5,0,0,0,L461100,Cracked nipple in pregnancy/puerperium/lactation - delivered,Feb-09
-97296,2,0,0,0,L461200,Cracked nipple in pregnancy/puerp/lact - deliv + p/n comp,Aug-09
-15297,97,2,0,0,L461400,Cracked nipple in pregnancy/puerperium/lactation + p/n comp,Feb-09
-15297,95,2,0,0,L461400,Cracked nipple in pregnancy/puerperium/lactation + p/n comp,
-62886,11,0,0,0,L461z00,"Cracked nipple in pregnancy, the puerperium or lactation NOS",Feb-09
-16995,1369,3,0,0,L462.00,"Breast engorgement in pregnancy, the puerperium or lactation",Feb-09
-58686,14,0,0,0,L462000,Breast engorgement in pregnancy/puerperium/lactation unspec,Feb-09
-57131,8,0,0,0,L462100,Breast engorgement in pregnancy/puerperium/lactation - deliv,Feb-09
-59601,1,0,0,0,L462200,Breast engorgement in pregnancy/puerp/lact - del + p/n comp,Feb-09
-101272,1,0,0,0,L462300,Breast engorgement in pregnancy/puerperium/lact + a/n comp,Jan-11
-14765,48,1,0,0,L462400,Breast engorgement in pregnancy/puerperium/lact + p/n comp,Feb-09
-38440,26,0,0,0,L462z00,Breast engorgement in pregnancy/puerperium/lactation NOS,Feb-09
-61144,9,0,0,0,L463.00,Other breast disorder in pregnancy/puerperium/lactation,Feb-09
-35928,2,0,0,0,L463000,Other breast disorder in pregnancy/puerperium/lact unspec,Feb-09
-104806,1,0,0,0,L463100,Other breast disorder in pregnancy/puerperium/lact - deliv,Aug-12
-73717,1,0,0,0,L463300,Other breast disorder in pregnancy/puerperium/lact +a/n comp,Feb-09
-59269,5,0,0,0,L463400,Other breast disorder in pregnancy/puerperium/lact +p/n comp,Feb-09
-67377,9,0,0,0,L463z00,Other breast disorder in pregnancy/puerperium/lactation NOS,Feb-09
-4243,7582,1440,35,0,L466.00,Galactorrhoea in pregnancy and the puerperium,Feb-09
-54089,30,0,0,0,L466000,Galactorrhoea in pregnancy and the puerperium unspecified,Feb-09
-24006,20,0,0,0,L466100,Galactorrhoea in pregnancy and the puerperium - delivered,Feb-09
-69012,1,0,0,0,L466300,Galactorrhoea in pregnancy/puerperium with a/n complication,Feb-09
-28312,82,0,0,0,L466z00,Galactorrhoea in pregnancy and the puerperium NOS,Feb-09
-51848,26,3,0,0,L46y.11,Galactocele - obstetric,
-56747,4,0,0,0,L46y400,Other disorder of lactation with postnatal complication,
-33441,52,3,0,0,L511.00,Maternal care for viable fetus in abdominal pregnancy,Feb-09
-45870,141,15,0,0,Ly...00,"Complications of pregnancy,childbirth or the puerperium OS",Feb-09
-104656,21,0,0,0,Ly2..00,Sequelae of complication pregnancy childbirth and puerperium,Aug-12
-110448,4,0,0,0,Lyu0.00,[X]Pregnancy with abortive outcome,Jan-16
-53908,13,1,0,0,Lyu0000,[X]Other ectopic pregnancy,Feb-09
-52967,1,0,0,0,Lyu0B00,"[X]Complic following abortion & ectopic & molar preg, unspec",
-92998,2,1,0,0,Lyu1.00,"[X]Oedema,proteinuria+hypertens in pregnancy,childbrth,puerp",Feb-09
-72883,6,0,0,0,Lyu2100,[X]Other vomiting complicating pregnancy,Feb-09
-38771,64,14,1,0,Lyu2200,[X]Other venous complications in pregnancy,Feb-09
-100892,1,0,0,0,Lyu2400,[X]Other+unspcf genitourinary tract infection in pregnancy,Nov-10
-37348,22,1,0,0,Lyu2500,[X]Other specified pregnancy-related conditions,Feb-09
-68966,1,0,0,0,Lyu7.00,"[X]Other obstetric conditions, not elsewhere classified",
-97703,1,0,0,0,Lyu7400,"[X]Oth spcf dis+conditns complicat preg,childbirth+puerperum",
-73935,1,0,0,0,Lyu7500,[X]Obstetric death of unspecified cause,
-28446,1701,8,0,0,Lz...00,"Complications of pregnancy,childbirth and the puerperium NOS",Feb-09
-60345,26,0,0,0,M240500,Alopecia of pregnancy,Feb-09
-23008,16139,16,0,0,Q....00,Perinatal conditions,
-46009,16,0,0,0,Q0...00,Fetus/neonate affected by maternal problem unrelated to preg,
-68004,21,0,0,0,Q01..00,Fetus/neonate affected by maternal complication of pregnancy,Feb-09
-63825,20,0,0,0,Q014.00,Fetus or neonate affected by ectopic pregnancy,Feb-09
-107485,1,0,0,0,Q014000,Fetus or neonate affected by unspecified ectopic pregnancy,Dec-13
-99006,3,0,0,0,Q014100,Fetus or neonate affected by abdominal ectopic pregnancy,Apr-10
-99008,4,0,0,0,Q014300,Fetus or neonate affected by tubal ectopic pregnancy,Apr-10
-54293,2,0,0,0,Q015.00,Fetus or neonate affected by multiple pregnancy,Feb-09
-49855,53,0,0,0,Q015100,Fetus or neonate affected by twin pregnancy,Feb-09
-73455,5,0,0,0,Q015200,Fetus or neonate affected by triplet pregnancy,Feb-09
-72835,13,0,0,0,Q01z.00,Fetus/neonate affected by maternal complic pregnancy NOS,Feb-09
-60309,3,0,0,0,Q0y..00,Maternal problems unrelated preg affecting fetus/neonate OS,
-66390,2,0,0,0,Q0z..00,Maternal problem unrelated preg affecting fetus/neonate NOS,
-46448,25,0,0,0,Q486.00,Fetal death due to termination of pregnancy,Feb-09
-105006,3,0,0,0,Q48G.00,Complication termination pregnancy affecting fetus newborn,Sep-12
-41050,228,3,0,0,Z2...00,"Pregnancy, childbirth and puerperium observations",Feb-09
-25254,243,26,0,0,Z21..00,Care relating to reproduction and pregnancy,Feb-09
-7845,11075,174,0,0,Z212.00,Antenatal care,
-9986,1175,102,0,0,Z212.11,Pregnancy care,Feb-09
-42614,273,8,1,0,Z22..00,Pregnancy observations,Feb-09
-35158,2821,776,0,0,Z225.00,Normal pregnancy,Feb-09
-11422,1262,61,0,0,Z226.00,Pregnancy problem,Feb-09
-12890,4892,483,0,0,Z227.00,Confirmation of pregnancy,Feb-09
-49519,10797,3,0,0,Z229.00,Observation of position of pregnancy,Feb-09
-22193,2824,6,0,0,Z229100,Intrauterine pregnancy,Feb-09
-37701,984,199,0,0,Z22A.00,Observation of pattern of pregnancy,Feb-09
-25501,47,2,0,0,Z22A100,Low risk pregnancy,Feb-09
-22215,162,36,0,0,Z22A200,High risk pregnancy,Feb-09
-61466,7,2,0,0,Z22A211,HRP - High risk pregnancy,Feb-09
-28103,541,18,0,0,Z22A300,Concealed pregnancy,Feb-09
-9754,4676,349,2,0,Z22A400,Early stage of pregnancy,Feb-09
-50440,39,0,0,0,Z22A500,Biochemical pregnancy,Feb-09
-40633,50,3,0,0,Z22A600,Teenage pregnancy,Feb-09
-40978,107,4,0,0,Z22A700,Surrogate pregnancy,Feb-09
-47489,46,2,0,0,Z22A800,Undiagnosed pregnancy,Feb-09
-50421,241,43,0,0,Z22A900,Unwanted pregnancy,Feb-09
-30365,986,43,0,0,Z22AA00,Wanted pregnancy,Feb-09
-30618,646,73,0,0,Z22AB00,Unplanned pregnancy,Feb-09
-52048,53,5,0,0,Z22AB11,Accidental pregnancy,Feb-09
-26201,373,12,0,0,Z22AC00,Pregnancy with uncertain dates,Feb-09
-32493,135,11,0,0,Z22AD00,Presentation of pregnancy,Feb-09
-25131,545,13,0,0,Z22AD11,Reported conception - pregnancy,Feb-09
-67863,6,1,0,0,Z22B.00,Observation of quantity of pregnancy,Feb-09
-22557,164,1,0,0,Z22B100,Single pregnancy,Feb-09
-93895,2,0,0,0,Z22B500,Quintuplet pregnancy,Feb-09
-40825,3,0,0,0,Z22B800,Undiagnosed multiple pregnancy,Feb-09
-37573,3,0,0,0,Z22B900,Continuing pregnancy after abortion of sibling fetus,Feb-09
-59313,5,0,0,0,Z22BA00,Contin pregnancy after intrauterine death of sibling fetus,Feb-09
-68694,10,0,0,0,Z22C.00,Observation of measures of pregnancy,Feb-09
-22385,859,1,0,0,Z22C300,Length of gestation,
-45965,149,0,0,0,Z22C311,Pregnancy duration,Feb-09
-43805,32,0,0,0,Z22C312,Duration of gestation,
-53097,36,1,0,0,Z22C313,Duration of pregnancy,Feb-09
-10306,31329,947,0,0,Z22C314,Weeks pregnant,Feb-09
-32368,9,2,0,0,Z22C400,Duration of pregnancy at time of previous miscarriage,Feb-09
-12874,3027,5,0,0,Z22C600,Number of previous pregnancies,Feb-09
-46609,60,6,0,0,Z22C800,Number of lost pregnancies,Feb-09
-50779,31,4,0,0,Z22CB11,Number of spontaneous abortions,
-38022,59,0,0,0,Z22CF00,Date symptom of pregnancy first noted,Feb-09
-45729,116,1,0,0,Z22D.00,Observation of viability of pregnancy,Feb-09
-18500,4576,11,0,0,Z22D100,Viable pregnancy,Feb-09
-48281,605,5,0,0,Z22D200,Non-viable pregnancy,Feb-09
-53514,215,2,0,0,Z22D300,Uncertain viability of pregnancy,Feb-09
-54288,44,0,0,0,Z22D311,Query viability of pregnancy,Feb-09
-64247,24,1,0,0,Z235.00,Observation of shape of pregnant abdomen,Feb-09
-93800,4,1,0,0,Z235100,Ovoid pregnant abdomen,Feb-09
-91254,7,0,0,0,Z235200,Rounded pregnant abdomen,Feb-09
-109932,1,0,0,0,Z235211,Globular pregnant abdomen,Jul-15
-59650,1,0,0,0,Z235300,Transversely enlarged pregnant abdomen,Feb-09
-56953,8,1,0,0,Z235400,Pendulous pregnant abdomen,Feb-09
-107698,1,0,0,0,Z236300,Pregnant uterus displaced laterally,Feb-14
-37038,28,1,0,0,Z23D100,Girth of pregnant abdomen,Feb-09
-10173,79,3,0,0,Z23D200,Pregnant abdomen observation,Feb-09
-7916,2134,3,0,0,Z254500,Delivered by caesarean section - pregnancy at term,Feb-09
-25731,20,1,0,0,Z27..00,Obstetric investigative observation,
-32913,7,1,0,0,Z28..00,Obstetric pelvic observation,
-96490,1,0,0,0,Z285C00,Obstetric conjugate of pelvis,
-18458,1160,2,0,0,Z29..00,Postnatal examination observations,
-63448,79,1,0,0,Z675.00,Antenatal class,
-10205,2065,115,0,0,ZG9..00,Advice relating to pregnancy and fertility,Feb-09
-26012,991,49,0,0,ZL1C.00,Under care of obstetrician and gynaecologist,
-21759,5429,6,0,0,ZL9B200,Seen by obstetrician,
-39446,2387,0,0,0,ZRBY.00,Edinburgh postnatal depression scale,
-25238,5331,1,0,0,ZRBY.11,EPDS - Edinburgh postnatal depression scale,
-27952,37,2,0,0,ZV13900,"[V]PH comp of pregnancy, childbirth and the puerperium",Feb-09
-6184,141041,8934,7,0,ZV22.00,[V]Normal pregnancy,Feb-09
-55730,20,0,0,0,ZV22.11,[V]Supervision of normal pregnancy,Feb-09
-38346,120,4,0,0,ZV22000,[V]First normal pregnancy supervision,Feb-09
-56252,20,0,0,0,ZV22100,[V]Other normal pregnancy supervision,Feb-09
-35912,665,42,0,0,ZV22200,[V]Pregnancy confirmed,Feb-09
-16611,5608,697,1,0,ZV22300,"[V]Pregnant state, incidental",Feb-09
-93303,3,0,0,0,ZV22400,[V]Supervision of other normal pregnancy,Feb-09
-23831,83,3,0,0,ZV22y00,[V]Other specified pregnant state,Feb-09
-46270,325,1,0,0,ZV22z00,[V]Unspecified pregnant state,Feb-09
-21196,77,34,0,0,ZV23.00,[V]High-risk pregnancy supervision,Feb-09
-52685,17,1,0,0,ZV23000,[V]Pregnancy with history of infertility,Feb-09
-48534,18,1,0,0,ZV23100,[V]Pregnancy with history of trophoblastic disease,Feb-09
-44057,78,7,0,0,ZV23111,[V]Pregnancy with history of hydatidiform mole,Feb-09
-65834,136,0,0,0,ZV23200,[V]Pregnancy with history of abortion,Feb-09
-26852,11,2,0,0,ZV23400,[V]Pregnancy with other poor obstetric history,Feb-09
-55618,5,3,0,0,ZV23600,[V]Supervisn/pregnancy wth history insufficnt antenatal care,Feb-09
-6580,58,6,0,0,ZV23800,[V]Supervision of high-risk pregnancy due to social problems,Feb-09
-54701,7,0,0,0,ZV23y00,[V]Other specified high-risk pregnancy,Feb-09
-69722,7,1,0,0,ZV23z00,[V]Unspecified high-risk pregnancy,Feb-09
-6217,6089,29,2,0,ZV24.11,[V]Postnatal care and examination,
-20910,55,1,0,0,ZV25311,[V]Admission for termination of pregnancy (TOP),Feb-09
-20621,59,16,0,0,ZV25313,[V]Admission for termination of pregnancy,Feb-09
-53201,4,0,0,0,ZV25B00,[V]Admission for administration of abortifacient,
-6298,5209,987,148,0,ZV28.00,[V]Antenatal screening,
-49665,28,0,0,0,ZV28600,[V]Antenatal screening for chromosomal anomalies,
-40597,28,0,0,0,ZV28y00,[V]Other specified antenatal screening,
-67926,5,0,0,0,ZV28z00,[V]Unspecified antenatal screening,
-20623,28,4,0,0,ZV4J000,[V]Problems related to unwanted pregnancy,Feb-09
-43344,9,0,0,0,ZV61800,[V]Illegitimate pregnancy,Feb-09
-15033,7585,3947,0,0,ZV61900,[V]Other unwanted pregnancy,Feb-09
-105694,1,0,0,0,ZVu2300,[X]Supervision of other normal pregnancy,Jan-13
-73734,14,2,0,0,ZVu2900,[X]Other antenatal screening,
+medcode,readcode,readterm,
+13584,3885,Edinburgh postnatal depression scale,
+29205,4453,Serum pregnancy test positive,
+3030,4654,Urine pregnancy test positive,
+44173,5391,Obstetric X-ray - fetus,
+56727,5392,Obstetric X-ray - placenta,
+27019,5841,U-S obstetric scan requested,
+4797,5842,U-S obstetric scan normal,
+29685,5843,U-S obstetric scan abnormal,
+32975,6166,"Pregnant, diaphragm failure",
+14994,6174,"Pregnant, sheath failure",
+16215,6211,Pregnant - urine test confirms,
+30817,6212,Pregnant - blood test confirms,
+35592,6213,Pregnant - V.E. confirms,
+15318,6214,Pregnant - on history,
+51298,6215,Pregnant - on abdom. palpation,
+20240,6216,Pregnant - planned,
+14842,6217,Pregnant - unplanned - wanted,
+15567,6218,Pregnant -unplanned-not wanted,
+16750,6221,Antenatal care: primigravida,
+29631,6222,Antenatal care: 2nd pregnancy,
+29593,6223,Antenatal care: 3rd pregnancy,
+31570,6224,Antenatal care: multip,
+26875,6232,A/N care: recurrent aborter,
+26691,6235,A/N care: H/O perinatal death,
+26692,6236,A/N care: poor obstetr history,
+37048,6282,A/N care:10yrs+since last preg,
+67706,6292,Ante-natal care: not wanted,
+57120,6293,Ante-natal care: not attended,
+35309,6755,Post miscarriage counselling,
+20933,6776,Preg. termination counselling,
+9407,6776.11,Abortion counselling,
+65231,9384,Obstetric coop card updated,
+64738,9537,Complete post-natal care,
+65905,9538,Part post-natal care-1 visit,
+69627,9539,Part post-natal care-2 visits,
+5044,13H7.00,Unwanted pregnancy,
+14651,13H8.00,Illegitimate pregnancy,
+37693,13Hd.00,Teenage pregnancy,
+24038,13S..00,Pregnancy benefits,
+50058,13SZ.00,Pregnancy benefit NOS,
+13317,27...00,Obstetric examination,
+13318,271..11,O/E - fundus size - obstetric,
+11204,271..12,O/E - uterus size - obstetric,
+26698,27Z..00,Obstetric examination NOS,
+102362,389B.00,Assessment for termination of pregnancy,
+13713,44B..00,Serum alpha-feto protein,
+13715,44B1.00,Blood sent: alpha-feto protein,
+26821,44B2.00,Alpha-feto protein normal,
+59888,44B3.00,Alpha-feto protein equivocal,
+19953,44B4.00,Alpha-feto protein raised,
+34546,44B5.00,Alpha-feto protein low,
+26897,44BZ.00,Alpha-feto protein NOS,
+85961,44Cy.00,Serum pregnancy associated plasma protein-A MoM measurement,
+85960,44Cz.00,Plasma pregnancy associated plasma protein-A MoM,
+100151,46J4.00,Urine pregnanediol titre,
+104440,4Q3N.00,Pregnancy associated plasma protein A level,
+20591,539..00,Abdominal obstetric X-ray,
+53409,539..11,Obstet. X-ray abdomen,
+23169,539Z.00,Abdominal obstetric X-ray NOS,
+35558,584..12,"U-S scan - obstetric, diagn.",
+13965,584..13,Ultra-sound scan - obstetric,
+16613,584C.00,Antenatal ultrasound result received,
+13968,584D.00,Antenatal ultrasound confirms intra-uterine pregnancy,
+13984,584E.00,Antenatal ultrasound confirms ectopic pregnancy,
+13975,584F.00,Antenatal scan unable to confirm pregnancy,
+23421,615C.00,IUD failure - pregnant,
+29692,615C.11,"Pregnant, IUD failure",
+127,62...00,Patient pregnant,
+294,62...11,Antenatal care,
+5709,62...13,Pregnancy care,
+13165,621..00,Patient currently pregnant,
+4536,621..11,Pregnancy confirmed,
+15338,621A.00,Pregnancy unplanned ? wanted,
+14877,621B.00,Pregnant - ? planned,
+7517,621C.00,Unplanned pregnancy,
+14899,621Z.00,Patient pregnant NOS,
+21543,622..00,Antenatal care: gravida No.,
+49617,622Z.00,Antenatal care: gravida NOS,
+9546,623..00,A/N care: obstetric risk,
+26690,623Z.00,A/N care: obstetric risk NOS,
+35509,624..00,A/N care: precious pregnancy,
+35514,624Z.00,A/N care: precious preg. NOS,
+51698,629..00,No ante-natal care,
+73032,629Z.00,No ante-natal care NOS,
+17947,62a..00,Pregnancy review,
+90776,62a..11,Review of pregnancy,
+18536,62b..00,Antenatal HIV screening,
+28732,62c..00,Antenatal screening,
+13819,62F..00,Antenatal amniocentesis,
+51432,62FZ.00,Antenatal amniocentesis NOS,
+2029,62G..00,Antenatal ultrasound scan,
+14085,62GB.00,Antenatal ultrasounds scan at 4-8 weeks,
+14084,62GC.00,Antenatal ultrasound scan at 9-16 weeks,
+27056,62GD.00,Antenatal ultrasound scan at 17-22 weeks,
+39611,62GE.00,Antenatal ultrasound scan at 22-40 weeks,
+14083,62GZ.00,Antenatal ultrasound scan NOS,
+69815,62H3.00,Rh screen - 1st preg. sample,
+29623,62H4.00,Rh screen - 2nd preg. sample,
+50383,62I..00,Alpha-feto protein blood test,
+21957,62I..11,AFP test - antenatal,
+25391,62I..12,Alpha-feto protein test - A/N,
+13417,62K..00,Antenatal syphilis screen,
+42326,62KZ.00,Antenatal syphilis screen NOS,
+13419,62L..00,Antenatal blood group screen,
+13416,62M..00,Antenatal sickle cell screen,
+10056,62N..00,Antenatal examinations,
+13168,62NZ.00,Antenatal examination NOS,
+45032,62O..00,Misc. antenatal data,
+20118,62O..12,Static weight gain pregnancy,
+24063,62O7.00,Pregnancy prolonged - 41 weeks,
+44734,62O8.00,Pregnancy prolonged - 42 weeks,
+30801,62OZ.00,Misc. antenatal data NOS,
+17893,62Q..00,Postnatal care provider,
+65188,62Q4.00,No post natal care,
+19544,62Q6.00,Postnatal care,
+15672,62QZ.00,Post natal care NOS,
+13585,62R..00,Postnatal visits,
+13587,62RZ.00,Postnatal visit NOS,
+5071,62S..11,Postnatal exam. - maternal,
+29287,62S6.00,Postnatal examination minor problem found,
+4180,62S7.00,Postnatal examination normal,
+37675,62T..00,Misc. postnatal data,
+51806,62TZ.00,Misc. post natal data NOS,
+13418,62W..00,Antenatal blood tests,
+18810,62X..00,Length of gestation,
+26555,62X0.00,Gestation <24 weeks,
+34484,62X1.00,Gestation = 24 weeks,
+26556,62X2.00,Gestation >24 weeks,
+34505,62X3.00,Full term gestation - 40 weeks,
+40859,62X4.00,Length of gestation at birth,
+45091,62Y..00,Routine antenatal care,
+46577,66AX.00,Diabetes: shared care in pregnancy - diabetol and obstet,
+35484,679E.00,Antenatal education,
+5778,67A..00,Pregnancy advice,
+43140,67A2.00,Diet in pregnancy advice,
+10184,67A3.00,Pregnancy smoking advice,
+36235,67A4.00,Pregnancy exercise advice,
+35859,67A5.00,Pregnancy alcohol advice,
+30351,67A6.00,Drugs in pregnancy advice,
+38556,67A7.00,Pregnancy dental advice,
+49193,67A7.11,Care of teeth advice -in preg.,
+94804,67AB.00,Preg. prescription exempt adv.,
+97034,67AE.00,Folic acid advice in first trimester of pregnancy,
+102359,67AF.00,Pregnancy advice for patients with epilepsy,
+104542,67AH.00,Education about toxoplasmosis precautions during pregnancy,
+36903,67AZ.00,Pregnancy advice NOS,
+34253,67C..00,Postnatal support group,
+97523,68b..00,Antenatal screening status,
+98481,68b4.00,Repeat antenatal screening required,
+99475,68b5.00,Antenatal screening result pending,
+97259,68b6.00,Antenatal screening declined,
+55111,6B22.00,Sure Start antenatal visit,
+43416,6B23.00,Sure Start postnatal visit,
+12773,6G...00,Postnatal care,
+11817,6G0..00,Postnatal counselling,
+18702,6G00.00,Postnatal depression counselling,
+63407,7D10300,Non obstetric episiotomy NEC,
+2924,7E06600,Hysterotomy and termination of pregnancy,
+18944,7E07011,Dilation cervix uteri & curettage for termination pregnancy,
+103059,7E07111,Curettage of term pregnancy NEC,
+16384,7E07113,Curettage of uterus for termination of pregnancy NEC,
+45862,7E07114,Curettage of uterus for termination of pregnancy NEC,
+1748,7E08400,Suction termination of pregnancy,
+21438,7E08411,Vacuum termination of pregnancy,
+5357,7E08500,Dilation of cervix and extraction termination of pregnancy,
+1686,7E08600,Termination of pregnancy NEC,
+4708,7E08800,Dilation and curettage removal of missed abortion,
+68683,7E0B.00,Introduction of abortifacient into uterine cavity,
+23357,7E0B100,Intraamniotic injection of abortifacient NEC,
+38473,7E0B400,Insertion of prostaglandin abortifacient pessary,
+55278,7E0B500,Insertion of abortifacient pessary NEC,
+99205,7E0Bz00,Introduction of abortifacient into uterine cavity NOS,
+54609,7E0F200,Manual manipulation of non pregnant uterus,
+27672,7E13100,Excision of ectopic ovarian pregnancy,
+11986,7E13300,Excision of ruptured ectopic tubal pregnancy,
+29122,7E19011,Removal of ectopic pregnancy from fallopian tube,
+40279,7E19012,Fimbrial extraction of tubal pregnancy,
+39036,7F...00,Obstetric operations,
+30302,7F...12,Pregnancy operations,
+1850,7F06012,Shirodkar suture in pregnancy,
+34046,7F2..00,Other obstetric operations,
+47231,7F22700,Pack to control postnatal vaginal bleeding,
+54099,7F22711,Pack to control postnatal vaginal bleeding,
+93190,7F22712,Pack to control postnatal haemorrhage,
+57891,7F23.00,Immediate repair of obstetric laceration,
+23800,7F23.11,Immediate repair of obstetric tear,
+11268,7F23.12,Immediate suture of obstetric laceration,
+34677,7F23000,Immed repair obstetric laceration of uterus or cervix uteri,
+31375,7F23200,Immed repair obstetric laceration vagina and floor of pelvis,
+70607,7F23300,Immediate repair of minor obstetric laceration,
+61173,7F23y00,Other specified immediate repair of obstetric laceration,
+35601,7F23z00,Immediate repair of obstetric laceration NOS,
+86021,7F24.00,Other obstetric operations,
+50516,7F24000,Secondary repair of obstetric laceration,
+45912,7F24y00,Other specified other obstetric operation,
+66471,7F24z00,Other obstetric operation NOS,
+53094,7F25y00,Other specified obstetric monitoring,
+29087,7F25z00,Obstetric monitoring NOS,
+86011,7F26.00,Routine obstetric scan,
+96343,7F26y00,Other specified routine obstetric scan,
+85245,7F26z00,Routine obstetric scan NOS,
+85992,7F27.00,Non routine obstetric scan for fetal observations,
+98261,7F27y00,OS non routine obstetric scan for fetal observations,
+95875,7F27z00,Non routine obstetric scan for fetal observations NOS,
+78449,7F28.00,Other non routine obstetric scan,
+95698,7F28y00,Other specified other non routine obstetric scan,
+85951,7F28z00,Other non routine obstetric scan NOS,
+88229,7F2A.00,Obstetric Doppler studies,
+87844,7F2A000,Obstetric umbilical artery Doppler,
+94059,7F2Az00,Obstetric Doppler studies NOS,
+85244,7F2B.00,Obstetric ultrasound monitoring,
+12837,7F2B100,Ultrasound monitoring of early pregnancy,
+87848,7F2Bz00,Obstetric ultrasound monitoring NOS,
+57220,7F2y.00,Other specified obstetric operations,
+62012,7F2z.00,Other obstetric operations NOS,
+34086,7Fz..00,Obstetric operations NOS,
+69356,7L0D100,Correction of obstetric palsy,
+62279,7L0D114,L'Episcopo operation for obstetric palsy,
+37386,8B68.00,Pregnancy prophylactic therapy,
+15065,8B7..11,Pregnancy vitamin/iron prophyl,
+10775,8B74.00,Iron supplement in pregnancy,
+29746,8B75.00,Vitamin supplement - pregnancy,
+102635,8Cg..00,Pregnancy termination care,
+36164,8E9Z.00,Post-natal exercises,
+24655,8H27.00,Admit obstetric emergency,
+22929,8H3C.00,Non-urgent obstetric admission,
+11988,8H57.00,Obstetric referral,
+102494,8Hh3.00,Self referral to termination of pregnancy service,
+13672,8HHf.00,Refer to early pregnancy unit,
+11989,8HHV.00,Referral for termination of pregnancy,
+103683,8Hki.00,Referral to teenage pregnancy and parenting support service,
+35197,8HLN.00,Obstetric D.V. done,
+48200,8HMN.00,Listed for Obstetric admission,
+444,8HT9.00,Referral to antenatal clinic,
+17000,8HTA.00,Referral to postnatal clinic,
+39447,8I3G.00,Edinburgh postnatal depression scale declined,
+102191,8IAi.00,Pregnancy advice for patients with epilepsy declined,
+102375,8IB4.00,Pregnancy advice for patients with epilepsy not indicated,
+106268,8IEc.00,Pertussis vaccination in pregnancy declined,
+2278,8M6..00,Requests pregnancy termination,
+36340,938..00,Obstetric coop card,
+60870,938Z.00,Obstetric coop card NOS,
+62367,953A.00,Part post-natal care-3 visits,
+69630,953B.00,Part post-natal care-4 visits,
+69623,953C.00,Part post-natal care-5 visits,
+53027,953D.00,Full post-natal examination,
+22183,957..11,Prescription exempt form-preg,
+100104,95B..00,Health in Pregnancy grant claim form issued,
+24303,9Ea..00,Reason for termination of pregnancy,
+98133,9Ea0.00,Risk life pregnant woman greater than if pregnancy terminatd,
+25230,9Ea2.00,Less 24 wk involv risk injury physic/mentl health preg woman,
+106618,9kv..00,Pertussis vaccinatn progrme pregnant women enhan srvce admin,
+106378,9mK..00,Pertussis vaccination in pregnancy invitation,
+106735,9mK0.00,Pertussis vaccination in pregnancy invitation first letter,
+106736,9mK1.00,Pertussis vaccination in pregnancy invitation second letter,
+106737,9mK2.00,Pertussis vaccination in pregnancy invitation third letter,
+21345,9N05.00,Seen in postnatal clinic,
+6095,9N1N.00,Seen in antenatal clinic,
+36000,9N1y400,Seen in postnatal clinic,
+106957,9Nif.00,Did not attend pertussis vaccination in pregnancy,
+103610,9NkN.00,Seen in early pregnancy unit,
+94071,9NV0.00,Postnatal clinic,
+56967,9NV1.00,Antenatal clinic,
+46730,A370.00,Obstetrical tetanus,
+24525,E201C00,Phantom pregnancy,
+6071,E202E00,Fear of pregnancy,
+2639,E204.11,Postnatal depression,
+13307,Eu53011,[X]Postnatal depression NOS,
+28485,G856.00,Vulval varices - non obstetric,
+60179,J004500,Postnatal enamel hypoplasia,
+65395,K181.11,Postobstetric urethral stricture,
+35926,K54y300,Old uterine laceration due to obstetric cause,
+11152,L....00,"Complications of pregnancy, childbirth and the puerperium",
+32073,L0...00,Pregnancy with abortive outcome,
+48552,L010.11,Anembryonic pregnancy,
+1737,L02..00,Missed abortion,
+12241,L02..11,Missed miscarriage,
+96949,L02..12,Silent miscarriage,
+1744,L03..00,Ectopic pregnancy,
+54866,L030.00,Abdominal pregnancy,
+65783,L030000,Delivery of viable fetus in abdominal pregnancy,
+21849,L031.00,Tubal pregnancy,
+44729,L031000,Fallopian tube pregnancy,
+3874,L031200,Tubal abortion,
+50512,L031z00,Tubal pregnancy NOS,
+59276,L032.00,Ovarian pregnancy,
+58156,L03y.00,Other ectopic pregnancy,
+52221,L03y000,Cervical pregnancy,
+32950,L03y100,Cornual pregnancy,
+21467,L03y200,Membranous pregnancy,
+106267,L03y300,Combined or heterotopic pregnancy,
+61995,L03yz00,Other ectopic pregnancy NOS,
+33724,L03z.00,Ectopic pregnancy NOS,
+3082,L04..00,Spontaneous abortion,
+165,L04..11,Miscarriage,
+42458,L040.00,Spontaneous abortion unspecified,
+72307,L040000,Unspec spontaneous abortion + genital tract/pelvic infection,
+40258,L040011,Spontaneous abortion with sepsis,
+68511,L040100,Unspec spontaneous abortion + delayed/excessive haemorrhage,
+45340,L040111,Spontaneous abortion with heavy bleeding,
+99955,L040400,Unspecified spontaneous abortion with metabolic disorder,
+48603,L040900,Inevitable miscarriage,
+68669,L040w00,Unspec spontaneous abortion + other specified complication,
+68938,L040y00,Unspec spontaneous abortion without mention of complication,
+56562,L040z00,Unspecified spontaneous abortion NOS,
+7413,L041.00,Spontaneous abortion incomplete,
+67699,L041000,Incomp spontaneous abortion + genital tract/pelvic infection,
+41783,L041100,Incomp spontaneous abortion + delayed/excessive haemorrhage,
+56828,L041w00,Incomp spontaneous abortion + other specified complication,
+68740,L041x00,Incomplete spontaneous abortion with complication NOS,
+50653,L041y00,Incomp spontaneous abortion with no mention of complication,
+29439,L041z00,Incomplete spontaneous abortion NOS,
+30276,L041z11,Retained products after spontaneous abortion,
+7817,L042.00,Spontaneous abortion complete,
+99736,L042000,Complete spontaneous abortion + genital tract/pelvic infect,
+94359,L042w00,Complete spontaneous abortion + other specified complication,
+63778,L042x00,Complete spontaneous abortion with complication NOS,
+56325,L042y00,Complete spontaneous abortion + no mention of complication,
+29940,L042z00,Complete spontaneous abortion NOS,
+8173,L043.00,Inevitable abortion unspecified,
+11234,L043.11,Inevitable miscarriage unspecified,
+94270,L043x00,Unspecified inevitable abortion with unspec complication,
+99578,L043x11,Unspecified inevitable miscarriage with unspec complication,
+66365,L043y00,Unspecified inevitable abortion with OS complication,
+68110,L043z00,Unspecified inevitable abortion without complication,
+7114,L044.00,Inevitable abortion incomplete,
+17625,L044.11,Inevitable miscarriage incomp,
+95625,L044200,Incomplete inevitable abortion complicated by embolism,
+72593,L044x00,Incomplete inevitable abortion with unspecified complication,
+94976,L044x11,Incomplete inevitable miscarriage with unspecified comp,
+68311,L044y00,Incomplete inevitable abortion with OS complication,
+92284,L044y11,Incomplete inevitable miscarriage with other specified comp,
+51614,L044z00,Incomplete inevitable abortion without complication,
+53836,L044z11,Incomplete inevitable miscarriage without complication,
+33501,L045.00,Inevitable abortion complete,
+11323,L045.11,Inevitable miscarriage complete,
+59116,L045x00,Complete inevitable abortion with unspecified complication,
+63777,L045y00,Complete inevitable abortion with OS complication,
+57576,L045y11,Complete inevitable miscarriage with OS complication,
+33989,L045z00,Complete inevitable abortion without complication,
+55404,L045z11,Complete inevitable miscarriage without complication,
+22379,L04z.00,Spontaneous abortion NOS,
+2187,L05..00,Legally induced abortion,
+60771,L05..11,Elective abortion,
+255,L05..12,Termination of pregnancy,
+31431,L05..13,Therapeutic abortion,
+56822,L050.00,Legal abortion unspecified,
+73445,L050000,Unspecified legal abortion + genital tract/pelvic infection,
+47931,L050w00,Unspecified legal abortion with other specified complication,
+41098,L050x00,Unspecified legal abortion with complication NOS,
+70384,L050y00,Unspecified legal abortion with no mention of complication,
+38415,L050z00,Unspecified legal abortion NOS,
+12337,L051.00,Legal abortion incomplete,
+39754,L051.11,Medal abortion - incomplete,
+6730,L051.12,Surgical abortion - incomplete,
+99195,L051000,Incomplete legal abortion + genital tract/pelvic infection,
+68936,L051100,Incomplete legal abortion + delayed or excessive haemorrhage,
+102576,L051711,Incomplete termination of pregnancy,
+96652,L051w00,Incomplete legal abortion with other specified complication,
+73443,L051y00,Incomplete legal abortion with no mention of complication,
+28605,L051z00,Incomplete legal abortion NOS,
+47298,L052.00,Legal abortion complete,
+41379,L052.11,Medical abortion - complete,
+49849,L052.12,Surgical abortion - complete,
+69190,L052000,Complete legal abortion + genital tract or pelvic infection,
+69183,L052100,Complete legal abortion with delayed/excessive haemorrhage,
+99590,L052w00,Complete legal abortion with other specified complication,
+67076,L052x00,Complete legal abortion with complication NOS,
+50612,L052y00,Complete legal abortion with no mention of complication,
+58085,L052z00,Complete legal abortion NOS,
+33770,L05z.00,Legally induced abortion NOS,
+41606,L06..00,Illegally induced abortion,
+71289,L06..11,Criminal abortion,
+49467,L06..12,Self-induced abortion,
+71529,L060.00,Illegal abortion unspecified,
+53229,L060z00,Unspecified illegal abortion NOS,
+72229,L061.00,Illegal abortion incomplete,
+94404,L061z00,Incomplete illegal abortion NOS,
+66561,L062.00,Illegal abortion complete,
+97991,L062w00,Complete illegal abortion with other specified complication,
+96418,L06z.00,Illegally induced abortion NOS,
+1439,L07..00,Unspecified abortion,
+70643,L070.00,Unspecified abortion,
+45806,L070x00,Unspecified abortion with complication NOS,
+56224,L070z00,Unspecified abortion NOS,
+1879,L071.00,Unspecified abortion incomplete,
+59084,L071500,Unspecified incomplete abortion with shock,
+25883,L071y00,Unspecified incomplete abortion + no mention of complication,
+35184,L071z00,Unspecified incomplete abortion NOS,
+29594,L072z00,Unspecified complete abortion NOS,
+58137,L07z.00,Unspecified abortion NOS,
+39470,L08..00,Failed attempted abortion,
+41118,L08z.00,Failed attempted abortion NOS,
+9585,L09..00,Complications following abortion/ectopic/molar pregnancies,
+12320,L09..11,Complications following abortion/ectopic/molar pregnancies,
+32007,L090.00,Genital or pelvic infection following abortive pregnancy,
+30326,L090000,Endometritis following abortive pregnancy,
+50571,L090100,Parametritis following abortive pregnancy,
+51359,L090200,Pelvic peritonitis following abortive pregnancy,
+47918,L090300,Salpingitis following abortive pregnancy,
+59493,L090400,Salpingo-oophoritis following abortive pregnancy,
+20152,L090y00,Sepsis NOS following abortion/ectopic/molar pregnancy,
+23840,L090z00,Septicaemia NOS following abortive pregnancy,
+20307,L091.00,Delayed/excessive haemorrhage following abortive pregnancy,
+63362,L091100,Defibrination syndrome following abortive pregnancy,
+64523,L091z00,Delayed/excess haemorrhage NOS following abortive pregnancy,
+65085,L092000,Bladder damage following abortive pregnancy,
+99933,L092100,Bowel damage following abortive pregnancy,
+89557,L092300,Cervix damage following abortive pregnancy,
+62052,L092500,Uterus damage following abortive pregnancy,
+71314,L093.00,Renal failure following abortive pregnancy,
+50093,L093000,Oliguria following abortive pregnancy,
+70422,L093400,Uraemia following abortive pregnancy,
+92415,L095.00,Shock following abortive pregnancy,
+93583,L096.00,Embolism following abortive pregnancy,
+63319,L096.11,Embolus following abortive pregnancy,
+67006,L096400,Pulmonary embolism following abortive pregnancy,
+94736,L096600,Septic embolism following abortive pregnancy,
+35273,L097.00,Readmission for abortive pregnancy (NHS codes),
+8996,L097000,"Readmis for retain products of concept, spontaneous abortion",
+23693,L097100,"Readmission for retained produc of concept, legal abortion",
+47435,L097200,"Readmission for retained produc of concept, illegal abortion",
+21805,L097300,"Readmission for retained produc of concept, unspec abortion",
+106097,L09y.00,Other specified complication following abortive pregnancy,
+105918,L09y400,Urinary tract infection following abortive pregnancy,
+64125,L09yz00,Other specified complication NOS follow abortive pregnancy,
+25028,L09z.00,Complication NOS following abortion/ectopic/molar pregnancy,
+49809,L0A..00,Failed attempted abortion,
+47376,L0A1.00,Failed medical abortion complic by genital tract/pelvic infn,
+50903,L0A2.00,Failed medical abortion comp by delayed/excessive haem'ge,
+59572,L0A3.00,"Failed medical abortion, complicated by embolism",
+33964,L0A4.00,"Failed medical abortion, without complication",
+44650,L0y..00,Other specified pregnancy with abortive outcome,
+44733,L0z..00,Pregnancy with abortive outcome NOS,
+2638,L1...00,Pregnancy complications,
+3766,L10..00,Haemorrhage in early pregnancy,
+906,L100.00,Threatened abortion,
+35701,L100000,Threatened abortion unspecified,
+66227,L100100,Threatened abortion - delivered,
+57852,L100200,Threatened abortion - not delivered,
+25605,L100z00,Threatened abortion NOS,
+24603,L10y.00,Other haemorrhage in early pregnancy,
+9408,L10y.11,Bleeding in early pregnancy,
+61301,L10y000,Other haemorrhage in early pregnancy unspecified,
+105654,L10y100,Other haemorrhage in early pregnancy - delivered,
+73917,L10y200,Other haemorrhage in early pregnancy - not delivered,
+69327,L10yz00,Other haemorrhage in early pregnancy NOS,
+14925,L10z.00,Early pregnancy haemorrhage NOS,
+54107,L10z000,Early pregnancy haemorrhage NOS unspecified,
+101260,L10z100,Early pregnancy haemorrhage NOS - delivered,
+48304,L10z200,Early pregnancy haemorrhage NOS - not delivered,
+41122,L10zz00,Early pregnancy haemorrhage NOS,
+2034,L10zz11,Inevitable abortion,
+9170,L12..00,Hypertension complicating pregnancy/childbirth/puerperium,
+12604,L120.00,Benign essential hypertension in pregnancy/childbirth/puerp,
+37344,L120000,Benign essential hypertension in preg/childb/puerp unspec,
+44912,L120100,Benign essential hypertension in preg/childb/puerp - deliv,
+97781,L120200,Benign ess hypert in preg/childb/puerp - deliv with p/n comp,
+61408,L120300,Benign essential hypertension in preg/childb/puerp-not deliv,
+73633,L120400,Benign essential hypertension in preg/childb/puerp +p/n comp,
+34136,L120z00,Benign essential hypertension in preg/childb/puerp NOS,
+93143,L121.00,Renal hypertension in pregnancy/childbirth/puerperium,
+64127,L121000,Renal hypertension in pregnancy/childbirth/puerp unspecified,
+71717,L121100,Renal hypertension in pregnancy/childbirth/puerp - delivered,
+97349,L121300,Renal hypertension in preg/childbirth/puerp - not delivered,
+94718,L121z00,Renal hypertension in pregnancy/childbirth/puerperium NOS,
+66567,L122.00,Other pre-existing hypertension in preg/childbirth/puerp,
+73586,L122000,Other pre-existing hypertension in preg/childb/puerp unspec,
+72030,L122100,Other pre-existing hypertension in preg/childb/puerp - deliv,
+96743,L122300,Other pre-exist hypertension in preg/childb/puerp-not deliv,
+62432,L122z00,Other pre-existing hypertension in preg/childb/puerp NOS,
+20439,L123.00,Transient hypertension of pregnancy,
+55338,L123000,Transient hypertension of pregnancy unspecified,
+54942,L123100,Transient hypertension of pregnancy - delivered,
+67035,L123200,Transient hypertension of pregnancy - deliv with p/n comp,
+71730,L123300,Transient hypertension of pregnancy - not delivered,
+70342,L123400,Transient hypertension of pregnancy + postnatal complication,
+21526,L123500,Gestational hypertension,
+38882,L123600,Transient hypertension of pregnancy,
+35646,L123z00,Transient hypertension of pregnancy NOS,
+62919,L125200,Severe pre-eclampsia - delivered with postnatal complication,
+62916,L125400,Severe pre-eclampsia with postnatal complication,
+70487,L126200,Eclampsia - delivered with postnatal complication,
+70891,L126400,Eclampsia with postnatal complication,
+39117,L126500,Eclampsia in pregnancy,
+44549,L128.00,Pre-exist hypertension compl preg childbirth and puerperium,
+60655,L128000,Pre-exist hyperten heart dis compl preg childbth+puerperium,
+52621,L128200,Pre-exist 2ndry hypertens comp preg childbth and puerperium,
+34173,L12B.00,Proteinuric hypertension of pregnancy,
+40723,L12z.00,Unspecified hypertension in pregnancy/childbirth/puerperium,
+41949,L12z000,Unspecified hypertension in preg/childb/puerp unspecified,
+44068,L12z100,Unspecified hypertension in preg/childb/puerp - delivered,
+89561,L12z200,Unspecified hypertension in preg/childb/puerp -del +p/n comp,
+3421,L12z300,Unspecified hypertension in preg/childb/puerp - not deliv,
+35698,L12zz00,Unspecified hypertension in preg/childb/puerp NOS,
+10185,L13..00,Excessive pregnancy vomiting,
+15061,L13..12,Hyperemesis of pregnancy,
+65555,L132.00,Late vomiting of pregnancy,
+69011,L132000,Late pregnancy vomiting unspecified,
+70476,L132100,Late pregnancy vomiting - delivered,
+72019,L132200,Late pregnancy vomiting - not delivered,
+101518,L132z00,Late pregnancy vomiting NOS,
+27833,L13y.00,Other pregnancy vomiting,
+41504,L13y000,Other pregnancy vomiting unspecified,
+41504,L13y000,Other pregnancy vomiting unspecified,
+99247,L13y200,Other pregnancy vomiting - not delivered,
+41625,L13yz00,Other pregnancy vomiting NOS,
+11760,L13z.00,Unspecified pregnancy vomiting,
+73559,L13z000,Unspecified pregnancy vomiting unspecified,
+73535,L13z100,Unspecified pregnancy vomiting - delivered,
+53661,L13z200,Unspecified pregnancy vomiting - not delivered,
+56451,L13zz00,Unspecified pregnancy vomiting NOS,
+54596,L140200,False labour at or after 37 completed weeks of gestation,
+24170,L15..00,Prolonged or post-term pregnancy,
+23995,L15..11,Post-term pregnancy,
+23373,L150.00,Post-term pregnancy,
+67698,L150000,Post-term pregnancy unspecified,
+30948,L150100,Post-term pregnancy - delivered,
+67728,L150200,Post-term pregnancy - not delivered,
+37163,L150z00,Post-term pregnancy NOS,
+35855,L15z.00,Prolonged pregnancy NOS,
+27740,L16..00,Other pregnancy complication NEC,
+28107,L161.00,Oedema or excessive weight gain in pregnancy no hypertension,
+12521,L161.11,Excessive weight gain in pregnancy,
+29565,L161.13,Gestational oedema,
+53921,L161000,"Oedema or excessive weight gain in pregnancy, unspecified",
+61563,L161300,Oedema or excessive weight gain in pregnancy - not delivered,
+61835,L161z00,Oedema or excessive weight gain in pregnancy NOS,
+47080,L162.00,Unspecified renal disease in pregnancy,
+23334,L162.11,Albuminuria in pregnancy without hypertension,
+38312,L162.12,Nephropathy NOS in pregnancy without hypertension,
+92579,L162.13,Uraemia in pregnancy without hypertension,
+54938,L162000,Unspecified renal disease in pregnancy unspecified,
+96724,L162100,Unspecified renal disease in pregnancy - delivered,
+24944,L163300,Pregnancy care of habitual aborter,
+65256,L164.00,Peripheral neuritis in pregnancy,
+31162,L165.00,Asymptomatic bacteriuria in pregnancy,
+98264,L165200,Asymptomatic bacteriuria in pregnancy - del with p/n comp,
+105943,L165300,Asymptomatic bacteriuria in pregnancy - not delivered,
+107225,L165z00,Asymptomatic bacteriuria in pregnancy NOS,
+67975,L166.00,Genitourinary tract infections in pregnancy,
+2602,L166.11,Cystitis of pregnancy,
+27451,L166000,Genitourinary tract infection in pregnancy unspecified,
+16017,L166100,Genitourinary tract infection in pregnancy - delivered,
+15418,L166300,Genitourinary tract infection in pregnancy - not delivered,
+98981,L166400,Genitourinary tract infection in pregnancy with p/n comp,
+3029,L166500,Infections of kidney in pregnancy,
+27980,L166700,Infections of the genital tract in pregnancy,
+6649,L166800,Urinary tract infection complicating pregnancy,
+15634,L166z00,Genitourinary tract infection in pregnancy NOS,
+14644,L166z11,UTI - urinary tract infection in pregnancy,
+18258,L167.00,Liver disorder in pregnancy,
+62358,L167000,Liver disorder in pregnancy unspecified,
+57419,L167100,Liver disorder in pregnancy - delivered,
+54677,L167200,Liver disorder in pregnancy - not delivered,
+36421,L167z00,Liver disorder in pregnancy NOS,
+52583,L168.00,Fatigue during pregnancy,
+64099,L168000,Fatigue during pregnancy unspecified,
+68930,L168100,Fatigue during pregnancy - delivered,
+99980,L168300,Fatigue during pregnancy - not delivered,
+99956,L168400,Fatigue during pregnancy with postnatal complication,
+73727,L168z00,Fatigue during pregnancy NOS,
+7515,L169.00,Herpes gestationis,
+69250,L169000,Herpes gestationis unspecified,
+71876,L169200,Herpes gestationis - delivered with postnatal complication,
+54082,L169300,Herpes gestationis - not delivered,
+100157,L169400,Herpes gestationis with postnatal complication,
+40703,L169z00,Herpes gestationis NOS,
+5693,L16A.00,Glycosuria during pregnancy,
+58142,L16A000,Glycosuria during pregnancy unspecified,
+70149,L16A100,Glycosuria during pregnancy - delivered,
+99889,L16A200,Glycosuria during pregnancy - delivered with p/n comp,
+63751,L16A300,Glycosuria during pregnancy - not delivered,
+70993,L16Az00,Glycosuria during pregnancy NOS,
+36394,L16C.00,Pregnancy induced oedema+proteinuria without hypertension,
+34265,L16C000,Gestational proteinuria,
+37201,L16C100,Gestational oedema with proteinuria,
+43000,L16D.00,Excessive weight gain in pregnancy,
+16775,L16E.00,Pregnancy pruritus,
+42015,L16y.00,Other pregnancy complications,
+53849,L16y000,Other pregnancy complication unspecified,
+71162,L16y100,Other pregnancy complication - delivered,
+55757,L16y200,Other pregnancy complication - delivered with postnatal comp,
+64292,L16y300,Other pregnancy complication - not delivered,
+94527,L16y400,Other pregnancy complication with postnatal complication,
+3191,L16y500,Abdominal pain in pregnancy,
+25872,L16yz00,Other pregnancy complication NOS,
+36006,L16z.00,Pregnancy complication NOS,
+23485,L17..00,Infective/parasitic disease in preg/childbirth/puerperium,
+54761,L170.00,Maternal syphilis in pregnancy/childbirth/puerperium,
+96437,L170000,"Maternal syphilis, unspec whether in pregnancy or puerperium",
+66537,L170100,Maternal syphilis during pregnancy - baby delivered,
+107197,L170z00,Maternal syphilis in pregnancy/childbirth/puerperium NOS,
+41961,L171.00,Maternal gonorrhoea during pregnancy/childbirth/puerperium,
+41959,L171300,Maternal gonorrhoea in pregnancy - baby not yet delivered,
+23691,L172.00,Other venereal diseases in pregnancy/childbirth/puerperium,
+86991,L172000,"Other maternal venereal disease, unspec pregnancy/puerperium",
+99188,L173.00,Maternal tuberculosis in pregnancy/childbirth/puerperium,
+58140,L173000,"Maternal tuberculosis,unspec whether in pregnancy/puerperium",
+49390,L174.00,"Maternal malaria in pregnancy, childbirth and the puerperium",
+42598,L175.00,"Maternal rubella in pregnancy, childbirth and the puerperium",
+2937,L175.11,Rubella contact in pregnancy,
+94353,L175000,"Maternal rubella, unspecified whether pregnancy/puerperium",
+64649,L175100,Maternal rubella during pregnancy - baby delivered,
+55889,L175300,Maternal rubella during pregnancy - baby not yet delivered,
+73927,L175z00,Maternal rubella in pregnancy/childbirth/puerperium NOS,
+72944,L176.00,Other maternal viral dis. in pregnancy/childbirth/puerperium,
+106517,L176100,Other maternal viral disease in pregnancy - baby delivered,
+103104,L176300,Other maternal viral dis.in pregnancy-baby not yet delivered,
+59573,L176500,"Viral hepatitis comp pregnancy, childbirth & the puerperium",
+47608,L177.00,Infections of bladder in pregnancy,
+53490,L178.00,Infections of urethra in pregnancy,
+104466,L179.00,HIV disease complicating pregnancy childbirth puerperium,
+97881,L17y.00,Other mat.infective/parasitic disease in preg/childb/puerp.,
+97877,L17yz00,Other mat.infective/parasitic dis in preg/childb/puerp NOS,
+59910,L17z.00,Maternal infect/parasitic dis NOS in pregnancy/childb/puerp,
+44069,L18..00,Other medical condition in pregnancy/childbirth/puerperium,
+11359,L180.00,Diabetes mellitus during pregnancy/childbirth/puerperium,
+67635,L180000,Diabetes mellitus - unspec whether in pregnancy/puerperium,
+34639,L180100,Diabetes mellitus during pregnancy - baby delivered,
+49559,L180300,Diabetes mellitus during pregnancy - baby not yet delivered,
+10278,L180800,Diabetes mellitus arising in pregnancy,
+8446,L180811,Gestational diabetes mellitus,
+2664,L180900,Gestational diabetes mellitus,
+64384,L180z00,Diabetes mellitus in pregnancy/childbirth/puerperium NOS,
+47686,L181.00,Thyroid dysfunction in pregnancy/childbirth/puerperium,
+100670,L181100,Thyroid dysfunction during pregnancy - baby delivered,
+91888,L181300,Thyroid dysfunction in pregnancy - baby not yet delivered,
+63644,L181z00,Thyroid dysfunction in pregnancy/childbirth/puerperium NOS,
+1771,L182.00,"Anaemia during pregnancy, childbirth and the puerperium",
+15633,L182000,Anaemia - unspecified whether in pregnancy or the puerperium,
+33708,L182100,Anaemia during pregnancy - baby delivered,
+21119,L182300,Anaemia during pregnancy - baby not yet delivered,
+1668,L182500,Iron deficiency anaemia of pregnancy,
+33634,L182z00,Anaemia during pregnancy/childbirth/puerperium NOS,
+41473,L183.00,"Drug dependence in pregnancy, childbirth and the puerperium",
+64500,L183.11,Pregnancy and drug dependence,
+63379,L183100,Drug dependence during pregnancy - baby delivered,
+67098,L183300,Drug dependence during pregnancy - baby not yet delivered,
+96004,L183z00,Drug dependence during pregnancy/childbirth/puerperium NOS,
+46756,L184.00,"Mental disorders in pregnancy, childbirth and the puerperium",
+109465,L184300,Mental disorder during pregnancy - baby not yet delivered,
+57491,L185.00,Congenital cardiovascular disorders in preg/childb/puerp,
+61935,L185.11,Congenital heart disease in pregnancy,
+69703,L185100,Congenital cardiovasc dis in pregnancy - baby delivered,
+53142,L185z00,Congenital cardiovascular disorder in preg/childb/puerp NOS,
+58982,L186.00,Other cardiovascular diseases in pregnancy/childbirth/puerp,
+66594,L186.11,Heart disease during pregnancy,
+41283,L187.00,Orthopaedic disorders in pregnancy/childbirth/puerperium,
+99422,L187000,Orthopaedic disorder - unsp whether in pregnancy/puerperium,
+57059,L187300,Orthopaedic disorder in pregnancy - baby not yet delivered,
+6478,L188.00,Abnormal glucose tolerance test in pregnancy/childb/puerp,
+18668,L188.11,GTT - glucose tolerance test abnormal in preg/childb/puerp,
+73647,L188000,Abnormal GTT - unspec whether during pregnancy/puerperium,
+68215,L188100,Abnormal GTT during pregnancy - baby delivered,
+53167,L188300,Abnormal GTT during pregnancy - baby not yet delivered,
+73557,L188z00,Abnormal GTT in pregnancy/childbirth/puerperium NOS,
+54681,L189.00,"Dis resp syst comp pregnancy, childbirth & puerperium",
+62809,L18A.00,Dis of the digestive sys comp preg childbirth and puerp,
+26286,L18A000,Cholestasis of pregnancy,
+45942,L18B.00,Dis of the skin and subcut tis comp preg childbrth puerp,
+24951,L18C.00,"Endocrine nutrition+metab dis complic pregn,childbirth+puerp",
+64260,L18D.00,"Dis nervous syst complic pregnancy,childbirth and puerperium",
+43754,L18z.00,Medical condition NOS in pregnancy/childbirth/puerperium,
+73432,L18z100,Medical condition NOS during pregnancy - baby delivered,
+67164,L18z300,Medical condition NOS in pregnancy - baby not yet delivered,
+69911,L18zz00,Medical condition NOS in pregnancy/childb/puerp NOS,
+60330,L19..00,Complications specific to multiple gestation,
+44770,L191.00,Continuing pregnancy after abortion of one fetus or more,
+40964,L192.00,Continuing preg after intrauterine death one fetus or more,
+24521,L1A..00,Sublux of symphysis pubis in preg childbirth and puerp,
+41718,L1y..00,Complications of pregnancy/childbirth/puerperium OS,
+53310,L1z..00,Complications of pregnancy/childbirth/puerperium NOS,
+10261,L2...00,Risk factors in pregnancy,
+31743,L200.00,Normal delivery but ante- or post- natal conditions present,
+15433,L21..00,Multiple pregnancy,
+16975,L21..11,Gestation - multiple,
+1130,L210.00,Twin pregnancy,
+54577,L210000,Twin pregnancy unspecified,
+1357,L210100,Twin pregnancy - delivered,
+61284,L210200,Twin pregnancy with antenatal problem,
+41587,L210z00,Twin pregnancy NOS,
+20197,L211.00,Triplet pregnancy,
+61576,L211000,Triplet pregnancy unspecified,
+61182,L211100,Triplet pregnancy - delivered,
+94473,L211z00,Triplet pregnancy NOS,
+34938,L212.00,Quadruplet pregnancy,
+51956,L212200,Quadruplet pregnancy with antenatal problem,
+72014,L212z00,Quadruplet pregnancy NOS,
+69599,L21y.00,Other multiple pregnancy,
+107713,L21y200,Other multiple pregnancy with antenatal problem,
+105511,L21z.00,Multiple pregnancy NOS,
+70214,L21z100,Multiple pregnancy NOS - delivered,
+106170,L21zz00,Multiple pregnancy NOS,
+66496,L222200,Breech presentation with antenatal problem,
+70096,L224200,Transverse lie with antenatal problem,
+73191,L226200,Brow presentation with antenatal problem,
+49502,L228.00,Multiple pregnancy with malpresentation,
+71851,L229200,Prolapsed arm with antenatal problem,
+60154,L24..00,Pelvic soft tissue abnormality in pregnancy/childbirth/puerp,
+34299,L240.00,Congenital abnormality of uterus in preg/childbirth/puerp,
+28225,L240.11,"Bicornuate uterus in pregnancy, childbirth and puerperium",
+49789,L240.12,"Double uterus in pregnancy, childbirth and the puerperium",
+41899,L240000,Congenital abnormality of uterus affecting obstetric care,
+34210,L240011,Bicornuate uterus affecting obstetric care,
+92362,L240z00,Congenital abnormality uterus in pregnancy/childb/puerp NOS,
+56542,L240z11,"Bicornuate uterus in pregnancy, childbirth or puerperium NOS",
+53141,L241.00,Tumour of uterine body in pregnancy/childbirth/puerperium,
+45242,L241.11,"Uterine fibroids in pregnancy, childbirth and the puerperium",
+93136,L241000,Tumour of uterine body affecting obstetric care,
+20826,L241011,Uterine fibroid affecting obstetric care,
+72215,L241z00,Uterine body tumour in pregnancy/childbirth/puerperium NOS,
+51639,L241z11,Uterine fibroid in pregnancy/childbirth/puerperium NOS,
+50908,L242.00,Uterine scar from previous surgery in pregnancy/childb/puerp,
+97836,L242100,Uterine operation scar in pregnancy/childbirth/puerp - deliv,
+57640,L242z00,Uterine operation scar in pregnancy/childbirth/puerp NOS,
+15254,L244.00,Other uterine/pelvic floor abnormality in preg/childb/puerp,
+20850,L244.11,"Cystocele in pregnancy, childbirth and the puerperium",
+35903,L244.12,"Pendulous abdomen in pregnancy,childbirth and the puerperium",
+39492,L244.13,"Rectocele in pregnancy, childbirth and the puerperium",
+54473,L244000,Other uterine/pelvic floor abnormal affecting obstetric care,
+20907,L244011,Cystocele affecting obstetric care,
+58517,L244012,Rectocele affecting obstetric care,
+30378,L244312,Rectocele complicating antenatal care - baby not delivered,
+35683,L244z00,Other uterine/pelvic floor abn in preg/childb/puerp NOS,
+39550,L244z11,"Cystocele in pregnancy, childbirth or the puerperium NOS",
+64147,L244z12,"Rectocele in pregnancy, childbirth or the puerperium NOS",
+38871,L246.00,Other cervical abnormality in pregnancy/childbirth/puerp,
+53056,L246.11,"Polyp of cervix in pregnancy, childbirth and the puerperium",
+97629,L246z00,Other cervical abnormality in pregnancy/childbirth/puerp NOS,
+33255,L246z11,Polyp of cervix in pregnancy/childbirth/puerperium NOS,
+101499,L246z12,Stenosis of cervix in pregnancy/childbirth/puerperium NOS,
+38875,L247.00,Congenital/acquired abnormality vagina in preg/childb/puerp,
+41016,L247.11,"Septate vagina in pregnancy, childbirth and the puerperium",
+40262,L247.13,Vaginal abnormality in pregnancy/childbirth/puerperium,
+43628,L247011,Septate vagina affecting obstetric care,
+61626,L247012,Stenosis of vagina affecting obstetric care,
+73757,L247z00,Vaginal abnormality in pregnancy/childbirth/puerperium NOS,
+63835,L247z11,Septate vagina in pregnancy/childbirth/puerperium NOS,
+72203,L248.00,Congenital/acquired abnormality vulva in preg/childb/puerp,
+88361,L248.11,"Persistent hymen in pregnancy, childbirth and the puerperium",
+31610,L248.13,Vulval abnormality in pregnancy/childbirth/puerperium,
+98057,L248000,Vulval abnormality affecting obstetric care,
+72437,L248z00,Vulval abnormality in pregnancy/childbirth/puerperium NOS,
+103222,L248z11,Persistent hymen in pregnancy/childbirth/puerperium NOS,
+62315,L24z400,Pelvic soft tissue abnorm in preg/childb/puerp with p/n comp,
+71563,L24zz00,Pelvic soft tissue abnormality in preg/childb/puerp NOS,
+69788,L260200,Fetal-maternal haemorrhage with antenatal problem,
+73407,L261200,Rhesus isoimmunisation with antenatal problem,
+69072,L262200,Other blood-group isoimmunisation with antenatal problem,
+44828,L263200,Fetal distress with antenatal problem,
+60877,L263800,Maternal care for fetal decelerations during pregnancy,
+12230,L263900,Maternal care for fetal tachycardia during pregnancy,
+26055,L263A00,Maternal care for fetal bradycardia during pregnancy,
+45413,L263A11,Maternal care for reduced fetal heart rate during pregnancy,
+69254,L264200,Intrauterine death with antenatal problem,
+23495,L265.00,Small-for-dates fetus in pregnancy,
+23751,L266.00,Large-for-dates fetus in pregnancy,
+99479,L267200,Other placental conditions with antenatal problem,
+61533,L270200,Polyhydramnios with antenatal problem,
+47928,L280200,Oligohydramnios with antenatal problem,
+97391,L281200,Premature rupture of membranes with antenatal problem,
+99286,L28y200,Other amniotic/membrane problem with antenatal problem,
+15685,L2A..00,Abnormal findings on antenatal screening of mother,
+42120,L2A0.00,Abnormal haematologic find on antenatal screening of mother,
+36226,L2A1.00,Abnormal biochemical finding on antenatal screen of mother,
+28290,L2A3.00,Abnormal ultrasonic finding on antenatal screening of mother,
+70046,L2A4.00,Abnormal radiological finding on antenatal screen of mother,
+37985,L2AX.00,Abnormal finding on antenatal screening of mother,
+49407,L2B..00,Low weight gain in pregnancy,
+67893,L2C..00,Malnutrition in pregnancy,
+40357,L2D..00,Retained intrauterine contraceptive device in pregnancy,
+26866,L2y..00,Other specified risk factors in pregnancy,
+23438,L2z..00,Risk factors in pregnancy NOS,
+44401,L305200,Shoulder dystocia with antenatal problem,
+71794,L307200,Other failed trial of labour with antenatal problem,
+73765,L311200,Secondary uterine inertia with antenatal problem,
+95107,L312200,Other uterine inertia with antenatal problem,
+71862,L323200,Delayed delivery second twin with antenatal problem,
+99939,L33y200,Other umbilical cord complications with antenatal problem,
+96678,L33z200,Umbilical cord complications NOS with antenatal problem,
+59623,L35..00,Other obstetric trauma,
+90277,L350200,Rupture of uterus before labour with antenatal problem,
+68319,L351300,Rupture of uterus during/after labour with postnatal problem,
+33352,L352.00,Obstetric inversion of uterus,
+34843,L352.11,Inversion of uterus - obstetric,
+72594,L352200,Obstetric inversion of uterus with postnatal problem,
+94444,L352z00,Obstetric inversion of uterus NOS,
+55750,L353.00,Obstetric laceration of cervix,
+44261,L353.11,Laceration of cervix - obstetric,
+27916,L353.12,Tear of cervix - obstetric,
+68557,L353000,Obstetric laceration of cervix unspecified,
+73797,L353z00,Obstetric laceration of cervix NOS,
+69458,L354.00,Obstetric high vaginal laceration,
+51929,L354.11,High vaginal laceration - obstetric,
+50488,L354.12,High vaginal tear - obstetric,
+71742,L354000,Obstetric high vaginal laceration unspecified,
+44872,L354100,Obstetric high vaginal laceration - delivered,
+72298,L355.00,Other obstetric pelvic organ damage,
+28730,L355.11,Bladder injury - obstetric,
+22765,L355.12,Urethra injury - obstetric,
+94399,L355100,Other obstetric pelvic organ damage - delivered,
+48853,L356.00,Obstetric trauma damaging pelvic joints and ligaments,
+93982,L356.11,Obstetric pelvic joint damage,
+48442,L356.12,Obstetric pelvic ligament damage,
+61200,L356000,Obstetric damage to pelvic joints and ligaments unspecified,
+69382,L356200,Obstetric damage to pelvic joints and ligaments + p/n prob,
+24089,L356z00,Obstetric damage to pelvic joints and ligaments NOS,
+47156,L357.00,Obstetric trauma causing pelvic haematoma,
+91278,L357000,Obstetric pelvic haematoma unspecified,
+73028,L357100,Obstetric pelvic haematoma - delivered,
+67257,L35y.00,Other obstetric trauma OS,
+96745,L35y100,Other obstetric trauma - delivered,
+69285,L35y200,Other obstetric trauma - delivered with postnatal problem,
+44385,L35z.00,Obstetric trauma NOS,
+60507,L35z000,"Obstetric trauma NOS, unspecified",
+71745,L35z100,Obstetric trauma NOS - delivered,
+99969,L35z400,Obstetric trauma NOS with postnatal problem,
+54582,L35zz00,Obstetric trauma NOS,
+97719,L360200,Third-stage postpartum haemorrhage with postnatal problem,
+47542,L362200,Secondary postpartum haemorrhage with postnatal problem,
+2872,L371200,Retained products with no haemorrhage with postnatal problem,
+73983,L380.00,Obstetric anaesthesia with pulmonary complications,
+62676,L382000,Obstetric anaesthesia with CNS complications unspecified,
+13039,L383.00,Obstetric toxic reaction to local anaesthesia,
+27650,L384.00,Obstetric spinal and epidural anaesthesia-induced headache,
+39359,L385.00,Failed or difficult intubation during pregnancy,
+36959,L391.00,Obstetric shock,
+69433,L393200,Post-delivery acute renal failure with postnatal problem,
+89151,L394.00,Other complications of obstetric procedures,
+73560,L394100,Other complications of obstetric procedures - delivered,
+96648,L394200,Other complications of obstetric procedures - del +p/n prob,
+6031,L394500,Infection of obstetric surgical wound,
+11741,L394600,Haematoma of obstetric wound,
+56246,L394z00,Other complications of obstetric procedures NOS,
+863,L398200,Caesarean section - pregnancy at term,
+56420,L39B.00,Death from sequelae of direct obstetric causes,
+49478,L39X.00,Obstetric death of unspecified cause,
+5113,L39y411,Postnatal vaginal discomfort,
+16476,L39y412,Vaginal discomfort postnatal,
+62888,L400100,Puerperal endometritis - delivered with postnatal comp,
+57236,L400200,Puerperal endometritis with postnatal complication,
+97272,L401200,Puerperal salpingitis with postnatal complication,
+46744,L41..00,Venous complications of pregnancy and the puerperium,
+29620,L41..11,Varicose veins - obstetric,
+16046,L410.00,Varicose veins of legs in pregnancy and the puerperium,
+99154,L410000,Varicose veins of legs in pregnancy/puerperium unspecified,
+47197,L410400,Varicose veins of legs in pregnancy/puerperium + p/n comp,
+53685,L410500,Varicose veins of legs in pregnancy,
+63781,L410z00,Varicose veins of legs in pregnancy and puerperium NOS,
+25759,L411.00,VV's of perineum/vulva in pregnancy/puerperium,
+19327,L411.11,Perineal obstetric varicose veins,
+20496,L411.12,Vulval obstetric varicose veins,
+71943,L411000,VV's of perineum/vulva in pregnancy/puerperium unspecified,
+26023,L411300,VV's of perineum/vulva in pregnancy/puerperium + a/n comp,
+59588,L411500,Genital varices in pregnancy,
+99237,L411511,Perineal varices in pregnancy,
+59634,L411512,Vaginal varices in pregnancy,
+96757,L411513,Vulval varices in pregnancy,
+42091,L411z00,Varicose veins of perineum/vulva in pregnancy/puerperium NOS,
+23456,L412.00,Superficial thrombophlebitis in pregnancy and the puerperium,
+35652,L412000,Superficial thrombophlebitis in pregnancy/puerperium unsp,
+71144,L412200,Superficial thrombophleb in preg/puerperium - del + p/n comp,
+20098,L412400,Superficial thrombophlebitis in preg/puerperium + p/n comp,
+64366,L412500,Superficial thrombophlebitis in pregnancy,
+73914,L412511,Thrombophlebitis of legs in pregnancy,
+52106,L412z00,Superficial thrombophlebitis in pregnancy and puerperium NOS,
+23667,L413.00,Antenatal deep vein thrombosis,
+26873,L413.11,"DVT - deep venous thrombosis, antenatal",
+65725,L413000,Antenatal deep vein thrombosis unspecified,
+94405,L413100,Antenatal deep vein thrombosis - delivered,
+61203,L413z00,Antenatal deep vein thrombosis NOS,
+4607,L414.00,Postnatal deep vein thrombosis,
+16250,L414.12,Phlegmasia alba dolens - obstetric,
+69921,L414000,Postnatal deep vein thrombosis unspecified,
+23588,L414200,Postnatal deep vein thrombosis with postnatal complication,
+61204,L414z00,Postnatal deep vein thrombosis NOS,
+65579,L415.00,Other phlebitis and thrombosis in pregnancy and puerperium,
+99594,L415000,Other phlebitis/thrombosis in pregnancy/puerperium unsp,
+107708,L415100,Other phlebitis/thrombosis in pregnancy/puerperium - deliv,
+66102,L415300,Other phlebitis/thrombosis in preg/puerperium + a/n comp,
+6560,L416.00,Haemorrhoids in pregnancy and the puerperium,
+17911,L416.11,Piles - obstetric,
+56217,L416000,Haemorrhoids in pregnancy and the puerperium unspecified,
+63773,L416100,Haemorrhoids in pregnancy and the puerperium - delivered,
+68840,L416200,Haemorrhoids in pregnancy and puerperium - deliv + p/n comp,
+103144,L416300,Haemorrhoids in pregnancy and puerperium with a/n comp,
+109550,L416400,Haemorrhoids in pregnancy and puerperium with p/n comp,
+29786,L416600,Haemorrhoids in pregnancy,
+90329,L416z00,Haemorrhoids in pregnancy and the puerperium NOS,
+52679,L417.00,Obstetric cerebral venous thrombosis,
+69686,L417000,Cerebral venous thrombosis in pregnancy,
+105500,L41yz00,Other venous complication of pregnancy and puerperium NOS,
+73311,L41z.00,Venous complications of pregnancy and puerperium NOS,
+66649,L41z500,"Venous complication of pregnancy, unspecified",
+59681,L41z511,Gestational phlebitis NOS,
+50081,L41z512,Gestational phlebopathy NOS,
+58971,L41z513,Gestational thrombosis NOS,
+7174,L43..00,Obstetric pulmonary embolism,
+68438,L43..11,Obstetric pulmonary embolus,
+31313,L430.00,Obstetric air pulmonary embolism,
+49269,L432.00,Obstetric blood-clot pulmonary embolism,
+59059,L433.12,Septic obstetric embolism,
+73569,L43z.00,Obstetric pulmonary embolism NOS,
+97367,L43z100,Obstetric pulmonary embolism NOS - delivered,
+44404,L43z400,Obstetric pulmonary embolism NOS with postnatal complication,
+98639,L43zz00,Obstetric pulmonary embolism NOS,
+91272,L440300,Puerperal cerebrovascular disorder with antenatal comp,
+54623,L441200,Caesarean wound disruption with postnatal complication,
+24018,L442.00,Obstetric perineal wound disruption,
+36478,L442000,Obstetric perineal wound disruption unspecified,
+38616,L442100,Obstetric perineal wound disruption - deliv + p/n comp,
+65230,L442200,Obstetric perineal wound disruption with p/n complication,
+50765,L442z00,Obstetric perineal wound disruption NOS,
+50137,L443.00,Other complication of obstetric surgical wound,
+55917,L443000,Other complication of obstetric surgical wound unspecified,
+93551,L443200,Other complication obstetric surgical wound with p/n comp,
+33786,L443z00,Other complication of obstetric surgical wound NOS,
+31934,L45..00,Obstetric breast infections,
+64289,L450.00,Obstetric nipple infection,
+37435,L450.11,Abscess of nipple - obstetric,
+19737,L450.12,Nipple infection - obstetric,
+71610,L450000,Obstetric nipple infection unspecified,
+72931,L450100,Obstetric nipple infection - delivered,
+72195,L450400,Obstetric nipple infection with postnatal complication,
+59739,L450z00,Obstetric nipple infection NOS,
+20371,L451.00,Obstetric breast abscess,
+16424,L451.11,Purulent mastitis - obstetric,
+63755,L451000,Obstetric breast abscess unspecified,
+53660,L451100,Obstetric breast abscess - delivered,
+15533,L451400,Obstetric breast abscess with postnatal complication,
+44482,L451z00,Obstetric breast abscess NOS,
+20383,L452.00,Obstetric nonpurulent mastitis,
+50089,L452.11,Lymphangitis of breast - obstetric,
+15697,L452000,Obstetric nonpurulent mastitis unspecified,
+20630,L452100,Obstetric nonpurulent mastitis - delivered,
+60820,L452200,Obstetric nonpurulent mastitis - deliv with p/n complication,
+53683,L452300,Obstetric nonpurulent mastitis with antenatal complication,
+5045,L452400,Obstetric nonpurulent mastitis with postnatal complication,
+35710,L452z00,Obstetric nonpurulent mastitis NOS,
+15721,L45y.00,Other obstetric breast infections,
+58880,L45y000,Other obstetric breast infection unspecified,
+39805,L45z.00,Obstetric breast infection NOS,
+41108,L45z000,"Obstetric breast infection NOS, unspecified",
+54269,L45z100,Obstetric breast infection NOS - delivered,
+16281,L45z400,Obstetric breast infection NOS with postnatal complication,
+33633,L45zz00,Obstetric breast infection NOS,
+30944,L46..00,Obstetric breast and lactation disorders NOS,
+70092,L460.00,"Retracted nipple in pregnancy, the puerperium or lactation",
+73089,L460000,Retracted nipple in pregnancy/puerperium/lactation unspec,
+99389,L460300,Retracted nipple in pregnancy/puerperium/lact with a/n comp,
+99365,L460z00,Retracted nipple in pregnancy/puerperium/lactation NOS,
+28611,L461.00,"Cracked nipple in pregnancy, the puerperium or lactation",
+97741,L461000,Cracked nipple in pregnancy/puerperium/lactation unspecified,
+50009,L461100,Cracked nipple in pregnancy/puerperium/lactation - delivered,
+97296,L461200,Cracked nipple in pregnancy/puerp/lact - deliv + p/n comp,
+15297,L461400,Cracked nipple in pregnancy/puerperium/lactation + p/n comp,
+15297,L461400,Cracked nipple in pregnancy/puerperium/lactation + p/n comp,
+62886,L461z00,"Cracked nipple in pregnancy, the puerperium or lactation NOS",
+16995,L462.00,"Breast engorgement in pregnancy, the puerperium or lactation",
+58686,L462000,Breast engorgement in pregnancy/puerperium/lactation unspec,
+57131,L462100,Breast engorgement in pregnancy/puerperium/lactation - deliv,
+59601,L462200,Breast engorgement in pregnancy/puerp/lact - del + p/n comp,
+101272,L462300,Breast engorgement in pregnancy/puerperium/lact + a/n comp,
+14765,L462400,Breast engorgement in pregnancy/puerperium/lact + p/n comp,
+38440,L462z00,Breast engorgement in pregnancy/puerperium/lactation NOS,
+61144,L463.00,Other breast disorder in pregnancy/puerperium/lactation,
+35928,L463000,Other breast disorder in pregnancy/puerperium/lact unspec,
+104806,L463100,Other breast disorder in pregnancy/puerperium/lact - deliv,
+73717,L463300,Other breast disorder in pregnancy/puerperium/lact +a/n comp,
+59269,L463400,Other breast disorder in pregnancy/puerperium/lact +p/n comp,
+67377,L463z00,Other breast disorder in pregnancy/puerperium/lactation NOS,
+4243,L466.00,Galactorrhoea in pregnancy and the puerperium,
+54089,L466000,Galactorrhoea in pregnancy and the puerperium unspecified,
+24006,L466100,Galactorrhoea in pregnancy and the puerperium - delivered,
+69012,L466300,Galactorrhoea in pregnancy/puerperium with a/n complication,
+28312,L466z00,Galactorrhoea in pregnancy and the puerperium NOS,
+51848,L46y.11,Galactocele - obstetric,
+56747,L46y400,Other disorder of lactation with postnatal complication,
+33441,L511.00,Maternal care for viable fetus in abdominal pregnancy,
+45870,Ly...00,"Complications of pregnancy,childbirth or the puerperium OS",
+104656,Ly2..00,Sequelae of complication pregnancy childbirth and puerperium,
+110448,Lyu0.00,[X]Pregnancy with abortive outcome,
+53908,Lyu0000,[X]Other ectopic pregnancy,
+52967,Lyu0B00,"[X]Complic following abortion & ectopic & molar preg, unspec",
+92998,Lyu1.00,"[X]Oedema,proteinuria+hypertens in pregnancy,childbrth,puerp",
+72883,Lyu2100,[X]Other vomiting complicating pregnancy,
+38771,Lyu2200,[X]Other venous complications in pregnancy,
+100892,Lyu2400,[X]Other+unspcf genitourinary tract infection in pregnancy,
+37348,Lyu2500,[X]Other specified pregnancy-related conditions,
+68966,Lyu7.00,"[X]Other obstetric conditions, not elsewhere classified",
+97703,Lyu7400,"[X]Oth spcf dis+conditns complicat preg,childbirth+puerperum",
+73935,Lyu7500,[X]Obstetric death of unspecified cause,
+28446,Lz...00,"Complications of pregnancy,childbirth and the puerperium NOS",
+60345,M240500,Alopecia of pregnancy,
+23008,Q....00,Perinatal conditions,
+46009,Q0...00,Fetus/neonate affected by maternal problem unrelated to preg,
+68004,Q01..00,Fetus/neonate affected by maternal complication of pregnancy,
+63825,Q014.00,Fetus or neonate affected by ectopic pregnancy,
+107485,Q014000,Fetus or neonate affected by unspecified ectopic pregnancy,
+99006,Q014100,Fetus or neonate affected by abdominal ectopic pregnancy,
+99008,Q014300,Fetus or neonate affected by tubal ectopic pregnancy,
+54293,Q015.00,Fetus or neonate affected by multiple pregnancy,
+49855,Q015100,Fetus or neonate affected by twin pregnancy,
+73455,Q015200,Fetus or neonate affected by triplet pregnancy,
+72835,Q01z.00,Fetus/neonate affected by maternal complic pregnancy NOS,
+60309,Q0y..00,Maternal problems unrelated preg affecting fetus/neonate OS,
+66390,Q0z..00,Maternal problem unrelated preg affecting fetus/neonate NOS,
+46448,Q486.00,Fetal death due to termination of pregnancy,
+105006,Q48G.00,Complication termination pregnancy affecting fetus newborn,
+41050,Z2...00,"Pregnancy, childbirth and puerperium observations",
+25254,Z21..00,Care relating to reproduction and pregnancy,
+7845,Z212.00,Antenatal care,
+9986,Z212.11,Pregnancy care,
+42614,Z22..00,Pregnancy observations,
+35158,Z225.00,Normal pregnancy,
+11422,Z226.00,Pregnancy problem,
+12890,Z227.00,Confirmation of pregnancy,
+49519,Z229.00,Observation of position of pregnancy,
+22193,Z229100,Intrauterine pregnancy,
+37701,Z22A.00,Observation of pattern of pregnancy,
+25501,Z22A100,Low risk pregnancy,
+22215,Z22A200,High risk pregnancy,
+61466,Z22A211,HRP - High risk pregnancy,
+28103,Z22A300,Concealed pregnancy,
+9754,Z22A400,Early stage of pregnancy,
+50440,Z22A500,Biochemical pregnancy,
+40633,Z22A600,Teenage pregnancy,
+40978,Z22A700,Surrogate pregnancy,
+47489,Z22A800,Undiagnosed pregnancy,
+50421,Z22A900,Unwanted pregnancy,
+30365,Z22AA00,Wanted pregnancy,
+30618,Z22AB00,Unplanned pregnancy,
+52048,Z22AB11,Accidental pregnancy,
+26201,Z22AC00,Pregnancy with uncertain dates,
+32493,Z22AD00,Presentation of pregnancy,
+25131,Z22AD11,Reported conception - pregnancy,
+67863,Z22B.00,Observation of quantity of pregnancy,
+22557,Z22B100,Single pregnancy,
+93895,Z22B500,Quintuplet pregnancy,
+40825,Z22B800,Undiagnosed multiple pregnancy,
+37573,Z22B900,Continuing pregnancy after abortion of sibling fetus,
+59313,Z22BA00,Contin pregnancy after intrauterine death of sibling fetus,
+68694,Z22C.00,Observation of measures of pregnancy,
+22385,Z22C300,Length of gestation,
+45965,Z22C311,Pregnancy duration,
+43805,Z22C312,Duration of gestation,
+53097,Z22C313,Duration of pregnancy,
+10306,Z22C314,Weeks pregnant,
+32368,Z22C400,Duration of pregnancy at time of previous miscarriage,
+12874,Z22C600,Number of previous pregnancies,
+46609,Z22C800,Number of lost pregnancies,
+50779,Z22CB11,Number of spontaneous abortions,
+38022,Z22CF00,Date symptom of pregnancy first noted,
+45729,Z22D.00,Observation of viability of pregnancy,
+18500,Z22D100,Viable pregnancy,
+48281,Z22D200,Non-viable pregnancy,
+53514,Z22D300,Uncertain viability of pregnancy,
+54288,Z22D311,Query viability of pregnancy,
+64247,Z235.00,Observation of shape of pregnant abdomen,
+93800,Z235100,Ovoid pregnant abdomen,
+91254,Z235200,Rounded pregnant abdomen,
+109932,Z235211,Globular pregnant abdomen,
+59650,Z235300,Transversely enlarged pregnant abdomen,
+56953,Z235400,Pendulous pregnant abdomen,
+107698,Z236300,Pregnant uterus displaced laterally,
+37038,Z23D100,Girth of pregnant abdomen,
+10173,Z23D200,Pregnant abdomen observation,
+7916,Z254500,Delivered by caesarean section - pregnancy at term,
+25731,Z27..00,Obstetric investigative observation,
+32913,Z28..00,Obstetric pelvic observation,
+96490,Z285C00,Obstetric conjugate of pelvis,
+18458,Z29..00,Postnatal examination observations,
+63448,Z675.00,Antenatal class,
+10205,ZG9..00,Advice relating to pregnancy and fertility,
+26012,ZL1C.00,Under care of obstetrician and gynaecologist,
+21759,ZL9B200,Seen by obstetrician,
+39446,ZRBY.00,Edinburgh postnatal depression scale,
+25238,ZRBY.11,EPDS - Edinburgh postnatal depression scale,
+27952,ZV13900,"[V]PH comp of pregnancy, childbirth and the puerperium",
+6184,ZV22.00,[V]Normal pregnancy,
+55730,ZV22.11,[V]Supervision of normal pregnancy,
+38346,ZV22000,[V]First normal pregnancy supervision,
+56252,ZV22100,[V]Other normal pregnancy supervision,
+35912,ZV22200,[V]Pregnancy confirmed,
+16611,ZV22300,"[V]Pregnant state, incidental",
+93303,ZV22400,[V]Supervision of other normal pregnancy,
+23831,ZV22y00,[V]Other specified pregnant state,
+46270,ZV22z00,[V]Unspecified pregnant state,
+21196,ZV23.00,[V]High-risk pregnancy supervision,
+52685,ZV23000,[V]Pregnancy with history of infertility,
+48534,ZV23100,[V]Pregnancy with history of trophoblastic disease,
+44057,ZV23111,[V]Pregnancy with history of hydatidiform mole,
+65834,ZV23200,[V]Pregnancy with history of abortion,
+26852,ZV23400,[V]Pregnancy with other poor obstetric history,
+55618,ZV23600,[V]Supervisn/pregnancy wth history insufficnt antenatal care,
+6580,ZV23800,[V]Supervision of high-risk pregnancy due to social problems,
+54701,ZV23y00,[V]Other specified high-risk pregnancy,
+69722,ZV23z00,[V]Unspecified high-risk pregnancy,
+6217,ZV24.11,[V]Postnatal care and examination,
+20910,ZV25311,[V]Admission for termination of pregnancy (TOP),
+20621,ZV25313,[V]Admission for termination of pregnancy,
+53201,ZV25B00,[V]Admission for administration of abortifacient,
+6298,ZV28.00,[V]Antenatal screening,
+49665,ZV28600,[V]Antenatal screening for chromosomal anomalies,
+40597,ZV28y00,[V]Other specified antenatal screening,
+67926,ZV28z00,[V]Unspecified antenatal screening,
+20623,ZV4J000,[V]Problems related to unwanted pregnancy,
+43344,ZV61800,[V]Illegitimate pregnancy,
+15033,ZV61900,[V]Other unwanted pregnancy,
+105694,ZVu2300,[X]Supervision of other normal pregnancy,
+73734,ZVu2900,[X]Other antenatal screening,

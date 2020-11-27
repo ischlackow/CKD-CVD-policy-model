@@ -1,308 +1,308 @@
-medcode,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
-91943,1,0,0,0,C10EC11,Type I diabetes mellitus with polyneuropathy,Feb-09
-101311,2,0,0,0,C10EC12,Insulin dependent diabetes mellitus with polyneuropathy,Jan-11
-56885,1,0,0,0,C10K000,Type A insulin resistance without complication,Feb-09
-64668,93,0,0,0,C10FJ11,Insulin treated Type II diabetes mellitus,Feb-09
-106061,1,0,0,0,C10FP11,Type II diabetes mellitus with ketoacidotic coma,May-13
-13279,13,0,0,0,C104y00,Other specified diabetes mellitus with renal complications,Feb-09
-36633,41,0,0,0,C109K00,Hyperosmolar non-ketotic state in type 2 diabetes mellitus,Feb-09
-52236,46,21,0,0,C10A.00,Malnutrition-related diabetes mellitus,Feb-09
-17262,110,26,0,0,C109600,Non-insulin-dependent diabetes mellitus with retinopathy,Feb-09
-18642,10,0,0,0,C10EH00,Type 1 diabetes mellitus with arthropathy,Feb-09
-47649,20,2,0,0,C10E100,Type 1 diabetes mellitus with ophthalmic complications,Feb-09
-62674,68,0,0,0,C10FA00,Type 2 diabetes mellitus with mononeuropathy,Feb-09
-95992,1,0,0,0,C108A11,Type I diabetes mellitus without complication,Feb-09
-42831,24,1,0,0,C10E200,Type 1 diabetes mellitus with neurological complications,Feb-09
-711,791092,38329,4,0,C10..00,Diabetes mellitus,Feb-09
-61071,7,1,0,0,C109D12,Type 2 diabetes mellitus with hypoglycaemic coma,Feb-09
-10692,5377,100,0,0,C10EM00,Type 1 diabetes mellitus with ketoacidosis,Feb-09
-69993,12,0,0,0,C10E600,Type 1 diabetes mellitus with gangrene,Feb-09
-26054,4378,48,3,0,C10FL00,Type 2 diabetes mellitus with persistent proteinuria,Feb-09
-47582,41,2,0,0,C10E000,Type 1 diabetes mellitus with renal complications,Feb-09
-93878,6,0,0,0,C10E511,Type I diabetes mellitus with ulcer,Feb-09
-96235,12,0,0,0,C10E911,Type I diabetes mellitus maturity onset,Apr-09
-39317,190,1,0,0,C106100,"Diabetes mellitus, adult onset, + neurological manifestation",Feb-09
-108005,55,0,0,0,C109312,Type 2 diabetes mellitus with multiple complications,May-14
-45491,80,3,0,0,C10z.00,Diabetes mellitus with unspecified complication,Feb-09
-10098,8,0,0,0,C10yy00,Other specified diabetes mellitus with other spec comps,Feb-09
-99231,1,0,0,0,C108B11,Type I diabetes mellitus with mononeuropathy,Apr-10
-98616,2,0,0,0,C10F211,Type II diabetes mellitus with neurological complications,Mar-10
-66145,1,0,0,0,C10EN11,Type I diabetes mellitus with ketoacidotic coma,Feb-09
-44260,7,2,0,0,C108F00,Insulin dependent diabetes mellitus with diabetic cataract,Feb-09
-40023,8,0,0,0,C102000,"Diabetes mellitus, juvenile type, with hyperosmolar coma",Feb-09
-39406,18,0,0,0,C109800,Reaven's syndrome,Feb-09
-44443,212,3,0,0,C108500,Insulin dependent diabetes mellitus with ulcer,Feb-09
-35385,191,5,0,0,C10FH00,Type 2 diabetes mellitus with neuropathic arthropathy,Feb-09
-18505,8048,314,0,0,C108.11,IDDM-Insulin dependent diabetes mellitus,Feb-09
-56448,18,0,0,0,C108A00,Insulin-dependent diabetes without complication,Feb-09
-43453,33,0,0,0,C10C.00,Diabetes mellitus autosomal dominant,Feb-09
-40401,11,1,0,0,C109500,Non-insulin dependent diabetes mellitus with gangrene,Feb-09
-49074,112,3,0,0,C10F400,Type 2 diabetes mellitus with ulcer,Feb-09
-54773,26,1,0,0,C10F800,Reaven's syndrome,Feb-09
-61523,58,0,0,0,C106y00,Other specified diabetes mellitus with neurological comps,Feb-09
-65062,7,0,0,0,C103z00,Diabetes mellitus NOS with ketoacidotic coma,Feb-09
-42505,341,8,0,0,C101z00,Diabetes mellitus NOS with ketoacidosis,Feb-09
-12455,513,4,0,0,C10E.11,Type I diabetes mellitus,Feb-09
-98392,6,0,0,0,C10C.12,Maturity onset diabetes in youth type 1,Jan-10
-46624,195,9,0,0,C10C.11,Maturity onset diabetes in youth,Feb-09
-1407,12289,77,0,0,C10FJ00,Insulin treated Type 2 diabetes mellitus,Feb-09
-63357,52,1,0,0,C107100,"Diabetes mellitus, adult, + peripheral circulatory disorder",Feb-09
-21983,5,0,0,0,C108012,Type 1 diabetes mellitus with renal complications,Feb-09
-108360,2,0,0,0,C10P000,Type I diabetes mellitus in remission,Jul-14
-35399,3464,28,0,0,C107.00,Diabetes mellitus with peripheral circulatory disorder,Feb-09
-18278,3940,25,0,0,C109J00,Insulin treated Type 2 diabetes mellitus,Feb-09
-43857,32,2,0,0,C10M.00,Lipoatrophic diabetes mellitus,Feb-09
-50527,12,0,0,0,C10FB11,Type II diabetes mellitus with polyneuropathy,Feb-09
-99716,2,0,0,0,C10EE12,Insulin dependent diabetes mellitus with hypoglycaemic coma,Jun-10
-107701,2,0,0,0,C10FK11,Hyperosmolar non-ketotic state in type II diabetes mellitus,Feb-14
-11551,1294,24,0,0,C10B.00,Diabetes mellitus induced by steroids,Feb-09
-22487,120,4,0,0,C10N.00,Secondary diabetes mellitus,Feb-09
-60499,10,2,0,0,C108600,Insulin dependent diabetes mellitus with gangrene,Feb-09
-37806,66,2,0,0,C10FF00,Type 2 diabetes mellitus with peripheral angiopathy,Feb-09
-758,817395,11767,21,0,C10F.00,Type 2 diabetes mellitus,Feb-09
-36695,336,4,0,0,C10D.00,Diabetes mellitus autosomal dominant type 2,Feb-09
-24693,5,0,0,0,C109G00,Non-insulin dependent diabetes mellitus with arthropathy,Feb-09
-33969,97,2,0,0,C10A100,Malnutrition-related diabetes mellitus with ketoacidosis,Feb-09
-59903,24,0,0,0,C106.11,Diabetic amyotrophy,Feb-09
-7795,8864,194,0,0,C106.12,Diabetes mellitus with neuropathy,Feb-09
-16491,64,0,0,0,C106.13,Diabetes mellitus with polyneuropathy,Feb-09
-46301,30,0,0,0,C10EC00,Type 1 diabetes mellitus with polyneuropathy,Feb-09
-51756,29,0,0,0,C10FP00,Type 2 diabetes mellitus with ketoacidotic coma,Feb-09
-69278,13,0,0,0,C109E00,Non-insulin depend diabetes mellitus with diabetic cataract,Feb-09
-18683,44,1,0,0,C10E500,Type 1 diabetes mellitus with ulcer,Feb-09
-54600,5,0,0,0,C10E412,Unstable insulin dependent diabetes mellitus,Feb-09
-49949,7,1,0,0,C10E411,Unstable type I diabetes mellitus,Feb-09
-18390,7959,41,0,0,C10FM00,Type 2 diabetes mellitus with persistent microalbuminuria,Feb-09
-10418,464,9,0,0,C10ED00,Type 1 diabetes mellitus with nephropathy,Feb-09
-62352,1,0,0,0,C108H11,Type I diabetes mellitus with arthropathy,Feb-09
-58604,21,5,0,0,C109611,Type II diabetes mellitus with retinopathy,Feb-09
-42762,16,1,0,0,C109612,Type 2 diabetes mellitus with retinopathy,Feb-09
-64357,113,0,0,0,C10zz00,Diabetes mellitus NOS with unspecified complication,Feb-09
-95351,10,0,0,0,C10FA11,Type II diabetes mellitus with mononeuropathy,Feb-09
-104639,19,0,0,0,C10FF11,Type II diabetes mellitus with peripheral angiopathy,Aug-12
-95539,5,0,0,0,C10FS00,Maternally inherited diabetes mellitus,Feb-09
-102112,6,0,0,0,C10E611,Type I diabetes mellitus with gangrene,Apr-11
-109051,1,0,0,0,C10E612,Insulin dependent diabetes mellitus with gangrene,Jan-15
-68792,7,0,0,0,C10z000,"Diabetes mellitus, juvenile type, + unspecified complication",Feb-09
-56268,2,0,0,0,C109D11,Type II diabetes mellitus with hypoglycaemic coma,Feb-09
-64446,3,1,0,0,C108G00,Insulin dependent diab mell with peripheral angiopathy,Feb-09
-59725,2,0,0,0,C109111,Type II diabetes mellitus with ophthalmic complications,Feb-09
-62613,2,0,0,0,C10EA11,Type I diabetes mellitus without complication,Feb-09
-24694,1,0,0,0,C108B00,Insulin dependent diabetes mellitus with mononeuropathy,Feb-09
-34268,165,3,0,0,C10F200,Type 2 diabetes mellitus with neurological complications,Feb-09
-34912,227,4,0,0,C109400,Non-insulin dependent diabetes mellitus with ulcer,Feb-09
-25591,180,5,0,0,C10FQ00,Type 2 diabetes mellitus with exudative maculopathy,Feb-09
-47954,832,6,0,0,C10F900,Type 2 diabetes mellitus without complication,Feb-09
-51957,10,1,0,0,C108511,Type I diabetes mellitus with ulcer,Feb-09
-38617,28,1,0,0,C101y00,Other specified diabetes mellitus with ketoacidosis,Feb-09
-66675,3,0,0,0,C10A000,Malnutrition-related diabetes mellitus with coma,Feb-09
-65025,76,3,0,0,C107z00,Diabetes mellitus NOS with peripheral circulatory disorder,Feb-09
-34283,165,0,0,0,C105z00,Diabetes mellitus NOS with ophthalmic manifestation,Feb-09
-107824,9,0,0,0,C10P100,Type II diabetes mellitus in remission,Mar-14
-46850,17,0,0,0,C108811,Type I diabetes mellitus - poor control,Feb-09
-45914,3,0,0,0,C108812,Type 1 diabetes mellitus - poor control,Feb-09
-98723,21,0,0,0,C10FD11,Type II diabetes mellitus with hypoglycaemic coma,Mar-10
-107603,139,0,0,0,C10P.00,Diabetes mellitus in remission,Jan-14
-102163,1,0,0,0,C10ED12,Insulin dependent diabetes mellitus with nephropathy,Apr-11
-91942,4,0,0,0,C10E311,Type I diabetes mellitus with multiple complications,Feb-09
-45276,13,0,0,0,C10E312,Insulin dependent diabetes mellitus with multiple complicat,Feb-09
-46963,29,1,0,0,C108000,Insulin-dependent diabetes mellitus with renal complications,Feb-09
-32556,115,17,0,0,C107.12,Diabetes with gangrene,Feb-09
-32403,269,49,0,0,C107.11,Diabetes mellitus with gangrene,Feb-09
-6509,244,41,0,0,C108700,Insulin dependent diabetes mellitus with retinopathy,Feb-09
-59253,49,2,0,0,C10FG00,Type 2 diabetes mellitus with arthropathy,Feb-09
-35288,319,28,0,0,C10E800,Type 1 diabetes mellitus - poor control,Feb-09
-68105,9,0,0,0,C10EB00,Type 1 diabetes mellitus with mononeuropathy,Feb-09
-34450,497,12,0,0,C10FK00,Hyperosmolar non-ketotic state in type 2 diabetes mellitus,Feb-09
-37648,22,3,0,0,C109J11,Insulin treated non-insulin dependent diabetes mellitus,Feb-09
-18264,51,4,0,0,C109J12,Insulin treated Type II diabetes mellitus,Feb-09
-18425,226,4,0,0,C10FB00,Type 2 diabetes mellitus with polyneuropathy,Feb-09
-102946,3,0,0,0,C10E012,Insulin-dependent diabetes mellitus with renal complications,Sep-11
-109837,1,0,0,0,C10E011,Type I diabetes mellitus with renal complications,Jul-15
-48192,11,3,0,0,C109E11,Type II diabetes mellitus with diabetic cataract,Feb-09
-22871,59,4,0,0,C10EP00,Type 1 diabetes mellitus with exudative maculopathy,Feb-09
-57621,18,0,0,0,C108D00,Insulin dependent diabetes mellitus with nephropathy,Feb-09
-16230,12257,55,0,0,C106.00,Diabetes mellitus with neurological manifestation,Feb-09
-70316,36,0,0,0,C109112,Type 2 diabetes mellitus with ophthalmic complications,Feb-09
-66872,7,0,0,0,C108D11,Type I diabetes mellitus with nephropathy,Feb-09
-57278,4,0,0,0,C10F011,Type II diabetes mellitus with renal complications,Feb-09
-64571,5,1,0,0,C109C11,Type II diabetes mellitus with nephropathy,Feb-09
-24836,10,1,0,0,C109C12,Type 2 diabetes mellitus with nephropathy,Feb-09
-63762,50,0,0,0,C10z100,"Diabetes mellitus, adult onset, + unspecified complication",Feb-09
-85991,4,0,0,0,C10FM11,Type II diabetes mellitus with persistent microalbuminuria,Feb-09
-65616,4,0,0,0,C108H00,Insulin dependent diabetes mellitus with arthropathy,Feb-09
-68517,3,0,0,0,C10J.00,Insulin autoimmune syndrome,Feb-09
-93380,93,1,0,0,C10N100,Cystic fibrosis related diabetes mellitus,Feb-09
-40962,9,0,0,0,C109H00,Non-insulin dependent d m with neuropathic arthropathy,Feb-09
-55842,14,0,0,0,C109200,Non-insulin-dependent diabetes mellitus with neuro comps,Feb-09
-30294,440,5,0,0,C10EL00,Type 1 diabetes mellitus with persistent microalbuminuria,Feb-09
-65267,33,2,0,0,C10F300,Type 2 diabetes mellitus with multiple complications,Feb-09
-35105,49,1,0,0,C104100,"Diabetes mellitus, adult onset, with renal manifestation",Feb-09
-69676,53,1,0,0,C10EA00,Type 1 diabetes mellitus without complication,Feb-09
-33254,1586,24,0,0,C105.00,Diabetes mellitus with ophthalmic manifestation,Feb-09
-15690,348,57,0,0,C103.00,Diabetes mellitus with ketoacidotic coma,Feb-09
-41389,86,0,0,0,C105100,"Diabetes mellitus, adult onset, + ophthalmic manifestation",Feb-09
-62146,9,2,0,0,C109300,Non-insulin-dependent diabetes mellitus with multiple comps,Feb-09
-65704,14,2,0,0,C109412,Type 2 diabetes mellitus with ulcer,Feb-09
-55075,19,1,0,0,C109411,Type II diabetes mellitus with ulcer,Feb-09
-41716,11,0,0,0,C108C00,Insulin dependent diabetes mellitus with polyneuropathy,Feb-09
-69124,11,0,0,0,C107300,IDDM with peripheral circulatory disorder,Feb-09
-104323,1,0,0,0,C10F511,Type II diabetes mellitus with gangrene,Jun-12
-61829,6,0,0,0,C108212,Type 1 diabetes mellitus with neurological complications,Feb-09
-49146,1,0,0,0,C108211,Type I diabetes mellitus with neurological complications,Feb-09
-1038,34448,2142,4,0,C100011,Insulin dependent diabetes mellitus,Feb-09
-53392,224,0,0,0,C10F911,Type II diabetes mellitus without complication,Feb-09
-99719,2,0,0,0,C10EA12,Insulin-dependent diabetes without complication,Jun-10
-94383,7,0,0,0,C10N000,Secondary diabetes mellitus without complication,Feb-09
-2475,3099,136,0,0,C104.11,Diabetic nephropathy,Feb-09
-101735,1,0,0,0,C10E212,Insulin-dependent diabetes mellitus with neurological comps,Feb-11
-49276,16,0,0,0,C108100,Insulin-dependent diabetes mellitus with ophthalmic comps,Feb-09
-40682,73,1,0,0,C10E900,Type 1 diabetes mellitus maturity onset,Feb-09
-6791,424,19,0,0,C108800,Insulin dependent diabetes mellitus - poor control,Feb-09
-46917,99,2,0,0,C10FD00,Type 2 diabetes mellitus with hypoglycaemic coma,Feb-09
-66965,9,0,0,0,C109H12,Type 2 diabetes mellitus with neuropathic arthropathy,Feb-09
-47650,30,0,0,0,C10E300,Type 1 diabetes mellitus with multiple complications,Feb-09
-43139,29,0,0,0,C102100,"Diabetes mellitus, adult onset, with hyperosmolar coma",Feb-09
-12640,1974,59,0,0,C10FC00,Type 2 diabetes mellitus with nephropathy,Feb-09
-18230,3,1,0,0,C108J12,Type 1 diabetes mellitus with neuropathic arthropathy,Feb-09
-60208,3,0,0,0,C108J11,Type I diabetes mellitus with neuropathic arthropathy,Feb-09
-44779,9,1,0,0,C109E12,Type 2 diabetes mellitus with diabetic cataract,Feb-09
-41049,9,0,0,0,C108712,Type 1 diabetes mellitus with retinopathy,Feb-09
-38161,14,1,0,0,C108711,Type I diabetes mellitus with retinopathy,Feb-09
-103902,17,0,0,0,C10FG11,Type II diabetes mellitus with arthropathy,Mar-12
-54899,4,0,0,0,C109F11,Type II diabetes mellitus with peripheral angiopathy,Feb-09
-60699,2,0,0,0,C109F12,Type 2 diabetes mellitus with peripheral angiopathy,Feb-09
-72702,12,0,0,0,C10E812,Insulin dependent diabetes mellitus - poor control,Feb-09
-105337,5,0,0,0,C10E811,Type I diabetes mellitus - poor control,Dec-12
-105784,3,0,0,0,C109912,Type 2 diabetes mellitus without complication,Feb-13
-109103,0,0,0,0,C109911,Type II diabetes mellitus without complication,Jan-15
-50429,17,3,0,0,C109100,Non-insulin-dependent diabetes mellitus with ophthalm comps,Feb-09
-30323,506,5,0,0,C10EK00,Type 1 diabetes mellitus with persistent proteinuria,Feb-09
-18777,203,16,0,0,C10F000,Type 2 diabetes mellitus with renal complications,Feb-09
-59365,56,2,0,0,C109C00,Non-insulin dependent diabetes mellitus with nephropathy,Feb-09
-12736,51,4,0,0,C10F500,Type 2 diabetes mellitus with gangrene,Feb-09
-93468,3,0,0,0,C10EG00,Type 1 diabetes mellitus with peripheral angiopathy,Feb-09
-47816,7,3,0,0,C109H11,Type II diabetes mellitus with neuropathic arthropathy,Feb-09
-69748,6,0,0,0,C105000,"Diabetes mellitus, juvenile type, + ophthalmic manifestation",Feb-09
-67905,5,0,0,0,C109211,Type II diabetes mellitus with neurological complications,Feb-09
-45919,15,0,0,0,C109212,Type 2 diabetes mellitus with neurological complications,Feb-09
-102620,1,0,0,0,C10EL11,Type I diabetes mellitus with persistent microalbuminuria,Jul-11
-43227,10,0,0,0,C10F311,Type II diabetes mellitus with multiple complications,Feb-09
-33807,41,0,0,0,C107200,"Diabetes mellitus, adult with gangrene",Feb-09
-49655,29,0,0,0,C10F611,Type II diabetes mellitus with retinopathy,Feb-09
-93922,2,0,0,0,C104000,"Diabetes mellitus, juvenile type, with renal manifestation",Feb-09
-106528,2,0,0,0,C10FN11,Type II diabetes mellitus with ketoacidosis,Aug-13
-61344,6,0,0,0,C108011,Type I diabetes mellitus with renal complications,Feb-09
-52283,8,0,0,0,C108200,Insulin-dependent diabetes mellitus with neurological comps,Feb-09
-47377,6,0,0,0,C105y00,Other specified diabetes mellitus with ophthalmic complicatn,Feb-09
-26855,64,4,0,0,C108400,Unstable insulin dependent diabetes mellitus,Feb-09
-31310,551,20,0,0,C108900,Insulin dependent diabetes maturity onset,Feb-09
-44982,143,3,0,0,C10FE00,Type 2 diabetes mellitus with diabetic cataract,Feb-09
-4513,85328,1762,6,0,C109.00,Non-insulin dependent diabetes mellitus,Feb-09
-24490,1448,50,0,0,C100000,"Diabetes mellitus, juvenile type, no mention of complication",Feb-09
-47321,72,1,0,0,C10F100,Type 2 diabetes mellitus with ophthalmic complications,Feb-09
-1682,12346,2126,8,0,C101.00,Diabetes mellitus with ketoacidosis,Feb-09
-16502,1382,100,0,0,C104.00,Diabetes mellitus with renal manifestation,Feb-09
-22573,254,1,0,0,C106z00,Diabetes mellitus NOS with neurological manifestation,Feb-09
-50972,583,7,0,0,C100z00,Diabetes mellitus NOS with no mention of complication,Feb-09
-64283,11,0,0,0,C10zy00,Other specified diabetes mellitus with unspecified comps,Feb-09
-68390,15,0,0,0,C108512,Type 1 diabetes mellitus with ulcer,Feb-09
-64449,3,0,0,0,C108z00,Unspecified diabetes mellitus with multiple complications,Feb-09
-61122,33,0,0,0,C10H.00,Diabetes mellitus induced by non-steroid drugs,Feb-09
-24458,42,1,0,0,C109711,Type II diabetes mellitus - poor control,Feb-09
-45913,40,1,0,0,C109712,Type 2 diabetes mellitus - poor control,Feb-09
-17858,6162,177,0,0,C108.12,Type 1 diabetes mellitus,Feb-09
-24423,786,17,0,0,C108.13,Type I diabetes mellitus,Feb-09
-50813,1,0,0,0,C109A11,Type II diabetes mellitus with mononeuropathy,Feb-09
-102201,25,1,0,0,C10FC11,Type II diabetes mellitus with nephropathy,May-11
-39809,27,1,0,0,C108J00,Insulin dependent diab mell with neuropathic arthropathy,Feb-09
-95343,11,0,0,0,C10E711,Type I diabetes mellitus with retinopathy,Feb-09
-93875,6,0,0,0,C10E712,Insulin dependent diabetes mellitus with retinopathy,Feb-09
-52303,16,2,0,0,C109000,Non-insulin-dependent diabetes mellitus with renal comps,Feb-09
-54008,57,0,0,0,C10EJ00,Type 1 diabetes mellitus with neuropathic arthropathy,Feb-09
-44440,50,0,0,0,C108E00,Insulin dependent diabetes mellitus with hypoglycaemic coma,Feb-09
-29979,245,6,0,0,C109900,Non-insulin-dependent diabetes mellitus without complication,Feb-09
-45467,10,0,0,0,C109B00,Non-insulin dependent diabetes mellitus with polyneuropathy,Feb-09
-49554,20,0,0,0,C10EF00,Type 1 diabetes mellitus with diabetic cataract,Feb-09
-68843,4,0,0,0,C103100,"Diabetes mellitus, adult onset, with ketoacidotic coma",Feb-09
-59288,3,0,0,0,C103y00,Other specified diabetes mellitus with coma,Feb-09
-98704,1,0,0,0,C10E512,Insulin dependent diabetes mellitus with ulcer,Mar-10
-56803,38,0,0,0,C107400,NIDDM with peripheral circulatory disorder,Feb-09
-70448,2,0,0,0,C107000,"Diabetes mellitus, juvenile +peripheral circulatory disorder",Feb-09
-40837,227,20,0,0,C10EN00,Type 1 diabetes mellitus with ketoacidotic coma,Feb-09
-60107,4,0,0,0,C108411,Unstable type I diabetes mellitus,Feb-09
-63371,8,0,0,0,C10y100,"Diabetes mellitus, adult, + other specified manifestation",Feb-09
-108724,1,0,0,0,C10EQ11,Type I diabetes mellitus with gastroparesis,Oct-14
-97894,1,0,0,0,C10EP11,Type I diabetes mellitus with exudative maculopathy,Oct-09
-52104,11,1,0,0,C108300,Insulin dependent diabetes mellitus with multiple complicatn,Feb-09
-46290,12,1,0,0,C108y00,Other specified diabetes mellitus with multiple comps,Feb-09
-14803,13488,641,1,0,C100100,"Diabetes mellitus, adult onset, no mention of complication",Feb-09
-43921,46,0,0,0,C10E400,Unstable type 1 diabetes mellitus,Feb-09
-18496,1756,41,2,0,C10F600,Type 2 diabetes mellitus with retinopathy,Feb-09
-21482,215,34,0,0,C102.00,Diabetes mellitus with hyperosmolar coma,Feb-09
-50225,9,1,0,0,C109011,Type II diabetes mellitus with renal complications,Feb-09
-32627,782,44,0,0,C10FN00,Type 2 diabetes mellitus with ketoacidosis,Feb-09
-67212,2,0,0,0,C10H000,DM induced by non-steroid drugs without complication,Feb-09
-51261,890,1,0,0,C10E.12,Insulin dependent diabetes mellitus,Feb-09
-38986,2428,33,0,0,C100.00,Diabetes mellitus with no mention of complication,Feb-09
-35107,285,8,0,0,C104z00,Diabetes mellitus with nephropathy NOS,Feb-09
-72345,7,0,0,0,C102z00,Diabetes mellitus NOS with hyperosmolar coma,Feb-09
-63017,1,0,0,0,C108911,Type I diabetes mellitus maturity onset,Feb-09
-97446,2,0,0,0,C108912,Type 1 diabetes mellitus maturity onset,Aug-09
-93727,38,0,0,0,C10FE11,Type II diabetes mellitus with diabetic cataract,Feb-09
-5884,5835,165,0,0,C109.11,NIDDM - Non-insulin dependent diabetes mellitus,Feb-09
-18219,4748,124,0,0,C109.13,Type II diabetes mellitus,Feb-09
-17859,44741,1132,2,0,C109.12,Type 2 diabetes mellitus,Feb-09
-47315,82,0,0,0,C10F711,Type II diabetes mellitus - poor control,Feb-09
-100964,4,0,0,0,C10F111,Type II diabetes mellitus with ophthalmic complications,Nov-10
-98071,2,0,0,0,C10E112,Insulin-dependent diabetes mellitus with ophthalmic comps,Nov-09
-99311,1,0,0,0,C10E111,Type I diabetes mellitus with ophthalmic complications,May-10
-33343,66,1,0,0,C10y.00,Diabetes mellitus with other specified manifestation,Feb-09
-43785,9,0,0,0,C109D00,Non-insulin dependent diabetes mellitus with hypoglyca coma,Feb-09
-62209,39,0,0,0,C10EM11,Type I diabetes mellitus with ketoacidosis,Feb-09
-60796,59,0,0,0,C10FL11,Type II diabetes mellitus with persistent proteinuria,Feb-09
-100347,1,0,0,0,C10A500,Malnutritn-relat diabetes melitus wth periph circul complctn,Jul-10
-8403,1649,41,0,0,C109700,Non-insulin dependent diabetes mellitus - poor control,Feb-09
-1647,23175,814,7,0,C108.00,Insulin dependent diabetes mellitus,Feb-09
-72320,3,1,0,0,C109A00,Non-insulin dependent diabetes mellitus with mononeuropathy,Feb-09
-109197,2,0,0,0,C10FH11,Type II diabetes mellitus with neuropathic arthropathy,Jan-15
-95636,116,5,0,0,C10ER00,Latent autoimmune diabetes mellitus in adult,Feb-09
-54856,37,2,0,0,C101100,"Diabetes mellitus, adult onset, with ketoacidosis",Feb-09
-96506,4,0,0,0,C10G000,Secondary pancreatic diabetes mellitus without complication,Apr-09
-39070,82,1,0,0,C10EE00,Type 1 diabetes mellitus with hypoglycaemic coma,Feb-09
-63690,161,5,0,0,C10FR00,Type 2 diabetes mellitus with gastroparesis,Feb-09
-42567,6,0,0,0,C103000,"Diabetes mellitus, juvenile type, with ketoacidotic coma",Feb-09
-97474,2,0,0,0,C108412,Unstable type 1 diabetes mellitus,Aug-09
-110400,2,0,0,0,C108F12,Type 1 diabetes mellitus with diabetic cataract,Dec-15
-17545,4,1,0,0,C108F11,Type I diabetes mellitus with diabetic cataract,Feb-09
-18209,21,1,0,0,C109012,Type 2 diabetes mellitus with renal complications,Feb-09
-42729,14,0,0,0,C108E11,Type I diabetes mellitus with hypoglycaemic coma,Feb-09
-70766,2,0,0,0,C108E12,Type 1 diabetes mellitus with hypoglycaemic coma,Feb-09
-47409,3,0,0,0,C109B11,Type II diabetes mellitus with polyneuropathy,Feb-09
-109865,1,0,0,0,C109B12,Type 2 diabetes mellitus with polyneuropathy,Jul-15
-14889,20635,2093,9,0,C100111,Maturity onset diabetes,Feb-09
-100770,1,0,0,0,C10EF12,Insulin dependent diabetes mellitus with diabetic cataract,Nov-10
-70821,15,0,0,0,C10yz00,Diabetes mellitus NOS with other specified manifestation,Feb-09
-46150,5,0,0,0,C109512,Type 2 diabetes mellitus with gangrene,Feb-09
-62107,7,1,0,0,C109511,Type II diabetes mellitus with gangrene,Feb-09
-91646,5,0,0,0,C10F411,Type II diabetes mellitus with ulcer,Feb-09
-39481,153,1,0,0,C10F811,Metabolic syndrome X,Feb-09
-26108,110,4,0,0,C10B000,Steroid induced diabetes mellitus without complication,Feb-09
-18387,498,11,0,0,C10E700,Type 1 diabetes mellitus with retinopathy,Feb-09
-51697,280,4,0,0,C10G.00,Secondary pancreatic diabetes mellitus,Feb-09
-1549,84008,2063,2,0,C10E.00,Type 1 diabetes mellitus,Feb-09
-25627,1230,52,0,0,C10F700,Type 2 diabetes mellitus - poor control,Feb-09
-55239,247,2,0,0,C10EQ00,Type 1 diabetes mellitus with gastroparesis,Feb-09
-109628,1,0,0,0,C10P011,Type 1 diabetes mellitus in remission,May-15
-53200,86,4,0,0,C101000,"Diabetes mellitus, juvenile type, with ketoacidosis",Feb-09
-18143,1,0,0,0,C109G11,Type II diabetes mellitus with arthropathy,Feb-09
-108007,1,0,0,0,C108311,Type I diabetes mellitus with multiple complications,May-14
-67853,74,0,0,0,C106000,"Diabetes mellitus, juvenile, + neurological manifestation",Feb-09
-102740,1,0,0,0,C108112,Type 1 diabetes mellitus with ophthalmic complications,Aug-11
-506,94082,4524,10,0,C100112,Non-insulin dependent diabetes mellitus,Feb-09
-37957,83,2,0,0,C10K.00,Type A insulin resistance,Feb-09
-22884,4383,11,0,0,C10F.11,Type II diabetes mellitus,Feb-09
-59991,30,0,0,0,C10D.11,Maturity onset diabetes in youth type 2,Feb-09
-49869,1,0,0,0,C109G12,Type 2 diabetes mellitus with arthropathy,Feb-09
-97849,7,0,0,0,C10E912,Insulin dependent diabetes maturity onset,Oct-09
-54212,6,0,0,0,C109F00,Non-insulin-dependent d m with peripheral angiopath,Feb-09
+medcode,readcode,readterm
+91943,C10EC11,Type I diabetes mellitus with polyneuropathy
+101311,C10EC12,Insulin dependent diabetes mellitus with polyneuropathy
+56885,C10K000,Type A insulin resistance without complication
+64668,C10FJ11,Insulin treated Type II diabetes mellitus
+106061,C10FP11,Type II diabetes mellitus with ketoacidotic coma
+13279,C104y00,Other specified diabetes mellitus with renal complications
+36633,C109K00,Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+52236,C10A.00,Malnutrition-related diabetes mellitus
+17262,C109600,Non-insulin-dependent diabetes mellitus with retinopathy
+18642,C10EH00,Type 1 diabetes mellitus with arthropathy
+47649,C10E100,Type 1 diabetes mellitus with ophthalmic complications
+62674,C10FA00,Type 2 diabetes mellitus with mononeuropathy
+95992,C108A11,Type I diabetes mellitus without complication
+42831,C10E200,Type 1 diabetes mellitus with neurological complications
+711,C10..00,Diabetes mellitus
+61071,C109D12,Type 2 diabetes mellitus with hypoglycaemic coma
+10692,C10EM00,Type 1 diabetes mellitus with ketoacidosis
+69993,C10E600,Type 1 diabetes mellitus with gangrene
+26054,C10FL00,Type 2 diabetes mellitus with persistent proteinuria
+47582,C10E000,Type 1 diabetes mellitus with renal complications
+93878,C10E511,Type I diabetes mellitus with ulcer
+96235,C10E911,Type I diabetes mellitus maturity onset
+39317,C106100,"Diabetes mellitus, adult onset, + neurological manifestation"
+108005,C109312,Type 2 diabetes mellitus with multiple complications
+45491,C10z.00,Diabetes mellitus with unspecified complication
+10098,C10yy00,Other specified diabetes mellitus with other spec comps
+99231,C108B11,Type I diabetes mellitus with mononeuropathy
+98616,C10F211,Type II diabetes mellitus with neurological complications
+66145,C10EN11,Type I diabetes mellitus with ketoacidotic coma
+44260,C108F00,Insulin dependent diabetes mellitus with diabetic cataract
+40023,C102000,"Diabetes mellitus, juvenile type, with hyperosmolar coma"
+39406,C109800,Reaven's syndrome
+44443,C108500,Insulin dependent diabetes mellitus with ulcer
+35385,C10FH00,Type 2 diabetes mellitus with neuropathic arthropathy
+18505,C108.11,IDDM-Insulin dependent diabetes mellitus
+56448,C108A00,Insulin-dependent diabetes without complication
+43453,C10C.00,Diabetes mellitus autosomal dominant
+40401,C109500,Non-insulin dependent diabetes mellitus with gangrene
+49074,C10F400,Type 2 diabetes mellitus with ulcer
+54773,C10F800,Reaven's syndrome
+61523,C106y00,Other specified diabetes mellitus with neurological comps
+65062,C103z00,Diabetes mellitus NOS with ketoacidotic coma
+42505,C101z00,Diabetes mellitus NOS with ketoacidosis
+12455,C10E.11,Type I diabetes mellitus
+98392,C10C.12,Maturity onset diabetes in youth type 1
+46624,C10C.11,Maturity onset diabetes in youth
+1407,C10FJ00,Insulin treated Type 2 diabetes mellitus
+63357,C107100,"Diabetes mellitus, adult, + peripheral circulatory disorder"
+21983,C108012,Type 1 diabetes mellitus with renal complications
+108360,C10P000,Type I diabetes mellitus in remission
+35399,C107.00,Diabetes mellitus with peripheral circulatory disorder
+18278,C109J00,Insulin treated Type 2 diabetes mellitus
+43857,C10M.00,Lipoatrophic diabetes mellitus
+50527,C10FB11,Type II diabetes mellitus with polyneuropathy
+99716,C10EE12,Insulin dependent diabetes mellitus with hypoglycaemic coma
+107701,C10FK11,Hyperosmolar non-ketotic state in type II diabetes mellitus
+11551,C10B.00,Diabetes mellitus induced by steroids
+22487,C10N.00,Secondary diabetes mellitus
+60499,C108600,Insulin dependent diabetes mellitus with gangrene
+37806,C10FF00,Type 2 diabetes mellitus with peripheral angiopathy
+758,C10F.00,Type 2 diabetes mellitus
+36695,C10D.00,Diabetes mellitus autosomal dominant type 2
+24693,C109G00,Non-insulin dependent diabetes mellitus with arthropathy
+33969,C10A100,Malnutrition-related diabetes mellitus with ketoacidosis
+59903,C106.11,Diabetic amyotrophy
+7795,C106.12,Diabetes mellitus with neuropathy
+16491,C106.13,Diabetes mellitus with polyneuropathy
+46301,C10EC00,Type 1 diabetes mellitus with polyneuropathy
+51756,C10FP00,Type 2 diabetes mellitus with ketoacidotic coma
+69278,C109E00,Non-insulin depend diabetes mellitus with diabetic cataract
+18683,C10E500,Type 1 diabetes mellitus with ulcer
+54600,C10E412,Unstable insulin dependent diabetes mellitus
+49949,C10E411,Unstable type I diabetes mellitus
+18390,C10FM00,Type 2 diabetes mellitus with persistent microalbuminuria
+10418,C10ED00,Type 1 diabetes mellitus with nephropathy
+62352,C108H11,Type I diabetes mellitus with arthropathy
+58604,C109611,Type II diabetes mellitus with retinopathy
+42762,C109612,Type 2 diabetes mellitus with retinopathy
+64357,C10zz00,Diabetes mellitus NOS with unspecified complication
+95351,C10FA11,Type II diabetes mellitus with mononeuropathy
+104639,C10FF11,Type II diabetes mellitus with peripheral angiopathy
+95539,C10FS00,Maternally inherited diabetes mellitus
+102112,C10E611,Type I diabetes mellitus with gangrene
+109051,C10E612,Insulin dependent diabetes mellitus with gangrene
+68792,C10z000,"Diabetes mellitus, juvenile type, + unspecified complication"
+56268,C109D11,Type II diabetes mellitus with hypoglycaemic coma
+64446,C108G00,Insulin dependent diab mell with peripheral angiopathy
+59725,C109111,Type II diabetes mellitus with ophthalmic complications
+62613,C10EA11,Type I diabetes mellitus without complication
+24694,C108B00,Insulin dependent diabetes mellitus with mononeuropathy
+34268,C10F200,Type 2 diabetes mellitus with neurological complications
+34912,C109400,Non-insulin dependent diabetes mellitus with ulcer
+25591,C10FQ00,Type 2 diabetes mellitus with exudative maculopathy
+47954,C10F900,Type 2 diabetes mellitus without complication
+51957,C108511,Type I diabetes mellitus with ulcer
+38617,C101y00,Other specified diabetes mellitus with ketoacidosis
+66675,C10A000,Malnutrition-related diabetes mellitus with coma
+65025,C107z00,Diabetes mellitus NOS with peripheral circulatory disorder
+34283,C105z00,Diabetes mellitus NOS with ophthalmic manifestation
+107824,C10P100,Type II diabetes mellitus in remission
+46850,C108811,Type I diabetes mellitus - poor control
+45914,C108812,Type 1 diabetes mellitus - poor control
+98723,C10FD11,Type II diabetes mellitus with hypoglycaemic coma
+107603,C10P.00,Diabetes mellitus in remission
+102163,C10ED12,Insulin dependent diabetes mellitus with nephropathy
+91942,C10E311,Type I diabetes mellitus with multiple complications
+45276,C10E312,Insulin dependent diabetes mellitus with multiple complicat
+46963,C108000,Insulin-dependent diabetes mellitus with renal complications
+32556,C107.12,Diabetes with gangrene
+32403,C107.11,Diabetes mellitus with gangrene
+6509,C108700,Insulin dependent diabetes mellitus with retinopathy
+59253,C10FG00,Type 2 diabetes mellitus with arthropathy
+35288,C10E800,Type 1 diabetes mellitus - poor control
+68105,C10EB00,Type 1 diabetes mellitus with mononeuropathy
+34450,C10FK00,Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+37648,C109J11,Insulin treated non-insulin dependent diabetes mellitus
+18264,C109J12,Insulin treated Type II diabetes mellitus
+18425,C10FB00,Type 2 diabetes mellitus with polyneuropathy
+102946,C10E012,Insulin-dependent diabetes mellitus with renal complications
+109837,C10E011,Type I diabetes mellitus with renal complications
+48192,C109E11,Type II diabetes mellitus with diabetic cataract
+22871,C10EP00,Type 1 diabetes mellitus with exudative maculopathy
+57621,C108D00,Insulin dependent diabetes mellitus with nephropathy
+16230,C106.00,Diabetes mellitus with neurological manifestation
+70316,C109112,Type 2 diabetes mellitus with ophthalmic complications
+66872,C108D11,Type I diabetes mellitus with nephropathy
+57278,C10F011,Type II diabetes mellitus with renal complications
+64571,C109C11,Type II diabetes mellitus with nephropathy
+24836,C109C12,Type 2 diabetes mellitus with nephropathy
+63762,C10z100,"Diabetes mellitus, adult onset, + unspecified complication"
+85991,C10FM11,Type II diabetes mellitus with persistent microalbuminuria
+65616,C108H00,Insulin dependent diabetes mellitus with arthropathy
+68517,C10J.00,Insulin autoimmune syndrome
+93380,C10N100,Cystic fibrosis related diabetes mellitus
+40962,C109H00,Non-insulin dependent d m with neuropathic arthropathy
+55842,C109200,Non-insulin-dependent diabetes mellitus with neuro comps
+30294,C10EL00,Type 1 diabetes mellitus with persistent microalbuminuria
+65267,C10F300,Type 2 diabetes mellitus with multiple complications
+35105,C104100,"Diabetes mellitus, adult onset, with renal manifestation"
+69676,C10EA00,Type 1 diabetes mellitus without complication
+33254,C105.00,Diabetes mellitus with ophthalmic manifestation
+15690,C103.00,Diabetes mellitus with ketoacidotic coma
+41389,C105100,"Diabetes mellitus, adult onset, + ophthalmic manifestation"
+62146,C109300,Non-insulin-dependent diabetes mellitus with multiple comps
+65704,C109412,Type 2 diabetes mellitus with ulcer
+55075,C109411,Type II diabetes mellitus with ulcer
+41716,C108C00,Insulin dependent diabetes mellitus with polyneuropathy
+69124,C107300,IDDM with peripheral circulatory disorder
+104323,C10F511,Type II diabetes mellitus with gangrene
+61829,C108212,Type 1 diabetes mellitus with neurological complications
+49146,C108211,Type I diabetes mellitus with neurological complications
+1038,C100011,Insulin dependent diabetes mellitus
+53392,C10F911,Type II diabetes mellitus without complication
+99719,C10EA12,Insulin-dependent diabetes without complication
+94383,C10N000,Secondary diabetes mellitus without complication
+2475,C104.11,Diabetic nephropathy
+101735,C10E212,Insulin-dependent diabetes mellitus with neurological comps
+49276,C108100,Insulin-dependent diabetes mellitus with ophthalmic comps
+40682,C10E900,Type 1 diabetes mellitus maturity onset
+6791,C108800,Insulin dependent diabetes mellitus - poor control
+46917,C10FD00,Type 2 diabetes mellitus with hypoglycaemic coma
+66965,C109H12,Type 2 diabetes mellitus with neuropathic arthropathy
+47650,C10E300,Type 1 diabetes mellitus with multiple complications
+43139,C102100,"Diabetes mellitus, adult onset, with hyperosmolar coma"
+12640,C10FC00,Type 2 diabetes mellitus with nephropathy
+18230,C108J12,Type 1 diabetes mellitus with neuropathic arthropathy
+60208,C108J11,Type I diabetes mellitus with neuropathic arthropathy
+44779,C109E12,Type 2 diabetes mellitus with diabetic cataract
+41049,C108712,Type 1 diabetes mellitus with retinopathy
+38161,C108711,Type I diabetes mellitus with retinopathy
+103902,C10FG11,Type II diabetes mellitus with arthropathy
+54899,C109F11,Type II diabetes mellitus with peripheral angiopathy
+60699,C109F12,Type 2 diabetes mellitus with peripheral angiopathy
+72702,C10E812,Insulin dependent diabetes mellitus - poor control
+105337,C10E811,Type I diabetes mellitus - poor control
+105784,C109912,Type 2 diabetes mellitus without complication
+109103,C109911,Type II diabetes mellitus without complication
+50429,C109100,Non-insulin-dependent diabetes mellitus with ophthalm comps
+30323,C10EK00,Type 1 diabetes mellitus with persistent proteinuria
+18777,C10F000,Type 2 diabetes mellitus with renal complications
+59365,C109C00,Non-insulin dependent diabetes mellitus with nephropathy
+12736,C10F500,Type 2 diabetes mellitus with gangrene
+93468,C10EG00,Type 1 diabetes mellitus with peripheral angiopathy
+47816,C109H11,Type II diabetes mellitus with neuropathic arthropathy
+69748,C105000,"Diabetes mellitus, juvenile type, + ophthalmic manifestation"
+67905,C109211,Type II diabetes mellitus with neurological complications
+45919,C109212,Type 2 diabetes mellitus with neurological complications
+102620,C10EL11,Type I diabetes mellitus with persistent microalbuminuria
+43227,C10F311,Type II diabetes mellitus with multiple complications
+33807,C107200,"Diabetes mellitus, adult with gangrene"
+49655,C10F611,Type II diabetes mellitus with retinopathy
+93922,C104000,"Diabetes mellitus, juvenile type, with renal manifestation"
+106528,C10FN11,Type II diabetes mellitus with ketoacidosis
+61344,C108011,Type I diabetes mellitus with renal complications
+52283,C108200,Insulin-dependent diabetes mellitus with neurological comps
+47377,C105y00,Other specified diabetes mellitus with ophthalmic complicatn
+26855,C108400,Unstable insulin dependent diabetes mellitus
+31310,C108900,Insulin dependent diabetes maturity onset
+44982,C10FE00,Type 2 diabetes mellitus with diabetic cataract
+4513,C109.00,Non-insulin dependent diabetes mellitus
+24490,C100000,"Diabetes mellitus, juvenile type, no mention of complication"
+47321,C10F100,Type 2 diabetes mellitus with ophthalmic complications
+1682,C101.00,Diabetes mellitus with ketoacidosis
+16502,C104.00,Diabetes mellitus with renal manifestation
+22573,C106z00,Diabetes mellitus NOS with neurological manifestation
+50972,C100z00,Diabetes mellitus NOS with no mention of complication
+64283,C10zy00,Other specified diabetes mellitus with unspecified comps
+68390,C108512,Type 1 diabetes mellitus with ulcer
+64449,C108z00,Unspecified diabetes mellitus with multiple complications
+61122,C10H.00,Diabetes mellitus induced by non-steroid drugs
+24458,C109711,Type II diabetes mellitus - poor control
+45913,C109712,Type 2 diabetes mellitus - poor control
+17858,C108.12,Type 1 diabetes mellitus
+24423,C108.13,Type I diabetes mellitus
+50813,C109A11,Type II diabetes mellitus with mononeuropathy
+102201,C10FC11,Type II diabetes mellitus with nephropathy
+39809,C108J00,Insulin dependent diab mell with neuropathic arthropathy
+95343,C10E711,Type I diabetes mellitus with retinopathy
+93875,C10E712,Insulin dependent diabetes mellitus with retinopathy
+52303,C109000,Non-insulin-dependent diabetes mellitus with renal comps
+54008,C10EJ00,Type 1 diabetes mellitus with neuropathic arthropathy
+44440,C108E00,Insulin dependent diabetes mellitus with hypoglycaemic coma
+29979,C109900,Non-insulin-dependent diabetes mellitus without complication
+45467,C109B00,Non-insulin dependent diabetes mellitus with polyneuropathy
+49554,C10EF00,Type 1 diabetes mellitus with diabetic cataract
+68843,C103100,"Diabetes mellitus, adult onset, with ketoacidotic coma"
+59288,C103y00,Other specified diabetes mellitus with coma
+98704,C10E512,Insulin dependent diabetes mellitus with ulcer
+56803,C107400,NIDDM with peripheral circulatory disorder
+70448,C107000,"Diabetes mellitus, juvenile +peripheral circulatory disorder"
+40837,C10EN00,Type 1 diabetes mellitus with ketoacidotic coma
+60107,C108411,Unstable type I diabetes mellitus
+63371,C10y100,"Diabetes mellitus, adult, + other specified manifestation"
+108724,C10EQ11,Type I diabetes mellitus with gastroparesis
+97894,C10EP11,Type I diabetes mellitus with exudative maculopathy
+52104,C108300,Insulin dependent diabetes mellitus with multiple complicatn
+46290,C108y00,Other specified diabetes mellitus with multiple comps
+14803,C100100,"Diabetes mellitus, adult onset, no mention of complication"
+43921,C10E400,Unstable type 1 diabetes mellitus
+18496,C10F600,Type 2 diabetes mellitus with retinopathy
+21482,C102.00,Diabetes mellitus with hyperosmolar coma
+50225,C109011,Type II diabetes mellitus with renal complications
+32627,C10FN00,Type 2 diabetes mellitus with ketoacidosis
+67212,C10H000,DM induced by non-steroid drugs without complication
+51261,C10E.12,Insulin dependent diabetes mellitus
+38986,C100.00,Diabetes mellitus with no mention of complication
+35107,C104z00,Diabetes mellitus with nephropathy NOS
+72345,C102z00,Diabetes mellitus NOS with hyperosmolar coma
+63017,C108911,Type I diabetes mellitus maturity onset
+97446,C108912,Type 1 diabetes mellitus maturity onset
+93727,C10FE11,Type II diabetes mellitus with diabetic cataract
+5884,C109.11,NIDDM - Non-insulin dependent diabetes mellitus
+18219,C109.13,Type II diabetes mellitus
+17859,C109.12,Type 2 diabetes mellitus
+47315,C10F711,Type II diabetes mellitus - poor control
+100964,C10F111,Type II diabetes mellitus with ophthalmic complications
+98071,C10E112,Insulin-dependent diabetes mellitus with ophthalmic comps
+99311,C10E111,Type I diabetes mellitus with ophthalmic complications
+33343,C10y.00,Diabetes mellitus with other specified manifestation
+43785,C109D00,Non-insulin dependent diabetes mellitus with hypoglyca coma
+62209,C10EM11,Type I diabetes mellitus with ketoacidosis
+60796,C10FL11,Type II diabetes mellitus with persistent proteinuria
+100347,C10A500,Malnutritn-relat diabetes melitus wth periph circul complctn
+8403,C109700,Non-insulin dependent diabetes mellitus - poor control
+1647,C108.00,Insulin dependent diabetes mellitus
+72320,C109A00,Non-insulin dependent diabetes mellitus with mononeuropathy
+109197,C10FH11,Type II diabetes mellitus with neuropathic arthropathy
+95636,C10ER00,Latent autoimmune diabetes mellitus in adult
+54856,C101100,"Diabetes mellitus, adult onset, with ketoacidosis"
+96506,C10G000,Secondary pancreatic diabetes mellitus without complication
+39070,C10EE00,Type 1 diabetes mellitus with hypoglycaemic coma
+63690,C10FR00,Type 2 diabetes mellitus with gastroparesis
+42567,C103000,"Diabetes mellitus, juvenile type, with ketoacidotic coma"
+97474,C108412,Unstable type 1 diabetes mellitus
+110400,C108F12,Type 1 diabetes mellitus with diabetic cataract
+17545,C108F11,Type I diabetes mellitus with diabetic cataract
+18209,C109012,Type 2 diabetes mellitus with renal complications
+42729,C108E11,Type I diabetes mellitus with hypoglycaemic coma
+70766,C108E12,Type 1 diabetes mellitus with hypoglycaemic coma
+47409,C109B11,Type II diabetes mellitus with polyneuropathy
+109865,C109B12,Type 2 diabetes mellitus with polyneuropathy
+14889,C100111,Maturity onset diabetes
+100770,C10EF12,Insulin dependent diabetes mellitus with diabetic cataract
+70821,C10yz00,Diabetes mellitus NOS with other specified manifestation
+46150,C109512,Type 2 diabetes mellitus with gangrene
+62107,C109511,Type II diabetes mellitus with gangrene
+91646,C10F411,Type II diabetes mellitus with ulcer
+39481,C10F811,Metabolic syndrome X
+26108,C10B000,Steroid induced diabetes mellitus without complication
+18387,C10E700,Type 1 diabetes mellitus with retinopathy
+51697,C10G.00,Secondary pancreatic diabetes mellitus
+1549,C10E.00,Type 1 diabetes mellitus
+25627,C10F700,Type 2 diabetes mellitus - poor control
+55239,C10EQ00,Type 1 diabetes mellitus with gastroparesis
+109628,C10P011,Type 1 diabetes mellitus in remission
+53200,C101000,"Diabetes mellitus, juvenile type, with ketoacidosis"
+18143,C109G11,Type II diabetes mellitus with arthropathy
+108007,C108311,Type I diabetes mellitus with multiple complications
+67853,C106000,"Diabetes mellitus, juvenile, + neurological manifestation"
+102740,C108112,Type 1 diabetes mellitus with ophthalmic complications
+506,C100112,Non-insulin dependent diabetes mellitus
+37957,C10K.00,Type A insulin resistance
+22884,C10F.11,Type II diabetes mellitus
+59991,C10D.11,Maturity onset diabetes in youth type 2
+49869,C109G12,Type 2 diabetes mellitus with arthropathy
+97849,C10E912,Insulin dependent diabetes maturity onset
+54212,C109F00,Non-insulin-dependent d m with peripheral angiopath

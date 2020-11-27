@@ -1,5 +1,5 @@
-medcode,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm
-11406,2903,261,0,0,12F1.00,FH: Polycystic kidney
-13233,2557,331,0,0,12FZ.12,FH: Renal disorder
-46665,366,0,0,0,ZV18600,[V]Family history of kidney disease
-43955,395,47,0,0,12FC.00,Family history of renal stone
+medcode,readcode,readterm
+11406,12F1.00,FH: Polycystic kidney
+13233,12FZ.12,FH: Renal disorder
+46665,ZV18600,[V]Family history of kidney disease
+43955,12FC.00,Family history of renal stone

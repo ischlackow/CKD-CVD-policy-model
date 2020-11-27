@@ -1,10 +1,10 @@
-medcode,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
-2212,138811,11267,6,0,G573.00,Atrial fibrillation and flutter,Feb-09
-1664,349679,20467,100,0,G573000,Atrial fibrillation,Feb-09
-1757,17663,1076,0,0,G573100,Atrial flutter,Feb-09
-1268,59347,2718,2,0,G573200,Paroxysmal atrial fibrillation,Feb-09
-35127,53,0,0,0,G573300,Non-rheumatic atrial fibrillation,Feb-09
-96277,207,2,0,0,G573400,Permanent atrial fibrillation,Apr-09
-96076,421,4,0,0,G573500,Persistent atrial fibrillation,Feb-09
-107472,104,6,0,0,G573600,Paroxysmal atrial flutter,Dec-13
-23437,1040,29,0,0,G573z00,Atrial fibrillation and flutter NOS,Feb-09
+medcode,readcode,readterm,
+2212,G573.00,Atrial fibrillation and flutter,
+1664,G573000,Atrial fibrillation,
+1757,G573100,Atrial flutter,
+1268,G573200,Paroxysmal atrial fibrillation,
+35127,G573300,Non-rheumatic atrial fibrillation,
+96277,G573400,Permanent atrial fibrillation,
+96076,G573500,Persistent atrial fibrillation,
+107472,G573600,Paroxysmal atrial flutter,
+23437,G573z00,Atrial fibrillation and flutter NOS,

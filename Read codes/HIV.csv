@@ -1,39 +1,39 @@
-medcode,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
-2835,6581,278,5075,0,43C3.11,HIV positive,Feb-09
-23770,1150,53,8,0,A788.00,Acquired immune deficiency syndrome,Feb-09
-9130,2378,39,0,0,A788.11,Human immunodeficiency virus infection,Feb-09
-58857,33,0,0,0,A788000,Acute human immunodeficiency virus infection,Feb-09
-58859,117,1,0,0,A788100,Asymptomatic human immunodeficiency virus infection,Feb-09
-69766,8,0,0,0,A788200,HIV infection with persistent generalised lymphadenopathy,Feb-09
-70869,3,0,0,0,A788300,Human immunodeficiency virus with constitutional disease,Feb-09
-53636,3,0,0,0,A788400,Human immunodeficiency virus with neurological disease,Feb-09
-70528,5,0,0,0,A788500,Human immunodeficiency virus with secondary infection,Feb-09
-101836,0,0,0,0,A788600,Human immunodeficiency virus with secondary cancers,Mar-11
-47632,4,0,0,0,A788U00,"HIV disease result/haematological+immunologic abnorms,NEC",Feb-09
-67575,10,0,0,0,A788W00,HIV disease resulting in unspecified malignant neoplasm,Feb-09
-71450,2,0,0,0,A788X00,HIV disease resulting/unspcf infectious+parasitic disease,Feb-09
-62891,9,0,0,0,A788y00,Human immunodeficiency virus with other clinical findings,Feb-09
-36294,145,1,0,0,A788z00,Acquired human immunodeficiency virus infection syndrome NOS,Feb-09
-44303,107,2,0,0,A789.00,Human immunodef virus resulting in other disease,Feb-09
-37006,27,1,0,0,A789000,HIV disease resulting in mycobacterial infection,Feb-09
-66368,5,0,0,0,A789100,HIV disease resulting in cytomegaloviral disease,Feb-09
-23951,41,0,0,0,A789200,HIV disease resulting in candidiasis,Feb-09
-27641,198,1,0,0,A789300,HIV disease resulting in Pneumocystis carinii pneumonia,Feb-09
-104717,1,0,0,0,A789311,HIV disease resulting in Pneumocystis jirovecii pneumonia,Aug-12
-50076,13,1,0,0,A789400,HIV disease resulting in multiple infections,Feb-09
-27853,43,0,0,0,A789500,HIV disease resulting in Kaposi's sarcoma,Feb-09
-108054,3,1,0,0,A789511,HIV disease resulting in Kaposi sarcoma,May-14
-44617,13,0,0,0,A789600,HIV disease resulting in Burkitt's lymphoma,Feb-09
-66367,9,0,0,0,A789700,HIV dis resulting oth types of non-Hodgkin's lymphoma,Feb-09
-105324,1,0,0,0,A789800,HIV disease resulting in multiple malignant neoplasms,Dec-12
-65117,9,0,0,0,A789900,HIV disease resulting in lymphoid interstitial pneumonitis,Feb-09
-8281,11,0,0,0,A789A00,HIV disease resulting in wasting syndrome,Feb-09
-51708,7,0,0,0,A789X00,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu",Feb-09
-107807,1,0,0,0,AyuC100,[X]HIV disease resulting in other viral infections,Mar-14
-102117,1,0,0,0,AyuC300,[X]HIV disease resulting in multiple infections,Apr-11
-104134,1,0,0,0,AyuC400,[X]HIV disease resulting/other infectious+parasitic diseases,May-12
-69767,3,0,0,0,AyuC600,[X]HIV disease resulting in other non-Hodgkin's lymphoma,Feb-09
-96751,1,0,0,0,AyuCB00,"[X]HIV disease result/haematological+immunologic abnorms,NEC",Apr-09
-102252,2,0,0,0,AyuCC00,[X]HIV disease resulting in other specified conditions,May-11
-100769,5,0,0,0,AyuCD00,[X]Unspecified human immunodeficiency virus [HIV] disease,Nov-10
-44288,123,2,0,0,R109.00,[D]Laboratory evidence of human immunodeficiency virus [HIV],Feb-09
+medcode,readcode,readterm
+2835,43C3.11,HIV positive
+23770,A788.00,Acquired immune deficiency syndrome
+9130,A788.11,Human immunodeficiency virus infection
+58857,A788000,Acute human immunodeficiency virus infection
+58859,A788100,Asymptomatic human immunodeficiency virus infection
+69766,A788200,HIV infection with persistent generalised lymphadenopathy
+70869,A788300,Human immunodeficiency virus with constitutional disease
+53636,A788400,Human immunodeficiency virus with neurological disease
+70528,A788500,Human immunodeficiency virus with secondary infection
+101836,A788600,Human immunodeficiency virus with secondary cancers
+47632,A788U00,"HIV disease result/haematological+immunologic abnorms,NEC"
+67575,A788W00,HIV disease resulting in unspecified malignant neoplasm
+71450,A788X00,HIV disease resulting/unspcf infectious+parasitic disease
+62891,A788y00,Human immunodeficiency virus with other clinical findings
+36294,A788z00,Acquired human immunodeficiency virus infection syndrome NOS
+44303,A789.00,Human immunodef virus resulting in other disease
+37006,A789000,HIV disease resulting in mycobacterial infection
+66368,A789100,HIV disease resulting in cytomegaloviral disease
+23951,A789200,HIV disease resulting in candidiasis
+27641,A789300,HIV disease resulting in Pneumocystis carinii pneumonia
+104717,A789311,HIV disease resulting in Pneumocystis jirovecii pneumonia
+50076,A789400,HIV disease resulting in multiple infections
+27853,A789500,HIV disease resulting in Kaposi's sarcoma
+108054,A789511,HIV disease resulting in Kaposi sarcoma
+44617,A789600,HIV disease resulting in Burkitt's lymphoma
+66367,A789700,HIV dis resulting oth types of non-Hodgkin's lymphoma
+105324,A789800,HIV disease resulting in multiple malignant neoplasms
+65117,A789900,HIV disease resulting in lymphoid interstitial pneumonitis
+8281,A789A00,HIV disease resulting in wasting syndrome
+51708,A789X00,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+107807,AyuC100,[X]HIV disease resulting in other viral infections
+102117,AyuC300,[X]HIV disease resulting in multiple infections
+104134,AyuC400,[X]HIV disease resulting/other infectious+parasitic diseases
+69767,AyuC600,[X]HIV disease resulting in other non-Hodgkin's lymphoma
+96751,AyuCB00,"[X]HIV disease result/haematological+immunologic abnorms,NEC"
+102252,AyuCC00,[X]HIV disease resulting in other specified conditions
+100769,AyuCD00,[X]Unspecified human immunodeficiency virus [HIV] disease
+44288,R109.00,[D]Laboratory evidence of human immunodeficiency virus [HIV]

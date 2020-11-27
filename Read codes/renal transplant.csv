@@ -1,43 +1,43 @@
-medcode,clinicalevents,referralevents,testevents,immunisationevents,readcode,readterm,databasebuild
-2997,5429,141,3,0,7B00.00,Transplantation of kidney,Feb-09
-11745,2066,145,0,0,7B00100,Transplantation of kidney from live donor,Feb-09
-5504,1979,273,0,0,7B00z00,Transplantation of kidney NOS,Feb-09
-5911,1590,24,0,0,ZV42000,[V]Kidney transplanted,Feb-09
-24361,510,4,0,0,7B00200,Transplantation of kidney from cadaver,Feb-09
-17253,396,16,0,0,8L50.00,Renal transplant planned,Feb-09
-11553,316,8,0,0,SP08300,Kidney transplant failure and rejection,Feb-09
-26880,219,5,0,0,ZV59400,[V]Kidney donor,Feb-09
-36983,202,3,0,0,7L1D000,Donation of kidney,Feb-09
-26862,190,10,0,0,7B06300,Exploration of renal transplant,Feb-09
-48121,183,0,0,0,7B01500,Transplant nephrectomy,Feb-09
-18774,174,7,0,0,TB00111,"Renal transplant with complication, without blame",Feb-09
-17058,110,2,0,0,14R2.00,H/O: kidney donation,Feb-09
-54990,44,2,0,0,TB00100,"Kidney transplant with complication, without blame",Feb-09
-105328,24,0,0,0,7B00212,Cadaveric renal transplant,Dec-12
-48057,21,0,0,0,K0B5.00,Renal tubulo-interstitial disordrs in transplant rejectn,Feb-09
-55151,18,0,0,0,7B00000,Autotransplant of kidney,Feb-09
-96095,15,1,0,0,7B0F200,"Pre-transplantation of kidney work-up, live donor",Feb-09
-89924,9,0,0,0,7B00300,"Allotransplantation of kidney from cadaver, heart-beating",Feb-09
-70874,8,0,0,0,7B00y00,Other specified transplantation of kidney,Feb-09
-104960,8,0,0,0,SP08E00,Acute rejection of renal transplant - grade I,Sep-12
-104201,6,0,0,0,SP08H00,Acute rejection of renal transplant,Jun-12
-96133,5,0,0,0,7B00400,"Allotransplantation kidney from cadaver, heart non-beating",Apr-09
-72004,4,0,0,0,7B01511,Excision of rejected transplanted kidney,Feb-09
-93366,4,0,0,0,7B0F.00,Interventions associated with transplantation of kidney,Feb-09
-105811,4,0,0,0,SP08R00,Renal transplant rejection,Feb-13
-66705,3,0,0,0,7B00111,Allotransplantation of kidney from live donor,Feb-09
-90952,3,0,0,0,7B0F100,"Pre-transplantation of kidney work-up, recipient",Feb-09
-94964,3,0,0,0,7B0F400,"Post-transplantation of kidney examination, live donor",Feb-09
-98364,2,0,0,0,7B00211,Allotransplantation of kidney from cadaver,Jan-10
-103429,2,0,0,0,7B0F300,"Post-transplantation of kidney examination, recipient",Dec-11
-104049,2,0,0,0,7B0Fz00,Interventions associated with transplantation of kidney NOS,May-12
-104630,2,0,0,0,SP08G00,Acute rejection of renal transplant - grade III,Jul-12
-105787,2,0,0,0,7B00600,Xenograft renal transplant,Feb-13
-106620,2,0,0,0,SP08J00,Chronic rejection of renal transplant,Aug-13
-106866,2,0,0,0,SP08W00,Vascular complication of renal transplant,Aug-13
-100693,1,0,0,0,Kyu1C00,[X]Renal tubulo-interstitial disorders/transplant rejection,Sep-10
-104050,1,0,0,0,7B0Fy00,OS interventions associated with transplantation of kidney,May-12
-104905,1,0,0,0,SP08D00,Acute-on-chronic rejection of renal transplant,Sep-12
-105724,1,0,0,0,SP08N00,Unexplained episode of renal transplant dysfunction,Jan-13
-106301,1,0,0,0,SP08P00,Stenosis of vein of transplanted kidney,Jun-13
-107000,1,0,0,0,SP08F00,Acute rejection of renal transplant - grade II,Sep-13
+medcode,readcode,readterm,
+2997,7B00.00,Transplantation of kidney,
+11745,7B00100,Transplantation of kidney from live donor,
+5504,7B00z00,Transplantation of kidney NOS,
+5911,ZV42000,[V]Kidney transplanted,
+24361,7B00200,Transplantation of kidney from cadaver,
+17253,8L50.00,Renal transplant planned,
+11553,SP08300,Kidney transplant failure and rejection,
+26880,ZV59400,[V]Kidney donor,
+36983,7L1D000,Donation of kidney,
+26862,7B06300,Exploration of renal transplant,
+48121,7B01500,Transplant nephrectomy,
+18774,TB00111,"Renal transplant with complication, without blame",
+17058,14R2.00,H/O: kidney donation,
+54990,TB00100,"Kidney transplant with complication, without blame",
+105328,7B00212,Cadaveric renal transplant,
+48057,K0B5.00,Renal tubulo-interstitial disordrs in transplant rejectn,
+55151,7B00000,Autotransplant of kidney,
+96095,7B0F200,"Pre-transplantation of kidney work-up, live donor",
+89924,7B00300,"Allotransplantation of kidney from cadaver, heart-beating",
+70874,7B00y00,Other specified transplantation of kidney,
+104960,SP08E00,Acute rejection of renal transplant - grade I,
+104201,SP08H00,Acute rejection of renal transplant,
+96133,7B00400,"Allotransplantation kidney from cadaver, heart non-beating",
+72004,7B01511,Excision of rejected transplanted kidney,
+93366,7B0F.00,Interventions associated with transplantation of kidney,
+105811,SP08R00,Renal transplant rejection,
+66705,7B00111,Allotransplantation of kidney from live donor,
+90952,7B0F100,"Pre-transplantation of kidney work-up, recipient",
+94964,7B0F400,"Post-transplantation of kidney examination, live donor",
+98364,7B00211,Allotransplantation of kidney from cadaver,
+103429,7B0F300,"Post-transplantation of kidney examination, recipient",
+104049,7B0Fz00,Interventions associated with transplantation of kidney NOS,
+104630,SP08G00,Acute rejection of renal transplant - grade III,
+105787,7B00600,Xenograft renal transplant,
+106620,SP08J00,Chronic rejection of renal transplant,
+106866,SP08W00,Vascular complication of renal transplant,
+100693,Kyu1C00,[X]Renal tubulo-interstitial disorders/transplant rejection,
+104050,7B0Fy00,OS interventions associated with transplantation of kidney,
+104905,SP08D00,Acute-on-chronic rejection of renal transplant,
+105724,SP08N00,Unexplained episode of renal transplant dysfunction,
+106301,SP08P00,Stenosis of vein of transplanted kidney,
+107000,SP08F00,Acute rejection of renal transplant - grade II,

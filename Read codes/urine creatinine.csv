@@ -1,3 +1,3 @@
-medcode,readcode,clinicalevents,immunisationevents,referralevents,testevents,readterm,databasebuild
-14411,46M7.00,263,0,87,2494106,Urine creatinine,Feb-09
-14434,46MD.00,5,0,14,32990,24 hour urine creatinine output,Feb-09
+medcode,readcode,readterm,
+14411,46M7.00,Urine creatinine,
+14434,46MD.00,24 hour urine creatinine output,

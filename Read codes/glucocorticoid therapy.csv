@@ -1,149 +1,149 @@
-prodcode,therapyevents,gemscriptcode,productname,drugsubstancename,substancestrength,formulation,routeofadministration,bnfcode,bnfheader,databasebuild
-9375,1550,83656020,Deflazacort 1mg tablets,Deflazacort,1mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-35453,753,92434020,Dexamethasone 3.3mg/1ml solution for injection ampoules,Dexamethasone sodium phosphate,3.3mg/1ml,Solution for injection,Intralesional/Intraarticular/Intravenous/Intramuscular/Intrabursal,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-13397,195,64582020,Methylprednisolone sodium succinate 1g powder and solvent for solution for injection vials,Methylprednisolone sodium succinate,1gram,Powder and solvent for solution for injection,Intramuscular/Intravenous,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-25272,1361,51208020,Precortisyl 1mg Tablet (Hoechst Marion Roussel),Prednisolone,1mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-4488,7709,67171020,Triamcinolone acetonide 40mg/ml IA/IM,Triamcinolone Acetonide,40mg/ml,Intra-articular / Intramuscular Injection,,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-64787,2,77481020,Hydrocortisone 10mg tablets (Almus Pharmaceuticals Ltd),Hydrocortisone,10mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Nov-15
-10683,1721,64589020,Medrone 2mg tablets (Pfizer Ltd),Methylprednisolone,2mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-58592,90,46190020,Plenadren 20mg modified-release tablets (ViroPharma Ltd),,,,,6030200,Glucocorticoid Therapy,Jan-14
-9994,509,57978020,Decadron 500microgram tablets (Merck Sharp & Dohme Ltd),Dexamethasone,500microgram,Tablet,Oral,06030200/64090000,Glucocorticoid Therapy/Diagnostic Test Of Adrenocortical Insufficiency,Feb-09
-51167,429,13779020,Solu-Cortef 100mg powder and solvent for solution for injection vials (Pfizer Ltd),Hydrocortisone sodium succinate,100mg,Powder and solvent for solution for injection,Intramuscular/Intravenous,6030200,Glucocorticoid Therapy,Jan-13
-16582,7884,91308020,Triamcinolone acetonide 40mg/ml suspension for injection,Triamcinolone Acetonide,40mg/ml,Injection Suspension,Tendon Sheath Injection,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-768,52371,56622020,Kenalog 40mg/ml Injection (E R Squibb and Sons Ltd),Triamcinolone Acetonide,40mg/ml,Injection,Intramuscular Deep Injection Gluteal Muscle,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-57931,0,78292020,Hydrocortisone 20mg tablets (Teva UK Ltd),Hydrocortisone,20mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Dec-13
-1971,21574,54445020,Betnesol 500microgram soluble tablets (Focus Pharmaceuticals Ltd),Betamethasone sodium phosphate,500microgram,Soluble tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-13972,450,71641020,Dexamethasone sodium phosphate 5mg/ml injection,Dexamethasone Sodium Phosphate,5mg/ml,Injection,,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-35040,6064,92111020,Depo-Medrone 120mg/3ml suspension for injection vials (Pfizer Ltd),Methylprednisolone acetate,40mg/1ml,Suspension for injection,Intramuscular/Intraarticular/Periarticular/Intralesional/Intrabursal,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-5157,782,75321020,Dexamethasone 2mg/5ml oral solution,Dexamethasone,2mg/5ml,Oral Solution,Oral,6030200,Glucocorticoid Therapy,Feb-09
-37500,228,92436020,Dexamethasone 6.6mg/2ml solution for injection vials,Dexamethasone sodium phosphate,3.3mg/1ml,Solution for injection,Intravenous/Intrabursal/Intraarticular/Intramuscular,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-20577,1693,83660020,Calcort 6mg Tablet (Shire Pharmaceuticals Ltd),Deflazacort,6mg,Tablet,Oral,06030200/08020200,Glucocorticoid Therapy/Corticosteroids And Other Immunosuppressants,Feb-09
-25226,92,72920020,Solu-Medrone 125mg powder and solvent for solution for injection vials (Pfizer Ltd),Methylprednisolone sodium succinate,125mg,Powder and solvent for solution for injection,Intramuscular/Intravenous,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-14188,237,64579020,Methylprednisolone sodium succinate 500mg powder and solvent for solution for injection vials,Methylprednisolone sodium succinate,500mg,Powder and solvent for solution for injection,Intramuscular/Intravenous,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-49498,59,35237020,Hydrocortisone sodium succinate 100mg powder for solution for injection vials,Hydrocortisone sodium succinate,100mg,Powder for solution for injection,Intramuscular/Intravenous,6030200,Glucocorticoid Therapy,Jan-13
-34631,15,62620020,Prednisolone 1mg Tablet (Co-Pharma Ltd),Prednisolone,1mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-31948,27,61648020,Dexamethasone 4mg/ml Injection (Mayne Pharma Plc 1),Dexamethasone Sodium Phosphate,4mg/ml,Injection,Subcutaneous Injection,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-26300,21,62332020,Dexamethasone 20mg/ml shock pack,Dexamethasone Sodium Phosphate,20mg/ml,Shock Treatment Pack,,6030200,Glucocorticoid Therapy,Feb-09
-54794,105,46189020,Hydrocortisone 20mg modified-release tablets,,,,,6030200,Glucocorticoid Therapy,Apr-13
-51871,1,36273020,Hydrocortisone 2mg capsules,,,,,6030200,Glucocorticoid Therapy,Jan-13
-3992,9044,83654020,Deflazacort 6mg tablets,Deflazacort,6mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-53953,522,46191020,Hydrocortisone 5mg modified-release tablets,,,,,6030200,Glucocorticoid Therapy,Mar-13
-12405,5,64583020,Methylprednisolone sodium succinate 2g powder and solvent for solution for injection vials,Methylprednisolone sodium succinate,2gram,Powder and solvent for solution for injection,Intramuscular/Intravenous,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-44802,32,98899020,Lodotra 5mg modified-release tablets (Napp Pharmaceuticals Ltd),Prednisone,5mg,Modified-release tablet,Oral,6030200,Glucocorticoid Therapy,Mar-11
-35688,763,92105020,Methylprednisolone acetate 120mg/3ml suspension for injection vials,Methylprednisolone acetate,40mg/1ml,Suspension for injection,Intramuscular/Intraarticular/Periarticular/Intralesional/Intrabursal,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-34914,2,50404020,Prednisolone 1mg Tablet (Celltech Pharma Europe Ltd),Prednisolone,1mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-2368,42173,66161020,Prednisolone 2.5mg tablet,Prednisolone,2.5mg,Tablets,Oral,6030200,Glucocorticoid Therapy,Feb-09
-50225,10,6564020,Betnesol 500microgram soluble tablets (Waymade Healthcare Plc),Betamethasone sodium phosphate,500microgram,Soluble tablet,Oral,6030200,Glucocorticoid Therapy,Jan-13
-44723,375,98893020,Prednisone 5mg modified-release tablets,Prednisone,5mg,Modified-release tablet,Oral,6030200,Glucocorticoid Therapy,Feb-11
-14982,122387,92107020,Depo-Medrone 40mg/1ml suspension for injection vials (Pfizer Ltd),Methylprednisolone acetate,40mg/1ml,Suspension for injection,Intraarticular/Periarticular/Intrabursal/Intramuscular/Intralesional,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-7286,23003,75121020,Betamethasone 500microgram soluble tablets sugar free,Betamethasone sodium phosphate,500microgram,Soluble tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-1133,200415,56264020,Depo-medrone 40mg/ml Injection (Pharmacia Ltd),Methylprednisolone Acetate,40mg/ml,Injection,Periarticular Injection,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-2130,1929,64573020,Methylprednisolone 4mg tablets,Methylprednisolone,4mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-61958,84,40591021,Dexamethasone 3.8mg/1ml solution for injection vials,,,,,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Jan-15
-28376,16,51722020,Prednisolone 2.5mg Gastro-resistant tablet (Biorex Laboratories Ltd),Prednisolone,2.5mg,Gastro-resistant tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-4233,1994,62327020,Dexamethasone sodium phosphate 4mg/ml injection,Dexamethasone Sodium Phosphate,4mg/ml,Injection,Subcutaneous Injection,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-48800,17,6599020,Depo-Medrone 40mg/1ml suspension for injection vials (DE Pharmaceuticals),Methylprednisolone acetate,40mg/1ml,Suspension for injection,Intraarticular/Periarticular/Intrabursal/Intramuscular/Intralesional,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Jan-13
-26454,5,57987020,Decadron 4mg/ml Injection (MSD Thomas Morson Pharmaceuticals),Dexamethasone Sodium Phosphate,4mg/ml,Injection,Intravenous Injection,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-22577,142,54442020,Betnesol 4mg/1ml solution for injection ampoules (Focus Pharmaceuticals Ltd),Betamethasone sodium phosphate,4mg/1ml,Solution for injection,Intravenous/Subconjunctival/Intramuscular,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-37638,27,92309020,Efcortesol 500mg/5ml solution for injection ampoules (AMCo),Hydrocortisone sodium phosphate,100mg/1ml,Solution for injection,Intramuscular/Intralesional/Intravenous,6030200,Glucocorticoid Therapy,Feb-09
-44380,111,98889020,Prednisone 1mg modified-release tablets,Prednisone,1mg,Modified-release tablet,Oral,6030200,Glucocorticoid Therapy,Jan-11
-21903,60,53177020,Oradexon-organon 2mg Tablet (Organon Laboratories Ltd),Dexamethasone,2mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-34109,4199,71489020,Prednisolone 5 mg gastro-resistant tablet,Prednisolone,5mg,Enteric Coated Tablets,Oral,6030200,Glucocorticoid Therapy,Feb-09
-38022,650,94691020,Hydrocortisone 10mg/5ml oral suspension,Hydrocortisone,2mg/1ml,Oral suspension,Oral,6030200,Glucocorticoid Therapy,Feb-09
-54715,37,35238020,Solu-Cortef 100mg powder for solution for injection vials (Pfizer Ltd),Hydrocortisone sodium succinate,100mg,Powder for solution for injection,Intramuscular/Intravenous,6030200,Glucocorticoid Therapy,Apr-13
-54432,9,98895020,Lodotra 1mg modified-release tablets (Napp Pharmaceuticals Ltd),Prednisone,1mg,Modified-release tablet,Oral,6030200,Glucocorticoid Therapy,Apr-13
-19259,798,89889020,Dexamethasone 8mg/2ml solution for injection vials,Dexamethasone sodium phosphate,4mg/1ml,Solution for injection,Rectal/Intravenous/Intramuscular/Intraarticular/Subcutaneous/Intrabursal,6030200,Glucocorticoid Therapy,Feb-09
-14906,5197,89887020,Dexamethasone 4mg/1ml solution for injection ampoules,Dexamethasone sodium phosphate,4mg/1ml,Solution for injection,Rectal/Intramuscular/Intraarticular/Intrabursal/Intravenous/Subcutaneous,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-48406,5017,11073020,Triamcinolone acetonide 40mg/1ml suspension for injection vials,Triamcinolone acetonide,40mg/1ml,Suspension for injection,Intraarticular/Intramuscular,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Jan-13
-45302,1,51724020,Prednisolone 5mg Tablet (Biorex Laboratories Ltd),Prednisolone,5mg,Tablet,Oral,6030200,Glucocorticoid Therapy,May-11
-7548,119,87443020,Cortisone 5mg capsules,Cortisone acetate,5mg,Capsule,Oral,6030200,Glucocorticoid Therapy,Feb-09
-26299,4,56573020,Oradexon-organon 4mg/ml Intraarticular injection (Organon Laboratories Ltd),Dexamethasone Sodium Phosphate,4mg/ml,Intraarticular Injection,,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-51872,8,36388020,Hydrocortisone 2.5mg capsules,Hydrocortisone,2.5mg,Capsule,Oral,6030200,Glucocorticoid Therapy,Jan-13
-229,25803,61624020,Cortisone 25mg tablets,Cortisone acetate,25mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-28859,4,54005020,Deltastab 5mg Tablet (Waymade Healthcare Plc),Prednisolone,5mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-18266,113,72923020,Methylprednisolone sodium succinate 125mg powder and solvent for solution for injection vials,Methylprednisolone sodium succinate,125mg,Powder and solvent for solution for injection,Intramuscular/Intravenous,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-22555,193,83662020,Calcort 1mg tablets (Shire Pharmaceuticals Ltd),Deflazacort,1mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-6098,11097,58008020,Hydrocortone 10mg tablets (Auden McKenzie (Pharma Division) Ltd),Hydrocortisone,10mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-48748,6,6597020,Depo-Medrone 40mg/1ml suspension for injection vials (Lexon (UK) Ltd),Methylprednisolone acetate,40mg/1ml,Suspension for injection,Intraarticular/Periarticular/Intrabursal/Intramuscular/Intralesional,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Jan-13
-1280,209360,62322020,Dexamethasone 2mg tablets,Dexamethasone,2mg,Tablet,Oral,06030200/64090000,Glucocorticoid Therapy/Diagnostic Test Of Adrenocortical Insufficiency,Feb-09
-47142,2,78430020,Prednisolone 5mg Soluble tablet (Amdipharm Plc),Prednisolone sodium phosphate,5mg,Soluble tablet,Oral,6030200,Glucocorticoid Therapy,May-12
-4123,14153,50024020,Kenalog 40mg/ml Intraarticular injection (E R Squibb and Sons Ltd),Triamcinolone Acetonide,40mg/ml,Intraarticular Injection,Intra-articular Injection,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-18765,54,64578020,Methylprednisolone sodium succinate 40mg powder and solvent for solution for injection vials,Methylprednisolone sodium succinate,40mg,Powder and solvent for solution for injection,Intramuscular/Intravenous,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-63138,26,44830021,Hydrocortisone 5mg/5ml oral solution,,,,,6030200,Glucocorticoid Therapy,May-15
-11149,3209,48403020,Betnelan 500microgram tablets (Focus Pharmaceuticals Ltd),Betamethasone,500microgram,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-64059,1,20233020,Hydrocortisone 2.5mg/5ml oral suspension,Hydrocortisone,500microgram/1ml,Oral suspension,Oral,6030200,Glucocorticoid Therapy,Aug-15
-35172,4000,92307020,Efcortesol 100mg/1ml solution for injection ampoules (AMCo),Hydrocortisone sodium phosphate,100mg/1ml,Solution for injection,Intralesional/Intramuscular/Intravenous,6030200,Glucocorticoid Therapy,Feb-09
-34880,149,53490020,Dexamethasone 2mg tablets (Aspen Pharma Trading Ltd),Dexamethasone,2mg,Tablet,Oral,06030200/64090000,Glucocorticoid Therapy/Diagnostic Test Of Adrenocortical Insufficiency,Feb-09
-10684,1196,64572020,Methylprednisolone 2mg tablets,Methylprednisolone,2mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-64235,0,44411020,Betamethasone 500microgram soluble tablets sugar free (Alliance Healthcare (Distribution) Ltd),Betamethasone sodium phosphate,500microgram,Soluble tablet,Oral,6030200,Glucocorticoid Therapy,Sep-15
-37737,37,56624020,Kenalog 40mg/ml Injection (E R Squibb and Sons Ltd),Triamcinolone Acetonide,40mg/ml,Injection,Intramuscular Deep Injection Gluteal Muscle,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-24224,7,57954020,Codelsol 16mg/ml Injection (MSD Thomas Morson Pharmaceuticals),Prednisolone Sodium Phosphate,16mg/ml,Injection,,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-10864,7747,64150020,Betamethasone 500microgram tablets,Betamethasone,500microgram,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-61316,0,13639020,Dexamethasone 4mg/1ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),Dexamethasone sodium phosphate,4mg/1ml,Solution for injection,Rectal/Intramuscular/Intraarticular/Intrabursal/Intravenous/Subcutaneous,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Oct-14
-53143,0,6565020,Cortisone 25mg tablets (A A H Pharmaceuticals Ltd),Cortisone acetate,25mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Jan-13
-58061,3,9811020,Prednisone 50mg tablets,Prednisone,50mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Dec-13
-10552,562,64574020,Methylprednisolone 16mg tablets,Methylprednisolone,16mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-34801,1,55666020,Dexamethasone 0.5mg/5ml Oral solution (Rosemont Pharmaceuticals Ltd),Dexamethasone,100microgram/1ml,Oral solution,Oral,6030200,Glucocorticoid Therapy,Feb-09
-25839,50,56347020,Solu-Medrone 1g powder and solvent for solution for injection vials (Pfizer Ltd),Methylprednisolone sodium succinate,1gram,Powder and solvent for solution for injection,Intramuscular/Intravenous,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-41335,195,97523020,Calcort 6mg tablets (Sanofi),Deflazacort,6mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-10
-16583,78241,91322020,Kenalog Intra-articular / Intramuscular 40mg/1ml suspension for injection vials (Bristol-Myers Squibb Pharmaceuticals Ltd),Triamcinolone acetonide,40mg/1ml,Suspension for injection,Intraarticular/Intramuscular,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-4535,45056,63492020,Hydrocortisone 20mg tablets,Hydrocortisone,20mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-51824,34,40205020,Hydrocortisone 5mg/5ml oral suspension sugar free,Hydrocortisone,1mg/1ml,Oral suspension,Oral,6030200,Glucocorticoid Therapy,Jan-13
-5493,6953,64586020,Methylprednisolone acetate 40mg/ml Injection,Methylprednisolone Acetate,40mg/ml,Injection,Periarticular Injection,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-43355,25,92305020,Hydrocortisone sodium phosphate 500mg/5ml solution for injection ampoules,Hydrocortisone sodium phosphate,100mg/1ml,Solution for injection,Intramuscular/Intralesional/Intravenous,6030200,Glucocorticoid Therapy,Sep-10
-3418,390451,63491020,Hydrocortisone 10mg tablets,Hydrocortisone,10mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-59418,44,46192020,Plenadren 5mg modified-release tablets (ViroPharma Ltd),,,,,6030200,Glucocorticoid Therapy,Apr-14
-18042,177,56650020,Medrone 100mg tablets (Pfizer Ltd),Methylprednisolone,100mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-44803,24,98897020,Lodotra 2mg modified-release tablets (Napp Pharmaceuticals Ltd),Prednisone,2mg,Modified-release tablet,Oral,6030200,Glucocorticoid Therapy,Mar-11
-33691,61,51723020,Prednisolone 5mg Gastro-resistant tablet (Biorex Laboratories Ltd),Prednisolone,5mg,Gastro-resistant tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-38407,22,92115020,Prednisolone 20mg tablet,Prednisolone,20mg,Tablets,Oral,6030200,Glucocorticoid Therapy,Feb-09
-13043,1916,58009020,Hydrocortone 20mg tablets (Auden McKenzie (Pharma Division) Ltd),Hydrocortisone,20mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-48746,29,6598020,Depo-Medrone 40mg/1ml suspension for injection vials (Mawdsley-Brooks & Company Ltd),Methylprednisolone acetate,40mg/1ml,Suspension for injection,Intraarticular/Periarticular/Intrabursal/Intramuscular/Intralesional,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Jan-13
-3557,4023,59228020,Prednisone 1mg tablets,Prednisone,1mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-30244,392,67173020,Triamcinolone acetonide 40mg/ml injection,Triamcinolone Acetonide,40mg/ml,Injection,,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-15617,1352,54732020,Ledercort 4mg Tablet (Wyeth Pharmaceuticals),Triamcinolone Acetonide,4mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-24014,819,54731020,Ledercort 2mg Tablet (Wyeth Pharmaceuticals),Triamcinolone Acetonide,2mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-14172,5392,56636020,Methylprednisolone 100mg tablets,Methylprednisolone,100mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-35349,4381,92103020,Methylprednisolone acetate 80mg/2ml suspension for injection vials,Methylprednisolone acetate,40mg/1ml,Suspension for injection,Intraarticular/Periarticular/Intrabursal/Intramuscular/Intralesional,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-47598,1,72102020,Dexamethasone 8mg/2ml solution for injection vials (Organon Laboratories Ltd),Dexamethasone sodium phosphate,4mg/1ml,Solution for injection,Rectal/Intravenous/Intramuscular/Intraarticular/Subcutaneous/Intrabursal,6030200,Glucocorticoid Therapy,Aug-12
-33132,11040,92101020,Methylprednisolone acetate 40mg/1ml suspension for injection vials,Methylprednisolone acetate,40mg/1ml,Suspension for injection,Intraarticular/Periarticular/Intrabursal/Intramuscular/Intralesional,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-46711,51,98891020,Prednisone 2mg modified-release tablets,Prednisone,2mg,Modified Release Tablet,Oral,6030200,Glucocorticoid Therapy,Jan-12
-27413,32851,92109020,Depo-Medrone 80mg/2ml suspension for injection vials (Pfizer Ltd),Methylprednisolone acetate,40mg/1ml,Suspension for injection,Intraarticular/Periarticular/Intrabursal/Intramuscular/Intralesional,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-4687,5803,67851020,Methylprednisolone acetate with lidocaine 40mg/ml + 10mg/ml Injection,Lidocaine Hydrochloride/Methylprednisolone Acetate,40mg/ml + 10mg/ml,Injection,Periarticular Injection,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-53173,1,72099020,Dexamethasone 4mg/1ml solution for injection ampoules (Aspen Pharma Trading Ltd),Dexamethasone sodium phosphate,4mg/1ml,Solution for injection,Rectal/Intramuscular/Intraarticular/Intrabursal/Intravenous/Subcutaneous,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Jan-13
-13952,264,57986020,Decadron 4mg/ml Injection (MSD Thomas Morson Pharmaceuticals),Dexamethasone Sodium Phosphate,4mg/ml,Injection,Intravenous Injection,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-23512,814,51209020,Precortisyl 5mg Tablet (Hoechst Marion Roussel),Prednisolone,5mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-52053,2,32204020,Hydrocortisone 3mg/5ml oral suspension,,,,,6030200,Glucocorticoid Therapy,Jan-13
-4779,64636,62321020,Dexamethasone 500microgram tablets,Dexamethasone,500microgram,Tablet,Oral,06030200/64090000,Glucocorticoid Therapy/Diagnostic Test Of Adrenocortical Insufficiency,Feb-09
-8261,52,64591020,Medrone 16mg tablets (Pfizer Ltd),Methylprednisolone,16mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-15717,168,70607020,Betamethasone 4mg/1ml solution for injection ampoules,Betamethasone sodium phosphate,4mg/1ml,Solution for injection,Intravenous/Subconjunctival/Intramuscular,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-36055,2,74310020,Dexamethasone 2mg Tablet (Hillcross Pharmaceuticals Ltd),Dexamethasone,2mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-55401,1,6568020,Dexamethasone 500microgram tablets (A A H Pharmaceuticals Ltd),Dexamethasone,500microgram,Tablet,Oral,06030200/64090000,Glucocorticoid Therapy/Diagnostic Test Of Adrenocortical Insufficiency,May-13
-51849,7,32190020,Hydrocortisone 1mg/5ml oral suspension,,,,,6030200,Glucocorticoid Therapy,Jan-13
-925,214304,56267020,Depo-medrone with lidocaine 40mg/ml+10mg/ml Injection (Pharmacia Ltd),Lidocaine Hydrochloride/Methylprednisolone Acetate,40mg/ml+10mg/ml,Injection,Periarticular Injection,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-3703,12073,56623020,Kenalog 80mg/2ml Intramuscular injection (E R Squibb and Sons Ltd),Triamcinolone Acetonide,80mg/2ml,Intramuscular Injection,Intramuscular Deep Injection Gluteal Muscle,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-23511,75,56343020,Solu-Medrone 40mg powder and solvent for solution for injection vials (Pfizer Ltd),Methylprednisolone sodium succinate,40mg,Powder and solvent for solution for injection,Intramuscular/Intravenous,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-27962,109,54004020,Deltastab 1mg Tablet (Waymade Healthcare Plc),Prednisolone,1mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-10657,69,62329020,Dexamethasone sodium phosphate 4mg/ml intra-artic injection,Dexamethasone Sodium Phosphate,4mg/ml,Intra-articular Injection,,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-51722,400,20239020,Hydrocortisone 5mg/5ml oral suspension,Hydrocortisone,1mg/1ml,Oral suspension,Oral,6030200,Glucocorticoid Therapy,Jan-13
-20095,185,58192020,Precortisyl forte 25mg Tablet (Aventis Pharma),Prednisolone,25mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-19908,209,67163020,Triamcinolone 2mg Tablet,Triamcinolone Acetonide,2mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-1063,55000,51216020,Prednesol 5mg Tablet (Sovereign Medical Ltd),Prednisolone sodium phosphate,5mg,Soluble tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-34915,13,53489020,Dexamethasone 500microgram tablets (Organon Laboratories Ltd),Dexamethasone,500microgram,Tablet,Oral,06030200/64090000,Glucocorticoid Therapy/Diagnostic Test Of Adrenocortical Insufficiency,Feb-09
-49707,299,13778020,Hydrocortisone sodium succinate 100mg powder and solvent for solution for injection vials,Hydrocortisone sodium succinate,100mg,Powder and solvent for solution for injection,Intramuscular/Intravenous,6030200,Glucocorticoid Therapy,Jan-13
-2949,12979,59229020,Prednisone 5mg tablets,Prednisone,5mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-62909,1,6570020,Dexamethasone 2mg tablets (A A H Pharmaceuticals Ltd),Dexamethasone,2mg,Tablet,Oral,06030200/64090000,Glucocorticoid Therapy/Diagnostic Test Of Adrenocortical Insufficiency,Apr-15
-60120,3,6571020,Dexamethasone 2mg tablets (Alliance Healthcare (Distribution) Ltd),Dexamethasone,2mg,Tablet,Oral,06030200/64090000,Glucocorticoid Therapy/Diagnostic Test Of Adrenocortical Insufficiency,Jun-14
-33990,797,56243020,Prednisolone 5mg Tablet (IVAX Pharmaceuticals UK Ltd),Prednisolone,5mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-15555,1984,64590020,Medrone 4mg tablets (Pfizer Ltd),Methylprednisolone,4mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-4125,1480,67172020,Triamcinolone acetonide 80mg/2ml intramuscular injection,Triamcinolone Acetonide,80mg/2ml,Im Injection,,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-56940,135,14717021,Dexamethasone 6.6mg/2ml solution for injection ampoules,,,,,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Aug-13
-33988,3,62621020,Prednisolone 5mg Tablet (Co-Pharma Ltd),Prednisolone,5mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
-53207,0,95127020,Dexamethasone tablets,Dexamethasone,,,,6030200,Glucocorticoid Therapy,Jan-13
-21668,6,58005020,Decadron shock pak 20 20mg/ml Shock pack (Merck Sharp & Dohme Ltd),Dexamethasone Sodium Phosphate,20mg/ml,Shock Pack,,6030200,Glucocorticoid Therapy,Feb-09
-21540,67,56344020,Solu-Medrone 500mg powder and solvent for solution for injection vials (Pfizer Ltd),Methylprednisolone sodium succinate,500mg,Powder and solvent for solution for injection,Intramuscular/Intravenous,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-35175,2497,92303020,Hydrocortisone sodium phosphate 100mg/1ml solution for injection ampoules,Hydrocortisone sodium phosphate,100mg/1ml,Solution for injection,Intralesional/Intramuscular/Intravenous,6030200,Glucocorticoid Therapy,Feb-09
-11334,94,62328020,Dexamethasone sodium phosphate iv 4mg/ml injection,Dexamethasone Sodium Phosphate,4mg/ml,Iv Injection,,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-34083,37,61132020,Dexamethasone 5mg/ml Injection (Organon Laboratories Ltd),Dexamethasone Sodium Phosphate,5mg/ml,Injection,Subcutaneous Injection,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections,Feb-09
-28215,21,71642020,Dexamethasone 100mg/5ml solution for injection vials,Dexamethasone Sodium Phosphate,120mg/5ml,Injection,,6030200,Glucocorticoid Therapy,Feb-09
-23111,329,67164020,Triamcinolone 4mg Tablet,Triamcinolone Acetonide,4mg,Tablet,Oral,6030200,Glucocorticoid Therapy,Feb-09
+prodcode,gemscriptcode,productname,drugsubstancename,substancestrength,formulation,routeofadministration,bnfcode,bnfheader
+9375,83656020,Deflazacort 1mg tablets,Deflazacort,1mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+35453,92434020,Dexamethasone 3.3mg/1ml solution for injection ampoules,Dexamethasone sodium phosphate,3.3mg/1ml,Solution for injection,Intralesional/Intraarticular/Intravenous/Intramuscular/Intrabursal,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+13397,64582020,Methylprednisolone sodium succinate 1g powder and solvent for solution for injection vials,Methylprednisolone sodium succinate,1gram,Powder and solvent for solution for injection,Intramuscular/Intravenous,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+25272,51208020,Precortisyl 1mg Tablet (Hoechst Marion Roussel),Prednisolone,1mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+4488,67171020,Triamcinolone acetonide 40mg/ml IA/IM,Triamcinolone Acetonide,40mg/ml,Intra-articular / Intramuscular Injection,,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+64787,77481020,Hydrocortisone 10mg tablets (Almus Pharmaceuticals Ltd),Hydrocortisone,10mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+10683,64589020,Medrone 2mg tablets (Pfizer Ltd),Methylprednisolone,2mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+58592,46190020,Plenadren 20mg modified-release tablets (ViroPharma Ltd),,,,,6030200,Glucocorticoid Therapy
+9994,57978020,Decadron 500microgram tablets (Merck Sharp & Dohme Ltd),Dexamethasone,500microgram,Tablet,Oral,06030200/64090000,Glucocorticoid Therapy/Diagnostic Test Of Adrenocortical Insufficiency
+51167,13779020,Solu-Cortef 100mg powder and solvent for solution for injection vials (Pfizer Ltd),Hydrocortisone sodium succinate,100mg,Powder and solvent for solution for injection,Intramuscular/Intravenous,6030200,Glucocorticoid Therapy
+16582,91308020,Triamcinolone acetonide 40mg/ml suspension for injection,Triamcinolone Acetonide,40mg/ml,Injection Suspension,Tendon Sheath Injection,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+768,56622020,Kenalog 40mg/ml Injection (E R Squibb and Sons Ltd),Triamcinolone Acetonide,40mg/ml,Injection,Intramuscular Deep Injection Gluteal Muscle,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+57931,78292020,Hydrocortisone 20mg tablets (Teva UK Ltd),Hydrocortisone,20mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+1971,54445020,Betnesol 500microgram soluble tablets (Focus Pharmaceuticals Ltd),Betamethasone sodium phosphate,500microgram,Soluble tablet,Oral,6030200,Glucocorticoid Therapy
+13972,71641020,Dexamethasone sodium phosphate 5mg/ml injection,Dexamethasone Sodium Phosphate,5mg/ml,Injection,,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+35040,92111020,Depo-Medrone 120mg/3ml suspension for injection vials (Pfizer Ltd),Methylprednisolone acetate,40mg/1ml,Suspension for injection,Intramuscular/Intraarticular/Periarticular/Intralesional/Intrabursal,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+5157,75321020,Dexamethasone 2mg/5ml oral solution,Dexamethasone,2mg/5ml,Oral Solution,Oral,6030200,Glucocorticoid Therapy
+37500,92436020,Dexamethasone 6.6mg/2ml solution for injection vials,Dexamethasone sodium phosphate,3.3mg/1ml,Solution for injection,Intravenous/Intrabursal/Intraarticular/Intramuscular,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+20577,83660020,Calcort 6mg Tablet (Shire Pharmaceuticals Ltd),Deflazacort,6mg,Tablet,Oral,06030200/08020200,Glucocorticoid Therapy/Corticosteroids And Other Immunosuppressants
+25226,72920020,Solu-Medrone 125mg powder and solvent for solution for injection vials (Pfizer Ltd),Methylprednisolone sodium succinate,125mg,Powder and solvent for solution for injection,Intramuscular/Intravenous,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+14188,64579020,Methylprednisolone sodium succinate 500mg powder and solvent for solution for injection vials,Methylprednisolone sodium succinate,500mg,Powder and solvent for solution for injection,Intramuscular/Intravenous,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+49498,35237020,Hydrocortisone sodium succinate 100mg powder for solution for injection vials,Hydrocortisone sodium succinate,100mg,Powder for solution for injection,Intramuscular/Intravenous,6030200,Glucocorticoid Therapy
+34631,62620020,Prednisolone 1mg Tablet (Co-Pharma Ltd),Prednisolone,1mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+31948,61648020,Dexamethasone 4mg/ml Injection (Mayne Pharma Plc 1),Dexamethasone Sodium Phosphate,4mg/ml,Injection,Subcutaneous Injection,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+26300,62332020,Dexamethasone 20mg/ml shock pack,Dexamethasone Sodium Phosphate,20mg/ml,Shock Treatment Pack,,6030200,Glucocorticoid Therapy
+54794,46189020,Hydrocortisone 20mg modified-release tablets,,,,,6030200,Glucocorticoid Therapy
+51871,36273020,Hydrocortisone 2mg capsules,,,,,6030200,Glucocorticoid Therapy
+3992,83654020,Deflazacort 6mg tablets,Deflazacort,6mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+53953,46191020,Hydrocortisone 5mg modified-release tablets,,,,,6030200,Glucocorticoid Therapy
+12405,64583020,Methylprednisolone sodium succinate 2g powder and solvent for solution for injection vials,Methylprednisolone sodium succinate,2gram,Powder and solvent for solution for injection,Intramuscular/Intravenous,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+44802,98899020,Lodotra 5mg modified-release tablets (Napp Pharmaceuticals Ltd),Prednisone,5mg,Modified-release tablet,Oral,6030200,Glucocorticoid Therapy
+35688,92105020,Methylprednisolone acetate 120mg/3ml suspension for injection vials,Methylprednisolone acetate,40mg/1ml,Suspension for injection,Intramuscular/Intraarticular/Periarticular/Intralesional/Intrabursal,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+34914,50404020,Prednisolone 1mg Tablet (Celltech Pharma Europe Ltd),Prednisolone,1mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+2368,66161020,Prednisolone 2.5mg tablet,Prednisolone,2.5mg,Tablets,Oral,6030200,Glucocorticoid Therapy
+50225,6564020,Betnesol 500microgram soluble tablets (Waymade Healthcare Plc),Betamethasone sodium phosphate,500microgram,Soluble tablet,Oral,6030200,Glucocorticoid Therapy
+44723,98893020,Prednisone 5mg modified-release tablets,Prednisone,5mg,Modified-release tablet,Oral,6030200,Glucocorticoid Therapy
+14982,92107020,Depo-Medrone 40mg/1ml suspension for injection vials (Pfizer Ltd),Methylprednisolone acetate,40mg/1ml,Suspension for injection,Intraarticular/Periarticular/Intrabursal/Intramuscular/Intralesional,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+7286,75121020,Betamethasone 500microgram soluble tablets sugar free,Betamethasone sodium phosphate,500microgram,Soluble tablet,Oral,6030200,Glucocorticoid Therapy
+1133,56264020,Depo-medrone 40mg/ml Injection (Pharmacia Ltd),Methylprednisolone Acetate,40mg/ml,Injection,Periarticular Injection,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+2130,64573020,Methylprednisolone 4mg tablets,Methylprednisolone,4mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+61958,40591021,Dexamethasone 3.8mg/1ml solution for injection vials,,,,,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+28376,51722020,Prednisolone 2.5mg Gastro-resistant tablet (Biorex Laboratories Ltd),Prednisolone,2.5mg,Gastro-resistant tablet,Oral,6030200,Glucocorticoid Therapy
+4233,62327020,Dexamethasone sodium phosphate 4mg/ml injection,Dexamethasone Sodium Phosphate,4mg/ml,Injection,Subcutaneous Injection,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+48800,6599020,Depo-Medrone 40mg/1ml suspension for injection vials (DE Pharmaceuticals),Methylprednisolone acetate,40mg/1ml,Suspension for injection,Intraarticular/Periarticular/Intrabursal/Intramuscular/Intralesional,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+26454,57987020,Decadron 4mg/ml Injection (MSD Thomas Morson Pharmaceuticals),Dexamethasone Sodium Phosphate,4mg/ml,Injection,Intravenous Injection,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+22577,54442020,Betnesol 4mg/1ml solution for injection ampoules (Focus Pharmaceuticals Ltd),Betamethasone sodium phosphate,4mg/1ml,Solution for injection,Intravenous/Subconjunctival/Intramuscular,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+37638,92309020,Efcortesol 500mg/5ml solution for injection ampoules (AMCo),Hydrocortisone sodium phosphate,100mg/1ml,Solution for injection,Intramuscular/Intralesional/Intravenous,6030200,Glucocorticoid Therapy
+44380,98889020,Prednisone 1mg modified-release tablets,Prednisone,1mg,Modified-release tablet,Oral,6030200,Glucocorticoid Therapy
+21903,53177020,Oradexon-organon 2mg Tablet (Organon Laboratories Ltd),Dexamethasone,2mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+34109,71489020,Prednisolone 5 mg gastro-resistant tablet,Prednisolone,5mg,Enteric Coated Tablets,Oral,6030200,Glucocorticoid Therapy
+38022,94691020,Hydrocortisone 10mg/5ml oral suspension,Hydrocortisone,2mg/1ml,Oral suspension,Oral,6030200,Glucocorticoid Therapy
+54715,35238020,Solu-Cortef 100mg powder for solution for injection vials (Pfizer Ltd),Hydrocortisone sodium succinate,100mg,Powder for solution for injection,Intramuscular/Intravenous,6030200,Glucocorticoid Therapy
+54432,98895020,Lodotra 1mg modified-release tablets (Napp Pharmaceuticals Ltd),Prednisone,1mg,Modified-release tablet,Oral,6030200,Glucocorticoid Therapy
+19259,89889020,Dexamethasone 8mg/2ml solution for injection vials,Dexamethasone sodium phosphate,4mg/1ml,Solution for injection,Rectal/Intravenous/Intramuscular/Intraarticular/Subcutaneous/Intrabursal,6030200,Glucocorticoid Therapy
+14906,89887020,Dexamethasone 4mg/1ml solution for injection ampoules,Dexamethasone sodium phosphate,4mg/1ml,Solution for injection,Rectal/Intramuscular/Intraarticular/Intrabursal/Intravenous/Subcutaneous,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+48406,11073020,Triamcinolone acetonide 40mg/1ml suspension for injection vials,Triamcinolone acetonide,40mg/1ml,Suspension for injection,Intraarticular/Intramuscular,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+45302,51724020,Prednisolone 5mg Tablet (Biorex Laboratories Ltd),Prednisolone,5mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+7548,87443020,Cortisone 5mg capsules,Cortisone acetate,5mg,Capsule,Oral,6030200,Glucocorticoid Therapy
+26299,56573020,Oradexon-organon 4mg/ml Intraarticular injection (Organon Laboratories Ltd),Dexamethasone Sodium Phosphate,4mg/ml,Intraarticular Injection,,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+51872,36388020,Hydrocortisone 2.5mg capsules,Hydrocortisone,2.5mg,Capsule,Oral,6030200,Glucocorticoid Therapy
+229,61624020,Cortisone 25mg tablets,Cortisone acetate,25mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+28859,54005020,Deltastab 5mg Tablet (Waymade Healthcare Plc),Prednisolone,5mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+18266,72923020,Methylprednisolone sodium succinate 125mg powder and solvent for solution for injection vials,Methylprednisolone sodium succinate,125mg,Powder and solvent for solution for injection,Intramuscular/Intravenous,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+22555,83662020,Calcort 1mg tablets (Shire Pharmaceuticals Ltd),Deflazacort,1mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+6098,58008020,Hydrocortone 10mg tablets (Auden McKenzie (Pharma Division) Ltd),Hydrocortisone,10mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+48748,6597020,Depo-Medrone 40mg/1ml suspension for injection vials (Lexon (UK) Ltd),Methylprednisolone acetate,40mg/1ml,Suspension for injection,Intraarticular/Periarticular/Intrabursal/Intramuscular/Intralesional,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+1280,62322020,Dexamethasone 2mg tablets,Dexamethasone,2mg,Tablet,Oral,06030200/64090000,Glucocorticoid Therapy/Diagnostic Test Of Adrenocortical Insufficiency
+47142,78430020,Prednisolone 5mg Soluble tablet (Amdipharm Plc),Prednisolone sodium phosphate,5mg,Soluble tablet,Oral,6030200,Glucocorticoid Therapy
+4123,50024020,Kenalog 40mg/ml Intraarticular injection (E R Squibb and Sons Ltd),Triamcinolone Acetonide,40mg/ml,Intraarticular Injection,Intra-articular Injection,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+18765,64578020,Methylprednisolone sodium succinate 40mg powder and solvent for solution for injection vials,Methylprednisolone sodium succinate,40mg,Powder and solvent for solution for injection,Intramuscular/Intravenous,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+63138,44830021,Hydrocortisone 5mg/5ml oral solution,,,,,6030200,Glucocorticoid Therapy
+11149,48403020,Betnelan 500microgram tablets (Focus Pharmaceuticals Ltd),Betamethasone,500microgram,Tablet,Oral,6030200,Glucocorticoid Therapy
+64059,20233020,Hydrocortisone 2.5mg/5ml oral suspension,Hydrocortisone,500microgram/1ml,Oral suspension,Oral,6030200,Glucocorticoid Therapy
+35172,92307020,Efcortesol 100mg/1ml solution for injection ampoules (AMCo),Hydrocortisone sodium phosphate,100mg/1ml,Solution for injection,Intralesional/Intramuscular/Intravenous,6030200,Glucocorticoid Therapy
+34880,53490020,Dexamethasone 2mg tablets (Aspen Pharma Trading Ltd),Dexamethasone,2mg,Tablet,Oral,06030200/64090000,Glucocorticoid Therapy/Diagnostic Test Of Adrenocortical Insufficiency
+10684,64572020,Methylprednisolone 2mg tablets,Methylprednisolone,2mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+64235,44411020,Betamethasone 500microgram soluble tablets sugar free (Alliance Healthcare (Distribution) Ltd),Betamethasone sodium phosphate,500microgram,Soluble tablet,Oral,6030200,Glucocorticoid Therapy
+37737,56624020,Kenalog 40mg/ml Injection (E R Squibb and Sons Ltd),Triamcinolone Acetonide,40mg/ml,Injection,Intramuscular Deep Injection Gluteal Muscle,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+24224,57954020,Codelsol 16mg/ml Injection (MSD Thomas Morson Pharmaceuticals),Prednisolone Sodium Phosphate,16mg/ml,Injection,,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+10864,64150020,Betamethasone 500microgram tablets,Betamethasone,500microgram,Tablet,Oral,6030200,Glucocorticoid Therapy
+61316,13639020,Dexamethasone 4mg/1ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),Dexamethasone sodium phosphate,4mg/1ml,Solution for injection,Rectal/Intramuscular/Intraarticular/Intrabursal/Intravenous/Subcutaneous,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+53143,6565020,Cortisone 25mg tablets (A A H Pharmaceuticals Ltd),Cortisone acetate,25mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+58061,9811020,Prednisone 50mg tablets,Prednisone,50mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+10552,64574020,Methylprednisolone 16mg tablets,Methylprednisolone,16mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+34801,55666020,Dexamethasone 0.5mg/5ml Oral solution (Rosemont Pharmaceuticals Ltd),Dexamethasone,100microgram/1ml,Oral solution,Oral,6030200,Glucocorticoid Therapy
+25839,56347020,Solu-Medrone 1g powder and solvent for solution for injection vials (Pfizer Ltd),Methylprednisolone sodium succinate,1gram,Powder and solvent for solution for injection,Intramuscular/Intravenous,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+41335,97523020,Calcort 6mg tablets (Sanofi),Deflazacort,6mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+16583,91322020,Kenalog Intra-articular / Intramuscular 40mg/1ml suspension for injection vials (Bristol-Myers Squibb Pharmaceuticals Ltd),Triamcinolone acetonide,40mg/1ml,Suspension for injection,Intraarticular/Intramuscular,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+4535,63492020,Hydrocortisone 20mg tablets,Hydrocortisone,20mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+51824,40205020,Hydrocortisone 5mg/5ml oral suspension sugar free,Hydrocortisone,1mg/1ml,Oral suspension,Oral,6030200,Glucocorticoid Therapy
+5493,64586020,Methylprednisolone acetate 40mg/ml Injection,Methylprednisolone Acetate,40mg/ml,Injection,Periarticular Injection,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+43355,92305020,Hydrocortisone sodium phosphate 500mg/5ml solution for injection ampoules,Hydrocortisone sodium phosphate,100mg/1ml,Solution for injection,Intramuscular/Intralesional/Intravenous,6030200,Glucocorticoid Therapy
+3418,63491020,Hydrocortisone 10mg tablets,Hydrocortisone,10mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+59418,46192020,Plenadren 5mg modified-release tablets (ViroPharma Ltd),,,,,6030200,Glucocorticoid Therapy
+18042,56650020,Medrone 100mg tablets (Pfizer Ltd),Methylprednisolone,100mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+44803,98897020,Lodotra 2mg modified-release tablets (Napp Pharmaceuticals Ltd),Prednisone,2mg,Modified-release tablet,Oral,6030200,Glucocorticoid Therapy
+33691,51723020,Prednisolone 5mg Gastro-resistant tablet (Biorex Laboratories Ltd),Prednisolone,5mg,Gastro-resistant tablet,Oral,6030200,Glucocorticoid Therapy
+38407,92115020,Prednisolone 20mg tablet,Prednisolone,20mg,Tablets,Oral,6030200,Glucocorticoid Therapy
+13043,58009020,Hydrocortone 20mg tablets (Auden McKenzie (Pharma Division) Ltd),Hydrocortisone,20mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+48746,6598020,Depo-Medrone 40mg/1ml suspension for injection vials (Mawdsley-Brooks & Company Ltd),Methylprednisolone acetate,40mg/1ml,Suspension for injection,Intraarticular/Periarticular/Intrabursal/Intramuscular/Intralesional,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+3557,59228020,Prednisone 1mg tablets,Prednisone,1mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+30244,67173020,Triamcinolone acetonide 40mg/ml injection,Triamcinolone Acetonide,40mg/ml,Injection,,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+15617,54732020,Ledercort 4mg Tablet (Wyeth Pharmaceuticals),Triamcinolone Acetonide,4mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+24014,54731020,Ledercort 2mg Tablet (Wyeth Pharmaceuticals),Triamcinolone Acetonide,2mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+14172,56636020,Methylprednisolone 100mg tablets,Methylprednisolone,100mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+35349,92103020,Methylprednisolone acetate 80mg/2ml suspension for injection vials,Methylprednisolone acetate,40mg/1ml,Suspension for injection,Intraarticular/Periarticular/Intrabursal/Intramuscular/Intralesional,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+47598,72102020,Dexamethasone 8mg/2ml solution for injection vials (Organon Laboratories Ltd),Dexamethasone sodium phosphate,4mg/1ml,Solution for injection,Rectal/Intravenous/Intramuscular/Intraarticular/Subcutaneous/Intrabursal,6030200,Glucocorticoid Therapy
+33132,92101020,Methylprednisolone acetate 40mg/1ml suspension for injection vials,Methylprednisolone acetate,40mg/1ml,Suspension for injection,Intraarticular/Periarticular/Intrabursal/Intramuscular/Intralesional,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+46711,98891020,Prednisone 2mg modified-release tablets,Prednisone,2mg,Modified Release Tablet,Oral,6030200,Glucocorticoid Therapy
+27413,92109020,Depo-Medrone 80mg/2ml suspension for injection vials (Pfizer Ltd),Methylprednisolone acetate,40mg/1ml,Suspension for injection,Intraarticular/Periarticular/Intrabursal/Intramuscular/Intralesional,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+4687,67851020,Methylprednisolone acetate with lidocaine 40mg/ml + 10mg/ml Injection,Lidocaine Hydrochloride/Methylprednisolone Acetate,40mg/ml + 10mg/ml,Injection,Periarticular Injection,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+53173,72099020,Dexamethasone 4mg/1ml solution for injection ampoules (Aspen Pharma Trading Ltd),Dexamethasone sodium phosphate,4mg/1ml,Solution for injection,Rectal/Intramuscular/Intraarticular/Intrabursal/Intravenous/Subcutaneous,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+13952,57986020,Decadron 4mg/ml Injection (MSD Thomas Morson Pharmaceuticals),Dexamethasone Sodium Phosphate,4mg/ml,Injection,Intravenous Injection,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+23512,51209020,Precortisyl 5mg Tablet (Hoechst Marion Roussel),Prednisolone,5mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+52053,32204020,Hydrocortisone 3mg/5ml oral suspension,,,,,6030200,Glucocorticoid Therapy
+4779,62321020,Dexamethasone 500microgram tablets,Dexamethasone,500microgram,Tablet,Oral,06030200/64090000,Glucocorticoid Therapy/Diagnostic Test Of Adrenocortical Insufficiency
+8261,64591020,Medrone 16mg tablets (Pfizer Ltd),Methylprednisolone,16mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+15717,70607020,Betamethasone 4mg/1ml solution for injection ampoules,Betamethasone sodium phosphate,4mg/1ml,Solution for injection,Intravenous/Subconjunctival/Intramuscular,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+36055,74310020,Dexamethasone 2mg Tablet (Hillcross Pharmaceuticals Ltd),Dexamethasone,2mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+55401,6568020,Dexamethasone 500microgram tablets (A A H Pharmaceuticals Ltd),Dexamethasone,500microgram,Tablet,Oral,06030200/64090000,Glucocorticoid Therapy/Diagnostic Test Of Adrenocortical Insufficiency
+51849,32190020,Hydrocortisone 1mg/5ml oral suspension,,,,,6030200,Glucocorticoid Therapy
+925,56267020,Depo-medrone with lidocaine 40mg/ml+10mg/ml Injection (Pharmacia Ltd),Lidocaine Hydrochloride/Methylprednisolone Acetate,40mg/ml+10mg/ml,Injection,Periarticular Injection,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+3703,56623020,Kenalog 80mg/2ml Intramuscular injection (E R Squibb and Sons Ltd),Triamcinolone Acetonide,80mg/2ml,Intramuscular Injection,Intramuscular Deep Injection Gluteal Muscle,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+23511,56343020,Solu-Medrone 40mg powder and solvent for solution for injection vials (Pfizer Ltd),Methylprednisolone sodium succinate,40mg,Powder and solvent for solution for injection,Intramuscular/Intravenous,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+27962,54004020,Deltastab 1mg Tablet (Waymade Healthcare Plc),Prednisolone,1mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+10657,62329020,Dexamethasone sodium phosphate 4mg/ml intra-artic injection,Dexamethasone Sodium Phosphate,4mg/ml,Intra-articular Injection,,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+51722,20239020,Hydrocortisone 5mg/5ml oral suspension,Hydrocortisone,1mg/1ml,Oral suspension,Oral,6030200,Glucocorticoid Therapy
+20095,58192020,Precortisyl forte 25mg Tablet (Aventis Pharma),Prednisolone,25mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+19908,67163020,Triamcinolone 2mg Tablet,Triamcinolone Acetonide,2mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+1063,51216020,Prednesol 5mg Tablet (Sovereign Medical Ltd),Prednisolone sodium phosphate,5mg,Soluble tablet,Oral,6030200,Glucocorticoid Therapy
+34915,53489020,Dexamethasone 500microgram tablets (Organon Laboratories Ltd),Dexamethasone,500microgram,Tablet,Oral,06030200/64090000,Glucocorticoid Therapy/Diagnostic Test Of Adrenocortical Insufficiency
+49707,13778020,Hydrocortisone sodium succinate 100mg powder and solvent for solution for injection vials,Hydrocortisone sodium succinate,100mg,Powder and solvent for solution for injection,Intramuscular/Intravenous,6030200,Glucocorticoid Therapy
+2949,59229020,Prednisone 5mg tablets,Prednisone,5mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+62909,6570020,Dexamethasone 2mg tablets (A A H Pharmaceuticals Ltd),Dexamethasone,2mg,Tablet,Oral,06030200/64090000,Glucocorticoid Therapy/Diagnostic Test Of Adrenocortical Insufficiency
+60120,6571020,Dexamethasone 2mg tablets (Alliance Healthcare (Distribution) Ltd),Dexamethasone,2mg,Tablet,Oral,06030200/64090000,Glucocorticoid Therapy/Diagnostic Test Of Adrenocortical Insufficiency
+33990,56243020,Prednisolone 5mg Tablet (IVAX Pharmaceuticals UK Ltd),Prednisolone,5mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+15555,64590020,Medrone 4mg tablets (Pfizer Ltd),Methylprednisolone,4mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+4125,67172020,Triamcinolone acetonide 80mg/2ml intramuscular injection,Triamcinolone Acetonide,80mg/2ml,Im Injection,,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+56940,14717021,Dexamethasone 6.6mg/2ml solution for injection ampoules,,,,,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+33988,62621020,Prednisolone 5mg Tablet (Co-Pharma Ltd),Prednisolone,5mg,Tablet,Oral,6030200,Glucocorticoid Therapy
+53207,95127020,Dexamethasone tablets,Dexamethasone,,,,6030200,Glucocorticoid Therapy
+21668,58005020,Decadron shock pak 20 20mg/ml Shock pack (Merck Sharp & Dohme Ltd),Dexamethasone Sodium Phosphate,20mg/ml,Shock Pack,,6030200,Glucocorticoid Therapy
+21540,56344020,Solu-Medrone 500mg powder and solvent for solution for injection vials (Pfizer Ltd),Methylprednisolone sodium succinate,500mg,Powder and solvent for solution for injection,Intramuscular/Intravenous,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+35175,92303020,Hydrocortisone sodium phosphate 100mg/1ml solution for injection ampoules,Hydrocortisone sodium phosphate,100mg/1ml,Solution for injection,Intralesional/Intramuscular/Intravenous,6030200,Glucocorticoid Therapy
+11334,62328020,Dexamethasone sodium phosphate iv 4mg/ml injection,Dexamethasone Sodium Phosphate,4mg/ml,Iv Injection,,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+34083,61132020,Dexamethasone 5mg/ml Injection (Organon Laboratories Ltd),Dexamethasone Sodium Phosphate,5mg/ml,Injection,Subcutaneous Injection,06030200/10010202,Glucocorticoid Therapy/Local Corticosteroid Injections
+28215,71642020,Dexamethasone 100mg/5ml solution for injection vials,Dexamethasone Sodium Phosphate,120mg/5ml,Injection,,6030200,Glucocorticoid Therapy
+23111,67164020,Triamcinolone 4mg Tablet,Triamcinolone Acetonide,4mg,Tablet,Oral,6030200,Glucocorticoid Therapy

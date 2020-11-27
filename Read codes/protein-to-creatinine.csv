@@ -1,4 +1,4 @@
-medcode,readcode,clinicalevents,immunisationevents,referralevents,testevents,readterm,databasebuild
-27266,44lD.00,468,0,98,326340,Urine protein/creatinine ratio,Feb-09
-44179,46N7.00,18,0,5,17950,Urine protein/creatinine index,Feb-09
-108916,44lzX00,5,0,3,6996,Random urine protein:creatinine ratio,Dec-14
+medcode,readcode,readterm,
+27266,44lD.00,Urine protein/creatinine ratio,
+44179,46N7.00,Urine protein/creatinine index,
+108916,44lzX00,Random urine protein:creatinine ratio,

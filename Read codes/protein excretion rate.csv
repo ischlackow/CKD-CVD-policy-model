@@ -1,2 +1,2 @@
-medcode,readcode,clinicalevents,immunisationevents,referralevents,testevents,readterm,databasebuild
-14389,46N5.00,31,0,16,9131,24 hour urine protein excretion test,Feb-09
+medcode,readcode,readterm,
+14389,46N5.00,24 hour urine protein excretion test,

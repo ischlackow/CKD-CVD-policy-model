@@ -17,7 +17,7 @@ sourceDir_R_raw <- "K:\\SHARP_EE\\Monitoring CKD CHF\\Data\\Raw CPRD data\\"
 sourceDir_R <- "K:\\SHARP_EE\\Monitoring CKD CHF\\Data\\Derived CPRD data\\"
 outputDir <- "K:\\SHARP_EE\\Monitoring CKD CHF\\Data\\Derived CPRD data\\"
 
-source("K:\\SHARP_EE\\Monitoring CKD CHF\\Data\\code\\proteinuria, functions.R")
+source("K:\\SHARP_EE\\Monitoring CKD CHF\\Data\\code\\albuminuria_functions.R")
 
 ######################################################################
 ### Files

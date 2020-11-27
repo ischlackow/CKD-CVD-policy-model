@@ -367,10 +367,32 @@ summary {
 
 <div id="long-term-health-outcomes-of-people-with-reduced-kidney-function-in-the-uk-a-modelling-study-using-population-health-data" class="section level1">
 <h1>Long-term health outcomes of people with reduced kidney function in the UK: a modelling study using population health data</h1>
-<p>This release supplements the manuscript “Long-term health outcomes of people with reduced kidney function in the UK: a modelling study using population health data”. It contains the list of Read codes used for defining model variables (<code>Read codes</code> folder) and R scripts used to produce Tables, Figures and other data for the manuscript (<code>R code</code> folder).</p>
-<p>Please note that the patient-level CPRD data used for analyses cannot be released and as such, the code is not executable. Rather, it is meant to be used for exploratory purposes.</p>
+<p>This release supplements the manuscript “Long-term health outcomes of people with reduced kidney function in the UK: a modelling study using population health data”. It contains the following data:</p>
+<ul>
+<li><p><strong>Read codes</strong> folder: the list of Read and entity codes used for defining model variables;</p></li>
+<li><p><strong>R code</strong> folder: R scripts used to extract data from CPRD as well as generate Tables, Figures and other data for the manuscript</p></li>
+</ul>
+<p>Please note that the patient-level CPRD data used for analyses cannot be released and as such, the code is not executable and perhaps not complete. Rather, it is meant to be used for exploratory purposes.</p>
 <p>As a general rules, R scripts with the <em>functions</em> suffix contains functions that are called in <em>wrapper</em> files. For example, the file <code>wrapper_intval.R</code> performs internal validation by calling functions from <code>extrapolation_functions_intval.R</code></p>
-<p>The following scripts were used for producing Tables, Figure and other data for the manuscript:</p>
+<div id="code-for-cprd-data-extraction" class="section level2">
+<h2>Code for CPRD data extraction</h2>
+<p>This code is located in the <strong>R code/CPRD data extraction</strong> folder. The following main rules of thumb, based on literature, were used in defining variables. Please see individual files for further detail and full information on how all variables were derived.</p>
+<ul>
+<li><p>Diabetes classification: it was assumed that diabetes of Type I if patient was &lt;35 years old at the time it was diagnosed, and on insulins at cohort entry date</p></li>
+<li><p>Albuminuria classification: this was based on the <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4089693/table/tbl7/">relationship between albuminuria and proteinuria</a></p></li>
+<li><p>Medication uptake: it was assumed that a patient was taking a medication when at least two prescriptions wree recorded, with the latest at most 28 days apart from the point of interest (eg cohort entry)</p></li>
+</ul>
+<p>The data were derived in the following way</p>
+<ul>
+<li><p>Raw data on individual variables were extracted in the <code>extract_vars_all.R</code> file</p></li>
+<li><p>Creatinine tests were converted into eGFR values and CKD classification in the <code>eGFR.R</code> file. Albuminuria classification was performed in the <code>albuminuria.R</code> files, using functions from <code>albuminuria_functions.R</code></p></li>
+<li><p>Flat file with all baseline characteristics was derived in <code>df_baseline_cohort.R</code> file.</p></li>
+<li><p>The file <code>functions.R</code> file contains generic functions used by other scripts in this folder</p></li>
+</ul>
+</div>
+<div id="code-for-manuscript-tables-and-figures" class="section level2">
+<h2>Code for manuscript tables and figures</h2>
+<p>This code is located in the <strong>R code/manuscript tables and figures</strong> folder. Specific outputs wree generated as follows:</p>
 <ul>
 <li><p>Demographics; adverse events; missing data (S1 Text: Table C &amp; Table D; S1 Text: Table E; S1 Text: Table A.1): <code>wrapper_numbers.R</code>, <code>numbers_functions.R</code></p></li>
 <li><p>Internal validation (Fig 2, S1 Text: Figure B &amp; Figure C): <code>wrapper_intval.R</code>, <code>extrapolation_functions_intval.R</code>, <code>intval_results.R</code></p></li>
@@ -380,13 +402,14 @@ summary {
 <li><p>Various auxiliary functions: <code>model_paper_functions.R</code></p></li>
 </ul>
 </div>
-<div id="contributors" class="section level1">
-<h1>Contributors</h1>
+<div id="contributors" class="section level2">
+<h2>Contributors</h2>
 <ul>
 <li><p>Iryna Schlackow, Health Economics Research Centre, University of Oxford, <a href="https://orcid.org/0000-0002-4154-1431">ORCID iD 0000-0002-4154-1431</a></p></li>
 <li><p>Claire Simons, Health Economics Research Centre, University of Oxford, <a href="https://orcid.org/0000-0003-0822-7261">ORCID iD 0000-0003-0822-7261</a></p></li>
 <li><p>Borislava Mihaylova, Health Economics Research Centre, University of Oxford,<a href="https://orcid.org/0000-0002-0951-1304">ORCID iD 0000-0002-0951-1304</a></p></li>
 </ul>
+</div>
 </div>
 
 

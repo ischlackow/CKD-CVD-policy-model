@@ -1,12 +1,38 @@
 # Long-term health outcomes of people with reduced kidney function in the UK: a modelling study using population health data 
 
-This release supplements the manuscript "Long-term health outcomes of people with reduced kidney function in the UK: a modelling study using population health data". It contains the list of Read codes used for defining model variables (`Read codes` folder) and R scripts used to produce Tables, Figures and other data for the manuscript (`R code` folder). 
+This release supplements the manuscript "Long-term health outcomes of people with reduced kidney function in the UK: a modelling study using population health data". It contains the following data:
 
-Please note that the patient-level CPRD data used for analyses cannot be released and as such, the code is not executable. Rather, it is meant to be used for exploratory purposes.
+* __Read codes__ folder: the list of Read and entity codes used for defining model variables;
+
+* __R code__ folder: R scripts used to extract data from CPRD as well as generate Tables, Figures and other data for the manuscript  
+
+Please note that the patient-level CPRD data used for analyses cannot be released and as such, the code is not executable and perhaps not complete. Rather, it is meant to be used for exploratory purposes.
 
 As a general rules, R scripts with the _functions_ suffix contains functions that are called in _wrapper_ files. For example, the file `wrapper_intval.R` performs internal validation by calling functions from `extrapolation_functions_intval.R`
 
-The following scripts were used for producing Tables, Figure and other data for the manuscript:
+## Code for CPRD data extraction
+
+This code is located in the __R code/CPRD data extraction__ folder. The following main rules of thumb, based on literature, were used in defining variables. Please see individual files for further detail and full information on how all variables were derived.
+
+* Diabetes classification: it was assumed that diabetes of Type I if patient was <35 years old at the time it was diagnosed, and on insulins at cohort entry date
+
+* Albuminuria classification: this was based on the [relationship between albuminuria and proteinuria](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4089693/table/tbl7/)
+
+* Medication uptake: it was assumed that a patient was taking a medication when at least two prescriptions wree recorded, with the latest at most 28 days apart from the point of interest (eg cohort entry)
+
+The data were derived in the following way
+
+* Raw data on individual variables were extracted in the `extract_vars_all.R` file
+
+* Creatinine tests were converted into eGFR values and CKD classification in the `eGFR.R` file. Albuminuria classification was performed in the `albuminuria.R` files, using functions from `albuminuria_functions.R`
+
+* Flat file with all baseline characteristics was derived in `df_baseline_cohort.R` file.
+
+* The file `functions.R` file contains generic functions used by other scripts in this folder
+
+## Code for manuscript tables and figures
+
+This code is located in the __R code/manuscript tables and figures__ folder. Specific outputs wree generated as follows:
 
 * Demographics; adverse events; missing data (S1 Text: Table C & Table D; S1 Text: Table E; S1 Text: Table A.1): `wrapper_numbers.R`, `numbers_functions.R`
 
@@ -20,7 +46,7 @@ The following scripts were used for producing Tables, Figure and other data for 
 
 * Various auxiliary functions: `model_paper_functions.R`
 
-# Contributors
+## Contributors
 
 * Iryna Schlackow, Health Economics Research Centre, University of Oxford, [ORCID iD 0000-0002-4154-1431](https://orcid.org/0000-0002-4154-1431)
 

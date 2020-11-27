@@ -1,0 +1,12 @@
+Variable,Entity description,Enttype 
+Albumin,Albumin,152
+"Blood pressure (diastolic, systolic)",Blood pressure,1
+Calcium,Calcium adjusted,159
+Cholesterol ratio,HDL/LDL ratio,338
+Haemoglobin,Haemoglobin,173
+HDL cholesterol,High density lipoprotein,175
+Height,Height,14
+LDL cholesterol,Low density lipoprotein,177
+Phosphate,Serum inorganic phosphate,188
+Serum cholesterol,Serum cholesterol,163
+Weight & BMI,Weight,13

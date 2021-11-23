@@ -13,6 +13,9 @@ data_risk_equations_dir <- file.path(project_dir, "risk equations")
 
 ### load functions ----
 
+# misc functions
+source(file.path(project_dir, "code wrappers/preparation_functions.R"))
+# functions for extrapolation
 source(file.path(project_dir, "code wrappers/extrapolation_functions_app_full_treat.R"))
 
 ### model parameters ----
@@ -55,7 +58,7 @@ p_b_prefix <- "p_b_psa_"
 # files specific for treatment uptake scenarios
 
 # matrix with treatment values for statins/antihypertensives depending on cycle (ie patient's age)
-df_tx_flag_prefix  <- "df_tx_flag_antihyp_10_"
+df_tx_flag_prefix  <- "df_tx_flag_"
 # matrix with patients' baseline clinical CKD status
 ckd_clin_prefix <- "ckd_clin_"
 # matrix with patients' baseline hypertension status

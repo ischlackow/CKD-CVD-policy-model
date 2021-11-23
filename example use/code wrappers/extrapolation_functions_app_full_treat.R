@@ -38,26 +38,17 @@ prelimRiskEquations <- function(vars_b, mx_b, coeff_NVD, coeff_VD,
                   coeff_MI_Stroke_VD=coeff_MI_Stroke_VD, coeff_HF=coeff_HF)))
 }
 
-prelimCost <- function(vars_b, mx_b, coeff_cost){
-  names_b <- intersect(vars_b, names(get("coeff_cost")))
-  names_t <- setdiff(names(get("coeff_cost")[["coeff"]]), names_b)
-  assign(paste("coeff_cost"), append(get("coeff_cost"), 
-                                     list(coeff_b = get("coeff_cost")[names_b],
-                                          coeff_t = get("coeff_cost")[names_t])))
-  lam_cost_b <- .lamM(beta = coeff_cost$coeff_b, X = mx_b)
-  return(list(lambdas = list(lam_cost_b=lam_cost_b),
-              coeff = list(coeff_cost = coeff_cost)))
-}
-
-prelimQol <- function(vars_b, mx_b, coeff_qol){
-  names_b <- intersect(vars_b, names(get("coeff_qol")))
-  names_t <- setdiff(names(get("coeff_qol")), names_b)
-  assign(paste("coeff_qol"), append(get("coeff_qol"), 
-                                    list(coeff_b = get("coeff_qol")[names_b],
-                                         coeff_t = get("coeff_qol")[names_t])))
-  lam_qol_b <- .lamM(beta = coeff_qol$coeff_b, X = mx_b)
-  return(list(lambdas = list(lam_qol_b=lam_qol_b),
-              coeff = list(coeff_qol = coeff_qol)))
+prelim_ols <- function(vars_b, mx_b, coeff){
+  
+  names_b <- intersect(vars_b, names(coeff))
+  names_t <- setdiff(names(coeff), names_b)
+  
+  coeff_b <- coeff[names_b]
+  coeff_t <- coeff[names_t]
+  
+  lam_b <- .lamM(beta = coeff_b, X = mx_b)
+  
+  return(list(lam_b = lam_b, coeff_b = coeff_b, coeff_t = coeff_t))
 }
 
 ###################################################################
@@ -164,14 +155,19 @@ gen_nextCycle <- function(j, secondary, states_info, endpts_CV, names_mx_mon,
                           tp_survival_vd_stroke_mi, coeff_MI_Stroke_VD_t, anc_vd_stroke_mi, lam_MI_Stroke_VD_b,
                           tp_survival_hf, coeff_HF_t, anc_hf, lam_HF_b,
                           tx_statin, tx_antihyp, tx_antip,
-                          coeff_qol_t, lam_qol_b, coeff_names_cost_qol,
+                          coeff_qol_t, lam_qol_b, coeff_cost_t, lam_cost_b, 
+                          coeff_names_cost_qol,
                           vP_b, vX_i, 
                           covmeans_i, Q_ckd_i, mx_ckd_i, tp_esrd, Q,
                           treat_i, ckd_clin_i, hyp_bp_i, update_diab_i,
                           j_G2, j_G3a, j_G3b, j_G4, j_G5,
-                          statin_diab, statin_nvd, statin_qol_decr,
-                          aki_incidence, aki_qol_decr){
-  
+                          statin_diab, statin_nvd, 
+                          statin_qol_decr_myopathy,
+                          statin_qol_scale_rhabdo, statin_cost_decr,
+                          aki_incidence, aki_qol_decr, aki_cost_decr,
+                          statin_price, antihyp_price, antip_price,
+                          disc){
+
   ### update relevant covariates ----------------------------------
   
   # last year counter
@@ -236,7 +232,8 @@ gen_nextCycle <- function(j, secondary, states_info, endpts_CV, names_mx_mon,
   }
   
   mx_cv_rownames <- states1_lab
-  mx_cv_colnames <- c(endpts_CV, states2_lab, c("HF_hosp", "qaly"))
+  mx_cv_colnames <- c(endpts_CV, states2_lab, c("HF_hosp", "qaly", "cost_hosp", "cost_adverse",
+                                                "cost_tx"))
   
   mx_cv <- matrix(0, nrow = l1, ncol = length(mx_cv_colnames),
                   dimnames = list(mx_cv_rownames, mx_cv_colnames))
@@ -293,6 +290,8 @@ gen_nextCycle <- function(j, secondary, states_info, endpts_CV, names_mx_mon,
     not_on_statin_start <- 1 - on_statin_1_start - on_statin_2_start
     not_on_antihyp_start <- 1 - on_antihyp_start
     not_on_antip_start <- 1 - on_antip_start
+    
+    on_statin_start <- on_statin_1_start + on_statin_2_start
     
     ### extracting treatment effects ####################
     
@@ -420,16 +419,37 @@ gen_nextCycle <- function(j, secondary, states_info, endpts_CV, names_mx_mon,
     
     ### adverse events decrements
     
-    # due to rhabdo & myopathy
-    qaly <- qaly - (on_statin_1_start + on_statin_2_start) * statin_qol_decr
+    # due to myopathy
+    qaly <- qaly - on_statin_start * statin_qol_decr_myopathy
+    # due to rhabdo
+    qaly <- qaly * (not_on_statin_start + on_statin_start * statin_qol_scale_rhabdo)
     # due to AKI
     aki_risk <- (1 - on_antihyp_start) * aki_incidence[1, N_CKD1] + on_antihyp_start * aki_incidence[2, N_CKD1]
     qaly <- qaly - aki_risk * aki_qol_decr
     
     ### weight by 1/2 for those who died
     
-    #mx_cv_s["qaly"] <- qaly * alive_midyear
     mx_cv_s["qaly"] <- qaly * (1 + d_midyear)
+    
+    ### costs  ####################
+    
+    # vector with covariates
+    # remove prev_HF
+    X <- X[names(X) != "prev_HF"]
+    
+    ### hospitalisation costs
+    
+    cost_hosp <- cycle_cost(X = X, coeff_cost_t = coeff_cost_t, j = j, lam_cost_b = lam_cost_b)
+    mx_cv_s["cost_hosp"] <- cost_hosp
+    
+    ### adverse events
+    
+    mx_cv_s["cost_adverse"] <- on_statin_start * statin_cost_decr + aki_risk * aki_cost_decr
+    
+    ### treatment costs
+    
+    mx_cv_s["cost_tx"] <- on_statin_1_start * statin_price[1] + on_statin_2_start * statin_price[2] +
+      on_antihyp_start * antihyp_price + on_antip_start * antip_price
     
     ### update mx_cv ###############################
     
@@ -460,7 +480,7 @@ gen_nextCycle <- function(j, secondary, states_info, endpts_CV, names_mx_mon,
 master <- function( 
   data_for_extrapolation_dir, data_risk_equations_dir,
   output_dir,
-  states_info, endpts_CV, names_mx_mon,
+  states, states_info, endpts_CV, names_mx_mon,
   pop_suffix, secondary,
   tp_survival_nvd, tp_survival_vd,
   tp_survival_vd_stroke, tp_survival_vd_stroke_mi, tp_survival_hf,
@@ -471,13 +491,17 @@ master <- function(
   coeff_hf, anc_hf,
   tx_statin, tx_antihyp, tx_antip,
   mx_ckd, alb, Q, Q_ckd, tp_esrd, covmeans,
-  coeff_qol,
+  coeff_qol, coeff_cost,
   mx_b, mx_t, p_b,
   df_tx_flag, ckd_clin, hyp_bp, update_diab,
   stop_expr,
-  statin_diab, statin_nvd, statin_qol_decr, aki_incidence, aki_qol_decr,
+  statin_diab, statin_nvd, 
+  statin_qol_decr_myopathy, statin_qol_scale_rhabdo, 
+  statin_cost_decr, 
+  aki_incidence, aki_qol_decr, aki_cost_decr,
   j_G2, j_G3a, j_G3b, j_G4, j_G5, 
-  n_cores) {
+  statin_price, antihyp_price, antip_price,
+  n_cores, disc) {
   
   # beta * X for baseline characteristics
   vars_b <- setdiff(colnames(mx_b), c("patid_temp", "ckd_base"))
@@ -499,25 +523,23 @@ master <- function(
   coeff_HF_t <- lamRE_coeff$coeff_HF$coeff_t
   
   # Preliminary Qol
-  qolRE <- prelimQol(vars_b = vars_b, mx_b = mx_b, coeff_qol = coeff_qol)
-  qolRE_lambdas <- qolRE$lambdas
-  qolRE_coeff <- qolRE$coeff
-  coeff_qol_t <- qolRE_coeff$coeff_qol$coeff_t
+  qolRE <- prelim_ols(vars_b = vars_b, mx_b = mx_b, coeff = coeff_qol)
+  qolRE_lam_b <- qolRE$lam_b
+  coeff_qol_t <- qolRE$coeff_t
+  
+  # Preliminary cost
+  costRE <- prelim_ols(vars_b = vars_b, mx_b = mx_b, coeff = coeff_cost)
+  costRE_lam_b <- costRE$lam_b
+  coeff_cost_t <- costRE$coeff_t
   
   # read off names
-  coeff_names_cost_qol <- setdiff(
-    #union(names(coeff_qol_t), names(coeff_cost_t)),
-    names(coeff_qol_t),
-    c("age_cent", "diab1", "diab2", "ckd3a", "ckd3b", "ckd4", "ckd5", "dialysis", "transplant"))
-  coeff_names_cost_qol <- setdiff(coeff_names_cost_qol, "prev_HF")
+  coeff_names_cost_qol <- setdiff(union(names(coeff_qol_t), names(coeff_cost_t)), 
+                                  c("prev_HF", "age_cent", "diab1", "diab2",
+                                    "ckd3a", "ckd3b", "ckd4", "ckd5", "dialysis", "transplant"))
   
   ### identify patients
   
   ids <- 1 : nrow(mx_b)
-  #ids <- 1 : 10
-  # set.seed(240485)
-  # ids <- sort(sample(1 : nrow(mx_b), 10))
-  # 
   #i <- ids[1]
   
   ### start a cluster
@@ -525,7 +547,7 @@ master <- function(
   clusterExport(cl, c("H_g", "H_w", "gen_nextCycle",
                       "get_pcond", "tp_survival_g", "tp_survival_w",
                       ".lamVec", ".lamM", "get_tp_mx_ckd", #"cycle_cost",
-                      "cycle_qol", "get_state_combined")) 
+                      "cycle_qol", "cycle_cost", "get_state_combined")) 
   clusterEvalQ(cl, library(expm))
   registerDoParallel(cl)
   
@@ -551,7 +573,8 @@ master <- function(
     lam_VD_Stroke_b <- lamRE_lambdas$lam_VD_Stroke_b_All[i]
     lam_MI_Stroke_VD_b <- lamRE_lambdas$lam_MI_Stroke_VD_b_All[i]
     lam_HF_b <- lamRE_lambdas$lam_HF_b_All[i]
-    lam_qol_b <- qolRE_lambdas$lam_qol_b[i]
+    lam_qol_b <- lam_qol_b <- qolRE_lam_b[i]
+    lam_cost_b <- costRE_lam_b[i]
     
     # ckd model
     alb_i <- alb[i, "acr"] + 1
@@ -578,14 +601,19 @@ master <- function(
                              anc_vd_stroke_mi = anc_vd_stroke_mi, lam_MI_Stroke_VD_b = lam_MI_Stroke_VD_b,
                              tp_survival_hf = tp_survival_hf, coeff_HF_t = coeff_HF_t, anc_hf = anc_hf, lam_HF_b = lam_HF_b,
                              tx_statin = tx_statin, tx_antihyp = tx_antihyp, tx_antip = tx_antip,
-                             coeff_qol_t = coeff_qol_t, lam_qol_b = lam_qol_b,
+                             coeff_qol_t = coeff_qol_t, lam_qol_b = lam_qol_b, 
+                             coeff_cost_t = coeff_cost_t, lam_cost_b = lam_cost_b,
                              coeff_names_cost_qol = coeff_names_cost_qol,
                              vP_b = vP_b, vX_i = vX_i, 
                              covmeans_i = covmeans_i, Q_ckd_i = Q_ckd_i, mx_ckd_i = mx_ckd_i, tp_esrd = tp_esrd, Q = Q,
                              treat_i = treat_i, ckd_clin_i = ckd_clin_i, hyp_bp_i = hyp_bp_i, update_diab_i = update_diab_i,
                              j_G2 = j_G2, j_G3a = j_G3a, j_G3b = j_G3b, j_G4 = j_G4, j_G5 = j_G5, 
-                             statin_diab = statin_diab, statin_nvd = statin_nvd, statin_qol_decr = statin_qol_decr,
-                             aki_incidence = aki_incidence, aki_qol_decr = aki_qol_decr)
+                             statin_diab = statin_diab, statin_nvd = statin_nvd, 
+                             statin_qol_decr_myopathy = statin_qol_decr_myopathy,
+                             statin_qol_scale_rhabdo = statin_qol_scale_rhabdo, statin_cost_decr = statin_qol_scale_rhabdo,
+                             aki_incidence = aki_incidence, aki_qol_decr = aki_qol_decr, aki_cost_decr = aki_cost_decr,
+                             statin_price = statin_price, antihyp_price = antihyp_price, antip_price = antip_price,
+                             disc = disc)
       
       vP_b <- alpha[["vP_2"]]
       output[j, ] <- vP_b
@@ -601,15 +629,27 @@ master <- function(
   df_output <- as.data.frame(do.call("rbind", retval))
   colnames(df_output) <- colnames(p_b)
   
-  ####### cleanup the dataset #######
+  ####### cleanup #######
   
-  # non-fatal combined endpoints
   df_output <- df_output %>%
     arrange(patid_temp, cycle) %>%
-    group_by(patid_temp) %>%
     mutate(ly = alive_at_start - 1/2 * (endpt_NVD + endpt_VD)) %>%
-    select(patid_temp, ly, qaly) %>% 
-    summarise(ly = sum(ly), qaly = sum(qaly))
+    select(patid_temp, cycle, ly, qaly, contains("cost"))
+  # add total cost
+  cost_cols <- grep("cost", colnames(df_output), value = TRUE)
+  df_output[, "cost_total"] <- eval(parse(text = str_c("df_output[,'", cost_cols, "']", collapse = ' + ')))
+  # add discounting
+  for (v in  c("ly", "qaly", cost_cols, "cost_total")) {
+    v_old <- as.name(v)
+    v_new <- as.name(str_c(v, "_disc"))
+    df_output <- df_output %>%
+      mutate(!!v_new := !!v_old / (1 + disc)^(cycle - 1))
+  }
+  # final clean
+  df_output <- df_output %>%
+    select(-cycle) %>%
+    group_by(patid_temp) %>%
+    summarise_all(sum)
   
   return(df_output) 
 }
@@ -618,14 +658,19 @@ wrapper_est <- function(
   data_for_extrapolation_dir,
   data_risk_equations_dir,
   output_dir,
-  mx_b_prefix, mx_t_prefix, p_b_prefix, state_prefix, 
-  mx_ckd_prefix, alb_prefix, Q_prefix,
-  df_tx_flag_prefix, ckd_clin_prefix, hyp_bp_prefix, update_diab_prefix,
+  mx_b_prefix, mx_t_prefix, p_b_prefix,
+  state_prefix, 
+  mx_ckd_prefix, alb_prefix, Q_prefix, 
+  df_tx_flag_prefix, ckd_clin_prefix, hyp_bp_prefix,
+  update_diab_prefix,
   stop_expr,
-  statin_diab, statin_nvd, statin_qol_decr, aki_incidence, aki_qol_decr,
+  statin_diab, statin_nvd, 
+  statin_qol_decr_myopathy,
+  statin_qol_scale_rhabdo, statin_cost_decr,
+  aki_incidence, aki_qol_decr, aki_cost_decr,
+  statin_price, antihyp_price, antip_price,
   output_file_prefix,
-  cf_prefix, tx, n_cores
-) {
+  cf_prefix, tx, n_cores, disc) {
   
   # states & events
   setwd(data_for_extrapolation_dir)
@@ -713,6 +758,9 @@ wrapper_est <- function(
       # qol
       coeff_qol <- cf_temp[["qol"]]
       
+      # cost
+      coeff_cost <- cf_temp[["cost"]]
+      
       # treatment effects
       
       tx_statin_vd_a20 <- tx[["tx_statin_vd_a20"]]
@@ -743,10 +791,11 @@ wrapper_est <- function(
         data_for_extrapolation_dir = data_for_extrapolation_dir,
         data_risk_equations_dir = data_risk_equations_dir,
         output_dir = output_dir,
-        states_info = states_info, endpts_CV = endpts_CV,
+        states = states, states_info = states_info, endpts_CV = endpts_CV,
         stop_expr = stop_expr, names_mx_mon = names_mx_mon,
         tp_survival_nvd = tp_survival_nvd, tp_survival_vd = tp_survival_vd,
-        tp_survival_vd_stroke = tp_survival_vd_stroke, tp_survival_vd_stroke_mi = tp_survival_vd_stroke_mi,
+        tp_survival_vd_stroke = tp_survival_vd_stroke, 
+        tp_survival_vd_stroke_mi = tp_survival_vd_stroke_mi,
         tp_survival_hf = tp_survival_hf,
         coeff_nvd = coeff_nvd, anc_nvd = anc_nvd,
         coeff_vd = coeff_vd, anc_vd = anc_vd,
@@ -755,14 +804,19 @@ wrapper_est <- function(
         coeff_hf = coeff_hf, anc_hf = anc_hf,
         tx_statin = tx_statin, tx_antihyp = tx_antihyp, tx_antip = tx_antip,
         Q_ckd = Q_ckd, tp_esrd = tp_esrd, covmeans = covmeans,
-        coeff_qol = coeff_qol,
+        coeff_qol = coeff_qol, coeff_cost = coeff_cost,
         pop_suffix = pop_suffix, secondary = secondary,
-        mx_b = mx_b, mx_t = mx_t, p_b = p_b, mx_ckd = mx_ckd, alb = alb, Q = Q,
-        df_tx_flag = df_tx_flag, ckd_clin = ckd_clin, hyp_bp = hyp_bp, update_diab = update_diab,
-        statin_diab = statin_diab, statin_nvd = statin_nvd, statin_qol_decr = statin_qol_decr,
+        mx_b = mx_b, mx_t = mx_t, p_b = p_b, mx_ckd = mx_ckd, alb = alb, Q = Q, 
+        df_tx_flag = df_tx_flag, 
+        ckd_clin = ckd_clin, hyp_bp = hyp_bp, update_diab = update_diab,
+        statin_diab = statin_diab, statin_nvd = statin_nvd, 
+        statin_qol_decr_myopathy = statin_qol_decr_myopathy,
+        statin_qol_scale_rhabdo = statin_qol_scale_rhabdo, statin_cost_decr = statin_cost_decr,
         j_G2 = j_G2, j_G3a = j_G3a, j_G3b = j_G3b, j_G4 = j_G4, j_G5 = j_G5, 
-        aki_incidence = aki_incidence, aki_qol_decr = aki_qol_decr,
-        n_cores = n_cores)
+        aki_incidence = aki_incidence, 
+        aki_qol_decr = aki_qol_decr, aki_cost_decr = aki_cost_decr,
+        statin_price = statin_price, antihyp_price = antihyp_price, antip_price = antip_price,
+        n_cores = n_cores, disc = disc)
       # save the output
       setwd(output_dir)
       save(alpha, file = paste0(output_file_prefix, "_", pop_suffix, ".Rdata"))
@@ -775,13 +829,17 @@ wrapper_psa <- function(
   data_risk_equations_dir,
   output_dir,
   mx_b_prefix, mx_t_prefix, p_b_prefix, state_prefix, 
-  mx_ckd_prefix, alb_prefix, Q_prefix,
-  df_tx_flag_prefix, ckd_clin_prefix, hyp_bp_prefix, update_diab_prefix,
+  mx_ckd_prefix, alb_prefix, Q_prefix, 
+  df_tx_flag_prefix, ckd_clin_prefix, hyp_bp_prefix, update_diab_prefix, 
   stop_expr,
-  statin_diab, statin_nvd, statin_qol_decr, aki_incidence, aki_qol_decr,
+  statin_diab, statin_nvd, 
+  statin_qol_decr_myopathy, statin_qol_scale_rhabdo, statin_cost_decr,
+  aki_incidence, aki_qol_decr, aki_cost_decr,
+  statin_price, antihyp_price, antip_price,
   output_file_prefix,
-  boot_prefix, n_sim_start, n_sim_end, n_cores
-) {
+  boot_prefix, n_cores, disc,
+  monitoring_freq,
+  n_sim_start, n_sim_end) {
   
   # states & events
   setwd(data_for_extrapolation_dir)
@@ -875,6 +933,9 @@ wrapper_psa <- function(
         # qol
         coeff_qol <- cf_boot_n[["qol"]]
         
+        # costs
+        coeff_cost <- cf_boot_n[["cost"]]
+        
         # treatment effects
         
         tx_statin_vd_a20 <- cf_boot_n[["tx_statin_vd_a20"]]
@@ -905,10 +966,11 @@ wrapper_psa <- function(
           data_for_extrapolation_dir = data_for_extrapolation_dir,
           data_risk_equations_dir = data_risk_equations_dir,
           output_dir = output_dir,
-          states_info = states_info, endpts_CV = endpts_CV,
+          states = states, states_info = states_info, endpts_CV = endpts_CV,
           stop_expr = stop_expr, names_mx_mon = names_mx_mon,
           tp_survival_nvd = tp_survival_nvd, tp_survival_vd = tp_survival_vd,
-          tp_survival_vd_stroke = tp_survival_vd_stroke, tp_survival_vd_stroke_mi = tp_survival_vd_stroke_mi,
+          tp_survival_vd_stroke = tp_survival_vd_stroke, 
+          tp_survival_vd_stroke_mi = tp_survival_vd_stroke_mi,
           tp_survival_hf = tp_survival_hf,
           coeff_nvd = coeff_nvd, anc_nvd = anc_nvd,
           coeff_vd = coeff_vd, anc_vd = anc_vd,
@@ -917,14 +979,19 @@ wrapper_psa <- function(
           coeff_hf = coeff_hf, anc_hf = anc_hf,
           tx_statin = tx_statin, tx_antihyp = tx_antihyp, tx_antip = tx_antip,
           Q_ckd = Q_ckd, tp_esrd = tp_esrd, covmeans = covmeans,
-          coeff_qol = coeff_qol,
+          coeff_qol = coeff_qol, coeff_cost = coeff_cost,
           pop_suffix = pop_suffix, secondary = secondary,
-          mx_b = mx_b, mx_t = mx_t, p_b = p_b, mx_ckd = mx_ckd, alb = alb, Q = Q,
-          df_tx_flag = df_tx_flag, ckd_clin = ckd_clin, hyp_bp = hyp_bp, update_diab = update_diab,
-          statin_diab = statin_diab, statin_nvd = statin_nvd, statin_qol_decr = statin_qol_decr,
+          mx_b = mx_b, mx_t = mx_t, p_b = p_b, mx_ckd = mx_ckd, alb = alb, Q = Q, 
+          df_tx_flag = df_tx_flag, 
+          ckd_clin = ckd_clin, hyp_bp = hyp_bp, update_diab = update_diab,
+          statin_diab = statin_diab, statin_nvd = statin_nvd, 
+          statin_qol_decr_myopathy = statin_qol_decr_myopathy,
+          statin_qol_scale_rhabdo = statin_qol_scale_rhabdo, statin_cost_decr = statin_cost_decr,
           j_G2 = j_G2, j_G3a = j_G3a, j_G3b = j_G3b, j_G4 = j_G4, j_G5 = j_G5, 
-          aki_incidence = aki_incidence, aki_qol_decr = aki_qol_decr,
-          n_cores = n_cores)
+          aki_incidence = aki_incidence, 
+          aki_qol_decr = aki_qol_decr, aki_cost_decr = aki_cost_decr,
+          statin_price = statin_price, antihyp_price = antihyp_price, antip_price = antip_price,
+          n_cores = n_cores, disc = disc)
         # save the output
         setwd(output_dir)
         save(alpha, file = paste0(output_file_prefix, "_", pop_suffix, "_", n, ".Rdata"))
